@@ -2,3 +2,5 @@ baseURL = "http://www.frankieliu.org/easyhugo/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+canonifyURLs = true
+
