@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.frankieliu.org/posts/my-first-post/</loc>
+    <loc>http://www.frankieliu.org/easyhugo/posts/my-first-post/</loc>
     <lastmod>2020-08-17T12:32:34-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.frankieliu.org/</loc>
+    <loc>http://www.frankieliu.org/easyhugo/</loc>
     <lastmod>2020-08-17T12:32:34-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.frankieliu.org/posts/</loc>
+    <loc>http://www.frankieliu.org/easyhugo/posts/</loc>
     <lastmod>2020-08-17T12:32:34-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.frankieliu.org/categories/</loc>
+    <loc>http://www.frankieliu.org/easyhugo/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.frankieliu.org/tags/</loc>
+    <loc>http://www.frankieliu.org/easyhugo/tags/</loc>
   </url>
   
 </urlset>
