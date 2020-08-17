@@ -1,4 +1,4 @@
-baseURL = "https://www.frankieliu.org/easyhugo/"
+baseURL = "https://www.frankliu.org/easyhugo/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
