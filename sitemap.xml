@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.frankliu.org/easyhugo/posts/hugo-setup/</loc>
-    <lastmod>2020-08-17T13:45:18-07:00</lastmod>
+    <loc>https://www.frankliu.org/easyhugo/</loc>
+    <lastmod>2020-08-17T14:15:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-08-17T13:45:18-07:00</lastmod>
+    <loc>https://www.frankliu.org/easyhugo/posts/org-file/</loc>
+    <lastmod>2020-08-17T14:15:30-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
+    <lastmod>2020-08-17T14:15:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/hugo-setup/</loc>
     <lastmod>2020-08-17T13:45:18-07:00</lastmod>
   </url>
   
