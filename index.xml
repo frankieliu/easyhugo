@@ -6,10 +6,22 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 11:08:18 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 11:16:22 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alias Arecord</title>
+      <link>https://www.frankliu.org/easyhugo/posts/alias-arecord/</link>
+      <pubDate>Tue, 18 Aug 2020 11:16:22 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/alias-arecord/</guid>
+      <description>(window.NREUM||(NREUM={})).loader_config={licenseKey:&#34;487a4e99ec&#34;,applicationID:&#34;44160505&#34;};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if(&#34;function&#34;==typeof __nr_require)return __nr_require;for(var i=0;i0&amp;&amp;c(&#34;lcp&#34;,[t[t.length-1]])}function o(e){if(e instanceof s&amp;&amp;!l){var n,t=Math.round(e.timeStamp);n=t1e12?Date.now()-t:u.now()-t,l=!0,c(&#34;timing&#34;,[&#34;fi&#34;,t,{type:e.type,fid:n}])}}if(!(&#34;init&#34;in NREUM&amp;&amp;&#34;page_view_timing&#34;in NREUM.init&amp;&amp;&#34;enabled&#34;in NREUM.init.page_view_timing&amp;&amp;NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e(&#34;handle&#34;),u=e(&#34;loader&#34;),s=NREUM.o.EV;if(&#34;PerformanceObserver&#34;in window&amp;&amp;&#34;function&#34;==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:[&#34;paint&#34;]}),f.observe({entryTypes:[&#34;largest-contentful-paint&#34;]})}catch(p){}}if(&#34;addEventListener&#34;in document){var l=!1,d=[&#34;click&#34;,&#34;keydown&#34;,&#34;mousedown&#34;,&#34;pointerdown&#34;,&#34;touchstart&#34;];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split(&#34;.&#34;),r=n.split(&#34;.&#34;),a=0;aNamecheap.com - Powered by Kayako Help Desk Software var _themePath = &#34;https://support.namecheap.com/__swift/themes/client/&#34;; var _swiftPath = &#34;https://support.namecheap.com/&#34;; var _baseName = &#34;https://support.namecheap.com/visitor/index.php?&#34;;   SWIFT.Setup(&#39;/livechat/chat/PrintChat/dIPukyOR1NZmEAciF1ca8ce2b0e74c3a876a710fbc8b9989ad8905dadwQVv74jq1ULNkkBInLc1Ge7D7WoO4K/72ewnl7moPog1T1R4QCpsq6BpYj0f86be6d8327309d0a84f41fb4e1d758b2914a0a7Reod51EZIjAM7jrLKPydyPB&#39;, {&#34;basename&#34;:&#34;https:\/\/support.namecheap.com\/visitor\/index.php?&#34;,&#34;interfacepath&#34;:&#34;https:\/\/support.namecheap.com\/visitor\/&#34;,&#34;swiftpath&#34;:&#34;https:\/\/support.namecheap.com\/&#34;,&#34;ip&#34;:false,&#34;themepath&#34;:&#34;https:\/\/support.namecheap.com\/__swift\/themes\/client\/&#34;,&#34;themepathinterface&#34;:&#34;https:\/\/support.namecheap.com\/__swift\/themes\/client\/&#34;,&#34;themepathglobal&#34;:&#34;https:\/\/support.namecheap.com\/__swift\/themes\/__global\/&#34;,&#34;version&#34;:&#34;4.93.09&#34;,&#34;product&#34;:&#34;fusion&#34;,&#34;activestaffcount&#34;:false});    Department: Domains Support
+Full Name: Frankie Liu
+Email: frankie.y.liu@gmail.com
+Your Question: Is it possible to alias the apex domain name with a A record?</description>
+    </item>
     
     <item>
       <title>Ik</title>
