@@ -1,7 +1,7 @@
 ---
 title: "Org File"
 date: 2020-08-17T14:15:30-07:00
-draft: true
+draft: false
 ---
 
 #+BEGIN_SRC python
@@ -11,3 +11,8 @@ draft: true
 #+END_SRC
 
 $x_2 + y_3 = 5$
+$$
+\sum_{i<j} \Pi
+$$
+
+[[../../images/anim1.svg]]

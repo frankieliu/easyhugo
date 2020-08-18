@@ -3,4 +3,6 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
 # canonifyURLs = true
+[params]
+	custom_css = ["css/custom.css"]
 
