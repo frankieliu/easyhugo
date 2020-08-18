@@ -1,0 +1,13 @@
++++
+categories = [""]
+tags = [""]
+title = "Trash"
+date = "2020-08-18T15:17:18-07:00"
+draft = false
++++
+
+shell - Make `rm` move to trash - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775
+
+andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan.
+https://github.com/andreafrancia/trash-cli/

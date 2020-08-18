@@ -18,3 +18,9 @@ https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-i
 Using submodules in Git - Tutorial
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
+* downloading individual files
+git - Download single files from GitHub - Stack Overflow
+https://stackoverflow.com/questions/4604663/download-single-files-from-github
+
+The Ultimate Wget Download Guide With 15 Awesome Examples
+https://www.thegeekstuff.com/2009/09/the-ultimate-wget-download-guide-with-15-awesome-examples/

@@ -10,3 +10,6 @@ draft = false
 
 gnu make - How to get current relative directory of your Makefile? - Stack Overflow
 https://stackoverflow.com/questions/18136918/how-to-get-current-relative-directory-of-your-makefile
+
+shell - How can I use Bash syntax in Makefile targets? - Stack Overflow
+https://stackoverflow.com/questions/589276/how-can-i-use-bash-syntax-in-makefile-targets

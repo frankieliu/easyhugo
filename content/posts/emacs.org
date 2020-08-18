@@ -1,0 +1,17 @@
++++
+categories = [""]
+tags = [""]
+title = "Emacs"
+date = "2020-08-18T15:18:39-07:00"
+draft = false
++++
+
+* I hate switching emacs
+
+daedreth/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently.
+https://github.com/daedreth/ihsec
+
+can you put .spacemacs file in .emacs.d - Google Search
+https://www.google.com/search?q=can+you+put+.spacemacs+file+in+.emacs.d&rlz=1C1CHBF_enUS811US811&oq=can+you+put+.spacemacs+file+in+.emacs.d&aqs=chrome..69i57.8580j0j7&sourceid=chrome&ie=UTF-8
+
+
