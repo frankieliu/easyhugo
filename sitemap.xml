@@ -3,17 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.frankliu.org/easyhugo/posts/alias-arecord/</loc>
-    <lastmod>2020-08-18T11:16:22-07:00</lastmod>
+    <loc>https://www.frankliu.org/easyhugo/posts/ftp/</loc>
+    <lastmod>2020-08-18T15:26:59-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-08-18T11:16:22-07:00</lastmod>
+    <lastmod>2020-08-18T15:26:59-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
+    <lastmod>2020-08-18T15:26:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/emacs/</loc>
+    <lastmod>2020-08-18T15:18:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/anaconda/</loc>
+    <lastmod>2020-08-18T15:17:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/trash/</loc>
+    <lastmod>2020-08-18T15:17:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/bash/</loc>
+    <lastmod>2020-08-18T15:16:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/websocket/</loc>
+    <lastmod>2020-08-18T15:15:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/rename/</loc>
+    <lastmod>2020-08-18T14:14:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/make/</loc>
+    <lastmod>2020-08-18T14:14:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/wsl2/</loc>
+    <lastmod>2020-08-18T14:11:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/discord/</loc>
+    <lastmod>2020-08-18T14:09:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/git/</loc>
+    <lastmod>2020-08-18T14:09:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/rcs/</loc>
+    <lastmod>2020-08-18T14:09:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/alias-arecord/</loc>
     <lastmod>2020-08-18T11:16:22-07:00</lastmod>
   </url>
   
