@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Lua | My New Hugo Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.68.3" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+    
+      <link href="/easyhugo/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/easyhugo/css/custom.css">
+    
+
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Lua" />
+<meta property="og:description" content="Love   Getting Started - LOVE https://love2d.org/wiki/Getting_Started  Tutorial:Callback Functions - LOVE https://love2d.org/wiki/Tutorial:Callback_Functions  Category:Tutorials - LOVE https://love2d.org/wiki/Category:Tutorials  Love2D Support - Visual Studio Marketplace https://marketplace.visualstudio.com/items?itemName=pixelbyte-studios.pixelbyte-love2d  love-stable : Bart van Strien https://launchpad.net/~bartbes/&#43;archive/ubuntu/love-stable  Famous Love2d games? - LÖVE https://love2d.org/forums/viewtopic.php?t=83290  Hyper Light Drifter - SteamSpy - All the data and stats about Steam games https://steamspy.com/app/257850  Notable LÖVE Games | Missing Sentinel Software http://missingsentinelsoftware.com/notable-love-games  Would these games be possible with Love?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/lua/" />
+<meta property="article:published_time" content="2020-08-18T10:49:13-07:00" />
+<meta property="article:modified_time" content="2020-08-18T10:49:13-07:00" />
+<meta itemprop="name" content="Lua">
+<meta itemprop="description" content="Love   Getting Started - LOVE https://love2d.org/wiki/Getting_Started  Tutorial:Callback Functions - LOVE https://love2d.org/wiki/Tutorial:Callback_Functions  Category:Tutorials - LOVE https://love2d.org/wiki/Category:Tutorials  Love2D Support - Visual Studio Marketplace https://marketplace.visualstudio.com/items?itemName=pixelbyte-studios.pixelbyte-love2d  love-stable : Bart van Strien https://launchpad.net/~bartbes/&#43;archive/ubuntu/love-stable  Famous Love2d games? - LÖVE https://love2d.org/forums/viewtopic.php?t=83290  Hyper Light Drifter - SteamSpy - All the data and stats about Steam games https://steamspy.com/app/257850  Notable LÖVE Games | Missing Sentinel Software http://missingsentinelsoftware.com/notable-love-games  Would these games be possible with Love?">
+<meta itemprop="datePublished" content="2020-08-18T10:49:13-07:00" />
+<meta itemprop="dateModified" content="2020-08-18T10:49:13-07:00" />
+<meta itemprop="wordCount" content="249">
+
+
+
+<meta itemprop="keywords" content="," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Lua"/>
+<meta name="twitter:description" content="Love   Getting Started - LOVE https://love2d.org/wiki/Getting_Started  Tutorial:Callback Functions - LOVE https://love2d.org/wiki/Tutorial:Callback_Functions  Category:Tutorials - LOVE https://love2d.org/wiki/Category:Tutorials  Love2D Support - Visual Studio Marketplace https://marketplace.visualstudio.com/items?itemName=pixelbyte-studios.pixelbyte-love2d  love-stable : Bart van Strien https://launchpad.net/~bartbes/&#43;archive/ubuntu/love-stable  Famous Love2d games? - LÖVE https://love2d.org/forums/viewtopic.php?t=83290  Hyper Light Drifter - SteamSpy - All the data and stats about Steam games https://steamspy.com/app/257850  Notable LÖVE Games | Missing Sentinel Software http://missingsentinelsoftware.com/notable-love-games  Would these games be possible with Love?"/>
+
+	
+    <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/easyhugo/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        My New Hugo Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://www.frankliu.org/easyhugo/posts/lua/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://www.frankliu.org/easyhugo/posts/lua/&amp;text=Lua" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.frankliu.org/easyhugo/posts/lua/&amp;title=Lua" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Lua</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-08-18T10:49:13-07:00">August 18, 2020</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+<h2 id="headline-1">
+Love
+</h2>
+<p>
+Getting Started - LOVE
+<a href="https://love2d.org/wiki/Getting_Started">https://love2d.org/wiki/Getting_Started</a>
+</p>
+<p>
+Tutorial:Callback Functions - LOVE
+<a href="https://love2d.org/wiki/Tutorial:Callback_Functions">https://love2d.org/wiki/Tutorial:Callback_Functions</a>
+</p>
+<p>
+Category:Tutorials - LOVE
+<a href="https://love2d.org/wiki/Category:Tutorials">https://love2d.org/wiki/Category:Tutorials</a>
+</p>
+<p>
+Love2D Support - Visual Studio Marketplace
+<a href="https://marketplace.visualstudio.com/items?itemName=pixelbyte-studios.pixelbyte-love2d">https://marketplace.visualstudio.com/items?itemName=pixelbyte-studios.pixelbyte-love2d</a>
+</p>
+<p>
+love-stable : Bart van Strien
+<a href="https://launchpad.net/~bartbes/+archive/ubuntu/love-stable">https://launchpad.net/~bartbes/+archive/ubuntu/love-stable</a>
+</p>
+<p>
+Famous Love2d games? - LÖVE
+<a href="https://love2d.org/forums/viewtopic.php?t=83290">https://love2d.org/forums/viewtopic.php?t=83290</a>
+</p>
+<p>
+Hyper Light Drifter - SteamSpy - All the data and stats about Steam games
+<a href="https://steamspy.com/app/257850">https://steamspy.com/app/257850</a>
+</p>
+<p>
+Notable LÖVE Games | Missing Sentinel Software
+<a href="http://missingsentinelsoftware.com/notable-love-games">http://missingsentinelsoftware.com/notable-love-games</a>
+</p>
+<p>
+Would these games be possible with Love? - LÖVE
+<a href="https://love2d.org/forums/viewtopic.php?t=81697">https://love2d.org/forums/viewtopic.php?t=81697</a>
+</p>
+<p>
+GameMaker | YoYo Games
+<a href="https://www.yoyogames.com/gamemaker">https://www.yoyogames.com/gamemaker</a>
+</p>
+<p>
+Interview with Julian Adams, from Hyper Light Drifter and Swords Of Ditto
+<a href="http://cliqist.com/2018/04/10/eurogame-roadtrip-an-interview-with-gamemakers-julian-adams/">http://cliqist.com/2018/04/10/eurogame-roadtrip-an-interview-with-gamemakers-julian-adams/</a>
+</p>
+<p>
+Attention Required! | Cloudflare
+<a href="https://steamspy.com/app/257850?__cf_chl_jschl_tk__=e4d204f091420bf2c04336f35aa7294bcfd33a42-1597773236-0-AYFQMt5HWcg7UGRj7d3dl9PJrhMblNzooo7NA3F7gTRNV0Y7gS1ax6N-1RR00Y8QTDqvSH4elDW4AIgp_mdYruP9sy6XZsxrmXvCIyNpJqc-TGi4zHagcvqrsLOVFlBfXeAqmU0BjIiJrEP8rD9NfC0NWNZiV-vVDc4Ag7plIo2ZgX2rPD6567wfor5p59IW0xjo7k8jM5TpaK4-s8j3fA_UWQXQZsUoBzaymfB0cF5yPVWH6DF5yumtvlq5ZLpERcA5ea51Crt8O9F7mHydavxcp4Vd0QCF2W8QweVDyU-l">https://steamspy.com/app/257850?__cf_chl_jschl_tk__=e4d204f091420bf2c04336f35aa7294bcfd33a42-1597773236-0-AYFQMt5HWcg7UGRj7d3dl9PJrhMblNzooo7NA3F7gTRNV0Y7gS1ax6N-1RR00Y8QTDqvSH4elDW4AIgp_mdYruP9sy6XZsxrmXvCIyNpJqc-TGi4zHagcvqrsLOVFlBfXeAqmU0BjIiJrEP8rD9NfC0NWNZiV-vVDc4Ag7plIo2ZgX2rPD6567wfor5p59IW0xjo7k8jM5TpaK4-s8j3fA_UWQXQZsUoBzaymfB0cF5yPVWH6DF5yumtvlq5ZLpERcA5ea51Crt8O9F7mHydavxcp4Vd0QCF2W8QweVDyU-l</a>
+</p>
+<p>
+writing a game in love2d - Google Search
+<a href="https://www.google.com/search?q=writing+a+game+in+love2d&amp;oq=writing+a+game+in+love2d&amp;aqs=chrome..69i57.6217j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=writing+a+game+in+love2d&amp;oq=writing+a+game+in+love2d&amp;aqs=chrome..69i57.6217j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a>
+</p>
+<p>
+Tutorial on making a complete game with LÖVE - LÖVE
+<a href="https://love2d.org/forums/viewtopic.php?t=83856">https://love2d.org/forums/viewtopic.php?t=83856</a>
+</p>
+<p>
+OSMstudios \ Your First Love2d Game in 200 Lines - Part 1 of 3
+<a href="http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3">http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3</a>
+</p>
+<p>
+OSMstudios \ Your First Love2d Game in 200 Lines - Part 2 of 3
+<a href="http://www.osmstudios.com/page/your-first-love2d-game-in-200-lines-part-2-of-3">http://www.osmstudios.com/page/your-first-love2d-game-in-200-lines-part-2-of-3</a>
+</p>
+<p>
+OSMstudios \ Your First Love2d Game in 200 Lines - Part 3 of 3
+<a href="http://www.osmstudios.com/page/your-first-love2d-game-in-200-lines-part-3-of-3">http://www.osmstudios.com/page/your-first-love2d-game-in-200-lines-part-3-of-3</a>
+</p>
+<p>
+OSMstudios \ Your First Love2d Game in 200 Lines - Exercises
+<a href="http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-exercises">http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-exercises</a>
+</p>
+<p>
+OSMstudios \ Tutorials
+<a href="http://www.osmstudios.com/page/tutorials">http://www.osmstudios.com/page/tutorials</a>
+</p>
+<p>
+love2d tutorial - Google Search
+<a href="https://www.google.com/search?q=love2d+tutorial&amp;oq=love2d+tutorial&amp;aqs=chrome..69i57j69i60l3.2845j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=love2d+tutorial&amp;oq=love2d+tutorial&amp;aqs=chrome..69i57j69i60l3.2845j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a>
+</p>
+<p>
+Looking for good tutorials : love2d
+<a href="https://www.reddit.com/r/love2d/comments/9bcwuh/looking_for_good_tutorials/">https://www.reddit.com/r/love2d/comments/9bcwuh/looking_for_good_tutorials/</a>
+</p>
+<p>
+BYTEPATH #0 - Introduction · Issue #30 · a327ex/blog
+<a href="https://github.com/a327ex/blog/issues/30">https://github.com/a327ex/blog/issues/30</a>
+</p>
+<p>
+BYTEPATH #1 - Game Loop · Issue #15 · a327ex/blog
+<a href="https://github.com/a327ex/blog/issues/15">https://github.com/a327ex/blog/issues/15</a>
+</p>
+<p>
+love tutorial - Google Search
+<a href="https://www.google.com/search?q=love+tutorial&amp;oq=love+tutorial&amp;aqs=chrome..69i57j69i60l3.1920j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=love+tutorial&amp;oq=love+tutorial&amp;aqs=chrome..69i57j69i60l3.1920j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a>
+</p>
+<p>
+ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux
+<a href="https://studio.zerobrane.com/">https://studio.zerobrane.com/</a>
+</p>
+<p>
+Asteroids Tutorial
+<a href="https://simplegametutorials.github.io/asteroids/">https://simplegametutorials.github.io/asteroids/</a>
+</p>
+<p>
+LÖVE - Free 2D Game Engine
+<a href="https://love2d.org/">https://love2d.org/</a>
+</p>
+<p>
+LÖVE Game File - LOVE
+<a href="https://love2d.org/wiki/L">https://love2d.org/wiki/L</a>%C3%96VE_Game_File
+</p>
+<p>
+Snowball - 0.2
+<a href="https://www.pygame.org/project/121/156">https://www.pygame.org/project/121/156</a>
+</p>
+<p>
+Simple Game Tutorials for LÖVE
+<a href="https://simplegametutorials.github.io/">https://simplegametutorials.github.io/</a>
+</p>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/easyhugo/tags/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif"></a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/helpful-resources/">Helpful Resources</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.frankliu.org/easyhugo/" >
+    &copy;  My New Hugo Site 2020 
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/easyhugo/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>
