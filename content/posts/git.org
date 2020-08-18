@@ -1,0 +1,20 @@
++++
+categories = [""]
+tags = [""]
+title = "Git"
+date = "2020-08-18T14:09:35-07:00"
+draft = false
++++
+
+* add and commmit in one line
+Git add and commit in one command - Stack Overflow
+https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command
+
+* Save username and passwords
+credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow
+https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension
+
+* Submodules
+Using submodules in Git - Tutorial
+https://www.vogella.com/tutorials/GitSubmodules/article.html
+

@@ -1,0 +1,93 @@
++++
+categories = [""]
+tags = [""]
+title = "Discord"
+date = "2020-08-18T14:09:35-07:00"
+draft = false
++++
+
+bash - Only mkdir if it does not exist - Stack Overflow
+https://stackoverflow.com/questions/18622907/only-mkdir-if-it-does-not-exist
+
+Github two factor - Google Sheets
+https://docs.google.com/spreadsheets/d/1jDOsCXe5tP13b7A5MuUGFpdCciaVZdAnsaVio4ckdsI/edit#gid=0
+
+WebSocket
+https://javascript.info/websocket
+
+shell - How can I use Bash syntax in Makefile targets? - Stack Overflow
+https://stackoverflow.com/questions/589276/how-can-i-use-bash-syntax-in-makefile-targets
+
+Bash aliases you can?t live without | Opensource.com
+https://opensource.com/article/19/7/bash-aliases
+
+shell - Make `rm` move to trash - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775
+
+andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan.
+https://github.com/andreafrancia/trash-cli/
+
+Anaconda vs {pyenv + pipenv}
+https://liatas.com/posts/anaconda-vs-pyenv-pipenv/
+
+python - Anaconda vs. miniconda - Stack Overflow
+https://stackoverflow.com/questions/45421163/anaconda-vs-miniconda
+
+DisCal - Lazy DisCal
+https://www.discalbot.com/lazy-discal
+
+AutoHotkey
+https://www.autohotkey.com/
+
+My experience porting AHK scripts to Linux. - AutoHotkey Community
+https://www.autohotkey.com/boards/viewtopic.php?t=65552
+
+Linux Automation Tip: Send Messages to Your Discord Server Using Python ? Maker Hacks
+https://makerhacks.com/python-messages-discord/
+
+10.10 - Is there any way to get AutoHotKey or IronAHK working? - Ask Ubuntu
+https://askubuntu.com/questions/6237/is-there-any-way-to-get-autohotkey-or-ironahk-working
+
+How to Customize Shortcut Keys for Any Linux Application
+https://www.howtogeek.com/howto/26913/how-to-customize-shortcut-keys-for-any-linux-application/
+
+Packages in ?AutoKey PPA? : AutoKey PPA : Chris D
+https://launchpad.net/~cdekter/+archive/ubuntu/ppa/+packages
+
+New Tab
+chrome://newtab/
+
+Inbox (26,721) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+My New Hugo Site
+http://localhost:1313/easyhugo/
+
+daedreth/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently.
+https://github.com/daedreth/ihsec
+
+git - Download single files from GitHub - Stack Overflow
+https://stackoverflow.com/questions/4604663/download-single-files-from-github
+
+The Ultimate Wget Download Guide With 15 Awesome Examples
+https://www.thegeekstuff.com/2009/09/the-ultimate-wget-download-guide-with-15-awesome-examples/
+
+can you put .spacemacs file in .emacs.d - Google Search
+https://www.google.com/search?q=can+you+put+.spacemacs+file+in+.emacs.d&rlz=1C1CHBF_enUS811US811&oq=can+you+put+.spacemacs+file+in+.emacs.d&aqs=chrome..69i57.8580j0j7&sourceid=chrome&ie=UTF-8
+
+Detect ubuntu on wsl
+https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script
+
+Virtual machine ip
+https://www.reddit.com/r/bashonubuntuonwindows/comments/c871g7/command_to_get_virtual_machine_ip_in_wsl2/
+
+xcfe
+https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
+
+vsftp
+https://unix.stackexchange.com/questions/93566/ls-command-in-ftp-not-working
+
+vsftp passive mode
+https://www.computing.net/answers/linux/vsftpd-500-illegal-port-command-error/31587.html
+
+vsftp enable write

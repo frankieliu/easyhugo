@@ -1,0 +1,12 @@
++++
+categories = [""]
+tags = [""]
+title = "Make"
+date = "2020-08-18T14:14:01-07:00"
+draft = false
++++
+
+* Getting the makefile directory
+
+gnu make - How to get current relative directory of your Makefile? - Stack Overflow
+https://stackoverflow.com/questions/18136918/how-to-get-current-relative-directory-of-your-makefile

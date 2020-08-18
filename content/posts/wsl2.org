@@ -1,0 +1,17 @@
++++
+categories = [""]
+tags = [""]
+title = "Wsl2"
+date = "2020-08-18T14:11:59-07:00"
+draft = false
++++
+
+* x11
+windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow
+https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+
+VcXsrv Windows X Server download | SourceForge.net
+https://sourceforge.net/projects/vcxsrv/
+
+Xming X Server for Windows - Fonts
+http://www.straightrunning.com/XmingNotes/fonts.php
