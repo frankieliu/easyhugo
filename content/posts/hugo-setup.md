@@ -1115,3 +1115,30 @@ https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-do
 
 Managing a custom domain for your GitHub Pages site - GitHub Docs
 https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain
+
+# Raw html pages
+
+Add raw html page as post - support - HUGO
+https://discourse.gohugo.io/t/add-raw-html-page-as-post/15434/2
+
+masasam/emacs-easy-hugo: Emacs major mode for managing hugo
+https://github.com/masasam/emacs-easy-hugo
+
+It is best to do the one above by Masashi Miyauram, html's
+don't need anything special
+
+# Creating images
+
+It is nice to be able to just link to a directory called
+`posts/post-name-files/` where the `post-name` is the
+name of the post, and then when you need to put an 
+image use the following:
+
+`post-name-files\somefile.png`
+
+You can refer to this file in the post as
+
+`../post-name-files/somefile.png`
+
+This is simple enought and it collocates the files
+next to the post which is kind of nice.
