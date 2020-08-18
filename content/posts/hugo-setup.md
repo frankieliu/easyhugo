@@ -1085,3 +1085,33 @@ vim config.toml
 ./deploy.sh 
 ls
 ```
+
+Quick Start | Hugo
+https://gohugo.io/getting-started/quick-start/
+
+Host on GitHub | Hugo
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
+
+URL Management | Hugo
+https://gohugo.io/content-management/urls/
+
+# Image path
+
+Image path - support - HUGO
+https://discourse.gohugo.io/t/image-path/1721
+
+Where is the path of images? - support - HUGO
+https://discourse.gohugo.io/t/where-is-the-path-of-images/12945
+
+# Github repo baseurl
+
+Githublink helper by SvenDowideit · Pull Request #1398 · gohugoio/hugo
+https://github.com/gohugoio/hugo/pull/1398
+
+# Github pages setup
+
+Managing a custom domain for your GitHub Pages site - GitHub Docs
+https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
+
+Managing a custom domain for your GitHub Pages site - GitHub Docs
+https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain
