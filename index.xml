@@ -6,10 +6,46 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 15:26:59 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 17:01:40 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang</title>
+      <link>https://www.frankliu.org/easyhugo/posts/golang/</link>
+      <pubDate>Tue, 18 Aug 2020 17:01:40 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/golang/</guid>
+      <description> testing - The Go Programming Language https://golang.org/pkg/testing/ </description>
+    </item>
+    
+    <item>
+      <title>Microphone</title>
+      <link>https://www.frankliu.org/easyhugo/posts/microphone/</link>
+      <pubDate>Tue, 18 Aug 2020 17:00:19 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/microphone/</guid>
+      <description> Top 10 Best USB Microphones In 2020 (With Buying Guide) https://kbonet.com/best-usb-microphones  Amazon.com: Rode NT-USB Versatile Studio-Quality USB Cardioid Condenser Microphone,Black: Musical Instruments https://www.amazon.com/Rode-NT-USB-Versatile-Studio-Quality-Microphone/dp/B00KQPGRRE/ref=as_li_ss_tl?keywords=Rode+NT-USB&amp;amp;qid=1579950416&amp;amp;sr=8-2&amp;amp;linkCode=sl1&amp;amp;tag=kbonet-20&amp;amp;linkId=1cf24dbefc721d156b2884244167a694&amp;amp;language=en_US  (449) Blue Yeti Blackout Review | 2018 - YouTube https://www.youtube.com/watch?v=HqHJWAlVcRw </description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://www.frankliu.org/easyhugo/posts/vim/</link>
+      <pubDate>Tue, 18 Aug 2020 16:59:35 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/vim/</guid>
+      <description> vim – How to read range of lines from a file into current buffer - Stack Overflow https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer </description>
+    </item>
+    
+    <item>
+      <title>Trello</title>
+      <link>https://www.frankliu.org/easyhugo/posts/trello/</link>
+      <pubDate>Tue, 18 Aug 2020 16:58:28 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/trello/</guid>
+      <description>Twilio   Transform your customer communications with Twilio https://ahoy.twilio.com/twilio-products?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_term=twilio&amp;amp;utm_campaign=G_S_Brand_NAMER_USA&amp;amp;CA_mCPC=&amp;amp;gclid=Cj0KCQjw-O35BRDVARIsAJU5mQUKr_q63Z5IdPqBNvRIqQkm6GIw9L9uJv6k9IJUs_j4QEwKyM7XmYcaApofEALw_wcB&amp;amp;gclsrc=aw.ds Monday   Untitled board https://frankie153869.monday.com/boards/694371560 Alternatives   Top 3 Software Alternatives to Trello in 2020 https://project-management.com/top-3-software-alternatives-to-trello/?gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXehZuXArw8yf5hHn8Ry1QGSODpWBE8yHpvM7c0cw3LWjTuGorZkrkaAjeGEALw_wcB Productivity management   Increase Productivity With This Powerful Project Management Software | Smartsheet https://www.smartsheet.com/s/pm-software?s=268&amp;amp;c=3&amp;amp;m=3000&amp;amp;utm_source=project-management.com&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=project%20management Wrike   Wrike - Leading work management solution https://try.wrike.com/all-in-one-collaboration-project-management-software/?utm_source=p_mcom&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=top10 Smartsheet   (1) New Message! https://www.smartsheet.com/pricing Asana   Asana vs. Wrike - Compare Wrike Alternatives - Asana · Asana https://asana.</description>
+    </item>
     
     <item>
       <title>Ftp</title>
@@ -26,7 +62,7 @@
       <pubDate>Tue, 18 Aug 2020 15:18:39 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/emacs/</guid>
-      <description> I hate switching emacs   daedreth/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently. https://github.com/daedreth/ihsec  can you put .spacemacs file in .emacs.d - Google Search https://www.google.com/search?q=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;aqs=chrome..69i57.8580j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 </description>
+      <description>I hate switching emacs   daedreth/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently. https://github.com/daedreth/ihsec  frankieliu/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently. https://github.com/frankieliu/ihsec  can you put .spacemacs file in .emacs.d - Google Search https://www.google.com/search?q=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;aqs=chrome..69i57.8580j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 Easy hugo   masasam/emacs-easy-hugo: Emacs major mode for managing hugo https://github.</description>
     </item>
     
     <item>
@@ -80,7 +116,7 @@
       <pubDate>Tue, 18 Aug 2020 14:14:01 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/make/</guid>
-      <description> Getting the makefile directory   gnu make - How to get current relative directory of your Makefile? - Stack Overflow https://stackoverflow.com/questions/18136918/how-to-get-current-relative-directory-of-your-makefile  shell - How can I use Bash syntax in Makefile targets? - Stack Overflow https://stackoverflow.com/questions/589276/how-can-i-use-bash-syntax-in-makefile-targets </description>
+      <description> Getting the makefile directory   gnu make - How to get current relative directory of your Makefile? - Stack Overflow https://stackoverflow.com/questions/18136918/how-to-get-current-relative-directory-of-your-makefile  shell - How can I use Bash syntax in Makefile targets? - Stack Overflow https://stackoverflow.com/questions/589276/how-can-i-use-bash-syntax-in-makefile-targets Passing arguments   makefile - Passing additional variables from command line to make - Stack Overflow https://stackoverflow.com/questions/2826029/passing-additional-variables-from-command-line-to-make </description>
     </item>
     
     <item>

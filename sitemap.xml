@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.frankliu.org/easyhugo/posts/ftp/</loc>
-    <lastmod>2020-08-18T15:26:59-07:00</lastmod>
+    <loc>https://www.frankliu.org/easyhugo/posts/golang/</loc>
+    <lastmod>2020-08-18T17:01:40-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-08-18T15:26:59-07:00</lastmod>
+    <lastmod>2020-08-18T17:01:40-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
+    <lastmod>2020-08-18T17:01:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/microphone/</loc>
+    <lastmod>2020-08-18T17:00:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/vim/</loc>
+    <lastmod>2020-08-18T16:59:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/trello/</loc>
+    <lastmod>2020-08-18T16:58:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/ftp/</loc>
     <lastmod>2020-08-18T15:26:59-07:00</lastmod>
   </url>
   

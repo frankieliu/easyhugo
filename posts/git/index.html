@@ -38,7 +38,7 @@
 <meta itemprop="description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   Using submodules in Git - Tutorial https://www.vogella.com/tutorials/GitSubmodules/article.html downloading individual files   git - Download single files from GitHub - Stack Overflow https://stackoverflow.com/questions/4604663/download-single-files-from-github  The Ultimate Wget Download Guide With 15 Awesome Examples https://www.">
 <meta itemprop="datePublished" content="2020-08-18T14:09:35-07:00" />
 <meta itemprop="dateModified" content="2020-08-18T14:09:35-07:00" />
-<meta itemprop="wordCount" content="68">
+<meta itemprop="wordCount" content="181">
 
 
 
@@ -196,6 +196,44 @@ git - Download single files from GitHub - Stack Overflow
 The Ultimate Wget Download Guide With 15 Awesome Examples
 <a href="https://www.thegeekstuff.com/2009/09/the-ultimate-wget-download-guide-with-15-awesome-examples/">https://www.thegeekstuff.com/2009/09/the-ultimate-wget-download-guide-with-15-awesome-examples/</a>
 </p>
+<h2 id="headline-5">
+hub
+</h2>
+<p>
+hub-pull-request(1) - Create a GitHub Pull Request.
+<a href="https://hub.github.com/hub-pull-request.1.html">https://hub.github.com/hub-pull-request.1.html</a>
+</p>
+<p>
+hub · an extension to command-line git
+<a href="https://hub.github.com/">https://hub.github.com/</a>
+</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">  <span style="color:#75715e"># clone a repo</span>
+  hub clone octocat/Spoon-Knife
+
+  cd Spoon-Knife
+
+  <span style="color:#75715e"># create a topic branch</span>
+  git checkout -b feature
+
+  <span style="color:#75715e"># make some changes...</span>
+  git commit -am <span style="color:#e6db74">&#34;done with feature&#34;</span>
+
+  <span style="color:#75715e"># It&#39;s time to fork the repo!</span>
+  hub fork --remote-name origin
+  → <span style="color:#f92672">(</span>forking repo on GitHub...<span style="color:#f92672">)</span>
+  → git remote add origin git@github.com:YOUR_USER/Spoon-Knife.git
+
+  <span style="color:#75715e"># push the changes to your new remote</span>
+  git push origin feature
+
+  <span style="color:#75715e"># check the CI status for this branch</span>
+  hub ci-status --verbose
+
+  <span style="color:#75715e"># open a pull request for the branch you&#39;ve just pushed</span>
+  hub pull-request
+  → <span style="color:#f92672">(</span>opens a text editor <span style="color:#66d9ef">for</span> your pull request message<span style="color:#f92672">)</span></code></pre></div>
+</div>
 <ul class="pa0">
   
    <li class="list">
