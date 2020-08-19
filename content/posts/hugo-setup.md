@@ -1142,3 +1142,12 @@ You can refer to this file in the post as
 
 This is simple enought and it collocates the files
 next to the post which is kind of nice.
+
+# Adding html to post
+Add raw html page as post - support - HUGO
+https://discourse.gohugo.io/t/add-raw-html-page-as-post/15434/2
+
+# goldmark-mathjax
+
+Add goldmark-mathjax by xjzsq · Pull Request #7435 · gohugoio/hugo
+https://github.com/gohugoio/hugo/pull/7435/files

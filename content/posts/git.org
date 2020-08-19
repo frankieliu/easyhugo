@@ -24,3 +24,38 @@ https://stackoverflow.com/questions/4604663/download-single-files-from-github
 
 The Ultimate Wget Download Guide With 15 Awesome Examples
 https://www.thegeekstuff.com/2009/09/the-ultimate-wget-download-guide-with-15-awesome-examples/
+
+* hub
+hub-pull-request(1) - Create a GitHub Pull Request.
+https://hub.github.com/hub-pull-request.1.html
+
+hub · an extension to command-line git
+https://hub.github.com/
+
+#+BEGIN_SRC bash
+  # clone a repo
+  hub clone octocat/Spoon-Knife
+
+  cd Spoon-Knife
+
+  # create a topic branch
+  git checkout -b feature
+
+  # make some changes...
+  git commit -am "done with feature"
+
+  # It's time to fork the repo!
+  hub fork --remote-name origin
+  → (forking repo on GitHub...)
+  → git remote add origin git@github.com:YOUR_USER/Spoon-Knife.git
+
+  # push the changes to your new remote
+  git push origin feature
+
+  # check the CI status for this branch
+  hub ci-status --verbose
+
+  # open a pull request for the branch you've just pushed
+  hub pull-request
+  → (opens a text editor for your pull request message)
+#+END_SRC
