@@ -29,22 +29,22 @@
     
     
     <meta property="og:title" content="Git" />
-<meta property="og:description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   Using submodules in Git - Tutorial https://www.vogella.com/tutorials/GitSubmodules/article.html  Pull git submodules after cloning project from GitHub - Stack Overflow https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-project-from-github  Issue with adding common code as git submodule: &#34;already exists in the index&#34; - Stack Overflow https://stackoverflow." />
+<meta property="og:description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   If you happen to clone a repo without doing a submodule add then you have to do the following steps to get it right: git rm --cached &lt;submodule&gt; git rm -f &lt;submodule&gt; git submodule add &lt;submodule&gt; git add ." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/git/" />
 <meta property="article:published_time" content="2020-08-18T14:09:35-07:00" />
 <meta property="article:modified_time" content="2020-08-18T14:09:35-07:00" />
 <meta itemprop="name" content="Git">
-<meta itemprop="description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   Using submodules in Git - Tutorial https://www.vogella.com/tutorials/GitSubmodules/article.html  Pull git submodules after cloning project from GitHub - Stack Overflow https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-project-from-github  Issue with adding common code as git submodule: &#34;already exists in the index&#34; - Stack Overflow https://stackoverflow.">
+<meta itemprop="description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   If you happen to clone a repo without doing a submodule add then you have to do the following steps to get it right: git rm --cached &lt;submodule&gt; git rm -f &lt;submodule&gt; git submodule add &lt;submodule&gt; git add .">
 <meta itemprop="datePublished" content="2020-08-18T14:09:35-07:00" />
 <meta itemprop="dateModified" content="2020-08-18T14:09:35-07:00" />
-<meta itemprop="wordCount" content="210">
+<meta itemprop="wordCount" content="269">
 
 
 
 <meta itemprop="keywords" content="," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Git"/>
-<meta name="twitter:description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   Using submodules in Git - Tutorial https://www.vogella.com/tutorials/GitSubmodules/article.html  Pull git submodules after cloning project from GitHub - Stack Overflow https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-project-from-github  Issue with adding common code as git submodule: &#34;already exists in the index&#34; - Stack Overflow https://stackoverflow."/>
+<meta name="twitter:description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   If you happen to clone a repo without doing a submodule add then you have to do the following steps to get it right: git rm --cached &lt;submodule&gt; git rm -f &lt;submodule&gt; git submodule add &lt;submodule&gt; git add ."/>
 
 	
     <script>
@@ -181,6 +181,27 @@ credentials - How to save username and password in GIT [GitExtension]? - Stack O
 <h2 id="headline-3">
 Submodules
 </h2>
+<p>
+If you happen to clone a repo without doing a submodule add then you have
+to do the following steps to get it right:
+</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git rm --cached &lt;submodule&gt;
+git rm -f &lt;submodule&gt;
+git submodule add &lt;submodule&gt;
+git add .
+git commit -m<span style="color:#e6db74">&#34;&#34;</span>
+git push</code></pre></div>
+</div>
+<p>
+On the receiving side
+</p>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git pull
+cd &lt;pathto&gt;/&lt;submodule&gt;
+git submodule init &lt;submodule&gt;
+git submodule update</code></pre></div>
+</div>
 <p>
 Using submodules in Git - Tutorial
 <a href="https://www.vogella.com/tutorials/GitSubmodules/article.html">https://www.vogella.com/tutorials/GitSubmodules/article.html</a>
