@@ -6,5 +6,127 @@ date = "2020-08-18T16:59:35-07:00"
 draft = false
 +++
 
+* Editing
+** add files from file
+
+#+BEGIN_SRC vim 
+:r tail -5 file.txt
+:r head -5 file.txt
+#+END_SRC
+
 vim -- How to read range of lines from a file into current buffer - Stack Overflow
 https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer
+
+
+* Modes
+** hugo
+
+Too basic...
+
+robertbasic/vim-hugo-helper: A small Vim plugin with a set of helpers for Hugo https://gohugo.io
+https://github.com/robertbasic/vim-hugo-helper
+
+* plugins
+** alternatives
+
+Vim: So long Pathogen, hello native package loading | George Ornbo
+https://shapeshed.com/vim-packages/
+
+plugin system - What is the Vim8 package feature and how should I use it? - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/9522/what-is-the-vim8-package-feature-and-how-should-i-use-it
+
+** details
+#+BEGIN_SRC bash
+
+mkdir -p ~/.vim/pack/plugins/start
+cd ~/.vim/pack/plugins/start
+
+git submodule add <github> vim-<package name>
+# optional:
+# I like to prepend all package names with vim-
+
+# if .zip or .vimball (:so %)
+# need to move the files generated to
+# a folder under ~/.vim/pack/plugins/start
+
+cd vim-<package name>/docs # or doc
+vim-helptags.sh .     # script is below
+#+END_SRC
+
+** generating tags
+
+#+BEGIN_SRC vim
+:helptags <directory>
+#+END_SRC
+
+Vim helptag generation - Stack Overflow
+https://stackoverflow.com/questions/4180590/vim-helptag-generation
+
+I wrote a little shell script to help with the tags
+
+#+BEGIN_SRC bash
+#!/bin/bash
+vim -u NONE -c "helptags $$1" -c q
+#+END_SRC
+
+* keymappings
+
+Use ~.vim/ftplugin/org.vim~ and add any mappings there
+
+#+BEGIN_SRC vim
+nnoremap <buffer> <localleader>np q:i! cd ../..; hugo new content/posts/.org<Esc>hhhi
+#+END_SRC
+
+key bindings - File Type dependent key mapping - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/10664/file-type-dependent-key-mapping
+
+* shell command
+
+It defaults to executing in directory where you started vim.
+
+If you want it to follow the current buffer, then use
+
+#+BEGIN_SRC vim
+set autochdir
+#+END_SRC
+
+Executing a shell command in the parent directory - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/13612/executing-a-shell-command-in-the-parent-directory
+
+* org mode for vim
+
+jceb/vim-orgmode: Text outlining and task management for Vim based on Emacs' Org-Mode
+https://github.com/jceb/vim-orgmode
+
+vim-orgmode/orgguide.txt at master · jceb/vim-orgmode
+https://github.com/jceb/vim-orgmode/blob/master/doc/orgguide.txt
+
+* setting a leader
+
+#+BEGIN_SRC vim
+set Leader='\'
+#+END_SRC
+
+Can you have different localleaders for different Vim plugins? - Stack Overflow
+https://stackoverflow.com/questions/12076227/can-you-have-different-localleaders-for-different-vim-plugins
+
+* cmdline editing
+
+If you need to do a lot of editing in the command line, it is best to use 
+
+#+BEGIN_SRC vim
+q:
+#+END_SRC
+
+bash - In VIM, how do you delete to end of line while in command mode :? - Super User
+https://superuser.com/questions/846854/in-vim-how-do-you-delete-to-end-of-line-while-in-command-mode
+
+* closing panes
+
+#+BEGIN_SRC vim
+Ctrl-W O
+#+END_SRC
+
+vim close all panes besides current one - Google Search
+https://www.google.com/search?q=vim+close+all+panes+besides+current+one&oq=vim+close+all+panes+besides+current+one&aqs=chrome..69i57.11285j0j7&sourceid=chrome&ie=UTF-8
+

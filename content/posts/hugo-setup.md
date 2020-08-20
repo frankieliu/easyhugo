@@ -3,6 +3,7 @@ title: "Hugo Setup"
 date: 2020-08-17T13:45:18-07:00
 draft: false
 ---
+
 ```bash
 git commit -m"adding deploy.sh"
 git push
@@ -1151,3 +1152,8 @@ https://discourse.gohugo.io/t/add-raw-html-page-as-post/15434/2
 
 Add goldmark-mathjax by xjzsq · Pull Request #7435 · gohugoio/hugo
 https://github.com/gohugoio/hugo/pull/7435/files
+
+# server setup
+
+hugo server | Hugo
+https://gohugo.io/commands/hugo_server/

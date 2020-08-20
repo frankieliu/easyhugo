@@ -1,0 +1,10 @@
++++
+categories = [""]
+tags = [""]
+title = "Snippets"
+date = "2020-08-19T17:08:48-07:00"
+draft = false
++++
+
+How to use ultisnips
+https://yufanlu.net/2016/10/30/ultisnips/

@@ -16,3 +16,23 @@ $$
 $$
 
 [[../../images/anim1.svg]]
+
+* literals
+
+Literal Examples (The Org Manual)
+https://orgmode.org/manual/Literal-Examples.html
+
+* inline literals
+
+Inline verbatim and code with quotes in Org-mode - Emacs Stack Exchange
+https://emacs.stackexchange.com/questions/13820/inline-verbatim-and-code-with-quotes-in-org-mode
+
+* code blocks
+
+Structure of Code Blocks (The Org Manual)
+https://orgmode.org/manual/Structure-of-Code-Blocks.html
+
+* inline literals with apostrophes
+
+Applying Markup to Strings in org-mode · Endless Parentheses
+http://endlessparentheses.com/applying-markup-to-strings-in-org-mode.html

@@ -1,0 +1,44 @@
++++
+categories = [""]
+tags = [""]
+title = "Rails"
+date = "2020-08-19T17:12:15-07:00"
+draft = false
++++
+
+How To Deploy a Rails App with Passenger and Apache on Ubuntu 14.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04
+
+Passenger - Enterprise grade web app server for Ruby, Node.js, Python
+https://www.phusionpassenger.com/#
+
+Install Ruby on Rails with Apache on Debian 9 | Linode
+https://www.linode.com/docs/development/ror/ruby-on-rails-apache-debian/
+
+(452) Learn Ruby on Rails - Part 8 - Deploying the Application - YouTube
+https://www.youtube.com/watch?v=pkiskHXb8U0
+
+How To Build a Ruby on Rails Application | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application
+
+Phusion Passenger - Wikipedia
+https://en.wikipedia.org/wiki/Phusion_Passenger
+
+mod_ruby - Wikipedia
+https://en.wikipedia.org/wiki/Mod_ruby
+
+Upgrading a trivial Rails app from Ruby 2.3.1 to 2.7 and from Rails 4.2.6 to 6.0.3 | Arkency Blog
+https://blog.arkency.com/upgrading-a-trivial-rails-app-from-ruby-2-dot-3-dot-1-to-2-dot-7-and-from-rails-4-dot-2-dot-6-to-6-dot-0-dot-3/
+
+Ruby CGI code on rails framework - Stack Overflow
+https://stackoverflow.com/questions/31498130/ruby-cgi-code-on-rails-framework
+
+Rails vs Ruby CGI - Stack Overflow
+https://stackoverflow.com/questions/1303094/rails-vs-ruby-cgi
+
+ruby on rails - Why do you need nginx with passenger for RoR? - Stack Overflow
+https://stackoverflow.com/questions/32801291/why-do-you-need-nginx-with-passenger-for-ror
+
+advantange of passenger vs reverse proxy - Google Search
+https://www.google.com/search?q=advantange+of+passenger+vs+reverse+proxy&oq=advantange+of+passenger+vs+reverse+proxy&aqs=chrome..69i57.8342j0j7&sourceid=chrome&ie=UTF-8
+
