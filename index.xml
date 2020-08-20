@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2020 17:33:02 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 18:28:58 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Net</title>
+      <link>https://www.frankliu.org/easyhugo/posts/net/</link>
+      <pubDate>Wed, 19 Aug 2020 18:28:58 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/net/</guid>
+      <description> 192.168.29.1/Logout.asp http://192.168.29.1/Logout.asp </description>
+    </item>
     
     <item>
       <title>Health</title>
@@ -62,7 +71,7 @@
       <pubDate>Wed, 19 Aug 2020 17:08:48 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/snippets/</guid>
-      <description> How to use ultisnips https://yufanlu.net/2016/10/30/ultisnips/ </description>
+      <description>How to use ultisnips https://yufanlu.net/2016/10/30/ultisnips/  Sharpen your Vim with snippets. Save time and effort, and maximize your? | by Joe Lencioni | Brigade Engineering https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db  SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! https://github.com/SirVer/ultisnips  garbas/vim-snipmate: snipMate.vim aims to be a concise vim script that implements some of TextMate&amp;#39;s snippets features in Vim. https://github.com/garbas/vim-snipmate  Shougo/neosnippet.vim: neo-snippet plugin https://github.com/Shougo/neosnippet.vim  drmingdrmer/xptemplate: Code snippets engine for Vim, with snippets library.</description>
     </item>
     
     <item>
@@ -89,7 +98,7 @@
       <pubDate>Wed, 19 Aug 2020 15:49:14 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/stanford/</guid>
-      <description>Kerberos   sudo apitude install krb5-user  How to install kinit ubuntu package on Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04 https://zoomadmin.com/HowToInstall/UbuntuPackage/kinit  Ubuntu – Details of source package krb5 in focal https://packages.ubuntu.com/source/focal/krb5 vpn   VPN (Virtual Private Network) | University IT https://uit.stanford.edu/service/vpn  How to Configure Cisco AnyConnect VPN Client for Linux | University IT https://uit.stanford.edu/service/vpn/linux  https://su-vpn-press.stanford.edu/+CSCOE+/portal.html https://su-vpn-press.stanford.edu/+CSCOE+/portal.html  How to Configure a Built-in VPN Client for Linux | University IT https://uit.</description>
+      <description>ssh   Security | Stanford Computer Science https://cs.stanford.edu/computing-guide/access/security Kerberos   sudo apitude install krb5-user  How to install kinit ubuntu package on Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04 https://zoomadmin.com/HowToInstall/UbuntuPackage/kinit  Ubuntu – Details of source package krb5 in focal https://packages.ubuntu.com/source/focal/krb5 vpn   VPN (Virtual Private Network) | University IT https://uit.stanford.edu/service/vpn  How to Configure Cisco AnyConnect VPN Client for Linux | University IT https://uit.stanford.edu/service/vpn/linux  https://su-vpn-press.stanford.edu/+CSCOE+/portal.html https://su-vpn-press.stanford.edu/+CSCOE+/portal.html  How to Configure a Built-in VPN Client for Linux | University IT https://uit.</description>
     </item>
     
     <item>
@@ -170,7 +179,7 @@
       <pubDate>Tue, 18 Aug 2020 16:59:35 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/vim/</guid>
-      <description>Editing  add files from file  :r tail -5 file.txt:r head -5 file.txt   vim – How to read range of lines from a file into current buffer - Stack Overflow https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer Modes  hugo   Too basic…  robertbasic/vim-hugo-helper: A small Vim plugin with a set of helpers for Hugo https://gohugo.io https://github.com/robertbasic/vim-hugo-helper plugins  alternatives   Vim: So long Pathogen, hello native package loading | George Ornbo https://shapeshed.</description>
+      <description>Editing  add files from file  :r tail -5 file.txt:r head -5 file.txt   vim – How to read range of lines from a file into current buffer - Stack Overflow https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer cmdline editing   If you need to do a lot of editing in the command line, it is best to use q:   bash - In VIM, how do you delete to end of line while in command mode :?</description>
     </item>
     
     <item>
@@ -278,7 +287,7 @@
       <pubDate>Tue, 18 Aug 2020 14:09:35 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/git/</guid>
-      <description>add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   Using submodules in Git - Tutorial https://www.vogella.com/tutorials/GitSubmodules/article.html downloading individual files   git - Download single files from GitHub - Stack Overflow https://stackoverflow.com/questions/4604663/download-single-files-from-github  The Ultimate Wget Download Guide With 15 Awesome Examples https://www.</description>
+      <description>add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   Using submodules in Git - Tutorial https://www.vogella.com/tutorials/GitSubmodules/article.html  Pull git submodules after cloning project from GitHub - Stack Overflow https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-project-from-github  Issue with adding common code as git submodule: &amp;#34;already exists in the index&amp;#34; - Stack Overflow https://stackoverflow.</description>
     </item>
     
     <item>
@@ -317,7 +326,7 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Tue, 18 Aug 2020 11:08:18 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ik/</guid>
-      <description> Dynamic Programming Foundation (03:56:26) https://uplevel.interviewkickstart.com/resource/resourcecollection-5866-164  IKWeb https://oj.interviewkickstart.com/view_test_mcq/3976/196  Slides scalable systems https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.p  Microservices https://www.youtube.com/channel/UCyn-xUvGpRqp5dyHSOVhLvg </description>
+      <description> Dynamic Programming Foundation (03:56:26) https://uplevel.interviewkickstart.com/resource/resourcecollection-5866-164  IKWeb https://oj.interviewkickstart.com/view_test_mcq/3976/196  Slides scalable systems https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.p  Microservices https://www.youtube.com/channel/UCyn-xUvGpRqp5dyHSOVhLvg  Scalable Systems - Google Slides https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.g8ba5086272_0_43 </description>
     </item>
     
     <item>
