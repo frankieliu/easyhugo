@@ -6,10 +6,127 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2020 10:57:45 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 17:33:02 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Health</title>
+      <link>https://www.frankliu.org/easyhugo/posts/health/</link>
+      <pubDate>Wed, 19 Aug 2020 17:33:02 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/health/</guid>
+      <description> Constipation and cheerios   Fiber in Cheerios | Livestrong.com https://www.livestrong.com/article/346587-fiber-in-cheerios/ </description>
+    </item>
+    
+    <item>
+      <title>Cassandra</title>
+      <link>https://www.frankliu.org/easyhugo/posts/cassandra/</link>
+      <pubDate>Wed, 19 Aug 2020 17:14:26 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/cassandra/</guid>
+      <description>(452) [Cassandra Cloud-Native Workshop Series] - #8 Road to Cloud NA|LATAM - YouTube https://www.youtube.com/watch?v=bk5e6QWijSc  Materials and Homework for Week 8 - Datastax Community https://community.datastax.com/questions/7787/materials-and-homework-for-week-8.html  cassandra-workshop-series/HACKATHON.MD at master · DataStax-Academy/cassandra-workshop-series https://github.com/DataStax-Academy/cassandra-workshop-series/blob/master/week4-AppDev-api/HACKATHON.MD  What is the eligibility criteria for the exam voucher? - Datastax Community https://community.datastax.com/questions/6568/index.html  How long are the workshop exam vouchers valid for? - Datastax Community https://community.datastax.com/questions/5137/index.html  Why haven&amp;#39;t you given out vouchers yet during the Cloud-Native Workshop Series?</description>
+    </item>
+    
+    <item>
+      <title>College</title>
+      <link>https://www.frankliu.org/easyhugo/posts/college/</link>
+      <pubDate>Wed, 19 Aug 2020 17:14:00 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/college/</guid>
+      <description> Reminder: 5 Things You Need to Know About College Admissions During the Pandemic starts in 1 Hour - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/5+things+you+need+to+know/FMfcgxwJXVKMQTqTThrSMSCJpjxcNGjz  Order Summary: #6443922 https://thecollegesolution.samcart.com/order_summary/jsr4BZVkkLKVgnsvlwMR8mAw  Member Login » The College SolutionThe College Solution https://www.thecollegesolution.com/member-login/  What to Read: The College Solution - Do It Yourself College Rankings https://www.diycollegerankings.com/what-to-read-the-college-solution/447/  The College Solution » The College SolutionThe College Solution https://www.thecollegesolution.com/ </description>
+    </item>
+    
+    <item>
+      <title>Apache</title>
+      <link>https://www.frankliu.org/easyhugo/posts/apache/</link>
+      <pubDate>Wed, 19 Aug 2020 17:13:08 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/apache/</guid>
+      <description>modules   linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed cgi   Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/ wsgi   mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/ reverse proxy   node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16.</description>
+    </item>
+    
+    <item>
+      <title>Rails</title>
+      <link>https://www.frankliu.org/easyhugo/posts/rails/</link>
+      <pubDate>Wed, 19 Aug 2020 17:12:15 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/rails/</guid>
+      <description>How To Deploy a Rails App with Passenger and Apache on Ubuntu 14.04 | DigitalOcean https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04  Passenger - Enterprise grade web app server for Ruby, Node.js, Python https://www.phusionpassenger.com/#  Install Ruby on Rails with Apache on Debian 9 | Linode https://www.linode.com/docs/development/ror/ruby-on-rails-apache-debian/  (452) Learn Ruby on Rails - Part 8 - Deploying the Application - YouTube https://www.youtube.com/watch?v=pkiskHXb8U0  How To Build a Ruby on Rails Application | DigitalOcean https://www.</description>
+    </item>
+    
+    <item>
+      <title>Snippets</title>
+      <link>https://www.frankliu.org/easyhugo/posts/snippets/</link>
+      <pubDate>Wed, 19 Aug 2020 17:08:48 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/snippets/</guid>
+      <description> How to use ultisnips https://yufanlu.net/2016/10/30/ultisnips/ </description>
+    </item>
+    
+    <item>
+      <title>Hangouts</title>
+      <link>https://www.frankliu.org/easyhugo/posts/hangouts/</link>
+      <pubDate>Wed, 19 Aug 2020 17:07:26 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/hangouts/</guid>
+      <description> Meet - out-gega-waa https://meet.google.com/out-gega-waa </description>
+    </item>
+    
+    <item>
+      <title>Ssh</title>
+      <link>https://www.frankliu.org/easyhugo/posts/ssh/</link>
+      <pubDate>Wed, 19 Aug 2020 15:50:34 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/ssh/</guid>
+      <description> ssh keys   How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use removing keys   This removes all keys from know_hosts file. ssh-keygen -R hostname  </description>
+    </item>
+    
+    <item>
+      <title>Stanford</title>
+      <link>https://www.frankliu.org/easyhugo/posts/stanford/</link>
+      <pubDate>Wed, 19 Aug 2020 15:49:14 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/stanford/</guid>
+      <description>Kerberos   sudo apitude install krb5-user  How to install kinit ubuntu package on Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04 https://zoomadmin.com/HowToInstall/UbuntuPackage/kinit  Ubuntu – Details of source package krb5 in focal https://packages.ubuntu.com/source/focal/krb5 vpn   VPN (Virtual Private Network) | University IT https://uit.stanford.edu/service/vpn  How to Configure Cisco AnyConnect VPN Client for Linux | University IT https://uit.stanford.edu/service/vpn/linux  https://su-vpn-press.stanford.edu/+CSCOE+/portal.html https://su-vpn-press.stanford.edu/+CSCOE+/portal.html  How to Configure a Built-in VPN Client for Linux | University IT https://uit.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>https://www.frankliu.org/easyhugo/posts/microsoft/</link>
+      <pubDate>Wed, 19 Aug 2020 15:46:51 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/microsoft/</guid>
+      <description>Search results | Find available job openings at Microsoft https://careers.microsoft.com/professionals/us/en/search-results?from=60&amp;amp;s=1&amp;amp;rk=l-l-bayarea  Principal HW Program Manager, Hardware Engineering in Mountain View, California, United States | Hardware Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/826751/Principal-HW-Program-Manager-Hardware-Engineering  Software Engineer (Havok Gaming) in San Francisco, California, United States | Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/850058/Software-Engineer-Havok-Gaming  Software Engineer in San Francisco, California, United States | Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/844347/Software-Engineer  Silicon CAD Engineer in Sunnyvale, California, United States | Hardware Engineering at Microsoft https://careers.</description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://www.frankliu.org/easyhugo/posts/sport/</link>
+      <pubDate>Wed, 19 Aug 2020 15:46:14 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/sport/</guid>
+      <description> Jetson Bolt Pro Folding Electric Bike https://www.costco.com/jetson-bolt-pro-folding-electric-bike.product.100663239.html </description>
+    </item>
+    
+    <item>
+      <title>Text Editors</title>
+      <link>https://www.frankliu.org/easyhugo/posts/text-editors/</link>
+      <pubDate>Wed, 19 Aug 2020 15:43:15 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/text-editors/</guid>
+      <description> StackEdit https://stackedit.io/app#providerId=googleDrive&amp;amp;state=%7B%22ids%22%3A%5B%221fHgagb3BOOtEPAwYUBGBJNVHWFBROWKr%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22113098389584130909559%22%7D  Text Editor - Free App for Editing Text Files https://texteditor.co/ </description>
+    </item>
+    
+    <item>
+      <title>Bitbucket</title>
+      <link>https://www.frankliu.org/easyhugo/posts/bitbucket/</link>
+      <pubDate>Wed, 19 Aug 2020 15:41:51 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/bitbucket/</guid>
+      <description> Log in to continue - Log in with Atlassian account https://id.atlassian.com/login?application=bitbucket&amp;amp;continue=https%3A%2F%2Fbitbucket.org%2Faccount%2Fsignin%2F%3FredirectCount%3D1%26next%3D%252F&amp;amp;prompt=login  Overview — Bitbucket https://bitbucket.org/dashboard/overview  Can&amp;#39;t log in? - Log in with Atlassian account https://id.atlassian.com/login/resetpassword?application=bitbucket&amp;amp;continue=https%3A%2F%2Fbitbucket.org%2Faccount%2Fsignin%2F%3FredirectCount%3D1%26next%3D%252F&amp;amp;email=frankie.y.liu%40gmail.com&amp;amp;errorCode </description>
+    </item>
     
     <item>
       <title>Saml</title>
@@ -26,7 +143,7 @@
       <pubDate>Wed, 19 Aug 2020 06:38:57 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/sherlock/</guid>
-      <description></description>
+      <description> Connecting - Sherlock https://www.sherlock.stanford.edu/docs/getting-started/connecting/  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts </description>
     </item>
     
     <item>
@@ -53,7 +170,7 @@
       <pubDate>Tue, 18 Aug 2020 16:59:35 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/vim/</guid>
-      <description> vim – How to read range of lines from a file into current buffer - Stack Overflow https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer </description>
+      <description>Editing  add files from file  :r tail -5 file.txt:r head -5 file.txt   vim – How to read range of lines from a file into current buffer - Stack Overflow https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer Modes  hugo   Too basic…  robertbasic/vim-hugo-helper: A small Vim plugin with a set of helpers for Hugo https://gohugo.io https://github.com/robertbasic/vim-hugo-helper plugins  alternatives   Vim: So long Pathogen, hello native package loading | George Ornbo https://shapeshed.</description>
     </item>
     
     <item>
@@ -200,7 +317,7 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Tue, 18 Aug 2020 11:08:18 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ik/</guid>
-      <description> Dynamic Programming Foundation (03:56:26) https://uplevel.interviewkickstart.com/resource/resourcecollection-5866-164 </description>
+      <description> Dynamic Programming Foundation (03:56:26) https://uplevel.interviewkickstart.com/resource/resourcecollection-5866-164  IKWeb https://oj.interviewkickstart.com/view_test_mcq/3976/196  Slides scalable systems https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.p  Microservices https://www.youtube.com/channel/UCyn-xUvGpRqp5dyHSOVhLvg </description>
     </item>
     
     <item>
@@ -272,7 +389,7 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Mon, 17 Aug 2020 14:15:30 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/org-file/</guid>
-      <description>class ballon(): def __init__(self): pass   $x_2 + y_3 = 5$ $$ \sum_{i&amp;lt;j} \Pi $$  </description>
+      <description>class ballon(): def __init__(self): pass   $x_2 + y_3 = 5$ $$ \sum_{i&amp;lt;j} \Pi $$  literals   Literal Examples (The Org Manual) https://orgmode.org/manual/Literal-Examples.html inline literals   Inline verbatim and code with quotes in Org-mode - Emacs Stack Exchange https://emacs.stackexchange.com/questions/13820/inline-verbatim-and-code-with-quotes-in-org-mode code blocks   Structure of Code Blocks (The Org Manual) https://orgmode.org/manual/Structure-of-Code-Blocks.html inline literals with apostrophes   Applying Markup to Strings in org-mode · Endless Parentheses http://endlessparentheses.</description>
     </item>
     
     <item>

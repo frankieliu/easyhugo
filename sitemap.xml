@@ -3,13 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/health/</loc>
+    <lastmod>2020-08-19T17:33:02-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-08-19T10:57:45-07:00</lastmod>
+    <lastmod>2020-08-19T17:33:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
-    <lastmod>2020-08-19T10:57:45-07:00</lastmod>
+    <lastmod>2020-08-19T17:33:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/cassandra/</loc>
+    <lastmod>2020-08-19T17:14:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/college/</loc>
+    <lastmod>2020-08-19T17:14:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/apache/</loc>
+    <lastmod>2020-08-19T17:13:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/rails/</loc>
+    <lastmod>2020-08-19T17:12:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/snippets/</loc>
+    <lastmod>2020-08-19T17:08:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/hangouts/</loc>
+    <lastmod>2020-08-19T17:07:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/ssh/</loc>
+    <lastmod>2020-08-19T15:50:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/stanford/</loc>
+    <lastmod>2020-08-19T15:49:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/microsoft/</loc>
+    <lastmod>2020-08-19T15:46:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/sport/</loc>
+    <lastmod>2020-08-19T15:46:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/text-editors/</loc>
+    <lastmod>2020-08-19T15:43:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/bitbucket/</loc>
+    <lastmod>2020-08-19T15:41:51-07:00</lastmod>
   </url>
   
   <url>
