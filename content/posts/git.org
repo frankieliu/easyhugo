@@ -15,6 +15,28 @@ credentials - How to save username and password in GIT [GitExtension]? - Stack O
 https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension
 
 * Submodules
+
+If you happen to clone a repo without doing a submodule add then you have
+to do the following steps to get it right:
+
+#+BEGIN_SRC bash
+git rm --cached <submodule>
+git rm -f <submodule>
+git submodule add <submodule>
+git add .
+git commit -m""
+git push
+#+END_SRC
+
+On the receiving side
+
+#+BEGIN_SRC bash
+git pull
+cd <pathto>/<submodule>
+git submodule init <submodule>
+git submodule update
+#+END_SRC
+
 Using submodules in Git - Tutorial
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
