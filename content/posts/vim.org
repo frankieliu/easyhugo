@@ -7,6 +7,11 @@ draft = false
 +++
 
 * Editing
+** follow links
+Ctrl-] : follow link
+Ctrl-T : previous topic
+Ctrl-O : older location
+Ctrl-I : newer location
 ** add files from file
 
 #+BEGIN_SRC vim 

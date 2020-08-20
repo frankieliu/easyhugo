@@ -37,6 +37,13 @@ git submodule init <submodule>
 git submodule update
 #+END_SRC
 
+#+BEGIN_SRC bash
+git submodule update --init             # from root of repo (update dep)
+git pull --recurse-submodules           # pull stuff for submodule
+git submodule update --recursive        # if you forget --recursive on clone
+git submodule update --init --recursive # if submodules within submodules
+#+END_SRC
+
 Using submodules in Git - Tutorial
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
