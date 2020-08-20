@@ -38,7 +38,7 @@
 <meta itemprop="description" content="add and commmit in one line   Git add and commit in one command - Stack Overflow https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command Save username and passwords   credentials - How to save username and password in GIT [GitExtension]? - Stack Overflow https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension Submodules   If you happen to clone a repo without doing a submodule add then you have to do the following steps to get it right: git rm --cached &lt;submodule&gt; git rm -f &lt;submodule&gt; git submodule add &lt;submodule&gt; git add .">
 <meta itemprop="datePublished" content="2020-08-18T14:09:35-07:00" />
 <meta itemprop="dateModified" content="2020-08-18T14:09:35-07:00" />
-<meta itemprop="wordCount" content="269">
+<meta itemprop="wordCount" content="309">
 
 
 
@@ -201,6 +201,12 @@ On the receiving side
 cd &lt;pathto&gt;/&lt;submodule&gt;
 git submodule init &lt;submodule&gt;
 git submodule update</code></pre></div>
+</div>
+<div class="src src-bash">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git submodule update --init             <span style="color:#75715e"># from root of repo (update dep)</span>
+git pull --recurse-submodules           <span style="color:#75715e"># pull stuff for submodule</span>
+git submodule update --recursive        <span style="color:#75715e"># if you forget --recursive on clone</span>
+git submodule update --init --recursive <span style="color:#75715e"># if submodules within submodules</span></code></pre></div>
 </div>
 <p>
 Using submodules in Git - Tutorial
