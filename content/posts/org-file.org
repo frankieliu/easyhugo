@@ -36,3 +36,12 @@ https://orgmode.org/manual/Structure-of-Code-Blocks.html
 
 Applying Markup to Strings in org-mode · Endless Parentheses
 http://endlessparentheses.com/applying-markup-to-strings-in-org-mode.html
+
+* clean view
+
+org_indent (hard indent) vs visual indent � Issue #360 � jceb/vim-orgmode
+https://github.com/jceb/vim-orgmode/issues/360
+
+Clean View (The Org Manual)
+https://orgmode.org/manual/Clean-View.html
+

@@ -18,6 +18,26 @@ vim -- How to read range of lines from a file into current buffer - Stack Overfl
 https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer
 
 
+** cmdline editing
+
+If you need to do a lot of editing in the command line, it is best to use 
+
+#+BEGIN_SRC vim
+q:
+#+END_SRC
+
+bash - In VIM, how do you delete to end of line while in command mode :? - Super User
+https://superuser.com/questions/846854/in-vim-how-do-you-delete-to-end-of-line-while-in-command-mode
+
+** closing panes
+
+#+BEGIN_SRC vim
+Ctrl-W O
+#+END_SRC
+
+vim close all panes besides current one - Google Search
+https://www.google.com/search?q=vim+close+all+panes+besides+current+one&oq=vim+close+all+panes+besides+current+one&aqs=chrome..69i57.11285j0j7&sourceid=chrome&ie=UTF-8
+
 * Modes
 ** hugo
 
@@ -25,6 +45,18 @@ Too basic...
 
 robertbasic/vim-hugo-helper: A small Vim plugin with a set of helpers for Hugo https://gohugo.io
 https://github.com/robertbasic/vim-hugo-helper
+
+** org mode for vim
+
+jceb/vim-orgmode: Text outlining and task management for Vim based on Emacs' Org-Mode
+https://github.com/jceb/vim-orgmode
+
+vim-orgmode/orgguide.txt at master · jceb/vim-orgmode
+https://github.com/jceb/vim-orgmode/blob/master/doc/orgguide.txt
+
+** nerdtree
+preservim/nerdtree: A tree explorer plugin for vim.
+https://github.com/preservim/nerdtree
 
 * plugins
 ** alternatives
@@ -70,15 +102,27 @@ vim -u NONE -c "helptags $$1" -c q
 #+END_SRC
 
 * keymappings
-
+** summary
 Use ~.vim/ftplugin/org.vim~ and add any mappings there
 
 #+BEGIN_SRC vim
 nnoremap <buffer> <localleader>np q:i! cd ../..; hugo new content/posts/.org<Esc>hhhi
 #+END_SRC
 
+Understand Vim Mappings and Create Your Own Shortcuts! | by Jonas B. Rossi |
+vim drops | Medium
+https://medium.com/vim-drops/understand-vim-mappings-and-create-your-own-shortcuts-f52ee4a6b8ed
+
+** conditional mapping
+
 key bindings - File Type dependent key mapping - Vi and Vim Stack Exchange
 https://vi.stackexchange.com/questions/10664/file-type-dependent-key-mapping
+
+key bindings - File Type dependent key mapping - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/10664/file-type-dependent-key-mapping
+
+How to set conditional mappings in VIM (ie: depending on the extension of a file)? - Stack Overflow
+https://stackoverflow.com/questions/13673424/how-to-set-conditional-mappings-in-vim-ie-depending-on-the-extension-of-a-file
 
 * shell command
 
@@ -93,15 +137,7 @@ set autochdir
 Executing a shell command in the parent directory - Vi and Vim Stack Exchange
 https://vi.stackexchange.com/questions/13612/executing-a-shell-command-in-the-parent-directory
 
-* org mode for vim
-
-jceb/vim-orgmode: Text outlining and task management for Vim based on Emacs' Org-Mode
-https://github.com/jceb/vim-orgmode
-
-vim-orgmode/orgguide.txt at master · jceb/vim-orgmode
-https://github.com/jceb/vim-orgmode/blob/master/doc/orgguide.txt
-
-* setting a leader
+* leader
 
 #+BEGIN_SRC vim
 set Leader='\'
@@ -110,23 +146,28 @@ set Leader='\'
 Can you have different localleaders for different Vim plugins? - Stack Overflow
 https://stackoverflow.com/questions/12076227/can-you-have-different-localleaders-for-different-vim-plugins
 
-* cmdline editing
+Leaders / Learn Vimscript the Hard Way
+https://learnvimscriptthehardway.stevelosh.com/chapters/06.html
 
-If you need to do a lot of editing in the command line, it is best to use 
+vim - What is the <leader> in a .vimrc file? - Stack Overflow
+https://stackoverflow.com/questions/1764263/what-is-the-leader-in-a-vimrc-file
 
-#+BEGIN_SRC vim
-q:
-#+END_SRC
+* vimscript
+Autoloading / Learn Vimscript the Hard Way
+https://learnvimscriptthehardway.stevelosh.com/chapters/53.html
 
-bash - In VIM, how do you delete to end of line while in command mode :? - Super User
-https://superuser.com/questions/846854/in-vim-how-do-you-delete-to-end-of-line-while-in-command-mode
+* filetype
 
-* closing panes
+Vim documentation: filetype
+http://vimdoc.sourceforge.net/htmldoc/filetype.html
 
-#+BEGIN_SRC vim
-Ctrl-W O
-#+END_SRC
+vim - How to get 'filetype' of a buffer specified by a number? - Stack Overflow
+https://stackoverflow.com/questions/18714650/how-to-get-filetype-of-a-buffer-specified-by-a-number
 
-vim close all panes besides current one - Google Search
-https://www.google.com/search?q=vim+close+all+panes+besides+current+one&oq=vim+close+all+panes+besides+current+one&aqs=chrome..69i57.11285j0j7&sourceid=chrome&ie=UTF-8
+* don't write all the time
+
+Vim buffer FAQ | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Vim_buffer_FAQ#hidden
+
+* snippets
 

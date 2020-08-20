@@ -1,0 +1,10 @@
++++
+categories = [""]
+tags = [""]
+title = "Net"
+date = "2020-08-19T18:28:58-07:00"
+draft = false
++++
+
+192.168.29.1/Logout.asp
+http://192.168.29.1/Logout.asp

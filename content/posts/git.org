@@ -18,6 +18,12 @@ https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-i
 Using submodules in Git - Tutorial
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
+Pull git submodules after cloning project from GitHub - Stack Overflow
+https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-project-from-github
+
+Issue with adding common code as git submodule: "already exists in the index" - Stack Overflow
+https://stackoverflow.com/questions/12898278/issue-with-adding-common-code-as-git-submodule-already-exists-in-the-index
+
 * downloading individual files
 git - Download single files from GitHub - Stack Overflow
 https://stackoverflow.com/questions/4604663/download-single-files-from-github

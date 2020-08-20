@@ -6,6 +6,11 @@ date = "2020-08-19T15:49:14-07:00"
 draft = false
 +++
 
+* ssh
+
+Security | Stanford Computer Science
+https://cs.stanford.edu/computing-guide/access/security
+
 * Kerberos
 
 sudo apitude install krb5-user
