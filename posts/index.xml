@@ -269,7 +269,7 @@
       <pubDate>Tue, 18 Aug 2020 15:17:18 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/trash/</guid>
-      <description> shell - Make `rm` move to trash - Unix &amp;amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775  andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/ </description>
+      <description>shell - Make `rm` move to trash - Unix &amp;amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775  andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/ Files in different mounts   Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&amp;#39;: [Errno 13] Permission denied: &amp;#39;/.Trash-1000&amp;#39; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1   trash regular empty file `test&amp;#39;: [Errno 13] Permission denied: &amp;#39;/.Trash-1000&amp;#39; http://code.google.com/p/trash-cli/issues/detail?id=63  Dear Narnie I think I figured out the problem.</description>
     </item>
     
     <item>
