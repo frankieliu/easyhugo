@@ -4,16 +4,41 @@
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-08-19T18:28:58-07:00</lastmod>
+    <lastmod>2020-08-20T17:11:56-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.frankliu.org/easyhugo/posts/net/</loc>
-    <lastmod>2020-08-19T18:28:58-07:00</lastmod>
+    <loc>https://www.frankliu.org/easyhugo/posts/oracle/</loc>
+    <lastmod>2020-08-20T17:11:56-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
+    <lastmod>2020-08-20T17:11:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/electronics/</loc>
+    <lastmod>2020-08-20T17:10:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/java/</loc>
+    <lastmod>2020-08-20T17:08:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/meetup/</loc>
+    <lastmod>2020-08-20T17:08:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/gnome-extensions/</loc>
+    <lastmod>2020-08-20T12:47:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/net/</loc>
     <lastmod>2020-08-19T18:28:58-07:00</lastmod>
   </url>
   
@@ -235,6 +260,10 @@
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/my-first-post/</loc>
     <lastmod>2020-08-17T12:32:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/test/</loc>
   </url>
   
   <url>

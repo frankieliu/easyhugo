@@ -6,10 +6,55 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2020 18:28:58 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2020 17:11:56 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oracle</title>
+      <link>https://www.frankliu.org/easyhugo/posts/oracle/</link>
+      <pubDate>Thu, 20 Aug 2020 17:11:56 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/oracle/</guid>
+      <description>Job Description - Sr. Member of Technical Staff - Network Monitoring (OCI) (20000MW5) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000MW5&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Technical Staff - Network Monitoring (OCI) (20000JF8) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000JF8&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Technical Staff (20000MW3) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000MW3&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Technical Staff (20000JF7) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000JF7&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Tech Staff- OCI- VIrtual Networking- Cloud Engineering Infrastructure Developer (20000KI0) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000KI0&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr.</description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://www.frankliu.org/easyhugo/posts/electronics/</link>
+      <pubDate>Thu, 20 Aug 2020 17:10:47 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/electronics/</guid>
+      <description> (457) Teardown of the Blue Yeti Microphone - YouTube https://www.youtube.com/watch?v=graD2MPEVlU </description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://www.frankliu.org/easyhugo/posts/java/</link>
+      <pubDate>Thu, 20 Aug 2020 17:08:55 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/java/</guid>
+      <description>vscode   How to Install Visual Studio Code on Ubuntu 20.04 | Linuxize https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/  vscode-java-debug/Troubleshooting.md at master · microsoft/vscode-java-debug https://github.com/Microsoft/vscode-java-debug/blob/master/Troubleshooting.md  java - System.out.println() shortcut doesn&amp;#39;t work - Stack Overflow https://stackoverflow.com/questions/32919618/system-out-println-shortcut-doesnt-work  sysout ctrl-space jdk   Installing Open JDK 8 on Debian or Ubuntu Systems | Installing the JDK https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html conversion   java convert integer to a string - Google Search https://www.google.com/search?q=java+convert+integer+to+a+string&amp;amp;oq=java+convert+integer+to+a+string&amp;amp;aqs=chrome..69i57.6099j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  How can I convert integer into float in Java?</description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>https://www.frankliu.org/easyhugo/posts/meetup/</link>
+      <pubDate>Thu, 20 Aug 2020 17:08:06 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/meetup/</guid>
+      <description> Upcoming events | SF Bay Area Distributed Systems Group (Santa Clara, CA) | Meetup https://www.meetup.com/SF-BayArea-Distributed-Systems-Reading-Group/events/ </description>
+    </item>
+    
+    <item>
+      <title>Gnome Extensions</title>
+      <link>https://www.frankliu.org/easyhugo/posts/gnome-extensions/</link>
+      <pubDate>Thu, 20 Aug 2020 12:47:38 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/gnome-extensions/</guid>
+      <description>DrawOnYourScreen   abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen/-/tree/touchscreen4  Request: touchscreen support (#2) · Issues · abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen/-/issues/2 Clutter   Clutter (software) - Wikipedia https://en.wikipedia.org/wiki/Clutter_(software)  ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html  ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html#ClutterActor-touch-event  ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html#ClutterActor-event  Events: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/clutter-Events.html#ClutterMotionEvent  clutter/clutter-event.c · master · GNOME / clutter · GitLab https://gitlab.gnome.org/GNOME/clutter/-/blob/master/clutter/clutter-event.c Gromit-mpx   gromit-mpx/input.</description>
+    </item>
     
     <item>
       <title>Net</title>
@@ -80,7 +125,7 @@
       <pubDate>Wed, 19 Aug 2020 17:07:26 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/hangouts/</guid>
-      <description> Meet - out-gega-waa https://meet.google.com/out-gega-waa </description>
+      <description> Meet - out-gega-waa https://meet.google.com/out-gega-waa  Meet - out-gega-waa https://meet.google.com/out-gega-waa </description>
     </item>
     
     <item>
@@ -152,7 +197,7 @@
       <pubDate>Wed, 19 Aug 2020 06:38:57 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/sherlock/</guid>
-      <description> Connecting - Sherlock https://www.sherlock.stanford.edu/docs/getting-started/connecting/  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts </description>
+      <description> Connecting - Sherlock https://www.sherlock.stanford.edu/docs/getting-started/connecting/  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts  frankieliu/sherlock https://github.com/frankieliu/sherlock  Version tigervnc/1.11beta - tigervnc https://bintray.com/tigervnc/beta/tigervnc/1.11beta </description>
     </item>
     
     <item>
@@ -416,6 +461,15 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Mon, 17 Aug 2020 12:32:34 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.frankliu.org/easyhugo/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/test/</guid>
       <description></description>
     </item>
     
