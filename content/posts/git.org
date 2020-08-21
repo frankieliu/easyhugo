@@ -94,3 +94,8 @@ https://hub.github.com/
   hub pull-request
   → (opens a text editor for your pull request message)
 #+END_SRC
+
+* diff branches
+
+Viewing Differences Between Branches | Git Branches and Merging | Treehouse
+https://teamtreehouse.com/library/viewing-differences-between-branches

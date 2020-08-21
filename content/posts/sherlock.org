@@ -15,3 +15,8 @@ https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-mult
 Connection - Sherlock
 https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts
 
+frankieliu/sherlock
+https://github.com/frankieliu/sherlock
+
+Version tigervnc/1.11beta - tigervnc
+https://bintray.com/tigervnc/beta/tigervnc/1.11beta
