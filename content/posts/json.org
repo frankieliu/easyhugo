@@ -1,0 +1,55 @@
++++
+categories = [""]
+tags = [""]
+title = "Json"
+date = "2020-08-21T14:24:11-07:00"
+draft = false
++++
+
+get the first (or n'th) element in a jq json parsing - Stack Overflow
+https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing
+
+printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq
+https://github.com/stedolan/jq/issues/306
+
+jq/src at master · stedolan/jq
+https://github.com/stedolan/jq/tree/master/src
+
+jq/docs at master · stedolan/jq
+https://github.com/stedolan/jq/tree/master/docs
+
+#+BEGIN_QUOTE
+This:
+
+```
+reduce path(.[]?[]?[]?) as $path (.; setpath($path; {}))
+```
+
+works for me with code from master. If you're using 1.3 you'll need to drop the `?`s and ignore the errors or write something more like:
+
+```
+def iter: if type == "array" or type == "object" then .[] else empty end;
+reduce path(iter|iter|iter) as $path (.; setpath($path; {}))
+```
+
+which works for me too.
+
+Also, you might want to know what was replaced, an array or object, so maybe:
+
+```
+reduce path(.[]?[]?[]?) as $path (.; setpath($path; getpath($path)|if type == "array" then [] elif type == "object" then {} else . end))
+```
+
+In English: iterate the paths three levels deep in . then set at each of
+those paths either whatever value is there if it is scalar, else an empty
+structure of the same type (array or object). The reduction is needed because
+jq is copy-on-write, so after setting a value to a path in . we need to
+replace . with the output of setpath(), which is basically what `reduce`
+does. This should probably be in the tutorial, as it's quite useful. With a
+bit more effort we could have a built-in truncate tree function (instead of
+`.[]?[]?[]?` we'd use `recurse(.[]?)[0:depth]`.
+
+#+END_QUOTE
+
+vouill/jq-cheatsheet: Some useful jq commands
+https://github.com/vouill/jq-cheatsheet

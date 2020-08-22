@@ -1,0 +1,14 @@
++++
+categories = [""]
+tags = [""]
+title = "Game Dev"
+date = "2020-08-21T16:32:29-07:00"
+draft = false
++++
+
+Phaser.io vs Godot detailed comparison as of 2020 - Slant
+https://www.slant.co/versus/1065/1068/~phaser-io_vs_godot
+
+Writing games in D? : gamedev
+https://www.reddit.com/r/gamedev/comments/15cug8/writing_games_in_d/
+

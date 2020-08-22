@@ -12,3 +12,7 @@ https://stackedit.io/app#providerId=googleDrive&state=%7B%22ids%22%3A%5B%221fHga
 Text Editor - Free App for Editing Text Files
 https://texteditor.co/
 
+* For very large files
+
+Text editor to edit large (4.3 GB) plain text file - Ask Ubuntu
+https://askubuntu.com/questions/28847/text-editor-to-edit-large-4-3-gb-plain-text-file

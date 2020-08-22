@@ -54,4 +54,31 @@ https://code.woboq.org/qt5/include/X11/extensions/
 XInput.c - Google Search
 https://www.google.com/search?q=XInput.c&oq=XInput.c&aqs=chrome..69i57j69i60.4432j0j7&sourceid=chrome&ie=UTF-8
 
+* gnome-tweaks
+
+WARNING : Error loading desktopfile: /home/adam/.config/autostart/pcloud.desktop
+gnome-shell-extension-prefs is deprecated
+
+Install https://flathub.org/apps/details/org.gnome.Extensions for extension
+management, or use the gnome-extensions command line tool.
+
+Extensions can use the ExtensionUtils.openPrefs() method.
+adam@quack:~/.local/share/gnome-shell/extensions$ 
+
+Install Gnome Tweak Tools on Ubuntu 20.04 – Linux Hint
+https://linuxhint.com/gnome_tweak_installation_ubuntu/
+
+flatpak
+https://flatpak.org/
+
+* shell integration
+
+GNOME Shell integration - Chrome Web Store
+https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep/related
+
+GNOME Shell Extensions
+https://extensions.gnome.org/
+
+GNOME Shell Extensions
+https://extensions.gnome.org/
 

@@ -1,0 +1,13 @@
++++
+categories = [""]
+tags = [""]
+title = "Screen Capture"
+date = "2020-08-21T13:58:30-07:00"
+draft = false
++++
+
+Screenshot Tool - GNOME Shell Extensions
+https://extensions.gnome.org/extension/1112/screenshot-tool/
+
+(453) Lightshot » Capturar pantalla en Windows o Mac y agregar flechas, texto, líneas, garabatos, etc. 📝 - YouTube
+https://www.youtube.com/watch?v=4mqO9ouRdZ8

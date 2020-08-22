@@ -169,10 +169,47 @@ http://vimdoc.sourceforge.net/htmldoc/filetype.html
 vim - How to get 'filetype' of a buffer specified by a number? - Stack Overflow
 https://stackoverflow.com/questions/18714650/how-to-get-filetype-of-a-buffer-specified-by-a-number
 
-* don't write all the time
+* hidden write on change
+
+set hidden : so that vim doesn't ask you to write out everytime you change
+buffers
 
 Vim buffer FAQ | Vim Tips Wiki | Fandom
 https://vim.fandom.com/wiki/Vim_buffer_FAQ#hidden
 
 * snippets
 
+* save files
+
+How to save a file with a new name in VIM while switching to that new buffer (and closing the original) - Stack Overflow
+https://stackoverflow.com/questions/31092505/how-to-save-a-file-with-a-new-name-in-vim-while-switching-to-that-new-buffer-an
+
+vi - Renaming the current file in Vim - Stack Overflow
+https://stackoverflow.com/questions/1205286/renaming-the-current-file-in-vim
+
+How to save as a new file and keep working on the original one in Vim? - Stack Overflow
+https://stackoverflow.com/questions/4980168/how-to-save-as-a-new-file-and-keep-working-on-the-original-one-in-vim
+
+* panes
+
+How do I change the current split's width and height? - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/514/how-do-i-change-the-current-splits-width-and-height
+
+* clipboard
+
+Pasting a huge amount of text into vim is slow? - Stack Overflow
+https://stackoverflow.com/questions/18258561/pasting-a-huge-amount-of-text-into-vim-is-slow
+
+Difference between vim-gtk and vim-gnome - Ask Ubuntu
+https://askubuntu.com/questions/33260/difference-between-vim-gtk-and-vim-gnome
+
+virtual machine - How can I get vim yank to clipboard ("*y) working? - Stack Overflow
+https://stackoverflow.com/questions/40709985/how-can-i-get-vim-yank-to-clipboard-y-working
+
+* vimscript
+
+Preface / Learn Vimscript the Hard Way
+https://learnvimscriptthehardway.stevelosh.com/preface.html
+
+https://stevelosh.com
+https://stevelosh.com/

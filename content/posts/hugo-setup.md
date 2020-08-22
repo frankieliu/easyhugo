@@ -5,53 +5,14 @@ draft: false
 ---
 
 ```bash
-git commit -m"adding deploy.sh"
-git push
-git branch
-./deploy.sh 
-ls
-vim deploy.sh 
-./deploy.sh 
-git add .
-git commit -m"changing upstream to origin"
-git push
-./deploy.sh 
-cd layouts/
-ls
-cd ..
-cd content/
-lsc
-ls
-cd post/
-ls
-vim my-first-post.md 
-cd ..
-git status
-git add .
-git commit -m"remove from draft"
-git push
-./deploy.sh 
-cd themes/
-ls
-cd ananke/
-ls
-cd
-cd github/
-cd easyhugo/
-cd themes/
-cd ananke/
-ls
-cd ..
-ls
-git branch
-cd .git
-ls
-vim config 
-cd ..
+# use deploy to add commit hugo to gh-pages and push
+./deploy.sh
+
+# use this add ananke theme
 git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
 rm -rf themes/ananke/
 git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd .git/
+cd .git/Vhhh
 vim config 
 git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
 cd ..
@@ -59,12 +20,6 @@ less .gitmodules
 rm .gitmodules 
 git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
 git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-ls
-cd themes/
-ls
-cd an
-cd ..
-ls
 rm themes/
 rm -rf themes/
 ls
@@ -150,62 +105,9 @@ git status
 less README.md 
 mv README.md  ../easyhugo/
 ls
-git status
-git add content/.sample.md.swp 
-git status
-git commit -m"delete swp
-
-git push
-cd ..
-top
-htop
-cd easyhugo/
-hub create
-git init .
-hub create
-git remote add -f origin https://github.com/frankieliu/easyhugo
-git status
-git add README.md 
-git add archetypes/
-git add config.toml 
-git add content/
-git add deploy.sh 
-git add static/
-git status
-git submodule add git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
-ls
-hugo server 
-ls
-echo "public" >> .gitignore
-git checkout --orphan gh-pages
-git reset --hard
-git commit --allow-empty -m "Initializing gh-pages branch"
-git push upstream gh-pages
-git push origin gh-pages
-git checkout master
-git branch
-git checkout master
-git checkout -b master
-git status
-git add .gitignore
-git add themes/
-git status
-git commit -m "first"
-git status
-ls
-cd themes/
-ls
-git branch
-git checkout gh-pages 
-git status
-cd ..
-ls
-cd ..
-ls
+# starting a new repo
 rm -rf easyhugo/
-ls
 hugo new site easyhugo
-dc easyhugo/
 cd easyhugo/
 git init .
 git remote add origin https://github.com/frankieliu/easyhugo.git
@@ -418,7 +320,7 @@ less config.toml
 ls
 cd layouts/
 ls
-cd _default/
+cd _default/ _
 ls
 less baseof.html 
 diff baseof.html ../../themes/ananke/layouts/_default/baseof.html 
@@ -693,7 +595,7 @@ ls
 git status
 git add content/.sample.md.swp 
 git status
-git commit -m"delete swp
+git commit -m"delete slp"
 
 git push
 cd ..
@@ -1157,3 +1059,122 @@ https://github.com/gohugoio/hugo/pull/7435/files
 
 hugo server | Hugo
 https://gohugo.io/commands/hugo_server/
+
+# Defining your own navigation menu
+
+Taken from "How to create navigation menus in Hugo" 
+
+Create the following partials: `layouts/partials/nav.html`
+
+```html
+<ul>
+	{{ range .Site.Menus.mainmenu }}
+	<li>><a href="{{ .URL }}">{{ .Name }}</a></li>
+	{{ end }}
+</ul>
+```
+
+Note that in this case the menu is called `mainmenu`.
+
+If you want to display this partial in the header: `layouts/partials/header.html`
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{.Title}} : {{.Site.BaseURL}}</title>
+	<link rel="canonical" href="{{ .Permalink }}">
+	<link href="https://fonts.googleapis.com/css?family=Muli:400,800" rel="stylesheet">
+	<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+	<header>
+		<div class="wrapper">
+			<a href="{{.Site.BaseURL}}" class="sitelogo">My Test Website</a>
+			<nav class="header-menu">{{ partial "nav" . }}</nav>
+		</div>
+	</header>
+	<main>
+		<div class="wrapper">
+```
+
+Now you can add in your front-matter of a content file:
+
+```yaml
+menu: mainmenu
+```
+
+Another way to add on the menu with a different name:
+```yaml
+menu:
+	mainmenu:
+		name: "AnotherName"
+```
+
+# Taxonomies
+
+Hierarchical content - HUGO
+https://discourse.gohugo.io/t/hierarchical-content/14692
+
+Content Organization | Hugo
+https://gohugo.io/content-management/organization/
+
+Taxonomies | Hugo
+https://gohugo.io/content-management/taxonomies#readout
+
+Taxonomies | Hugo
+https://gohugo.io/content-management/taxonomies/
+
+Archetypes | Hugo
+https://gohugo.io/content-management/archetypes/
+
+Gohugo Theme Ananke | Hugo Themes
+https://themes.gohugo.io/gohugo-theme-ananke/
+
+What's the concept of the categories taxonomy? - support - HUGO
+https://discourse.gohugo.io/t/whats-the-concept-of-the-categories-taxonomy/6486/3
+
+Taxonomies | Hugo
+https://gohugo.io/content-management/taxonomies/#hugo-taxonomy-defaults
+
+Add Tags to Your Hugo Blog Using Taxonomies
+https://www.jakewiesler.com/blog/hugo-taxonomies
+
+Gohugo Theme Ananke | Hugo Themes
+https://themes.gohugo.io/gohugo-theme-ananke/
+
+Implemement Hugo List and Taxonomy Pages | PäksTech
+https://www.pakstech.com/blog/hugo-list-page/
+
+About | Notre-Dame de Paris
+https://themes.gohugo.io//theme/gohugo-theme-ananke/about/
+
+Menus | Hugo
+https://gohugo.io/content-management/menus/
+
+# menus
+
+This is how menus work.
+
+There is default menu at front-page called menu.
+
+Any content that you want to have on the menu add the following:
+
+```yaml
+---
+title: <sometittle>
+date: <somedate>
+draft: false
+menu:
+	mainmenu:
+	name:	"About"
+---
+```
+# nav
+
+(459) How to create navigation menus in Hugo - YouTube
+https://www.youtube.com/watch?v=E6bhmixcR5k
+
+

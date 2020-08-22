@@ -12,7 +12,6 @@ https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775
 andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan.
 https://github.com/andreafrancia/trash-cli/
 
-
 * Files in different mounts
 
 Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test': [Errno 13] Permission denied: '/.Trash-1000'

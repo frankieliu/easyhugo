@@ -1,0 +1,11 @@
++++
+categories = [""]
+tags = [""]
+title = "Python"
+date = "2020-08-21T16:33:41-07:00"
+draft = false
++++
+
+18.04 - easy_install: command not found - Ask Ubuntu
+https://askubuntu.com/questions/1040392/easy-install-command-not-found
+

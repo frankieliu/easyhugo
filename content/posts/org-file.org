@@ -27,6 +27,11 @@ https://orgmode.org/manual/Literal-Examples.html
 Inline verbatim and code with quotes in Org-mode - Emacs Stack Exchange
 https://emacs.stackexchange.com/questions/13820/inline-verbatim-and-code-with-quotes-in-org-mode
 
+* quotations
+
+org mode - how to markup a quotation? - Emacs Stack Exchange
+https://emacs.stackexchange.com/questions/27601/how-to-markup-a-quotation
+
 * code blocks
 
 Structure of Code Blocks (The Org Manual)
