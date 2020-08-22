@@ -29,22 +29,22 @@
     
     
     <meta property="og:title" content="Hugo Setup" />
-<meta property="og:description" content="git commit -m&#34;adding deploy.sh&#34; git push git branch ./deploy.sh ls vim deploy.sh ./deploy.sh git add . git commit -m&#34;changing upstream to origin&#34; git push ./deploy.sh cd layouts/ ls cd .. cd content/ lsc ls cd post/ ls vim my-first-post.md cd .. git status git add . git commit -m&#34;remove from draft&#34; git push ./deploy.sh cd themes/ ls cd ananke/ ls cd cd github/ cd easyhugo/ cd themes/ cd ananke/ ls cd ." />
+<meta property="og:description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # use this add ananke theme git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm -rf themes/ananke/ git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .git/Vhhh vim config git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .. less .gitmodules rm .gitmodules git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm themes/ rm -rf themes/ ls cd .git/ l less config git submodule add https://github." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/hugo-setup/" />
 <meta property="article:published_time" content="2020-08-17T13:45:18-07:00" />
 <meta property="article:modified_time" content="2020-08-17T13:45:18-07:00" />
 <meta itemprop="name" content="Hugo Setup">
-<meta itemprop="description" content="git commit -m&#34;adding deploy.sh&#34; git push git branch ./deploy.sh ls vim deploy.sh ./deploy.sh git add . git commit -m&#34;changing upstream to origin&#34; git push ./deploy.sh cd layouts/ ls cd .. cd content/ lsc ls cd post/ ls vim my-first-post.md cd .. git status git add . git commit -m&#34;remove from draft&#34; git push ./deploy.sh cd themes/ ls cd ananke/ ls cd cd github/ cd easyhugo/ cd themes/ cd ananke/ ls cd .">
+<meta itemprop="description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # use this add ananke theme git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm -rf themes/ananke/ git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .git/Vhhh vim config git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .. less .gitmodules rm .gitmodules git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm themes/ rm -rf themes/ ls cd .git/ l less config git submodule add https://github.">
 <meta itemprop="datePublished" content="2020-08-17T13:45:18-07:00" />
 <meta itemprop="dateModified" content="2020-08-17T13:45:18-07:00" />
-<meta itemprop="wordCount" content="2521">
+<meta itemprop="wordCount" content="2575">
 
 
 
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Hugo Setup"/>
-<meta name="twitter:description" content="git commit -m&#34;adding deploy.sh&#34; git push git branch ./deploy.sh ls vim deploy.sh ./deploy.sh git add . git commit -m&#34;changing upstream to origin&#34; git push ./deploy.sh cd layouts/ ls cd .. cd content/ lsc ls cd post/ ls vim my-first-post.md cd .. git status git add . git commit -m&#34;remove from draft&#34; git push ./deploy.sh cd themes/ ls cd ananke/ ls cd cd github/ cd easyhugo/ cd themes/ cd ananke/ ls cd ."/>
+<meta name="twitter:description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # use this add ananke theme git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm -rf themes/ananke/ git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .git/Vhhh vim config git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .. less .gitmodules rm .gitmodules git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm themes/ rm -rf themes/ ls cd .git/ l less config git submodule add https://github."/>
 
 	
     <script>
@@ -163,53 +163,14 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git commit -m<span style="color:#e6db74">&#34;adding deploy.sh&#34;</span>
-git push
-git branch
-./deploy.sh 
-ls
-vim deploy.sh 
-./deploy.sh 
-git add .
-git commit -m<span style="color:#e6db74">&#34;changing upstream to origin&#34;</span>
-git push
-./deploy.sh 
-cd layouts/
-ls
-cd ..
-cd content/
-lsc
-ls
-cd post/
-ls
-vim my-first-post.md 
-cd ..
-git status
-git add .
-git commit -m<span style="color:#e6db74">&#34;remove from draft&#34;</span>
-git push
-./deploy.sh 
-cd themes/
-ls
-cd ananke/
-ls
-cd
-cd github/
-cd easyhugo/
-cd themes/
-cd ananke/
-ls
-cd ..
-ls
-git branch
-cd .git
-ls
-vim config 
-cd ..
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e"># use deploy to add commit hugo to gh-pages and push</span>
+./deploy.sh
+
+<span style="color:#75715e"># use this add ananke theme</span>
 git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
 rm -rf themes/ananke/
 git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd .git/
+cd .git/Vhhh
 vim config 
 git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
 cd ..
@@ -217,12 +178,6 @@ less .gitmodules
 rm .gitmodules 
 git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
 git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-ls
-cd themes/
-ls
-cd an
-cd ..
-ls
 rm themes/
 rm -rf themes/
 ls
@@ -308,76 +263,23 @@ git status
 less README.md 
 mv README.md  ../easyhugo/
 ls
+<span style="color:#75715e"># starting a new repo</span>
+rm -rf easyhugo/
+hugo new site easyhugo
+cd easyhugo/
+git init .
+git remote add origin https://github.com/frankieliu/easyhugo.git
+git push -u origin master
 git status
-git add content/.sample.md.swp 
-git status
-git commit -m<span style="color:#e6db74">&#34;delete swp
-</span><span style="color:#e6db74">
-</span><span style="color:#e6db74">git push
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">top
-</span><span style="color:#e6db74">htop
-</span><span style="color:#e6db74">cd easyhugo/
-</span><span style="color:#e6db74">hub create
-</span><span style="color:#e6db74">git init .
-</span><span style="color:#e6db74">hub create
-</span><span style="color:#e6db74">git remote add -f origin https://github.com/frankieliu/easyhugo
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git add README.md 
-</span><span style="color:#e6db74">git add archetypes/
-</span><span style="color:#e6db74">git add config.toml 
-</span><span style="color:#e6db74">git add content/
-</span><span style="color:#e6db74">git add deploy.sh 
-</span><span style="color:#e6db74">git add static/
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git submodule add git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">hugo server 
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">echo &#34;</span>public<span style="color:#e6db74">&#34; &gt;&gt; .gitignore
-</span><span style="color:#e6db74">git checkout --orphan gh-pages
-</span><span style="color:#e6db74">git reset --hard
-</span><span style="color:#e6db74">git commit --allow-empty -m &#34;</span>Initializing gh-pages branch<span style="color:#e6db74">&#34;
-</span><span style="color:#e6db74">git push upstream gh-pages
-</span><span style="color:#e6db74">git push origin gh-pages
-</span><span style="color:#e6db74">git checkout master
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">git checkout master
-</span><span style="color:#e6db74">git checkout -b master
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git add .gitignore
-</span><span style="color:#e6db74">git add themes/
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git commit -m &#34;</span>first<span style="color:#e6db74">&#34;
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">cd themes/
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">git checkout gh-pages 
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">rm -rf easyhugo/
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">hugo new site easyhugo
-</span><span style="color:#e6db74">dc easyhugo/
-</span><span style="color:#e6db74">cd easyhugo/
-</span><span style="color:#e6db74">git init .
-</span><span style="color:#e6db74">git remote add origin https://github.com/frankieliu/easyhugo.git
-</span><span style="color:#e6db74">git push -u origin master
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">rm -rf easyhugo/
-</span><span style="color:#e6db74">git clone https://github.com/frankieliu/easyhugo
-</span><span style="color:#e6db74">cd easyhugo/
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">git init
-</span><span style="color:#e6db74">echo &#34;</span><span style="color:#75715e"># easyhugo&#34; &gt;&gt; README.md</span>
+git branch
+cd ..
+rm -rf easyhugo/
+git clone https://github.com/frankieliu/easyhugo
+cd easyhugo/
+ls
+git branch
+git init
+echo <span style="color:#e6db74">&#34;# easyhugo&#34;</span> &gt;&gt; README.md
 git commit -m<span style="color:#e6db74">&#34;first commit&#34;</span>
 git push 
 git branch
@@ -576,7 +478,7 @@ less config.toml
 ls
 cd layouts/
 ls
-cd _default/
+cd _default/ _
 ls
 less baseof.html 
 diff baseof.html ../../themes/ananke/layouts/_default/baseof.html 
@@ -851,73 +753,73 @@ ls
 git status
 git add content/.sample.md.swp 
 git status
-git commit -m<span style="color:#e6db74">&#34;delete swp
-</span><span style="color:#e6db74">
-</span><span style="color:#e6db74">git push
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">top
-</span><span style="color:#e6db74">htop
-</span><span style="color:#e6db74">cd easyhugo/
-</span><span style="color:#e6db74">hub create
-</span><span style="color:#e6db74">git init .
-</span><span style="color:#e6db74">hub create
-</span><span style="color:#e6db74">git remote add -f origin https://github.com/frankieliu/easyhugo
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git add README.md 
-</span><span style="color:#e6db74">git add archetypes/
-</span><span style="color:#e6db74">git add config.toml 
-</span><span style="color:#e6db74">git add content/
-</span><span style="color:#e6db74">git add deploy.sh 
-</span><span style="color:#e6db74">git add static/
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git submodule add git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">hugo server 
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">echo &#34;</span>public<span style="color:#e6db74">&#34; &gt;&gt; .gitignore
-</span><span style="color:#e6db74">git checkout --orphan gh-pages
-</span><span style="color:#e6db74">git reset --hard
-</span><span style="color:#e6db74">git commit --allow-empty -m &#34;</span>Initializing gh-pages branch<span style="color:#e6db74">&#34;
-</span><span style="color:#e6db74">git push upstream gh-pages
-</span><span style="color:#e6db74">git push origin gh-pages
-</span><span style="color:#e6db74">git checkout master
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">git checkout master
-</span><span style="color:#e6db74">git checkout -b master
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git add .gitignore
-</span><span style="color:#e6db74">git add themes/
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git commit -m &#34;</span>first<span style="color:#e6db74">&#34;
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">cd themes/
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">git checkout gh-pages 
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">rm -rf easyhugo/
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">hugo new site easyhugo
-</span><span style="color:#e6db74">dc easyhugo/
-</span><span style="color:#e6db74">cd easyhugo/
-</span><span style="color:#e6db74">git init .
-</span><span style="color:#e6db74">git remote add origin https://github.com/frankieliu/easyhugo.git
-</span><span style="color:#e6db74">git push -u origin master
-</span><span style="color:#e6db74">git status
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">cd ..
-</span><span style="color:#e6db74">rm -rf easyhugo/
-</span><span style="color:#e6db74">git clone https://github.com/frankieliu/easyhugo
-</span><span style="color:#e6db74">cd easyhugo/
-</span><span style="color:#e6db74">ls
-</span><span style="color:#e6db74">git branch
-</span><span style="color:#e6db74">git init
-</span><span style="color:#e6db74">echo &#34;</span><span style="color:#75715e"># easyhugo&#34; &gt;&gt; README.md</span>
+git commit -m<span style="color:#e6db74">&#34;delete slp&#34;</span>
+
+git push
+cd ..
+top
+htop
+cd easyhugo/
+hub create
+git init .
+hub create
+git remote add -f origin https://github.com/frankieliu/easyhugo
+git status
+git add README.md 
+git add archetypes/
+git add config.toml 
+git add content/
+git add deploy.sh 
+git add static/
+git status
+git submodule add git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+ls
+hugo server 
+ls
+echo <span style="color:#e6db74">&#34;public&#34;</span> &gt;&gt; .gitignore
+git checkout --orphan gh-pages
+git reset --hard
+git commit --allow-empty -m <span style="color:#e6db74">&#34;Initializing gh-pages branch&#34;</span>
+git push upstream gh-pages
+git push origin gh-pages
+git checkout master
+git branch
+git checkout master
+git checkout -b master
+git status
+git add .gitignore
+git add themes/
+git status
+git commit -m <span style="color:#e6db74">&#34;first&#34;</span>
+git status
+ls
+cd themes/
+ls
+git branch
+git checkout gh-pages 
+git status
+cd ..
+ls
+cd ..
+ls
+rm -rf easyhugo/
+ls
+hugo new site easyhugo
+dc easyhugo/
+cd easyhugo/
+git init .
+git remote add origin https://github.com/frankieliu/easyhugo.git
+git push -u origin master
+git status
+git branch
+cd ..
+rm -rf easyhugo/
+git clone https://github.com/frankieliu/easyhugo
+cd easyhugo/
+ls
+git branch
+git init
+echo <span style="color:#e6db74">&#34;# easyhugo&#34;</span> &gt;&gt; README.md
 git commit -m<span style="color:#e6db74">&#34;first commit&#34;</span>
 git push 
 git branch
@@ -1288,6 +1190,83 @@ next to the post which is kind of nice.</p>
 <h1 id="server-setup">server setup</h1>
 <p>hugo server | Hugo
 <a href="https://gohugo.io/commands/hugo_server/">https://gohugo.io/commands/hugo_server/</a></p>
+<h1 id="defining-your-own-navigation-menu">Defining your own navigation menu</h1>
+<p>Taken from &ldquo;How to create navigation menus in Hugo&rdquo;</p>
+<p>Create the following partials: <code>layouts/partials/nav.html</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">ul</span>&gt;
+	{{ range .Site.Menus.mainmenu }}
+	&lt;<span style="color:#f92672">li</span>&gt;&gt;&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .URL }}&#34;</span>&gt;{{ .Name }}&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">li</span>&gt;
+	{{ end }}
+&lt;/<span style="color:#f92672">ul</span>&gt;
+</code></pre></div><p>Note that in this case the menu is called <code>mainmenu</code>.</p>
+<p>If you want to display this partial in the header: <code>layouts/partials/header.html</code></p>
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;meta charset=&quot;UTF-8&quot;&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+	&lt;title&gt;{{.Title}} : {{.Site.BaseURL}}&lt;/title&gt;
+	&lt;link rel=&quot;canonical&quot; href=&quot;{{ .Permalink }}&quot;&gt;
+	&lt;link href=&quot;https://fonts.googleapis.com/css?family=Muli:400,800&quot; rel=&quot;stylesheet&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/style.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;header&gt;
+		&lt;div class=&quot;wrapper&quot;&gt;
+			&lt;a href=&quot;{{.Site.BaseURL}}&quot; class=&quot;sitelogo&quot;&gt;My Test Website&lt;/a&gt;
+			&lt;nav class=&quot;header-menu&quot;&gt;{{ partial &quot;nav&quot; . }}&lt;/nav&gt;
+		&lt;/div&gt;
+	&lt;/header&gt;
+	&lt;main&gt;
+		&lt;div class=&quot;wrapper&quot;&gt;
+</code></pre><p>Now you can add in your front-matter of a content file:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#66d9ef">menu</span>: mainmenu
+</code></pre></div><p>Another way to add on the menu with a different name:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#66d9ef">menu</span>:
+	<span style="color:#66d9ef">mainmenu</span>:
+		<span style="color:#66d9ef">name</span>: <span style="color:#e6db74">&#34;AnotherName&#34;</span>
+</code></pre></div><h1 id="taxonomies">Taxonomies</h1>
+<p>Hierarchical content - HUGO
+<a href="https://discourse.gohugo.io/t/hierarchical-content/14692">https://discourse.gohugo.io/t/hierarchical-content/14692</a></p>
+<p>Content Organization | Hugo
+<a href="https://gohugo.io/content-management/organization/">https://gohugo.io/content-management/organization/</a></p>
+<p>Taxonomies | Hugo
+<a href="https://gohugo.io/content-management/taxonomies#readout">https://gohugo.io/content-management/taxonomies#readout</a></p>
+<p>Taxonomies | Hugo
+<a href="https://gohugo.io/content-management/taxonomies/">https://gohugo.io/content-management/taxonomies/</a></p>
+<p>Archetypes | Hugo
+<a href="https://gohugo.io/content-management/archetypes/">https://gohugo.io/content-management/archetypes/</a></p>
+<p>Gohugo Theme Ananke | Hugo Themes
+<a href="https://themes.gohugo.io/gohugo-theme-ananke/">https://themes.gohugo.io/gohugo-theme-ananke/</a></p>
+<p>What&rsquo;s the concept of the categories taxonomy? - support - HUGO
+<a href="https://discourse.gohugo.io/t/whats-the-concept-of-the-categories-taxonomy/6486/3">https://discourse.gohugo.io/t/whats-the-concept-of-the-categories-taxonomy/6486/3</a></p>
+<p>Taxonomies | Hugo
+<a href="https://gohugo.io/content-management/taxonomies/#hugo-taxonomy-defaults">https://gohugo.io/content-management/taxonomies/#hugo-taxonomy-defaults</a></p>
+<p>Add Tags to Your Hugo Blog Using Taxonomies
+<a href="https://www.jakewiesler.com/blog/hugo-taxonomies">https://www.jakewiesler.com/blog/hugo-taxonomies</a></p>
+<p>Gohugo Theme Ananke | Hugo Themes
+<a href="https://themes.gohugo.io/gohugo-theme-ananke/">https://themes.gohugo.io/gohugo-theme-ananke/</a></p>
+<p>Implemement Hugo List and Taxonomy Pages | PäksTech
+<a href="https://www.pakstech.com/blog/hugo-list-page/">https://www.pakstech.com/blog/hugo-list-page/</a></p>
+<p>About | Notre-Dame de Paris
+<a href="https://themes.gohugo.io//theme/gohugo-theme-ananke/about/">https://themes.gohugo.io//theme/gohugo-theme-ananke/about/</a></p>
+<p>Menus | Hugo
+<a href="https://gohugo.io/content-management/menus/">https://gohugo.io/content-management/menus/</a></p>
+<h1 id="menus">menus</h1>
+<p>This is how menus work.</p>
+<p>There is default menu at front-page called menu.</p>
+<p>Any content that you want to have on the menu add the following:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml">---
+<span style="color:#66d9ef">title</span>: &lt;sometittle&gt;
+<span style="color:#66d9ef">date</span>: &lt;somedate&gt;
+<span style="color:#66d9ef">draft</span>: <span style="color:#66d9ef">false</span>
+<span style="color:#66d9ef">menu</span>:
+	<span style="color:#66d9ef">mainmenu</span>:
+	name:	<span style="color:#e6db74">&#34;About&#34;</span>
+---
+</code></pre></div><h1 id="nav">nav</h1>
+<p>(459) How to create navigation menus in Hugo - YouTube
+<a href="https://www.youtube.com/watch?v=E6bhmixcR5k">https://www.youtube.com/watch?v=E6bhmixcR5k</a></p>
 <ul class="pa0">
   
 </ul>

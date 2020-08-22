@@ -6,10 +6,163 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 17:11:56 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 16:35:26 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Screen Rectangle</title>
+      <link>https://www.frankliu.org/easyhugo/posts/screen-rectangle/</link>
+      <pubDate>Fri, 21 Aug 2020 16:35:26 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/screen-rectangle/</guid>
+      <description> Ubuntu – Package Search Results – slop https://packages.ubuntu.com/search?keywords=slop </description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://www.frankliu.org/easyhugo/posts/python/</link>
+      <pubDate>Fri, 21 Aug 2020 16:33:41 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/python/</guid>
+      <description> 18.04 - easy_install: command not found - Ask Ubuntu https://askubuntu.com/questions/1040392/easy-install-command-not-found </description>
+    </item>
+    
+    <item>
+      <title>Game Dev</title>
+      <link>https://www.frankliu.org/easyhugo/posts/game-dev/</link>
+      <pubDate>Fri, 21 Aug 2020 16:32:29 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/game-dev/</guid>
+      <description> Phaser.io vs Godot detailed comparison as of 2020 - Slant https://www.slant.co/versus/1065/1068/~phaser-io_vs_godot  Writing games in D? : gamedev https://www.reddit.com/r/gamedev/comments/15cug8/writing_games_in_d/ </description>
+    </item>
+    
+    <item>
+      <title>Cheatsheets</title>
+      <link>https://www.frankliu.org/easyhugo/posts/cheatsheets/</link>
+      <pubDate>Fri, 21 Aug 2020 16:31:53 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/cheatsheets/</guid>
+      <description> Vim scripting cheatsheet https://devhints.io/vimscript  Elixir cheatsheet https://devhints.io/elixir  React.js cheatsheet https://devhints.io/react  Devhints — TL;DR for developer documentation https://devhints.io/?q=ruby  Ruby cheatsheet https://devhints.io/ruby  Rake cheatsheet https://devhints.io/rake  Rails cheatsheet https://devhints.io/rails  CSS cheatsheet https://devhints.io/css  Bootstrap cheatsheet https://devhints.io/bootstrap  SQL joins cheatsheet https://devhints.io/sql-join  Python cheatsheet https://devhints.io/python  Lua cheatsheet https://devhints.io/lua  TypeScript cheatsheet https://devhints.io/typescript  Vue.js cheatsheet https://devhints.io/vue </description>
+    </item>
+    
+    <item>
+      <title>Key Display</title>
+      <link>https://www.frankliu.org/easyhugo/posts/key-display/</link>
+      <pubDate>Fri, 21 Aug 2020 16:28:46 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/key-display/</guid>
+      <description>keyboard - Show keys pressed in Linux - Super User https://superuser.com/questions/248517/show-keys-pressed-in-linux  scottkirkwood/key-mon: Automatically exported from code.google.com/p/key-mon https://github.com/scottkirkwood/key-mon  key-mon/INSTALL.rst at master · scottkirkwood/key-mon https://github.com/scottkirkwood/key-mon/blob/master/INSTALL.rst  Google Code Archive - Long-term storage for Google Code Project Hosting. https://code.google.com/archive/p/key-mon/downloads  (459) Install Screenkey and Keymon on Ubuntu - YouTube https://www.youtube.com/watch?v=BT8SBnCd_SA  key-mon on lubuntu 20.04 - Ask Ubuntu https://askubuntu.com/questions/1236194/key-mon-on-lubuntu-20-04  linux - How to stop run the screenkey - Super User https://superuser.</description>
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>https://www.frankliu.org/easyhugo/posts/mermaid/</link>
+      <pubDate>Fri, 21 Aug 2020 16:24:44 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/mermaid/</guid>
+      <description> Add Diagrams to your Jekyll/Hugo/Gatsby blog with Mermaid JS · Code with Hugo https://codewithhugo.com/mermaid-js-hugo-shortcode/ </description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://www.frankliu.org/easyhugo/posts/markdown/</link>
+      <pubDate>Fri, 21 Aug 2020 16:24:25 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/markdown/</guid>
+      <description>iamcco/markdown-preview.nvim: markdown preview plugin for (neo)vim https://github.com/iamcco/markdown-preview.nvim  plasticboy/vim-markdown: Markdown Vim Mode https://github.com/plasticboy/vim-markdown  Markdown with fenced code blocks is great : vim https://www.reddit.com/r/vim/comments/2x5yav/markdown_with_fenced_code_blocks_is_great/  Markdown with fenced code blocks is great : vim https://www.reddit.com/r/vim/comments/2x5yav/markdown_with_fenced_code_blocks_is_great/  vim-markdown/vim-markdown.txt at master · plasticboy/vim-markdown https://github.com/plasticboy/vim-markdown/blob/master/doc/vim-markdown.txt  amiorin/vim-fenced-code-blocks: Edit fenced code blocks inside a GitHub Flavor Markdown in a better way. https://github.com/amiorin/vim-fenced-code-blocks  Writing on GitHub - GitHub Docs https://docs.github.com/en/github/writing-on-github#fenced-code-blocks  vim-fenced-code-blocks/fenced-code-blocks.vim at master · amiorin/vim-fenced-code-blocks https://github.</description>
+    </item>
+    
+    <item>
+      <title>Keymap</title>
+      <link>https://www.frankliu.org/easyhugo/posts/keymap/</link>
+      <pubDate>Fri, 21 Aug 2020 14:52:30 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/keymap/</guid>
+      <description> Key to mute   Create a Shortcut or Hotkey to Mute the Speakers on Linux https://www.howtogeek.com/howto/linux/create-a-shortcut-or-hotkey-to-mute-the-speakers-on-linux/  Enabling multimedia keys - i3 FAQ https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html  audiomicmute ubuntu remap - Google Search https://www.google.com/search?sxsrf=ALeKk03QEgc92bwqx56y_mFBjxj_8uru5w%3A1598023042228&amp;amp;ei=guU_X9y7DZje-gTgyp2YAw&amp;amp;q=audiomicmute+ubuntu+remap&amp;amp;oq=audiomicmute+ubuntu+remap&amp;amp;gs_lcp=CgZwc3ktYWIQAzIHCCEQChCgATIHCCEQChCgAToECAAQRzoFCCEQqwI6BwgjELACECc6CAgAEAgQDRAeUPIYWOBJYKlLaAdwAXgAgAG3AYgBoBWSAQUxNi4xMZgBAKABAaoBB2d3cy13aXrAAQE&amp;amp;sclient=psy-ab&amp;amp;ved=0ahUKEwjchJney6zrAhUYr54KHWBlBzMQ4dUDCAw&amp;amp;uact=5  How to enable the Thinkpad microphone mute key on Ubuntu 16.04 - makandra dev https://makandracards.com/makandra/47162-how-to-enable-the-thinkpad-microphone-mute-key-on-ubuntu-16-04  ubuntu map key to mute - Google Search https://www.google.com/search?q=ubuntu+map+key+to+mute&amp;amp;oq=ubuntu+map+key+to+mute&amp;amp;aqs=chrome..69i57.7521j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 </description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://www.frankliu.org/easyhugo/posts/bootstrap/</link>
+      <pubDate>Fri, 21 Aug 2020 14:50:15 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/bootstrap/</guid>
+      <description> Bootstrap · The most popular HTML, CSS, and JS library in the world. https://getbootstrap.com/  Bootswatch: Free themes for Bootstrap https://bootswatch.com/  Instance - Bootstrap Personal Portfolio Template for Full Stack Developers https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/  UX &amp;amp; Bootstrap (@3rdwave_themes) / Twitter https://twitter.com/3rdwave_themes  UX Centred Bootstrap Templates &amp;amp; Themes For Developers | UX &amp;amp; Bootstrap https://themes.3rdwavemedia.com/ </description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>https://www.frankliu.org/easyhugo/posts/json/</link>
+      <pubDate>Fri, 21 Aug 2020 14:24:11 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/json/</guid>
+      <description>get the first (or n&amp;#39;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing  printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306  jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src  jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs   This:  ``` reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) ```  works for me with code from master. If you&amp;#39;re using 1.</description>
+    </item>
+    
+    <item>
+      <title>Facebook</title>
+      <link>https://www.frankliu.org/easyhugo/posts/facebook/</link>
+      <pubDate>Fri, 21 Aug 2020 14:23:35 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/facebook/</guid>
+      <description> Blue Jeans Network | Video Collaboration in the Cloud https://fb.bluejeans.com/?next=/scheduling/  Immigration Form | Facebook Recruiting https://www.facebookrecruiting.com/portal/immigration/?fid=2449982275299983 </description>
+    </item>
+    
+    <item>
+      <title>Jobs</title>
+      <link>https://www.frankliu.org/easyhugo/posts/jobs/</link>
+      <pubDate>Fri, 21 Aug 2020 14:22:52 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/jobs/</guid>
+      <description> Senior Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-software-engineer-resume-sample  Senior / Lead Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-lead-software-engineer-resume-sample  Principal Software Engineer Lead Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/principal-software-engineer-lead-resume-sample  Search | Velvet Jobs https://www.velvetjobs.com/search?filter=&amp;amp;query=distinguised+engineer  Compare salaries and career levels across companies | Levels.fyi https://www.levels.fyi/ </description>
+    </item>
+    
+    <item>
+      <title>Thunderbird</title>
+      <link>https://www.frankliu.org/easyhugo/posts/thunderbird/</link>
+      <pubDate>Fri, 21 Aug 2020 14:05:00 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/thunderbird/</guid>
+      <description> Moving Thunderbird Data to a New Computer | Thunderbird Help https://support.mozilla.org/en-US/kb/moving-thunderbird-data-to-a-new-computer#:~:text=Go%20to%20the%20drive%20you,Thunderbird%20folder%2C%20and%20select%20Copy%20. </description>
+    </item>
+    
+    <item>
+      <title>Screen Capture</title>
+      <link>https://www.frankliu.org/easyhugo/posts/screen-capture/</link>
+      <pubDate>Fri, 21 Aug 2020 13:58:30 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/screen-capture/</guid>
+      <description> Screenshot Tool - GNOME Shell Extensions https://extensions.gnome.org/extension/1112/screenshot-tool/  (453) Lightshot » Capturar pantalla en Windows o Mac y agregar flechas, texto, líneas, garabatos, etc. 📝 - YouTube https://www.youtube.com/watch?v=4mqO9ouRdZ8 </description>
+    </item>
+    
+    <item>
+      <title>Annotate Screen</title>
+      <link>https://www.frankliu.org/easyhugo/posts/screen-annotate/</link>
+      <pubDate>Fri, 21 Aug 2020 13:57:34 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/screen-annotate/</guid>
+      <description>xorg - Drawing over the desktop - Ask Ubuntu https://askubuntu.com/questions/328543/drawing-over-the-desktop  Draw On Your Screen with this Neat GNOME Shell Extension - OMG! Ubuntu! https://www.omgubuntu.co.uk/2019/03/draw-on-your-screen-ubuntu-linux  Draw On You Screen - GNOME Shell Extensions https://extensions.gnome.org/extension/1683/draw-on-you-screen/  abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen  Gromit-MPX VS Ardesia - differences &amp;amp; reviews? | SaaSHub https://www.saashub.com/compare-gromit-mpx-vs-ardesia  Google Code Archive - Long-term storage for Google Code Project Hosting. https://code.google.com/archive/p/ardesia/  software recommendation - Can I annotate the screen in Gnome Shell?</description>
+    </item>
+    
+    <item>
+      <title>Screen Record</title>
+      <link>https://www.frankliu.org/easyhugo/posts/screen-record/</link>
+      <pubDate>Fri, 21 Aug 2020 13:56:46 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/screen-record/</guid>
+      <description>9 Best Screen Recorders for Linux in 2020 https://itsfoss.com/best-linux-screen-recorders/  Instantly Screen Record on Ubuntu Using this Hidden Feature - OMG! Ubuntu! https://www.omgubuntu.co.uk/2018/06/gnome-shell-screen-recorder-ubuntu  Design/Apps/Potential/Recorder - GNOME Wiki! https://wiki.gnome.org/Design/Apps/Potential/Recorder  EasyScreenCast - GNOME Shell Extensions https://extensions.gnome.org/extension/690/easyscreencast/  EasyScreenCast/EasyScreenCast: This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording. https://github.com/EasyScreenCast/EasyScreenCast  EasyScreenCast - GNOME Shell Extensions https://extensions.</description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>https://www.frankliu.org/easyhugo/posts/apps/</link>
+      <pubDate>Fri, 21 Aug 2020 12:11:09 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/apps/</guid>
+      <description>Screen capture   maim File diff   meld Image viewer   geeqie Sound recorder   audio-recorder Screen recorder   simplescreenrecorder Draw on screen   gromit-mpx drawOnYouScreen (gnome-extension) Json processing   jq Large file editor   joe Hex editor   mc (midnight commander) Animated gif  ffmpeg and convert   ffmpeg -ss 01:44 -i Linus-Torvalds-Nvidia.mp4 -t 00:04 Linus-Torvalds-Nvidia_%03d.png convert -delay 100 -loop 0 *.</description>
+    </item>
     
     <item>
       <title>Oracle</title>
@@ -170,7 +323,7 @@
       <pubDate>Wed, 19 Aug 2020 15:43:15 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/text-editors/</guid>
-      <description> StackEdit https://stackedit.io/app#providerId=googleDrive&amp;amp;state=%7B%22ids%22%3A%5B%221fHgagb3BOOtEPAwYUBGBJNVHWFBROWKr%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22113098389584130909559%22%7D  Text Editor - Free App for Editing Text Files https://texteditor.co/ </description>
+      <description>  StackEdit https://stackedit.io/app#providerId=googleDrive&amp;amp;state=%7B%22ids%22%3A%5B%221fHgagb3BOOtEPAwYUBGBJNVHWFBROWKr%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22113098389584130909559%22%7D  Text Editor - Free App for Editing Text Files https://texteditor.co/ For very large files   Text editor to edit large (4.3 GB) plain text file - Ask Ubuntu https://askubuntu.com/questions/28847/text-editor-to-edit-large-4-3-gb-plain-text-file </description>
     </item>
     
     <item>
@@ -443,7 +596,7 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Mon, 17 Aug 2020 14:15:30 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/org-file/</guid>
-      <description>class ballon(): def __init__(self): pass   $x_2 + y_3 = 5$ $$ \sum_{i&amp;lt;j} \Pi $$  literals   Literal Examples (The Org Manual) https://orgmode.org/manual/Literal-Examples.html inline literals   Inline verbatim and code with quotes in Org-mode - Emacs Stack Exchange https://emacs.stackexchange.com/questions/13820/inline-verbatim-and-code-with-quotes-in-org-mode code blocks   Structure of Code Blocks (The Org Manual) https://orgmode.org/manual/Structure-of-Code-Blocks.html inline literals with apostrophes   Applying Markup to Strings in org-mode · Endless Parentheses http://endlessparentheses.</description>
+      <description>class ballon(): def __init__(self): pass   $x_2 + y_3 = 5$ $$ \sum_{i&amp;lt;j} \Pi $$  literals   Literal Examples (The Org Manual) https://orgmode.org/manual/Literal-Examples.html inline literals   Inline verbatim and code with quotes in Org-mode - Emacs Stack Exchange https://emacs.stackexchange.com/questions/13820/inline-verbatim-and-code-with-quotes-in-org-mode quotations   org mode - how to markup a quotation? - Emacs Stack Exchange https://emacs.stackexchange.com/questions/27601/how-to-markup-a-quotation code blocks   Structure of Code Blocks (The Org Manual) https://orgmode.</description>
     </item>
     
     <item>
@@ -452,7 +605,7 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Mon, 17 Aug 2020 13:45:18 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/hugo-setup/</guid>
-      <description>git commit -m&amp;#34;adding deploy.sh&amp;#34; git push git branch ./deploy.sh ls vim deploy.sh ./deploy.sh git add . git commit -m&amp;#34;changing upstream to origin&amp;#34; git push ./deploy.sh cd layouts/ ls cd .. cd content/ lsc ls cd post/ ls vim my-first-post.md cd .. git status git add . git commit -m&amp;#34;remove from draft&amp;#34; git push ./deploy.sh cd themes/ ls cd ananke/ ls cd cd github/ cd easyhugo/ cd themes/ cd ananke/ ls cd .</description>
+      <description># use deploy to add commit hugo to gh-pages and push ./deploy.sh # use this add ananke theme git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm -rf themes/ananke/ git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .git/Vhhh vim config git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .. less .gitmodules rm .gitmodules git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm themes/ rm -rf themes/ ls cd .git/ l less config git submodule add https://github.</description>
     </item>
     
     <item>
@@ -461,15 +614,6 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Mon, 17 Aug 2020 12:32:34 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.frankliu.org/easyhugo/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.frankliu.org/easyhugo/posts/test/</guid>
       <description></description>
     </item>
     
