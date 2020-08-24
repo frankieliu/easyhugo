@@ -53,6 +53,11 @@ https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-p
 Issue with adding common code as git submodule: "already exists in the index" - Stack Overflow
 https://stackoverflow.com/questions/12898278/issue-with-adding-common-code-as-git-submodule-already-exists-in-the-index
 
+** delete submodule
+
+How effectively delete a git submodule.
+https://gist.github.com/myusuf3/7f645819ded92bda6677
+
 * downloading individual files
 git - Download single files from GitHub - Stack Overflow
 https://stackoverflow.com/questions/4604663/download-single-files-from-github

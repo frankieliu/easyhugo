@@ -30,3 +30,9 @@ https://extensions.gnome.org/extension/690/easyscreencast/#
 EasyScreenCast - GNOME Shell Extensions
 https://extensions.gnome.org/extension/690/easyscreencast/
 
+Custom codec options - SimpleScreenRecorder - Maarten Baert's website
+https://www.maartenbaert.be/simplescreenrecorder/custom-codec-options/
+
+CRF Guide (Constant Rate Factor in x264, x265 and libvpx)
+https://slhck.info/video/2017/02/24/crf-guide.html
+

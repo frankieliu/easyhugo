@@ -1,0 +1,16 @@
++++
+categories = [""]
+tags = [""]
+title = "Javascript"
+date = "2020-08-23T19:20:24-07:00"
+draft = false
++++
+
+trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/trekhleb/javascript-algorithms
+
+(465) Algorithms and Data Structures - YouTube
+https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
+
+(25) Oleksii Trekhleb | LinkedIn
+https://www.linkedin.com/in/trekhleb/?originalSubdomain=nl
