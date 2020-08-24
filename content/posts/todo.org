@@ -1,0 +1,209 @@
+Todo | Trello
+https://trello.com/b/naGD4VMR/todo
+
+Slickdeals: The Best Deals, Coupons, Promo Codes & Discounts
+https://slickdeals.net/
+
+linux driver to change internal gain on blue devices - Google Search
+https://www.google.com/search?q=linux+driver+to+change+internal+gain+on+blue+devices&rlz=1C1CHBF_enUS811US811&oq=linux+driver+to+change+internal+gain+on+blue+devices&aqs=chrome..69i57.13778j0j7&sourceid=chrome&ie=UTF-8
+
+192.168.29.1/Logout.asp
+http://192.168.29.1/Logout.asp
+
+Dell MFP E515dw
+http://192.168.29.156/general/status.html
+
+Inbox (26,903) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Two By Two Lyrics - Book of Mormon, The musical
+https://www.allmusicals.com/lyrics/bookofmormonthe/twobytwo.htm
+
+steve erikson - Google Search
+https://www.google.com/search?q=steve+erikson&rlz=1C1CHBF_enUS811US811&oq=steve+erikson&aqs=chrome..69i57j69i65.68428j0j4&sourceid=chrome&ie=UTF-8
+
+Malazan Book of the Fallen - Wikipedia
+https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen
+
+Hugo, Asciidoc & PlantUML - Holistic Questioning
+https://dburet.gitlab.io/blog/2020-01-18-hugo-adoc-plant/
+
+Markdown native diagrams with PlantUML | Andreas' Blog
+https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/
+
+Class Diagram
+https://mermaid-js.github.io/mermaid/#/classDiagram
+
+d3-graphviz Demo - bl.ocks.org
+https://bl.ocks.org/magjac/4acffdb3afbc4f71b448a210b5060bca
+
+JavaScript on page - support - HUGO
+https://discourse.gohugo.io/t/javascript-on-page/4166/10
+
+Javascript in blogpost, but not on all sites at the same time? - support - HUGO
+https://discourse.gohugo.io/t/javascript-in-blogpost-but-not-on-all-sites-at-the-same-time/3978/14
+
+Functions Quick Reference | Hugo
+https://gohugo.io/functions/#safejs
+
+Javascript in blogpost, but not on all sites at the same time? - support - HUGO
+https://discourse.gohugo.io/t/javascript-in-blogpost-but-not-on-all-sites-at-the-same-time/3978/13
+
+Diagrams
+https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams
+
+Do i need to purchase a license from gojs if i need to run the pinpoint in production? � Issue #1308 � naver/pinpoint
+https://github.com/naver/pinpoint/issues/1308
+
+jsplumb/jsplumb: Visual connectivity for webapps
+https://github.com/jsplumb/jsplumb
+
+mxgraph/manual.html at master � jgraph/mxgraph
+https://github.com/jgraph/mxgraph/blob/master/docs/manual.html
+
+jsplumb/jsplumb: Visual connectivity for webapps
+https://github.com/jsplumb/jsplumb
+
+Joint API
+https://resources.jointjs.com/docs/jointjs/v3.0/joint.html
+
+Draw2D touch: Examples
+http://www.draw2d.org/draw2d/examples.html
+
+Transaction Mining - The Basics for Marketing Managers
+http://freegroup.github.io/draw2d_js.app.sankey_report/
+
+GoJS Sample Diagrams for JavaScript and HTML, by Northwoods Software
+https://gojs.net/latest/samples/index.html
+
+GoJS Pricing and Ordering
+https://www.nwoods.com/sales/index.html
+
+Testing - React Diagrams
+https://projectstorm.gitbook.io/react-diagrams/about-the-project/testing
+
+Top 5 : Best free diagrams javascript libraries | Our Code World
+https://ourcodeworld.com/articles/read/159/top-5-best-free-diagrams-javascript-libraries
+
+Examples
+https://mermaid-js.github.io/mermaid/#/examples
+
+Cytoscape.js
+https://js.cytoscape.org/#demos
+
+PathwayCommons/cytoscape-sbgn-stylesheet: View biological networks via Cytoscape.js and sbgn-ml
+https://github.com/PathwayCommons/cytoscape-sbgn-stylesheet
+
+State Diagram
+https://mermaid-js.github.io/mermaid/#/stateDiagram
+
+JavaScript libraries for drawing UML class diagramms - Stack Overflow
+https://stackoverflow.com/questions/7231039/javascript-libraries-for-drawing-uml-class-diagramms
+
+clientIO/joint: JavaScript diagramming library
+https://github.com/clientIO/joint
+
+JointJS: Visualize and interact with diagrams and graphs
+https://www.jointjs.com/opensource
+
+JointJS - JavaScript diagramming library - Getting started.
+https://resources.jointjs.com/tutorial
+
+https://resources.jointjs.com/mmap/joint.html
+https://resources.jointjs.com/mmap/joint.html
+
+Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.
+https://plantuml.com/
+
+Embed a diagram in a Hugo page | Much Ado About IT
+https://it.knightnet.org.uk/kb/hugo/embed-diagram/
+
+Your Graphviz, UMLGraph or PlantUML for your README
+https://www.gravizo.com/#news
+
+TLmaK0/gravizo: How to include graphviz graphs in github README
+https://github.com/tlmak0/gravizo/
+
+DHH (@dhh) / Twitter
+https://twitter.com/dhh
+
+David Heinemeier Hansson (DHH)
+https://dhh.dk/
+
+New Tab
+chrome://newtab/
+
+jaime-olivares/yuml-diagram: UML diagramming package based on the yUML syntax
+https://github.com/jaime-olivares/yuml-diagram
+
+Create UML diagrams online in seconds, no special tools needed.
+https://yuml.me/selfhosting
+
+stillerr/yuml-design-patterns: Design patterns in yuml
+https://github.com/stillerr/yuml-design-patterns
+
+document class div innerhtml - Google Search
+https://www.google.com/search?q=document+class+div+innerhtml&rlz=1C1CHBF_enUS811US811&oq=document+class+div+innerhtml&aqs=chrome..69i57.11635j0j7&sourceid=chrome&ie=UTF-8
+
+Hugo Server: Error
+http://localhost:1313/easyhugo/posts/mermaid/
+
+Configure Markup | Hugo
+https://gohugo.io/getting-started/configuration-markup/
+
+JavaScript DOM HTML
+https://www.w3schools.com/js/js_htmldom_html.asp
+
+HTML DOM getElementsByClassName() Method
+https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp#:~:text=The%20getElementsByClassName()%20method%20returns,The%20index%20starts%20at%200.
+
+javascript how to get an elements id - Google Search
+https://www.google.com/search?q=javascript+how+to+get+an+elements+id&rlz=1C1CHBF_enUS811US811&oq=javascript+how+to+get+an+elements+id&aqs=chrome..69i57.7313j0j7&sourceid=chrome&ie=UTF-8
+
+How to Add an Attribute to an HTML Tag
+https://www.lifewire.com/add-attribute-to-html-tag-3466575
+
+External and useful links
+https://plantuml.com/external-links
+
+32 PlantUML Alternatives & Similar Software ? Top Best Alternatives
+https://www.topbestalternatives.com/plantuml/
+
+Added browserified distribution � frankieliu/yuml-diagram@f8cfb5b
+https://github.com/frankieliu/yuml-diagram/commit/f8cfb5bd12d76adc1316510afd0ec2a4dc1b0a94
+
+Add Diagrams to your Jekyll/Hugo/Gatsby blog with Mermaid JS � Code with Hugo
+https://codewithhugo.com/mermaid-js-hugo-shortcode/
+
+Mermaid :: Documentation for Hugo Learn Theme
+https://learn.netlify.app/en/shortcodes/mermaid/
+
+Experiment, Fail, Learn, Repeat
+https://www.hairizuan.com/rendering-diagrams-in-hugo/
+
+hugo-theme-learn/layouts at master � matcornic/hugo-theme-learn
+https://github.com/matcornic/hugo-theme-learn/tree/master/layouts
+
+Inbox (26,903) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(4) ??? | Facebook
+https://www.facebook.com/profile.php?id=100051413928376
+
+windows 10 audio histogram - Google Search
+https://www.google.com/search?q=windows+10+audio+histogram&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk014k90rVFj3LHV_rJJy-7zaRtsi1w:1598288914333&ei=EvRDX7nwE4PQ0PEP8cyaoAc&start=10&sa=N&ved=2ahUKEwi5wfKXqrTrAhUDKDQIHXGmBnQQ8NMDegQIDBBA&biw=1245&bih=660
+
+Vamp Plugins
+https://www.vamp-plugins.org/
+
+Google Calendar - Week of August 23, 2020
+https://calendar.google.com/calendar/r
+
+Invitation: Zoom call w/ Frankie and Lydia to go over Image Tracing @ Tue Aug 25, 2020 7am - 8am (PDT) (frankie.y.liu@gmail.com) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXVRGbPkMmpwsTsVsRxJzzlKq
+
+Post Attendee - Zoom
+https://us04web.zoom.us/postattendee?id=7
+
+ipsum - Google Search
+https://www.google.com/search?q=ipsum&rlz=1C1CHBF_enUS811US811&oq=ipsum&aqs=chrome..69i57.2481j0j7&sourceid=chrome&ie=UTF-8
