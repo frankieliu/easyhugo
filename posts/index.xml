@@ -6,10 +6,145 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2020 16:35:26 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 19:29:47 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>System Design</title>
+      <link>https://www.frankliu.org/easyhugo/posts/system-design/</link>
+      <pubDate>Sun, 23 Aug 2020 19:29:47 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/system-design/</guid>
+      <description> The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn  Grokking the System Design Interview - Learn Interactively https://www.educative.io/courses/grokking-the-system-design-interview  6.824 Lab 2: Raft https://pdos.csail.mit.edu/6.824/labs/lab-raft.html  curator zookeeper - Google Search https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;amp;q=curator+zookeeper&amp;amp;oq=curator+zookeeper&amp;amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;amp;sclient=psy-ab&amp;amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;amp;uact=5  donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. https://github.com/donnemartin/system-design-primer  system-design-primer/MzExP06.png at master · donnemartin/system-design-primer  6.824 Schedule: Spring 2020 https://pdos.csail.mit.edu/6.824/schedule.html </description>
+    </item>
+    
+    <item>
+      <title>Dynamic Programming</title>
+      <link>https://www.frankliu.org/easyhugo/posts/dynamic-programming/</link>
+      <pubDate>Sun, 23 Aug 2020 19:24:18 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/dynamic-programming/</guid>
+      <description> Dynamic programming - Wikipedia https://en.wikipedia.org/wiki/Dynamic_programming  Dynamic programming - Wikipedia https://en.wikipedia.org/wiki/Dynamic_programming#Example_from_economics:_Ramsey&amp;#39;s_problem_of_optimal_saving  Lazy Dynamic Programming | jelv.is https://jelv.is/blog/Lazy-Dynamic-Programming/#:~:text=Dynamic%20programming%20is%20a%20method,in%20any%20introductory%20algorithms%20course.&amp;amp;text=The%20differences%20between%20two%20strings,by%20the%20edit%20distance%20algorithm. </description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>https://www.frankliu.org/easyhugo/posts/kotlin/</link>
+      <pubDate>Sun, 23 Aug 2020 19:21:38 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/kotlin/</guid>
+      <description> kotlin algorithms and data structures - Google Search https://www.google.com/search?q=kotlin+algorithms+and+data+structures&amp;amp;oq=kotlin+algorithms+and+data+structures&amp;amp;aqs=chrome..69i57.6215j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  bmaslakov/kotlin-algorithm-club: Algorithms and data structures in Kotlin. https://github.com/bmaslakov/kotlin-algorithm-club  Competitive Programming - Kotlin Programming Language https://kotlinlang.org/docs/tutorials/competitive-programming.html  Hands-On Data Structures and Algorithms with Kotlin https://learning.oreilly.com/library/view/hands-on-data-structures/9781788994019/  Hands-On Data Structures and Algorithms with Kotlin https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-kotlin/9781788994019  Kotlin Algorithm https://awesomeopensource.com/project/gazolla/Kotlin-Algorithm </description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://www.frankliu.org/easyhugo/posts/rust/</link>
+      <pubDate>Sun, 23 Aug 2020 19:21:07 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/rust/</guid>
+      <description>rust algorithms and data structures - Google Search https://www.google.com/search?q=rust+algorithms+and+data+structures&amp;amp;oq=rust+algorithms+and+data+structures&amp;amp;aqs=chrome..69i57.6845j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  EbTech/rust-algorithms: Common data structures and algorithms in Rust https://github.com/EbTech/rust-algorithms  TheAlgorithms/Rust: All Algorithms implemented in Rust https://github.com/TheAlgorithms/Rust  Hands-On Data Structures and Algorithms with Rust https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528  Data structures and Algorithms in Rust - tutorials - The Rust Programming Language Forum https://users.rust-lang.org/t/data-structures-and-algorithms-in-rust/42462  data structures and algorithms in Rust? : rust https://www.reddit.com/r/rust/comments/4jd7sa/data_structures_and_algorithms_in_rust/  Algorithms - Rust Cookbook https://rust-lang-nursery.github.io/rust-cookbook/algorithms.html  Rust Algorithm Club https://awesomeopensource.</description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://www.frankliu.org/easyhugo/posts/javascript/</link>
+      <pubDate>Sun, 23 Aug 2020 19:20:24 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/javascript/</guid>
+      <description> trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings https://github.com/trekhleb/javascript-algorithms  (465) Algorithms and Data Structures - YouTube https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8  (25) Oleksii Trekhleb | LinkedIn https://www.linkedin.com/in/trekhleb/?originalSubdomain=nl </description>
+    </item>
+    
+    <item>
+      <title>Resevoir Sampling</title>
+      <link>https://www.frankliu.org/easyhugo/posts/resevoir-sampling/</link>
+      <pubDate>Sun, 23 Aug 2020 19:19:21 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/resevoir-sampling/</guid>
+      <description> Reservoir sampling - Wikipedia https://en.wikipedia.org/wiki/Reservoir_sampling  Geometric distribution - Wikipedia https://en.wikipedia.org/wiki/Geometric_distribution </description>
+    </item>
+    
+    <item>
+      <title>Category Theory</title>
+      <link>https://www.frankliu.org/easyhugo/posts/category-theory/</link>
+      <pubDate>Sun, 23 Aug 2020 19:18:50 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/category-theory/</guid>
+      <description> Introduction to Category Theory | Meetup https://www.meetup.com/Category-Theory/events/lcmnvrybcmbcb/?action=rsvp&amp;amp;response=yes  Let&amp;#39;s do Chapter 4 of Computational Category Theory | Meetup https://www.meetup.com/SF-Types-Theorems-and-Programming-Languages/events/272498894 </description>
+    </item>
+    
+    <item>
+      <title>Mob Programming</title>
+      <link>https://www.frankliu.org/easyhugo/posts/mob-programming/</link>
+      <pubDate>Sun, 23 Aug 2020 19:16:58 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/mob-programming/</guid>
+      <description>What is pair programming and does it actually work? | Codementor https://www.codementor.io/pair-programming  Pair Programming: Does It Really Work? | Agile Alliance https://www.agilealliance.org/glossary/pairing/#q=~(infinite~false~filters~(postType~(~&amp;#39;page~&amp;#39;post~&amp;#39;aa_book~&amp;#39;aa_event_session~&amp;#39;aa_experience_report~&amp;#39;aa_glossary~&amp;#39;aa_research_paper~&amp;#39;aa_video)~tags~(~&amp;#39;pair*20programming))~searchTerm~&amp;#39;~sort~false~sortDirection~&amp;#39;asc~page~1)  pair programming - Google Search https://www.google.com/search?q=pair+programming&amp;amp;oq=pair+programming&amp;amp;aqs=chrome..69i57j69i60l2j69i61.2428j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  On Pair Programming https://martinfowler.com/articles/on-pair-programming.html  What is Pair Programming? Advantages, Challenges, Tutorials &amp;amp; More https://stackify.com/pair-programming-advantages/  Pair Programming http://www.extremeprogramming.org/rules/pair.html  The Pros and Cons Of Pair Programming | Hacker Noon https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784  group programming - Google Search https://www.google.com/search?q=group+programming&amp;amp;oq=group+programming&amp;amp;aqs=chrome..69i57.7441j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  Pair and Group Programming Standards and Requirements https://www.</description>
+    </item>
+    
+    <item>
+      <title>Google Drive</title>
+      <link>https://www.frankliu.org/easyhugo/posts/google-drive/</link>
+      <pubDate>Sun, 23 Aug 2020 18:20:05 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/google-drive/</guid>
+      <description>nurdtechie98/drive-cli: A command line interface for accessing google drive https://github.com/nurdtechie98/drive-cli  drive-cli · PyPI https://pypi.org/project/drive-cli/  odeke-em/drive: Google Drive client for the commandline https://github.com/odeke-em/drive  Please rename drive to something less generic · Issue #271 · odeke-em/drive https://github.com/odeke-em/drive/issues/271  can somebody please add to Debian? · Issue #277 · odeke-em/drive https://github.com/odeke-em/drive/issues/277 Extremely powerful md5 on google directory and compare with md5 of local   files  How can I compare my local folder to the Google Drive Copy?</description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>https://www.frankliu.org/easyhugo/posts/databases/</link>
+      <pubDate>Sun, 23 Aug 2020 18:15:39 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/databases/</guid>
+      <description> GUN documentation https://gun.eco/docs/Todo-Dapp </description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://www.frankliu.org/easyhugo/posts/ubuntu/</link>
+      <pubDate>Sun, 23 Aug 2020 18:15:16 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/ubuntu/</guid>
+      <description> 13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know - It&amp;#39;s FOSS https://itsfoss.com/ubuntu-shortcuts/ </description>
+    </item>
+    
+    <item>
+      <title>Concurrency</title>
+      <link>https://www.frankliu.org/easyhugo/posts/concurrency/</link>
+      <pubDate>Sun, 23 Aug 2020 18:13:33 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/concurrency/</guid>
+      <description> multithreading - Conditional Variable vs Semaphore - Stack Overflow https://stackoverflow.com/questions/3513045/conditional-variable-vs-semaphore?answertab=active#tab-top </description>
+    </item>
+    
+    <item>
+      <title>Computer Org</title>
+      <link>https://www.frankliu.org/easyhugo/posts/computer-org/</link>
+      <pubDate>Sun, 23 Aug 2020 18:12:22 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/computer-org/</guid>
+      <description>Changing the hardware resources on a running VM | StarWind Blog https://www.starwindsoftware.com/blog/changing-the-hardware-resources-on-a-running-vm  [SOLVED] Can page tables grow dynamically? https://www.linuxquestions.org/questions/programming-9/can-page-tables-grow-dynamically-909425/  The Linux kernel: Memory https://www.win.tue.nl/~aeb/linux/lk/lk-9.html  bootlin/elixir: The Elixir Cross Referencer https://github.com/bootlin/elixir  Non-Contiguous Memory Allocation https://www.kernel.org/doc/gorman/html/understand/understand010.html  Allocating kernel memory (buddy system and slab system) - GeeksforGeeks https://www.geeksforgeeks.org/operating-system-allocating-kernel-memory-buddy-system-slab-system/  tlgbos - Marcelo Bytes https://blog.ksub.org/bytes/tags/tlgbos/page/3/  CS 162 — Summer 2020 https://inst.eecs.berkeley.edu/~cs162/su20/  Overview http://ospp.cs.washington.edu/  Operating Systems: Three Easy Pieces http://pages.</description>
+    </item>
+    
+    <item>
+      <title>Terminals</title>
+      <link>https://www.frankliu.org/easyhugo/posts/terminals/</link>
+      <pubDate>Sat, 22 Aug 2020 13:58:41 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/terminals/</guid>
+      <description>rxvt-unicode vs Xfce4 terminal detailed comparison as of 2020 - Slant https://www.slant.co/versus/2443/2456/~rxvt-unicode_vs_xfce4-terminal Xfce4 changing theme is via gtk or gnome preferences   themes - Change color scheme for xfce4 terminal manually - Ask Ubuntu https://askubuntu.com/questions/676428/change-color-scheme-for-xfce4-terminal-manually  [xubuntu] How do I get rid of the scroll bar in the xfce4-terminal https://ubuntuforums.org/showthread.php?t=2059070  apps:terminal:start [Xfce Docs] https://docs.xfce.org/apps/terminal/start  apps:terminal:advanced [Xfce Docs] https://docs.xfce.org/apps/terminal/advanced  Terminal Menubar Color does not match theme / Desktop / Xfce Forums https://forum.</description>
+    </item>
+    
+    <item>
+      <title>Flatpak</title>
+      <link>https://www.frankliu.org/easyhugo/posts/flatpak/</link>
+      <pubDate>Sat, 22 Aug 2020 13:48:14 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/flatpak/</guid>
+      <description>sudo aptitude install flatpak sudo aptitude install gnome-software-plugin-flatpak flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo flatpak install flathub org.gnome.Extensions flatpak run org.gnome.Extensions   Note that the directories  &amp;#39;var/lib/flatpak/exports/share&amp;#39; &amp;#39;/home/adam.local/share/flatpak/exports/share&amp;#39;  are not in the search path set by the XDG_DATA_DIRS environment variable, so applications installed by Flatpak may not appear on your desktop until the session is restarted.  Extensions—Linux Apps on Flathub https://flathub.org/apps/details/org.gnome.Extensions  Flatpak—the future of application distribution https://flatpak.</description>
+    </item>
     
     <item>
       <title>Screen Rectangle</title>
@@ -26,7 +161,7 @@
       <pubDate>Fri, 21 Aug 2020 16:33:41 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/python/</guid>
-      <description> 18.04 - easy_install: command not found - Ask Ubuntu https://askubuntu.com/questions/1040392/easy-install-command-not-found </description>
+      <description>18.04 - easy_install: command not found - Ask Ubuntu https://askubuntu.com/questions/1040392/easy-install-command-not-found  enum — Support for enumerations — Python 3.8.5 documentation https://docs.python.org/3/library/enum.html  python - How to define enum values that are functions? - Stack Overflow https://stackoverflow.com/questions/40338652/how-to-define-enum-values-that-are-functions  Codumentary: Tech Tips and Tricks: Python Tip of the Year: pip install –editable . http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=When%20developing%20an%20application%20you,run%20pip%20install%20%2D%2Deditable%20. closure in python   functional programming - Modify bound variables of a closure in Python - Stack Overflow https://stackoverflow.</description>
     </item>
     
     <item>
@@ -107,7 +242,7 @@
       <pubDate>Fri, 21 Aug 2020 14:23:35 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/facebook/</guid>
-      <description> Blue Jeans Network | Video Collaboration in the Cloud https://fb.bluejeans.com/?next=/scheduling/  Immigration Form | Facebook Recruiting https://www.facebookrecruiting.com/portal/immigration/?fid=2449982275299983 </description>
+      <description>Blue Jeans Network | Video Collaboration in the Cloud https://fb.bluejeans.com/?next=/scheduling/  Immigration Form | Facebook Recruiting https://www.facebookrecruiting.com/portal/immigration/?fid=2449982275299983  Facebook Prep - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/kevin+barnes/FMfcgxwJWrhMkkRptXNSKtHfrwRJtJWN  Interview Prep Hub | Facebook Recruiting https://www.facebookrecruiting.com/portal/interview_prep_hub  Next steps with Google - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/keny/FMfcgxwJXVJDXNdNdsKLWTfrMPCZGgzq  Facebook Engineering https://engineering.fb.com/  (29) Problems - LeetCode https://leetcode.com/problemset/algorithms/  HiredInTech&amp;#39;s Training Camp for Coding Interviews https://www.hiredintech.com/classrooms/algorithm-design/lesson/77  Private video on Vimeo https://vimeo.com/157480836  Private video on Vimeo https://vimeo.</description>
     </item>
     
     <item>
@@ -116,7 +251,7 @@
       <pubDate>Fri, 21 Aug 2020 14:22:52 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/jobs/</guid>
-      <description> Senior Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-software-engineer-resume-sample  Senior / Lead Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-lead-software-engineer-resume-sample  Principal Software Engineer Lead Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/principal-software-engineer-lead-resume-sample  Search | Velvet Jobs https://www.velvetjobs.com/search?filter=&amp;amp;query=distinguised+engineer  Compare salaries and career levels across companies | Levels.fyi https://www.levels.fyi/ </description>
+      <description> Senior Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-software-engineer-resume-sample  Senior / Lead Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-lead-software-engineer-resume-sample  Principal Software Engineer Lead Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/principal-software-engineer-lead-resume-sample  Search | Velvet Jobs https://www.velvetjobs.com/search?filter=&amp;amp;query=distinguised+engineer  Compare salaries and career levels across companies | Levels.fyi https://www.levels.fyi/  Principal (Remote) - $400,000/year USD | Crossover for Work | LinkedIn https://www.linkedin.com/jobs/view/1989853533/?lgTemp=jobs_jymbii_digest&amp;amp;eBP=NotAvailableFromMidTier&amp;amp;lgCta=eml-jymbii-organic-job-card&amp;amp;recommendedFlavor=HIDDEN_GEM&amp;amp;refId=7c333a6b-c37a-4ca5-8f55-5337e1c6fc92&amp;amp;midToken=AQEFUDtoXUxhfA&amp;amp;trk=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow&amp;amp;trkEmail=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow-null-9ojgw%7Eke520b5i%7E2f-null-jobs%7Eview </description>
     </item>
     
     <item>
@@ -215,7 +350,7 @@
       <pubDate>Wed, 19 Aug 2020 18:28:58 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/net/</guid>
-      <description> 192.168.29.1/Logout.asp http://192.168.29.1/Logout.asp </description>
+      <description> 192.168.29.1/Logout.asp http://192.168.29.1/Logout.asp  192.168.29.192  Network Address Translation (NAT) FAQ - Cisco https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html#:~:text=It%20enables%20private%20IP%20networks,are%20forwarded%20to%20another%20network.  RFC 3022 - Traditional IP Network Address Translator (Traditional NAT) https://tools.ietf.org/html/rfc3022 </description>
     </item>
     
     <item>
@@ -359,7 +494,7 @@
       <pubDate>Tue, 18 Aug 2020 17:01:40 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/golang/</guid>
-      <description> testing - The Go Programming Language https://golang.org/pkg/testing/ </description>
+      <description> testing - The Go Programming Language https://golang.org/pkg/testing/  golang algorithms and data structures - Google Search https://www.google.com/search?q=golang+algorithms+and+data+structures&amp;amp;oq=golang+algorithms+and+data+structures&amp;amp;aqs=chrome..69i57.11762j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  The fundamentals of the Go programming language from the perspective of data structures and algorithms. - golangprograms.com https://www.golangprograms.com/data-structure-and-algorithms.html  0xAX/go-algorithms: Algorithms and data structures for golang https://github.com/0xAX/go-algorithms  Algorithms with Go https://algorithmswithgo.com/ </description>
     </item>
     
     <item>
@@ -458,7 +593,7 @@
       <pubDate>Tue, 18 Aug 2020 14:14:01 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/make/</guid>
-      <description> Getting the makefile directory   gnu make - How to get current relative directory of your Makefile? - Stack Overflow https://stackoverflow.com/questions/18136918/how-to-get-current-relative-directory-of-your-makefile  shell - How can I use Bash syntax in Makefile targets? - Stack Overflow https://stackoverflow.com/questions/589276/how-can-i-use-bash-syntax-in-makefile-targets Passing arguments   makefile - Passing additional variables from command line to make - Stack Overflow https://stackoverflow.com/questions/2826029/passing-additional-variables-from-command-line-to-make </description>
+      <description>Getting the makefile directory   gnu make - How to get current relative directory of your Makefile? - Stack Overflow https://stackoverflow.com/questions/18136918/how-to-get-current-relative-directory-of-your-makefile  shell - How can I use Bash syntax in Makefile targets? - Stack Overflow https://stackoverflow.com/questions/589276/how-can-i-use-bash-syntax-in-makefile-targets Passing arguments   makefile - Passing additional variables from command line to make - Stack Overflow https://stackoverflow.com/questions/2826029/passing-additional-variables-from-command-line-to-make bash syntax in makefile   shell - How can I use Bash syntax in Makefile targets?</description>
     </item>
     
     <item>
@@ -524,7 +659,7 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Tue, 18 Aug 2020 11:08:18 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ik/</guid>
-      <description> Dynamic Programming Foundation (03:56:26) https://uplevel.interviewkickstart.com/resource/resourcecollection-5866-164  IKWeb https://oj.interviewkickstart.com/view_test_mcq/3976/196  Slides scalable systems https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.p  Microservices https://www.youtube.com/channel/UCyn-xUvGpRqp5dyHSOVhLvg  Scalable Systems - Google Slides https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.g8ba5086272_0_43 </description>
+      <description> Recursion Foundation (04:58:34) https://uplevel.interviewkickstart.com/resource/resourcecollection-5939-155  Dynamic Programming Foundation (03:56:26) https://uplevel.interviewkickstart.com/resource/resourcecollection-5866-164  IKWeb https://oj.interviewkickstart.com/view_test_mcq/3976/196  Slides scalable systems https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.p  Microservices https://www.youtube.com/channel/UCyn-xUvGpRqp5dyHSOVhLvg  Scalable Systems - Google Slides https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.g8ba5086272_0_43 </description>
     </item>
     
     <item>
@@ -614,6 +749,15 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       <pubDate>Mon, 17 Aug 2020 12:32:34 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.frankliu.org/easyhugo/posts/flar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/flar/</guid>
       <description></description>
     </item>
     

@@ -4,12 +4,87 @@
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-08-21T16:35:26-07:00</lastmod>
+    <lastmod>2020-08-23T19:29:47-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
-    <lastmod>2020-08-21T16:35:26-07:00</lastmod>
+    <lastmod>2020-08-23T19:29:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/system-design/</loc>
+    <lastmod>2020-08-23T19:29:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/dynamic-programming/</loc>
+    <lastmod>2020-08-23T19:24:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/kotlin/</loc>
+    <lastmod>2020-08-23T19:21:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/rust/</loc>
+    <lastmod>2020-08-23T19:21:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/javascript/</loc>
+    <lastmod>2020-08-23T19:20:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/resevoir-sampling/</loc>
+    <lastmod>2020-08-23T19:19:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/category-theory/</loc>
+    <lastmod>2020-08-23T19:18:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/mob-programming/</loc>
+    <lastmod>2020-08-23T19:16:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/google-drive/</loc>
+    <lastmod>2020-08-23T18:20:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/databases/</loc>
+    <lastmod>2020-08-23T18:15:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/ubuntu/</loc>
+    <lastmod>2020-08-23T18:15:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/concurrency/</loc>
+    <lastmod>2020-08-23T18:13:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/computer-org/</loc>
+    <lastmod>2020-08-23T18:12:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/terminals/</loc>
+    <lastmod>2020-08-22T13:58:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/flatpak/</loc>
+    <lastmod>2020-08-22T13:48:14-07:00</lastmod>
   </url>
   
   <url>
@@ -345,6 +420,10 @@
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/my-first-post/</loc>
     <lastmod>2020-08-17T12:32:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/flar/</loc>
   </url>
   
   <url>
