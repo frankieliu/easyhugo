@@ -1,0 +1,16 @@
++++
+categories = [""]
+tags = [""]
+title = "Terminals"
+date = "2020-08-22T13:58:41-07:00"
+draft = false
++++
+
+rxvt-unicode vs Xfce4 terminal detailed comparison as of 2020 - Slant
+https://www.slant.co/versus/2443/2456/~rxvt-unicode_vs_xfce4-terminal
+
+* Xfce4 changing theme is via gtk or gnome preferences
+
+
+
+
