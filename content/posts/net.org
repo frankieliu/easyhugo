@@ -9,7 +9,11 @@ draft = false
 192.168.29.1/Logout.asp
 http://192.168.29.1/Logout.asp
 
+Laptop
 192.168.29.192
+
+Dell MFP E515dw
+http://192.168.29.156/general/status.html
 
 Network Address Translation (NAT) FAQ - Cisco
 https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html#:~:text=It%20enables%20private%20IP%20networks,are%20forwarded%20to%20another%20network.

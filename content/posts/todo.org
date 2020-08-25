@@ -1,83 +1,8 @@
-Todo | Trello
-https://trello.com/b/naGD4VMR/todo
-
-Slickdeals: The Best Deals, Coupons, Promo Codes & Discounts
-https://slickdeals.net/
-
-linux driver to change internal gain on blue devices - Google Search
-https://www.google.com/search?q=linux+driver+to+change+internal+gain+on+blue+devices&rlz=1C1CHBF_enUS811US811&oq=linux+driver+to+change+internal+gain+on+blue+devices&aqs=chrome..69i57.13778j0j7&sourceid=chrome&ie=UTF-8
-
-192.168.29.1/Logout.asp
-http://192.168.29.1/Logout.asp
-
-Dell MFP E515dw
-http://192.168.29.156/general/status.html
-
-Inbox (26,903) - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox
-
-Two By Two Lyrics - Book of Mormon, The musical
-https://www.allmusicals.com/lyrics/bookofmormonthe/twobytwo.htm
-
-steve erikson - Google Search
-https://www.google.com/search?q=steve+erikson&rlz=1C1CHBF_enUS811US811&oq=steve+erikson&aqs=chrome..69i57j69i65.68428j0j4&sourceid=chrome&ie=UTF-8
-
-Malazan Book of the Fallen - Wikipedia
-https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen
-
-Hugo, Asciidoc & PlantUML - Holistic Questioning
-https://dburet.gitlab.io/blog/2020-01-18-hugo-adoc-plant/
-
-Markdown native diagrams with PlantUML | Andreas' Blog
-https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/
-
-Class Diagram
-https://mermaid-js.github.io/mermaid/#/classDiagram
-
-d3-graphviz Demo - bl.ocks.org
-https://bl.ocks.org/magjac/4acffdb3afbc4f71b448a210b5060bca
-
-JavaScript on page - support - HUGO
-https://discourse.gohugo.io/t/javascript-on-page/4166/10
-
-Javascript in blogpost, but not on all sites at the same time? - support - HUGO
-https://discourse.gohugo.io/t/javascript-in-blogpost-but-not-on-all-sites-at-the-same-time/3978/14
-
-Functions Quick Reference | Hugo
-https://gohugo.io/functions/#safejs
-
-Javascript in blogpost, but not on all sites at the same time? - support - HUGO
-https://discourse.gohugo.io/t/javascript-in-blogpost-but-not-on-all-sites-at-the-same-time/3978/13
-
-Diagrams
-https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams
-
-Do i need to purchase a license from gojs if i need to run the pinpoint in production? � Issue #1308 � naver/pinpoint
-https://github.com/naver/pinpoint/issues/1308
-
-jsplumb/jsplumb: Visual connectivity for webapps
-https://github.com/jsplumb/jsplumb
-
-mxgraph/manual.html at master � jgraph/mxgraph
-https://github.com/jgraph/mxgraph/blob/master/docs/manual.html
-
-jsplumb/jsplumb: Visual connectivity for webapps
-https://github.com/jsplumb/jsplumb
-
-Joint API
-https://resources.jointjs.com/docs/jointjs/v3.0/joint.html
-
-Draw2D touch: Examples
-http://www.draw2d.org/draw2d/examples.html
+System Settings messed up and crashing [SOLVED] / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=235871
 
 Transaction Mining - The Basics for Marketing Managers
 http://freegroup.github.io/draw2d_js.app.sankey_report/
-
-GoJS Sample Diagrams for JavaScript and HTML, by Northwoods Software
-https://gojs.net/latest/samples/index.html
-
-GoJS Pricing and Ordering
-https://www.nwoods.com/sales/index.html
 
 Testing - React Diagrams
 https://projectstorm.gitbook.io/react-diagrams/about-the-project/testing
@@ -92,7 +17,7 @@ Cytoscape.js
 https://js.cytoscape.org/#demos
 
 PathwayCommons/cytoscape-sbgn-stylesheet: View biological networks via Cytoscape.js and sbgn-ml
-https://github.com/PathwayCommons/cytoscape-sbgn-stylesheet
+* https://github.com/PathwayCommons/cytoscape-sbgn-stylesheet
 
 State Diagram
 https://mermaid-js.github.io/mermaid/#/stateDiagram
@@ -184,26 +109,6 @@ https://www.hairizuan.com/rendering-diagrams-in-hugo/
 hugo-theme-learn/layouts at master � matcornic/hugo-theme-learn
 https://github.com/matcornic/hugo-theme-learn/tree/master/layouts
 
-Inbox (26,903) - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox
-
-(4) ??? | Facebook
-https://www.facebook.com/profile.php?id=100051413928376
-
-windows 10 audio histogram - Google Search
-https://www.google.com/search?q=windows+10+audio+histogram&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk014k90rVFj3LHV_rJJy-7zaRtsi1w:1598288914333&ei=EvRDX7nwE4PQ0PEP8cyaoAc&start=10&sa=N&ved=2ahUKEwi5wfKXqrTrAhUDKDQIHXGmBnQQ8NMDegQIDBBA&biw=1245&bih=660
-
 Vamp Plugins
 https://www.vamp-plugins.org/
 
-Google Calendar - Week of August 23, 2020
-https://calendar.google.com/calendar/r
-
-Invitation: Zoom call w/ Frankie and Lydia to go over Image Tracing @ Tue Aug 25, 2020 7am - 8am (PDT) (frankie.y.liu@gmail.com) - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXVRGbPkMmpwsTsVsRxJzzlKq
-
-Post Attendee - Zoom
-https://us04web.zoom.us/postattendee?id=7
-
-ipsum - Google Search
-https://www.google.com/search?q=ipsum&rlz=1C1CHBF_enUS811US811&oq=ipsum&aqs=chrome..69i57.2481j0j7&sourceid=chrome&ie=UTF-8
