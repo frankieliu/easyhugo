@@ -6,10 +6,68 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 22:16:35 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 10:43:40 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://www.frankliu.org/easyhugo/posts/contacts/</link>
+      <pubDate>Tue, 25 Aug 2020 10:43:40 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/contacts/</guid>
+      <description>DHH (@dhh) / Twitter https://twitter.com/dhh
+David Heinemeier Hansson (DHH) https://dhh.dk/</description>
+    </item>
+    
+    <item>
+      <title>Audio</title>
+      <link>https://www.frankliu.org/easyhugo/posts/audio/</link>
+      <pubDate>Tue, 25 Aug 2020 10:43:13 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/audio/</guid>
+      <description>Vamp Plugins https://www.vamp-plugins.org/</description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://www.frankliu.org/easyhugo/posts/html/</link>
+      <pubDate>Tue, 25 Aug 2020 10:36:18 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/html/</guid>
+      <description>JavaScript DOM HTML https://www.w3schools.com/js/js_htmldom_html.asp
+HTML DOM getElementsByClassName() Method https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp#:~:text=The%20getElementsByClassName()%20method%20returns,The%20index%20starts%20at%200.</description>
+    </item>
+    
+    <item>
+      <title>Diagrams</title>
+      <link>https://www.frankliu.org/easyhugo/posts/diagrams/</link>
+      <pubDate>Mon, 24 Aug 2020 12:54:50 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/diagrams/</guid>
+      <description>Javascript in blogpost, but not on all sites at the same time? - support - HUGO https://discourse.gohugo.io/t/javascript-in-blogpost-but-not-on-all-sites-at-the-same-time/3978/13
+Diagrams https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams
+Do i need to purchase a license from gojs if i need to run the pinpoint in production? � Issue #1308 � naver/pinpoint https://github.com/naver/pinpoint/issues/1308
+jsplumb/jsplumb: Visual connectivity for webapps https://github.com/jsplumb/jsplumb
+jsplumb/jsplumb: Visual connectivity for webapps https://github.com/jsplumb/jsplumb
+mxgraph/manual.html at master � jgraph/mxgraph https://github.com/jgraph/mxgraph/blob/master/docs/manual.html
+Joint API https://resources.jointjs.com/docs/jointjs/v3.0/joint.html
+Draw2D touch: Examples http://www.draw2d.org/draw2d/examples.html
+GoJS Sample Diagrams for JavaScript and HTML, by Northwoods Software https://gojs.</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://www.frankliu.org/easyhugo/posts/books/</link>
+      <pubDate>Mon, 24 Aug 2020 12:53:56 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/books/</guid>
+      <description>Malazan Book of the Fallen - Wikipedia https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen
+Dan Simmons - Wikipedia https://en.wikipedia.org/wiki/Dan_Simmons
+The Thousandfold Thought by R. Scott Bakker – SFFWorld https://www.sffworld.com/2005/11/bookreview229/
+R. Scott Bakker - Wikipedia https://en.wikipedia.org/wiki/R._Scott_Bakker</description>
+    </item>
     
     <item>
       <title>Yuml</title>
@@ -62,7 +120,7 @@
       <pubDate>Sun, 23 Aug 2020 19:20:24 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/javascript/</guid>
-      <description> trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings https://github.com/trekhleb/javascript-algorithms  (465) Algorithms and Data Structures - YouTube https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8  (25) Oleksii Trekhleb | LinkedIn https://www.linkedin.com/in/trekhleb/?originalSubdomain=nl </description>
+      <description>trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings https://github.com/trekhleb/javascript-algorithms  (465) Algorithms and Data Structures - YouTube https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8  (25) Oleksii Trekhleb | LinkedIn https://www.linkedin.com/in/trekhleb/?originalSubdomain=nl  javascript - How to append something to an array? - Stack Overflow https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array  Loop through an array in JavaScript - Stack Overflow https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript  javascript - Map an Array by every two elements - Stack Overflow https://stackoverflow.</description>
     </item>
     
     <item>
@@ -116,7 +174,7 @@
       <pubDate>Sun, 23 Aug 2020 18:15:16 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ubuntu/</guid>
-      <description> 13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know - It&amp;#39;s FOSS https://itsfoss.com/ubuntu-shortcuts/ </description>
+      <description>  13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know - It&amp;#39;s FOSS https://itsfoss.com/ubuntu-shortcuts/ icon problem   System Settings messed up and crashing [SOLVED] / Newbie Corner / Arch Linux Forums https://bbs.archlinux.org/viewtopic.php?id=235871  Bug #1672027 “Invalid Context= “stock” line for icon theme: &amp;#34; : Bugs : kmines package : Ubuntu https://bugs.launchpad.net/ubuntu/+source/kmines/+bug/1672027  bash show theme errors · Issue #322 · PapirusDevelopmentTeam/papirus-icon-theme https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/322 </description>
     </item>
     
     <item>
@@ -179,7 +237,7 @@
       <pubDate>Fri, 21 Aug 2020 16:32:29 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/game-dev/</guid>
-      <description> Phaser.io vs Godot detailed comparison as of 2020 - Slant https://www.slant.co/versus/1065/1068/~phaser-io_vs_godot  Writing games in D? : gamedev https://www.reddit.com/r/gamedev/comments/15cug8/writing_games_in_d/ </description>
+      <description>Phaser.io vs Godot detailed comparison as of 2020 - Slant https://www.slant.co/versus/1065/1068/~phaser-io_vs_godot  Writing games in D? : gamedev https://www.reddit.com/r/gamedev/comments/15cug8/writing_games_in_d/  Top HTML5 games with server-based network multiplayer - itch.io https://itch.io/games/html5/multiplayer-server  Category:Browser-based multiplayer online games - Wikipedia https://en.wikipedia.org/wiki/Category:Browser-based_multiplayer_online_games  7 years ago today, SwatSec destroyed ROTMG! : RotMG https://www.reddit.com/r/RotMG/comments/ibl5os/7_years_ago_today_swatsec_destroyed_rotmg/  Realm of the Mad God https://www.realmofthemadgod.com/legacy/#download  Using the Adobe Flash Projector - the RotMG Wiki | RealmEye.com https://www.realmeye.com/wiki/using-the-adobe-flash-projector  Adobe - Download Adobe Flash Player https://get.</description>
     </item>
     
     <item>
@@ -206,7 +264,8 @@
       <pubDate>Fri, 21 Aug 2020 16:24:44 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/mermaid/</guid>
-      <description> Add Diagrams to your Jekyll/Hugo/Gatsby blog with Mermaid JS · Code with Hugo https://codewithhugo.com/mermaid-js-hugo-shortcode/ </description>
+      <description>Add Diagrams to your Jekyll/Hugo/Gatsby blog with Mermaid JS · Code with Hugo https://codewithhugo.com/mermaid-js-hugo-shortcode/
+graph LR; A--B;   </description>
     </item>
     
     <item>
@@ -359,7 +418,7 @@
       <pubDate>Wed, 19 Aug 2020 18:28:58 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/net/</guid>
-      <description> 192.168.29.1/Logout.asp http://192.168.29.1/Logout.asp  192.168.29.192  Network Address Translation (NAT) FAQ - Cisco https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html#:~:text=It%20enables%20private%20IP%20networks,are%20forwarded%20to%20another%20network.  RFC 3022 - Traditional IP Network Address Translator (Traditional NAT) https://tools.ietf.org/html/rfc3022 </description>
+      <description> 192.168.29.1/Logout.asp http://192.168.29.1/Logout.asp  Laptop 192.168.29.192  Dell MFP E515dw http://192.168.29.156/general/status.html  Network Address Translation (NAT) FAQ - Cisco https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html#:~:text=It%20enables%20private%20IP%20networks,are%20forwarded%20to%20another%20network.  RFC 3022 - Traditional IP Network Address Translator (Traditional NAT) https://tools.ietf.org/html/rfc3022 </description>
     </item>
     
     <item>
@@ -530,7 +589,7 @@
       <pubDate>Tue, 18 Aug 2020 16:58:28 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/trello/</guid>
-      <description>Twilio   Transform your customer communications with Twilio https://ahoy.twilio.com/twilio-products?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_term=twilio&amp;amp;utm_campaign=G_S_Brand_NAMER_USA&amp;amp;CA_mCPC=&amp;amp;gclid=Cj0KCQjw-O35BRDVARIsAJU5mQUKr_q63Z5IdPqBNvRIqQkm6GIw9L9uJv6k9IJUs_j4QEwKyM7XmYcaApofEALw_wcB&amp;amp;gclsrc=aw.ds Monday   Untitled board https://frankie153869.monday.com/boards/694371560 Alternatives   Top 3 Software Alternatives to Trello in 2020 https://project-management.com/top-3-software-alternatives-to-trello/?gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXehZuXArw8yf5hHn8Ry1QGSODpWBE8yHpvM7c0cw3LWjTuGorZkrkaAjeGEALw_wcB Productivity management   Increase Productivity With This Powerful Project Management Software | Smartsheet https://www.smartsheet.com/s/pm-software?s=268&amp;amp;c=3&amp;amp;m=3000&amp;amp;utm_source=project-management.com&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=project%20management Wrike   Wrike - Leading work management solution https://try.wrike.com/all-in-one-collaboration-project-management-software/?utm_source=p_mcom&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=top10 Smartsheet   (1) New Message! https://www.smartsheet.com/pricing Asana   Asana vs. Wrike - Compare Wrike Alternatives - Asana · Asana https://asana.</description>
+      <description>Trello   Todo | Trello https://trello.com/b/naGD4VMR/todo Twilio   Transform your customer communications with Twilio https://ahoy.twilio.com/twilio-products?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_term=twilio&amp;amp;utm_campaign=G_S_Brand_NAMER_USA&amp;amp;CA_mCPC=&amp;amp;gclid=Cj0KCQjw-O35BRDVARIsAJU5mQUKr_q63Z5IdPqBNvRIqQkm6GIw9L9uJv6k9IJUs_j4QEwKyM7XmYcaApofEALw_wcB&amp;amp;gclsrc=aw.ds Monday   Untitled board https://frankie153869.monday.com/boards/694371560 Alternatives   Top 3 Software Alternatives to Trello in 2020 https://project-management.com/top-3-software-alternatives-to-trello/?gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXehZuXArw8yf5hHn8Ry1QGSODpWBE8yHpvM7c0cw3LWjTuGorZkrkaAjeGEALw_wcB Productivity management   Increase Productivity With This Powerful Project Management Software | Smartsheet https://www.smartsheet.com/s/pm-software?s=268&amp;amp;c=3&amp;amp;m=3000&amp;amp;utm_source=project-management.com&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=project%20management Wrike   Wrike - Leading work management solution https://try.wrike.com/all-in-one-collaboration-project-management-software/?utm_source=p_mcom&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=top10 Smartsheet   (1) New Message! https://www.smartsheet.com/pricing Asana   Asana vs.</description>
     </item>
     
     <item>
@@ -759,6 +818,24 @@ Your Question: Is it possible to alias the apex domain name with a A record?</de
       
       <guid>https://www.frankliu.org/easyhugo/posts/my-first-post/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.frankliu.org/easyhugo/posts/veev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/veev/</guid>
+      <description> cross section corian exte hymaxcs 17000 - 22% 200,000 steel aluminun union city fabricatiom sip structural insulated panels 120,000 300 sq ft east union city workspace 80 san jose isolation  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.frankliu.org/easyhugo/posts/yeti-noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/yeti-noise/</guid>
+      <description>sunnyvale  lowest 54-48 (closer to 54) -54 9am 48-42 (midway) -45 12pm 42-36 (closer to 42) -42 3pm 42-36 (midway) -39 full 42-36 (closer to 36) -36  oakland (this has much lower noise floor)  lowest 60-54 (closer to 60) -60 9am 60-54 (closer to 60) -60 12pm 48-42 (midway) -45 3pm 42-36 (closer to 42) -42 full 42-36 (midway) -39  </description>
     </item>
     
   </channel>

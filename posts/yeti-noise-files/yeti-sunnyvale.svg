@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1394.88mm" height="66.675mm"
+ viewBox="0 0 3954 189"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Exported image from Sonic Visualiser</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="32" y="0" width="695" height="189"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#f0f0f0" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,143 695,143 " />
+<polyline fill="none" vector-effect="none" points="0,128 695,128 " />
+<polyline fill="none" vector-effect="none" points="0,113 695,113 " />
+<polyline fill="none" vector-effect="none" points="0,98 695,98 " />
+<polyline fill="none" vector-effect="none" points="0,82 695,82 " />
+<polyline fill="none" vector-effect="none" points="0,67 695,67 " />
+<polyline fill="none" vector-effect="none" points="0,52 695,52 " />
+<polyline fill="none" vector-effect="none" points="0,37 695,37 " />
+<polyline fill="none" vector-effect="none" points="0,21 695,21 " />
+</g>
+
+<g fill="none" stroke="#ff9632" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M29,74.5928 L202.996,73.792 L245.852,73.594 L271.48,79.531 L289.824,89.9857 L304.121,80.4998 L315.837,84.0138 L325.764,81.6243 L334.376,89.0753 L341.982,90.389 L348.791,85.2584 L354.956,80.6982 L360.587,82.7163 L365.77,78.7669 L370.57,81.5542 L375.041,81.863 L379.225,83.4353 L383.156,85.3579 L386.863,86.6077 L390.371,86.6436 L393.699,83.5822 L396.866,81.3581 L399.886,80.8145 L402.772,85.8685 L405.535,92.1798 L408.186,87.0045 L410.733,87.4219 L413.185,88.7206 L415.547,87.8856 L417.827,103.652 L420.03,96.7375 L422.16,91.3976 L424.223,87.3116 L426.223,86.0905 L428.163,91.1007 L430.047,100.646 L431.878,92.372 L433.659,90.7533 L435.393,89.8495 L437.082,94.8849 L438.728,92.4097 L440.333,91.2575 L441.9,93.7796 L443.43,96.6047 L444.925,91.5403 L446.386,91.4329 L447.816,93.0125 L449.214,94.16 L450.583,97.1939 L451.924,97.8418 L453.238,95.3388 L454.526,97.0266 L455.789,92.8607 L457.028,100.779 L458.244,91.8825 L459.438,92.012 L460.61,96.4264 L461.761,96.6319 L462.893,96.7883 L464.005,96.6058 L465.098,103.517 L466.173,99.3682 L467.231,100.349 L468.272,97.2621 L469.297,98.6358 L470.305,96.5879 L471.299,94.6014 L472.277,96.2917 L473.241,99.6035 L474.191,102.858 L475.127,100.384 L476.05,96.9648 L476.96,94.5533 L477.858,97.3024 L478.743,102.146 L479.617,94.2032 L481.329,99.2216 L481.329,94.0667 M481.329,99.2216 L482.169,99.2574 L482.998,96.4656 L483.816,99.1842 L484.625,98.5633 L486.212,105.674 L486.212,98.6916 M486.212,105.674 L486.991,110.643 L487.762,97.8596 L489.275,96.0135 L489.275,95.8704 M489.275,96.0135 L490.019,100.752 L490.754,97.2504 L492.201,104.877 L492.201,99.8807 M492.201,104.877 L492.912,99.1103 L494.312,98.7311 L494.312,96.2379 M494.312,98.7311 L495,100.668 L495.682,95.4014 L497.024,93.5609 L497.024,92.8235 M497.024,93.5609 L497.685,92.1143 L498.987,103.061 L498.987,92.1681 M498.987,103.061 L500.263,96.7208 L500.263,94.2764 M500.263,96.7208 L500.892,100.607 L502.132,105.699 L502.132,103.28 M502.132,105.699 L502.743,100.925 L503.948,103.931 L503.948,102.602 M503.948,103.931 L505.132,96.4893 L505.132,95.8899 M505.132,96.4893 L505.716,102.566 L506.868,113.611 L506.868,102.464 M506.868,113.611 L508,98.9103 L508,96.2892 M508,98.9103 L509.113,97.7027 L509.113,94.2458 M509.113,97.7027 L510.207,100.952 L510.207,97.5587 M510.207,100.952 L510.747,103.834 L511.814,99.7922 L511.814,98.1411 M511.814,99.7922 L512.864,105.152 L512.864,101.3 M512.864,105.152 L513.897,107.412 L513.897,101.697 M513.897,107.412 L514.914,97.667 L514.914,93.6886 M514.914,97.667 L515.916,98.9818 L515.916,94.5805 M515.916,98.9818 L516.902,95.3813 L516.902,92.4332 M516.902,95.3813 L517.874,100.889 L517.874,97.4711 M517.874,100.889 L518.831,104.34 L518.831,100.411 M518.831,104.34 L519.775,106.2 L519.775,97.9987 M519.775,106.2 L521.165,100.463 L521.165,99.5733 M521.165,100.463 L522.076,99.9984 L522.076,96.7145 M522.076,99.9984 L522.974,107.391 L522.974,103.284 M522.974,107.391 L523.859,103.739 L523.859,100.809 M523.859,103.739 L525.166,102.007 L525.166,98.6176 M525.166,102.007 L526.022,95.99 L526.022,94.3169 M526.022,95.99 L526.868,102.961 L526.868,101.002 M526.868,102.961 L528.116,115.152 L528.116,102.741 M528.116,115.152 L528.935,99.9416 L528.935,97.5877 M528.935,99.9416 L530.144,105.891 L530.144,98.1682 M530.144,105.891 L530.938,110.407 L530.938,103.33 M530.938,110.407 L532.112,108.518 L532.112,101.698 M532.112,108.518 L532.882,102.987 L532.882,100.522 M532.882,102.987 L534.021,108.617 L534.021,102.174 M534.021,108.617 L535.14,112.788 L535.14,101.139 M535.14,112.788 L535.876,102.979 L535.876,101.119 M535.876,102.979 L536.964,107.02 L536.964,103.208 M536.964,107.02 L538.035,104.487 L538.035,99.1224 M538.035,104.487 L539.088,106.251 L539.088,104.579 M539.088,106.251 L540.124,113.33 L540.124,102.053 M540.124,113.33 L541.144,108.297 L541.144,101.11 M541.144,108.297 L542.148,121.339 L542.148,101.413 M542.148,121.339 L543.137,104.203 L543.137,97.7257 M543.137,104.203 L544.112,115.979 L544.112,100.515 M544.112,115.979 L545.071,105.872 L545.071,99.1465 M545.071,105.872 L546.017,110.459 L546.017,99.7354 M546.017,110.459 L546.95,104.261 L546.95,98.0371 M546.95,104.261 L547.869,104.264 L547.869,99.1778 M547.869,104.264 L549.075,109.715 L549.075,104.037 M549.075,109.715 L549.965,119.207 L549.965,100.776 M549.965,119.207 L551.133,104.411 L551.133,98.1563 M551.133,104.411 L551.995,108.84 L551.995,103.229 M551.995,108.84 L553.128,120.365 L553.128,101.847 M553.128,120.365 L553.964,106.806 L553.964,104.12 M553.964,106.806 L555.063,123.566 L555.063,108.442 M555.063,123.566 L555.876,113.298 L555.876,102 M555.876,113.298 L556.943,112.231 L556.943,104.253 M556.943,112.231 L557.994,109.741 L557.994,104.057 M557.994,109.741 L559.027,110.402 L559.027,104.686 M559.027,110.402 L560.045,110.439 L560.045,103.416 M560.045,110.439 L561.046,109.015 L561.046,108.347 M561.046,109.015 L562.033,114.232 L562.033,104.715 M562.033,114.232 L563.005,109.623 L563.005,103.264 M563.005,109.623 L563.963,109.297 L563.963,106.382 M563.963,109.297 L564.906,106.959 L564.906,100.369 M564.906,106.959 L566.067,113.35 L566.067,102.216 M566.067,113.35 L566.981,111.71 L566.981,101.314 M566.981,111.71 L568.106,119.848 L568.106,105.577 M568.106,119.848 L568.992,113.19 L568.992,108.114 M568.992,113.19 L570.083,118.088 L570.083,104.461 M570.083,118.088 L570.942,115.668 L570.942,108.511 M570.942,115.668 L572.001,123.656 L572.001,105.922 M572.001,123.656 L573.043,112.936 L573.043,103.913 M573.043,112.936 L574.069,112.962 L574.069,105.29 M574.069,112.962 L575.078,108.346 L575.078,104.301 M575.078,108.346 L576.073,125.275 L576.073,104.563 M576.073,125.275 L577.052,117.508 L577.052,107.675 M577.052,117.508 L578.017,109.115 L578.017,105.053 M578.017,109.115 L578.968,114.149 L578.968,105.03 M578.968,114.149 L580.09,111.144 L580.09,104.212 M580.09,111.144 L581.011,117.739 L581.011,109.267 M581.011,117.739 L581.92,112.582 L581.92,108.294 M581.92,112.582 L582.993,121.452 L582.993,108.618 M582.993,121.452 L584.049,111.599 L584.049,103.047 M584.049,111.599 L584.916,112.271 L584.916,109.049 M584.916,112.271 L585.942,119.386 L585.942,105.637 M585.942,119.386 L586.952,120.301 L586.952,106.694 M586.952,120.301 L587.946,112.68 L587.946,110.519 M587.946,112.68 L588.925,112.944 L588.925,106.511 M588.925,112.944 L590.05,114.753 L590.05,109.343 M590.05,114.753 L590.998,110.398 L590.998,106.831 M590.998,110.398 L591.933,120.03 L591.933,106.3 M591.933,120.03 L593.007,122.492 L593.007,105.759 M593.007,122.492 L594.063,112.876 L594.063,108.759 M594.063,112.876 L594.955,118.816 L594.955,112.763 M594.955,118.816 L595.981,112.699 L595.981,106.281 M595.981,112.699 L596.991,117.87 L596.991,107.308 M596.991,117.87 L597.985,118.944 L597.985,108.868 M597.985,118.944 L598.964,114.132 L598.964,102.769 M598.964,114.132 L600.066,118.206 L600.066,109.315 M600.066,118.206 L601.015,128.325 L601.015,110.038 M601.015,128.325 L601.95,119.365 L601.95,109.913 M601.95,119.365 L603.002,117.341 L603.002,109.576 M603.002,117.341 L604.038,120.575 L604.038,108.565 M604.038,120.575 L605.058,119.53 L605.058,109.713 M605.058,119.53 L606.062,129.594 L606.062,106.103 M606.062,129.594 L607.05,121.837 L607.05,106.44 M607.05,121.837 L608.024,115.848 L608.024,107.51 M608.024,115.848 L608.984,116.571 L608.984,105.678 M608.984,116.571 L610.047,116.844 L610.047,106.078 M610.047,116.844 L610.977,118.396 L610.977,106.621 M610.977,118.396 L612.008,116.723 L612.008,109.047 M612.008,116.723 L613.023,114.876 L613.023,108.595 M613.023,114.876 L614.023,115.624 L614.023,108.04 M614.023,115.624 L615.007,120.951 L615.007,105.817 M615.007,120.951 L615.977,120.773 L615.977,110.018 M615.977,120.773 L617.037,120.251 L617.037,107.057 M617.037,120.251 L617.977,124.86 L617.977,108.268 M617.977,124.86 L619.006,120.173 L619.006,109.531 M619.006,120.173 L620.019,126.337 L620.019,107.848 M620.019,126.337 L621.017,114.381 L621.017,109.005 M621.017,114.381 L621.999,121.232 L621.999,108.116 M621.999,121.232 L622.967,123.79 L622.967,108.717 M622.967,123.79 L624.015,128.753 L624.015,107.374 M624.015,128.753 L624.953,124.399 L624.953,107.63 M624.953,124.399 L625.97,117.357 L625.97,107.834 M625.97,117.357 L626.972,125.489 L626.972,109.351 M626.972,125.489 L627.958,118.831 L627.958,109.331 M627.958,118.831 L629.017,119.624 L629.017,109.145 M629.017,119.624 L629.973,119.877 L629.973,106.63 M629.973,119.877 L631,126.077 L631,112.087 M631,126.077 L632.011,123.285 L632.011,109.291 M632.011,123.285 L633.007,122.889 L633.007,108.185 M633.007,122.889 L633.987,122.438 L633.987,107.152 M633.987,122.438 L635.033,132.302 L635.033,107.397 M635.033,132.302 L635.984,124.317 L635.984,110.154 M635.984,124.317 L636.999,117.947 L636.999,108.168 M636.999,117.947 L637.998,122.383 L637.998,109.693 M637.998,122.383 L638.982,121.133 L638.982,107.073 M638.982,121.133 L640.025,132.166 L640.025,110.263 M640.025,132.166 L640.979,124.938 L640.979,109.331 M640.979,124.938 L641.991,124.767 L641.991,109.843 M641.991,124.767 L642.988,118.451 L642.988,107.957 M642.988,118.451 L643.969,115.155 L643.969,102.217 M643.969,115.155 L645.005,119.791 L645.005,108.828 M645.005,119.791 L646.024,130.775 L646.024,107.576 M646.024,130.775 L647.028,119.901 L647.028,111.88 M647.028,119.901 L648.016,123.063 L648.016,110.043 M648.016,123.063 L648.989,129.587 L648.989,109.37 M648.989,129.587 L650.012,130.805 L650.012,104.033 M650.012,130.805 L651.019,125.905 L651.019,108.934 M651.019,125.905 L652.011,133.052 L652.011,109.292 M652.011,133.052 L652.987,121.008 L652.987,109.643 M652.987,121.008 L654.009,124.432 L654.009,107.82 M654.009,124.432 L655.015,114.513 L655.015,107.635 M655.015,114.513 L656.006,126.246 L656.006,104.032 M656.006,126.246 L656.982,122.239 L656.982,108.193 M656.982,122.239 L658,126.196 L658,109.695 M658,126.196 L659.002,117.759 L659.002,107.174 M659.002,117.759 L659.989,129.761 L659.989,107.709 M659.989,129.761 L661.015,120.353 L661.015,105.595 M661.015,120.353 L662.024,125.323 L662.024,108.474 M662.024,125.323 L663.019,125.842 L663.019,111.043 M663.019,125.842 L663.998,123.439 L663.998,108.573 M663.998,123.439 L665.014,121.659 L665.014,105.644 M665.014,121.659 L666.013,125.65 L666.013,106.312 M666.013,125.65 L666.998,124.019 L666.998,108.27 M666.998,124.019 L668.016,122.7 L668.016,108.216 M668.016,122.7 L669.018,121.496 L669.018,110.104 M669.018,121.496 L670.006,122.542 L670.006,109.34 M670.006,122.542 L670.978,123.029 L670.978,107.495 M670.978,123.029 L671.982,126.522 L671.982,109.002 M671.982,126.522 L673.014,128.83 L673.014,107.034 M673.014,128.83 L673.987,120.053 L673.987,109.265 M673.987,120.053 L674.989,125.791 L674.989,108.861 M674.989,125.791 L676.018,125.13 L676.018,107.92 M676.018,125.13 L676.989,127.923 L676.989,109.677 M676.989,127.923 L677.988,129.598 L677.988,110.968 M677.988,129.598 L679.011,133.092 L679.011,105.225 M679.011,133.092 L680.019,128.008 L680.019,106.92 M680.019,128.008 L681.012,133.142 L681.012,108.743 M681.012,133.142 L681.99,128.086 L681.99,105.482 M681.99,128.086 L682.991,120.053 L682.991,109.544 M682.991,120.053 L684.015,122.083 L684.015,111.153 M684.015,122.083 L684.986,129.053 L684.986,109.232 M684.986,129.053 L686.016,122.005 L686.016,107.679 M686.016,122.005 L686.994,122.074 L686.994,108.084 M686.994,122.074 L687.993,120.513 L687.993,108.674 M687.993,120.513 L689.011,122.551 L689.011,107.004 M689.011,122.551 L690.014,120.627 L690.014,107.829 M690.014,120.627 L691.002,133.51 L691.002,110.419 M691.002,133.51 L692.008,127.539 L692.008,110.928 M692.008,127.539 L692.999,135.336 L692.999,113.26 M692.999,135.336 L694.007,131.567 L694.007,115.261 M694.007,131.567 L694.968,145 L694.968,118.737 M694.968,145"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="29,156 723,156 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="186,156 186,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="185" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="190,156 190,166 " />
+<rect x="189" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="197,156 197,166 " />
+<rect x="196" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="202,156 202,166 " />
+<polyline fill="none" vector-effect="none" points="207,156 207,166 " />
+<rect x="206" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="214,156 214,166 " />
+<rect x="213" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="222,156 222,166 " />
+<rect x="221" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="227,156 227,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="228" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="232,156 232,166 " />
+<rect x="231" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="239,156 239,166 " />
+<rect x="238" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="245,156 245,166 " />
+<polyline fill="none" vector-effect="none" points="250,156 250,166 " />
+<rect x="249" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="258,156 258,166 " />
+<rect x="257" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="265,156 265,166 " />
+<rect x="264" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="270,156 270,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="271" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="276,156 276,166 " />
+<rect x="275" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="283,156 283,166 " />
+<rect x="282" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="289,156 289,166 " />
+<polyline fill="none" vector-effect="none" points="294,156 294,166 " />
+<rect x="293" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="302,156 302,166 " />
+<rect x="301" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="309,156 309,166 " />
+<rect x="308" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="315,156 315,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="316" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="320,156 320,166 " />
+<rect x="319" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="328,156 328,166 " />
+<rect x="327" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="333,156 333,166 " />
+<polyline fill="none" vector-effect="none" points="339,156 339,166 " />
+<rect x="338" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="346,156 346,166 " />
+<rect x="345" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="354,156 354,166 " />
+<rect x="353" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="359,156 359,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="365,156 365,166 " />
+<rect x="364" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="373,156 373,166 " />
+<rect x="372" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="378,156 378,166 " />
+<polyline fill="none" vector-effect="none" points="384,156 384,166 " />
+<rect x="383" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="391,156 391,166 " />
+<rect x="390" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="399,156 399,166 " />
+<rect x="398" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="404,156 404,166 " />
+</g>
+
+<g fill="#7f7fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="405" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="410,156 410,166 " />
+<rect x="409" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="418,156 418,166 " />
+<rect x="417" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="423,156 423,166 " />
+<polyline fill="none" vector-effect="none" points="429,156 429,166 " />
+<rect x="428" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="436,156 436,166 " />
+<rect x="435" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="444,156 444,166 " />
+<rect x="443" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="449,156 449,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="455,156 455,166 " />
+<rect x="454" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="463,156 463,166 " />
+<rect x="462" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="468,156 468,166 " />
+<polyline fill="none" vector-effect="none" points="474,156 474,166 " />
+<rect x="473" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="481,156 481,166 " />
+<rect x="480" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="489,156 489,166 " />
+<rect x="488" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="494,156 494,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="495" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="500,156 500,166 " />
+<rect x="499" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="508,156 508,166 " />
+<rect x="507" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="513,156 513,166 " />
+<polyline fill="none" vector-effect="none" points="519,156 519,166 " />
+<rect x="518" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="527,156 527,166 " />
+<rect x="526" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="534,156 534,166 " />
+<rect x="533" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="540,156 540,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="541" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="545,156 545,166 " />
+<rect x="544" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="553,156 553,166 " />
+<rect x="552" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="558,156 558,166 " />
+<polyline fill="none" vector-effect="none" points="564,156 564,166 " />
+<rect x="563" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="572,156 572,166 " />
+<rect x="571" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="579,156 579,166 " />
+<rect x="578" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="585,156 585,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="586" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="591,156 591,166 " />
+<rect x="590" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="598,156 598,166 " />
+<rect x="597" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="604,156 604,166 " />
+<polyline fill="none" vector-effect="none" points="609,156 609,166 " />
+<rect x="608" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="617,156 617,166 " />
+<rect x="616" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="624,156 624,166 " />
+<rect x="623" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="630,156 630,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="631" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="636,156 636,166 " />
+<rect x="635" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="643,156 643,166 " />
+<rect x="642" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="649,156 649,166 " />
+<polyline fill="none" vector-effect="none" points="654,156 654,166 " />
+<rect x="653" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="29,167 202,167 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="187" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >Hz</text>
+<polyline fill="none" vector-effect="none" points="202,167 897,167 " />
+<polyline fill="none" vector-effect="none" points="227,167 227,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >16</text>
+<polyline fill="none" vector-effect="none" points="255,167 255,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="260" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >25</text>
+<polyline fill="none" vector-effect="none" points="285,167 285,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="290" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >40</text>
+<polyline fill="none" vector-effect="none" points="314,167 314,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="319" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >63</text>
+<polyline fill="none" vector-effect="none" points="344,167 344,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="349" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >100</text>
+<polyline fill="none" vector-effect="none" points="374,167 374,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="379" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >160</text>
+<polyline fill="none" vector-effect="none" points="403,167 403,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="408" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >250</text>
+<polyline fill="none" vector-effect="none" points="434,167 434,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="439" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >400</text>
+<polyline fill="none" vector-effect="none" points="463,167 463,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="468" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >630</text>
+<polyline fill="none" vector-effect="none" points="494,167 494,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="499" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1000</text>
+<polyline fill="none" vector-effect="none" points="524,167 524,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="529" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1600</text>
+<polyline fill="none" vector-effect="none" points="584,167 584,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="589" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >4000</text>
+<polyline fill="none" vector-effect="none" points="643,167 643,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="648" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1e+04</text>
+<polyline fill="none" vector-effect="none" points="695,167 695,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="700" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >2.5e+04</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,32,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="727" y="0" width="695" height="189"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#f0f0f0" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,143 695,143 " />
+<polyline fill="none" vector-effect="none" points="0,128 695,128 " />
+<polyline fill="none" vector-effect="none" points="0,113 695,113 " />
+<polyline fill="none" vector-effect="none" points="0,98 695,98 " />
+<polyline fill="none" vector-effect="none" points="0,82 695,82 " />
+<polyline fill="none" vector-effect="none" points="0,67 695,67 " />
+<polyline fill="none" vector-effect="none" points="0,52 695,52 " />
+<polyline fill="none" vector-effect="none" points="0,37 695,37 " />
+<polyline fill="none" vector-effect="none" points="0,21 695,21 " />
+</g>
+
+<g fill="none" stroke="#ff9632" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M29,93.5589 L202.996,77.9046 L245.852,79.8943 L271.48,74.4983 L289.824,68.5685 L304.121,68.5841 L315.837,74.7903 L325.764,75.5102 L334.376,79.2185 L341.982,76.1741 L348.791,75.5562 L354.956,69.8754 L360.587,71.845 L365.77,71.1515 L370.57,68.5843 L375.041,74.4671 L379.225,77.8526 L383.156,80.6242 L386.863,80.3804 L390.371,76.8302 L393.699,76.4133 L396.866,81.9418 L399.886,92.0192 L402.772,85.6874 L405.535,84.6765 L408.186,86.0245 L410.733,88.0299 L413.185,80.7988 L415.547,81.4613 L417.827,88.3653 L420.03,89.1186 L422.16,92.7692 L424.223,102.506 L426.223,97.4533 L428.163,90.6888 L430.047,94.4408 L431.878,95.7399 L433.659,98.877 L435.393,90.8835 L437.082,89.6172 L438.728,87.7516 L440.333,88.3356 L441.9,87.2972 L443.43,91.5919 L444.925,98.2083 L446.386,102.998 L447.816,95.0679 L449.214,91.6915 L450.583,93.5298 L451.924,92.3431 L453.238,93.7319 L454.526,93.9801 L455.789,94.9037 L457.028,96.8057 L458.244,94.0348 L459.438,89.7711 L460.61,89.0649 L461.761,92.2571 L462.893,94.2128 L464.005,88.477 L465.098,85.6685 L466.173,87.0355 L467.231,90.9584 L468.272,95.1746 L469.297,92.375 L470.305,89.8742 L471.299,98.1511 L472.277,100.638 L473.241,96.4648 L474.191,93.1396 L475.127,97.9299 L476.05,96.1919 L476.96,92.6247 L477.858,91.2943 L478.743,89.1114 L479.617,90.0577 L481.329,98.9825 L481.329,95.3703 M481.329,98.9825 L482.169,96.6573 L482.998,93.1382 L483.816,97.4421 L484.625,95.347 L486.212,96.8524 L486.212,94.3282 M486.212,96.8524 L486.991,94.4467 L487.762,101.336 L489.275,105.159 L489.275,99.0236 M489.275,105.159 L490.019,96.6507 L490.754,94.9717 L492.201,93.2979 L492.201,90.6601 M492.201,93.2979 L492.912,96.8233 L494.312,101.868 L494.312,98.7634 M494.312,101.868 L495,95.397 L495.682,99.3241 L497.024,96.4795 L497.024,91.9969 M497.024,96.4795 L497.685,92.6582 L498.987,97.7801 L498.987,93.8176 M498.987,97.7801 L500.263,98.4992 L500.263,97.2415 M500.263,98.4992 L500.892,95.0416 L502.132,99.7635 L502.132,94.2442 M502.132,99.7635 L502.743,97.4823 L503.948,98.6702 L503.948,94.0896 M503.948,98.6702 L505.132,104.595 L505.132,99.5873 M505.132,104.595 L505.716,100.822 L506.868,98.2461 L506.868,97.4337 M506.868,98.2461 L508,99.1856 L508,97.3204 M508,99.1856 L509.113,97.4205 L509.113,94.4741 M509.113,97.4205 L510.207,94.3981 L510.207,94.0617 M510.207,94.3981 L510.747,97.6415 L511.814,100.411 L511.814,97.4174 M511.814,100.411 L512.864,115.308 L512.864,99.1872 M512.864,115.308 L513.897,108.801 L513.897,100.409 M513.897,108.801 L514.914,99.3558 L514.914,97.3182 M514.914,99.3558 L515.916,95.3878 L515.916,94.1228 M515.916,95.3878 L516.902,94.9405 L516.902,93.9139 M516.902,94.9405 L517.874,96.424 L517.874,94.6854 M517.874,96.424 L518.831,93.686 L518.831,92.3905 M518.831,93.686 L519.775,98.7055 L519.775,96.3129 M519.775,98.7055 L521.165,103.542 L521.165,94.3078 M521.165,103.542 L522.076,101.75 L522.076,98.5833 M522.076,101.75 L522.974,102.066 L522.974,100.644 M522.974,102.066 L523.859,94.4753 L523.859,94.1172 M523.859,94.4753 L525.166,104.05 L525.166,95.8909 M525.166,104.05 L526.022,98.1863 L526.022,96.9399 M526.022,98.1863 L526.868,107.4 L526.868,101.043 M526.868,107.4 L528.116,103.442 L528.116,94.0077 M528.116,103.442 L528.935,99.5462 L528.935,94.1465 M528.935,99.5462 L530.144,101.653 L530.144,98.2821 M530.144,101.653 L530.938,102.966 L530.938,101.522 M530.938,102.966 L532.112,100.356 L532.112,96.8736 M532.112,100.356 L532.882,108.132 L532.882,106.525 M532.882,108.132 L534.021,103.721 L534.021,101.533 M534.021,103.721 L535.14,107.376 L535.14,99.4394 M535.14,107.376 L535.876,111.297 L535.876,103.447 M535.876,111.297 L536.964,105.401 L536.964,102.287 M536.964,105.401 L538.035,105.357 L538.035,99.8737 M538.035,105.357 L539.088,110.646 L539.088,102.563 M539.088,110.646 L540.124,106.598 L540.124,103.34 M540.124,106.598 L541.144,109.18 L541.144,104.256 M541.144,109.18 L542.148,113.726 L542.148,101.179 M542.148,113.726 L543.137,109.705 L543.137,101.202 M543.137,109.705 L544.112,102.27 L544.112,98.699 M544.112,102.27 L545.071,102.49 L545.071,99.4962 M545.071,102.49 L546.017,104.269 L546.017,99.9304 M546.017,104.269 L546.95,101 L546.95,100.695 M546.95,101 L547.869,108.783 L547.869,105.063 M547.869,108.783 L549.075,114.76 L549.075,99.9046 M549.075,114.76 L549.965,104.32 L549.965,98.5176 M549.965,104.32 L551.133,105.462 L551.133,104.146 M551.133,105.462 L551.995,120.074 L551.995,106.001 M551.995,120.074 L553.128,105.184 L553.128,102.639 M553.128,105.184 L553.964,104.156 L553.964,99.9274 M553.964,104.156 L555.063,110.848 L555.063,99.7739 M555.063,110.848 L555.876,112.422 L555.876,103.081 M555.876,112.422 L556.943,111.961 L556.943,104.928 M556.943,111.961 L557.994,107.502 L557.994,102.811 M557.994,107.502 L559.027,110.437 L559.027,103.464 M559.027,110.437 L560.045,129.253 L560.045,104.916 M560.045,129.253 L561.046,110.084 L561.046,102.617 M561.046,110.084 L562.033,108.87 L562.033,103.664 M562.033,108.87 L563.005,110.934 L563.005,104.578 M563.005,110.934 L563.963,108.007 L563.963,102.711 M563.963,108.007 L564.906,108.736 L564.906,101.998 M564.906,108.736 L566.067,107.385 L566.067,99.3802 M566.067,107.385 L566.981,118.763 L566.981,104.811 M566.981,118.763 L568.106,107.315 L568.106,104.658 M568.106,107.315 L568.992,110.496 L568.992,100 M568.992,110.496 L570.083,113.292 L570.083,100.851 M570.083,113.292 L570.942,106.1 L570.942,101.44 M570.942,106.1 L572.001,113.799 L572.001,108.665 M572.001,113.799 L573.043,118.335 L573.043,105.143 M573.043,118.335 L574.069,113.393 L574.069,103.203 M574.069,113.393 L575.078,109.763 L575.078,101.218 M575.078,109.763 L576.073,110.11 L576.073,103.653 M576.073,110.11 L577.052,116.872 L577.052,105.133 M577.052,116.872 L578.017,107.605 L578.017,102.631 M578.017,107.605 L578.968,108.861 L578.968,103.808 M578.968,108.861 L580.09,105.877 L580.09,100.712 M580.09,105.877 L581.011,113.692 L581.011,103.326 M581.011,113.692 L581.92,118.316 L581.92,104.271 M581.92,118.316 L582.993,116.624 L582.993,103.719 M582.993,116.624 L584.049,126.333 L584.049,100.149 M584.049,126.333 L584.916,111.806 L584.916,101.466 M584.916,111.806 L585.942,109.477 L585.942,102.627 M585.942,109.477 L586.952,115.287 L586.952,102.817 M586.952,115.287 L587.946,114.674 L587.946,105.885 M587.946,114.674 L588.925,117.178 L588.925,103.151 M588.925,117.178 L590.05,111.505 L590.05,107.117 M590.05,111.505 L590.998,120.469 L590.998,106.041 M590.998,120.469 L591.933,109.195 L591.933,106.181 M591.933,109.195 L593.007,109.412 L593.007,102.525 M593.007,109.412 L594.063,116.801 L594.063,105.085 M594.063,116.801 L594.955,113.094 L594.955,108.652 M594.955,113.094 L595.981,120.449 L595.981,102.155 M595.981,120.449 L596.991,112.84 L596.991,98.8701 M596.991,112.84 L597.985,110.303 L597.985,102.328 M597.985,110.303 L598.964,115.77 L598.964,104.865 M598.964,115.77 L600.066,122.159 L600.066,105.483 M600.066,122.159 L601.015,112.889 L601.015,103.392 M601.015,112.889 L601.95,112.394 L601.95,100.686 M601.95,112.394 L603.002,110.615 L603.002,102.463 M603.002,110.615 L604.038,126.493 L604.038,104.587 M604.038,126.493 L605.058,112.418 L605.058,105.526 M605.058,112.418 L606.062,109.39 L606.062,99.4654 M606.062,109.39 L607.05,117.871 L607.05,100.101 M607.05,117.871 L608.024,113.953 L608.024,102.532 M608.024,113.953 L608.984,111.964 L608.984,104.879 M608.984,111.964 L610.047,112.497 L610.047,102.954 M610.047,112.497 L610.977,119.444 L610.977,100.727 M610.977,119.444 L612.008,116.079 L612.008,100.02 M612.008,116.079 L613.023,110.501 L613.023,102.847 M613.023,110.501 L614.023,113.919 L614.023,104.582 M614.023,113.919 L615.007,107.697 L615.007,102.382 M615.007,107.697 L615.977,113.826 L615.977,105.406 M615.977,113.826 L617.037,111.366 L617.037,102.065 M617.037,111.366 L617.977,110.332 L617.977,101.403 M617.977,110.332 L619.006,115.263 L619.006,105.118 M619.006,115.263 L620.019,116.233 L620.019,103.771 M620.019,116.233 L621.017,115.007 L621.017,100.796 M621.017,115.007 L621.999,111.522 L621.999,100.943 M621.999,111.522 L622.967,113.711 L622.967,104.276 M622.967,113.711 L624.015,120.559 L624.015,103.409 M624.015,120.559 L624.953,115.704 L624.953,100.956 M624.953,115.704 L625.97,111.858 L625.97,102.116 M625.97,111.858 L626.972,116.623 L626.972,100.888 M626.972,116.623 L627.958,118.255 L627.958,104.047 M627.958,118.255 L629.017,116.935 L629.017,102.617 M629.017,116.935 L629.973,118.622 L629.973,104.445 M629.973,118.622 L631,120.753 L631,103.97 M631,120.753 L632.011,122.812 L632.011,104.049 M632.011,122.812 L633.007,116.469 L633.007,105.317 M633.007,116.469 L633.987,112.585 L633.987,106.015 M633.987,112.585 L635.033,119.554 L635.033,103.469 M635.033,119.554 L635.984,119.539 L635.984,103.381 M635.984,119.539 L636.999,115.235 L636.999,105.357 M636.999,115.235 L637.998,122.066 L637.998,103.322 M637.998,122.066 L638.982,114.42 L638.982,105.165 M638.982,114.42 L640.025,126.337 L640.025,103.191 M640.025,126.337 L640.979,114.473 L640.979,107.109 M640.979,114.473 L641.991,123.357 L641.991,104.08 M641.991,123.357 L642.988,128.253 L642.988,104.124 M642.988,128.253 L643.969,119.768 L643.969,101.2 M643.969,119.768 L645.005,123.014 L645.005,108.512 M645.005,123.014 L646.024,122.789 L646.024,105.702 M646.024,122.789 L647.028,124.705 L647.028,107.227 M647.028,124.705 L648.016,121.468 L648.016,105.784 M648.016,121.468 L648.989,119.982 L648.989,106.646 M648.989,119.982 L650.012,120.729 L650.012,106.844 M650.012,120.729 L651.019,129.703 L651.019,103.363 M651.019,129.703 L652.011,123.998 L652.011,106.97 M652.011,123.998 L652.987,120.649 L652.987,105.818 M652.987,120.649 L654.009,133.418 L654.009,107.475 M654.009,133.418 L655.015,122.887 L655.015,107.648 M655.015,122.887 L656.006,118.642 L656.006,103.985 M656.006,118.642 L656.982,119.772 L656.982,108.353 M656.982,119.772 L658,125.605 L658,106.258 M658,125.605 L659.002,124.046 L659.002,108.082 M659.002,124.046 L659.989,124.352 L659.989,106.268 M659.989,124.352 L661.015,128.302 L661.015,105.094 M661.015,128.302 L662.024,126.07 L662.024,107.519 M662.024,126.07 L663.019,128.849 L663.019,107 M663.019,128.849 L663.998,118.591 L663.998,103.397 M663.998,118.591 L665.014,121.264 L665.014,106.211 M665.014,121.264 L666.013,125.664 L666.013,106.757 M666.013,125.664 L666.998,126.802 L666.998,106.606 M666.998,126.802 L668.016,129.003 L668.016,107.918 M668.016,129.003 L669.018,123.273 L669.018,105.747 M669.018,123.273 L670.006,118.865 L670.006,106.042 M670.006,118.865 L670.978,118.306 L670.978,106.507 M670.978,118.306 L671.982,126.53 L671.982,110.458 M671.982,126.53 L673.014,129.014 L673.014,108.885 M673.014,129.014 L673.987,126.597 L673.987,108.436 M673.987,126.597 L674.989,119.151 L674.989,106.293 M674.989,119.151 L676.018,122.987 L676.018,107.813 M676.018,122.987 L676.989,120.13 L676.989,106.453 M676.989,120.13 L677.988,128.232 L677.988,107.618 M677.988,128.232 L679.011,124.365 L679.011,108.664 M679.011,124.365 L680.019,124.908 L680.019,106.832 M680.019,124.908 L681.012,122.928 L681.012,105.486 M681.012,122.928 L681.99,122.349 L681.99,106.417 M681.99,122.349 L682.991,123.544 L682.991,109.601 M682.991,123.544 L684.015,123.19 L684.015,106.146 M684.015,123.19 L684.986,124.427 L684.986,107.662 M684.986,124.427 L686.016,123.268 L686.016,104.648 M686.016,123.268 L686.994,125.769 L686.994,107.588 M686.994,125.769 L687.993,126.661 L687.993,107.827 M687.993,126.661 L689.011,127.519 L689.011,108.727 M689.011,127.519 L690.014,129.535 L690.014,106.641 M690.014,129.535 L691.002,123.736 L691.002,110.065 M691.002,123.736 L692.008,129.153 L692.008,109.312 M692.008,129.153 L692.999,130.702 L692.999,113.52 M692.999,130.702 L694.007,129.011 L694.007,114.7 M694.007,129.011 L694.968,141.993 L694.968,115.613 M694.968,141.993"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="29,156 723,156 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="186,156 186,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="185" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="190,156 190,166 " />
+<rect x="189" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="197,156 197,166 " />
+<rect x="196" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="202,156 202,166 " />
+<polyline fill="none" vector-effect="none" points="207,156 207,166 " />
+<rect x="206" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="214,156 214,166 " />
+<rect x="213" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="222,156 222,166 " />
+<rect x="221" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="227,156 227,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="228" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="232,156 232,166 " />
+<rect x="231" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="239,156 239,166 " />
+<rect x="238" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="245,156 245,166 " />
+<polyline fill="none" vector-effect="none" points="250,156 250,166 " />
+<rect x="249" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="258,156 258,166 " />
+<rect x="257" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="265,156 265,166 " />
+<rect x="264" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="270,156 270,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="271" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="276,156 276,166 " />
+<rect x="275" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="283,156 283,166 " />
+<rect x="282" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="289,156 289,166 " />
+<polyline fill="none" vector-effect="none" points="294,156 294,166 " />
+<rect x="293" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="302,156 302,166 " />
+<rect x="301" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="309,156 309,166 " />
+<rect x="308" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="315,156 315,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="316" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="320,156 320,166 " />
+<rect x="319" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="328,156 328,166 " />
+<rect x="327" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="333,156 333,166 " />
+<polyline fill="none" vector-effect="none" points="339,156 339,166 " />
+<rect x="338" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="346,156 346,166 " />
+<rect x="345" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="354,156 354,166 " />
+<rect x="353" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="359,156 359,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="365,156 365,166 " />
+<rect x="364" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="373,156 373,166 " />
+<rect x="372" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="378,156 378,166 " />
+<polyline fill="none" vector-effect="none" points="384,156 384,166 " />
+<rect x="383" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="391,156 391,166 " />
+<rect x="390" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="399,156 399,166 " />
+<rect x="398" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="404,156 404,166 " />
+</g>
+
+<g fill="#7f7fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="405" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="410,156 410,166 " />
+<rect x="409" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="418,156 418,166 " />
+<rect x="417" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="423,156 423,166 " />
+<polyline fill="none" vector-effect="none" points="429,156 429,166 " />
+<rect x="428" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="436,156 436,166 " />
+<rect x="435" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="444,156 444,166 " />
+<rect x="443" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="449,156 449,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="455,156 455,166 " />
+<rect x="454" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="463,156 463,166 " />
+<rect x="462" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="468,156 468,166 " />
+<polyline fill="none" vector-effect="none" points="474,156 474,166 " />
+<rect x="473" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="481,156 481,166 " />
+<rect x="480" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="489,156 489,166 " />
+<rect x="488" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="494,156 494,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="495" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="500,156 500,166 " />
+<rect x="499" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="508,156 508,166 " />
+<rect x="507" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="513,156 513,166 " />
+<polyline fill="none" vector-effect="none" points="519,156 519,166 " />
+<rect x="518" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="527,156 527,166 " />
+<rect x="526" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="534,156 534,166 " />
+<rect x="533" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="540,156 540,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="541" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="545,156 545,166 " />
+<rect x="544" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="553,156 553,166 " />
+<rect x="552" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="558,156 558,166 " />
+<polyline fill="none" vector-effect="none" points="564,156 564,166 " />
+<rect x="563" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="572,156 572,166 " />
+<rect x="571" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="579,156 579,166 " />
+<rect x="578" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="585,156 585,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="586" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="591,156 591,166 " />
+<rect x="590" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="598,156 598,166 " />
+<rect x="597" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="604,156 604,166 " />
+<polyline fill="none" vector-effect="none" points="609,156 609,166 " />
+<rect x="608" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="617,156 617,166 " />
+<rect x="616" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="624,156 624,166 " />
+<rect x="623" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="630,156 630,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="631" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="636,156 636,166 " />
+<rect x="635" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="643,156 643,166 " />
+<rect x="642" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="649,156 649,166 " />
+<polyline fill="none" vector-effect="none" points="654,156 654,166 " />
+<rect x="653" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="29,167 202,167 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="187" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >Hz</text>
+<polyline fill="none" vector-effect="none" points="202,167 897,167 " />
+<polyline fill="none" vector-effect="none" points="227,167 227,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >16</text>
+<polyline fill="none" vector-effect="none" points="255,167 255,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="260" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >25</text>
+<polyline fill="none" vector-effect="none" points="285,167 285,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="290" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >40</text>
+<polyline fill="none" vector-effect="none" points="314,167 314,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="319" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >63</text>
+<polyline fill="none" vector-effect="none" points="344,167 344,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="349" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >100</text>
+<polyline fill="none" vector-effect="none" points="374,167 374,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="379" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >160</text>
+<polyline fill="none" vector-effect="none" points="403,167 403,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="408" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >250</text>
+<polyline fill="none" vector-effect="none" points="434,167 434,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="439" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >400</text>
+<polyline fill="none" vector-effect="none" points="463,167 463,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="468" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >630</text>
+<polyline fill="none" vector-effect="none" points="494,167 494,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="499" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1000</text>
+<polyline fill="none" vector-effect="none" points="524,167 524,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="529" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1600</text>
+<polyline fill="none" vector-effect="none" points="584,167 584,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="589" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >4000</text>
+<polyline fill="none" vector-effect="none" points="643,167 643,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="648" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1e+04</text>
+<polyline fill="none" vector-effect="none" points="695,167 695,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="700" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >2.5e+04</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,727,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="1422" y="0" width="695" height="189"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#f0f0f0" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,143 695,143 " />
+<polyline fill="none" vector-effect="none" points="0,128 695,128 " />
+<polyline fill="none" vector-effect="none" points="0,113 695,113 " />
+<polyline fill="none" vector-effect="none" points="0,98 695,98 " />
+<polyline fill="none" vector-effect="none" points="0,82 695,82 " />
+<polyline fill="none" vector-effect="none" points="0,67 695,67 " />
+<polyline fill="none" vector-effect="none" points="0,52 695,52 " />
+<polyline fill="none" vector-effect="none" points="0,37 695,37 " />
+<polyline fill="none" vector-effect="none" points="0,21 695,21 " />
+</g>
+
+<g fill="none" stroke="#ff9632" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M29,56.1522 L202.996,57.7453 L245.852,52.9062 L271.48,47.4582 L289.824,45.1365 L304.121,42.7794 L315.837,42.5943 L325.764,44.528 L334.376,41.6912 L341.982,45.3072 L348.791,56.4517 L354.956,59.3107 L360.587,56.161 L365.77,51.1976 L370.57,44.8793 L375.041,46.9257 L379.225,55.7911 L383.156,63.7297 L386.863,71.0273 L390.371,65.1094 L393.699,64.0132 L396.866,64.647 L399.886,65.2683 L402.772,65.8414 L405.535,67.7407 L408.186,68.5963 L410.733,69.28 L413.185,75.617 L415.547,78.288 L417.827,72.8275 L420.03,74.8638 L422.16,79.1906 L424.223,73.9272 L426.223,76.0266 L428.163,78.2293 L430.047,77.0776 L431.878,82.4458 L433.659,81.4302 L435.393,80.8674 L437.082,86.186 L438.728,88.5775 L440.333,83.6734 L441.9,81.382 L443.43,86.2916 L444.925,92.0403 L446.386,90.8255 L447.816,80.7129 L449.214,78.7479 L450.583,78.6556 L451.924,79.7379 L453.238,80.981 L454.526,81.747 L455.789,83.1082 L457.028,81.7184 L458.244,89.9156 L459.438,85.7795 L460.61,85.7919 L461.761,80.8122 L462.893,78.522 L464.005,80.8091 L465.098,88.5503 L466.173,87.617 L467.231,87.6031 L468.272,85.955 L469.297,84.3057 L470.305,85.2099 L471.299,85.8565 L472.277,88.2085 L473.241,88.8952 L474.191,89.0374 L475.127,86.2871 L476.05,83.648 L476.96,87.4625 L477.858,87.8168 L478.743,83.1392 L479.617,85.0588 L481.329,87.8309 L481.329,85.7635 M481.329,87.8309 L482.169,83.4798 L482.998,81.8849 L483.816,87.9836 L484.625,83.428 L486.212,88.2766 L486.212,83.965 M486.212,88.2766 L486.991,84.4776 L487.762,83.9004 L489.275,89.633 L489.275,85.3595 M489.275,89.633 L490.019,100.836 L490.754,92.3505 L492.201,98.5471 L492.201,92.893 M492.201,98.5471 L492.912,104.461 L494.312,93.0799 L494.312,91.8668 M494.312,93.0799 L495,87.9903 L495.682,85.9142 L497.024,90.3939 L497.024,87.9322 M497.024,90.3939 L497.685,86.7953 L498.987,86.5336 L498.987,86.247 M498.987,86.5336 L500.263,91.9146 L500.263,90.1416 M500.263,91.9146 L500.892,86.3938 L502.132,91.4249 L502.132,85.397 M502.132,91.4249 L502.743,85.7077 L503.948,90.0762 L503.948,87.7514 M503.948,90.0762 L505.132,93.8574 L505.132,90.8788 M505.132,93.8574 L505.716,94.5244 L506.868,92.5591 L506.868,87.693 M506.868,92.5591 L508,93.7129 L508,85.217 M508,93.7129 L509.113,97.6044 L509.113,95.8264 M509.113,97.6044 L510.207,105.196 L510.207,90.6595 M510.207,105.196 L510.747,89.2312 L511.814,97.0146 L511.814,92.1082 M511.814,97.0146 L512.864,88.0103 L512.864,87.5459 M512.864,88.0103 L513.897,93.0619 L513.897,89.3097 M513.897,93.0619 L514.914,105.7 L514.914,92.6723 M514.914,105.7 L515.916,93.8703 L515.916,91.7193 M515.916,93.8703 L516.902,87.9016 L516.902,87.2981 M516.902,87.9016 L517.874,91.7156 L517.874,88.7044 M517.874,91.7156 L518.831,91.3087 L518.831,89.5306 M518.831,91.3087 L519.775,92.652 L519.775,88.8198 M519.775,92.652 L521.165,98.2481 L521.165,90.2171 M521.165,98.2481 L522.076,91.8252 L522.076,90.5429 M522.076,91.8252 L522.974,92.9507 L522.974,89.2195 M522.974,92.9507 L523.859,94.6694 L523.859,90.8839 M523.859,94.6694 L525.166,96.7449 L525.166,86.6018 M525.166,96.7449 L526.022,92.7238 L526.022,90.3726 M526.022,92.7238 L526.868,92.8999 L526.868,92.3917 M526.868,92.8999 L528.116,95.2484 L528.116,93.3196 M528.116,95.2484 L528.935,85.5549 L528.935,85.1733 M528.935,85.5549 L530.144,103.266 L530.144,91.484 M530.144,103.266 L530.938,97.3705 L530.938,91.1817 M530.938,97.3705 L532.112,102.496 L532.112,93.8401 M532.112,102.496 L532.882,89.7876 L532.882,89.2738 M532.882,89.7876 L534.021,90.3848 L534.021,87.2469 M534.021,90.3848 L535.14,99.7546 L535.14,91.5292 M535.14,99.7546 L535.876,100.129 L535.876,91.1357 M535.876,100.129 L536.964,92.1614 L536.964,89.653 M536.964,92.1614 L538.035,96.204 L538.035,92.11 M538.035,96.204 L539.088,96.3431 L539.088,93.0293 M539.088,96.3431 L540.124,101.952 L540.124,92.1857 M540.124,101.952 L541.144,95.4111 L541.144,91.2049 M541.144,95.4111 L542.148,96.284 L542.148,93.519 M542.148,96.284 L543.137,95.8232 L543.137,92.3562 M543.137,95.8232 L544.112,104.699 L544.112,92.1618 M544.112,104.699 L545.071,100.359 L545.071,89.0904 M545.071,100.359 L546.017,104.29 L546.017,91.0705 M546.017,104.29 L546.95,103.237 L546.95,97.5672 M546.95,103.237 L547.869,108.841 L547.869,97.6556 M547.869,108.841 L549.075,98.1598 L549.075,92.9624 M549.075,98.1598 L549.965,97.3136 L549.965,89.8908 M549.965,97.3136 L551.133,96.8443 L551.133,90.0665 M551.133,96.8443 L551.995,94.5718 L551.995,90.3421 M551.995,94.5718 L553.128,96.6187 L553.128,93.4007 M553.128,96.6187 L553.964,96.4377 L553.964,93.4339 M553.964,96.4377 L555.063,99.0129 L555.063,93.885 M555.063,99.0129 L555.876,98.1512 L555.876,93.8898 M555.876,98.1512 L556.943,102.397 L556.943,94.1066 M556.943,102.397 L557.994,102.481 L557.994,94.5631 M557.994,102.481 L559.027,97.4421 L559.027,89.8531 M559.027,97.4421 L560.045,97.2422 L560.045,90.3292 M560.045,97.2422 L561.046,100.757 L561.046,91.4626 M561.046,100.757 L562.033,99.3768 L562.033,87.8322 M562.033,99.3768 L563.005,91.6179 L563.005,88.3278 M563.005,91.6179 L563.963,104.213 L563.963,91.8701 M563.963,104.213 L564.906,100.733 L564.906,90.4096 M564.906,100.733 L566.067,101.205 L566.067,87.8332 M566.067,101.205 L566.981,99.7484 L566.981,90.5112 M566.981,99.7484 L568.106,101.735 L568.106,91.8938 M568.106,101.735 L568.992,94.3516 L568.992,90.3202 M568.992,94.3516 L570.083,97.7958 L570.083,91.2082 M570.083,97.7958 L570.942,101.069 L570.942,93.185 M570.942,101.069 L572.001,97.5347 L572.001,90.9583 M572.001,97.5347 L573.043,110.707 L573.043,94.1755 M573.043,110.707 L574.069,97.1527 L574.069,92.417 M574.069,97.1527 L575.078,102.776 L575.078,93.9858 M575.078,102.776 L576.073,94.1491 L576.073,88.8836 M576.073,94.1491 L577.052,98.9288 L577.052,95.0729 M577.052,98.9288 L578.017,99.3295 L578.017,92.5101 M578.017,99.3295 L578.968,95.6081 L578.968,92.4061 M578.968,95.6081 L580.09,100.536 L580.09,92.4067 M580.09,100.536 L581.011,106.518 L581.011,94.7812 M581.011,106.518 L581.92,98.1596 L581.92,93.5832 M581.92,98.1596 L582.993,107.169 L582.993,88.3256 M582.993,107.169 L584.049,96.034 L584.049,91.0352 M584.049,96.034 L584.916,104.257 L584.916,93.0192 M584.916,104.257 L585.942,107.079 L585.942,89.7726 M585.942,107.079 L586.952,106.363 L586.952,88.883 M586.952,106.363 L587.946,102.397 L587.946,91.1181 M587.946,102.397 L588.925,98.803 L588.925,91.0018 M588.925,98.803 L590.05,106.391 L590.05,94.2633 M590.05,106.391 L590.998,99.273 L590.998,92.9904 M590.998,99.273 L591.933,104.037 L591.933,92.7554 M591.933,104.037 L593.007,95.1472 L593.007,91.7333 M593.007,95.1472 L594.063,101.814 L594.063,89.5116 M594.063,101.814 L594.955,98.9593 L594.955,92.5761 M594.955,98.9593 L595.981,103.391 L595.981,90.2863 M595.981,103.391 L596.991,107.867 L596.991,89.4528 M596.991,107.867 L597.985,98.7152 L597.985,91.1745 M597.985,98.7152 L598.964,91.8721 L598.964,89.1678 M598.964,91.8721 L600.066,101.619 L600.066,89.3531 M600.066,101.619 L601.015,103.767 L601.015,90.0617 M601.015,103.767 L601.95,100.944 L601.95,89.3703 M601.95,100.944 L603.002,113.048 L603.002,89.9854 M603.002,113.048 L604.038,96.8203 L604.038,90.9631 M604.038,96.8203 L605.058,98.1368 L605.058,92.4641 M605.058,98.1368 L606.062,103.736 L606.062,89.5356 M606.062,103.736 L607.05,103.095 L607.05,93.0696 M607.05,103.095 L608.024,101.839 L608.024,90.4105 M608.024,101.839 L608.984,97.2138 L608.984,88.1662 M608.984,97.2138 L610.047,98.2202 L610.047,88.8439 M610.047,98.2202 L610.977,95.6592 L610.977,89.1426 M610.977,95.6592 L612.008,98.6284 L612.008,88.6371 M612.008,98.6284 L613.023,96.3537 L613.023,89.6754 M613.023,96.3537 L614.023,102.545 L614.023,94.7326 M614.023,102.545 L615.007,94.6842 L615.007,91.2087 M615.007,94.6842 L615.977,110.647 L615.977,89.0829 M615.977,110.647 L617.037,115.767 L617.037,90.7704 M617.037,115.767 L617.977,97.7454 L617.977,92.0556 M617.977,97.7454 L619.006,106.068 L619.006,91.6568 M619.006,106.068 L620.019,102.765 L620.019,91.4451 M620.019,102.765 L621.017,105.88 L621.017,90.1857 M621.017,105.88 L621.999,100.198 L621.999,92.209 M621.999,100.198 L622.967,110.546 L622.967,96.1128 M622.967,110.546 L624.015,105.42 L624.015,91.8311 M624.015,105.42 L624.953,100.765 L624.953,92.8791 M624.953,100.765 L625.97,104.065 L625.97,90.3513 M625.97,104.065 L626.972,94.128 L626.972,87.7579 M626.972,94.128 L627.958,105.157 L627.958,89.5472 M627.958,105.157 L629.017,103.698 L629.017,90.383 M629.017,103.698 L629.973,102.237 L629.973,89.6648 M629.973,102.237 L631,104.059 L631,91.5967 M631,104.059 L632.011,116.414 L632.011,94.1997 M632.011,116.414 L633.007,101.442 L633.007,93.8144 M633.007,101.442 L633.987,101.848 L633.987,90.023 M633.987,101.848 L635.033,99.424 L635.033,92.5002 M635.033,99.424 L635.984,101.83 L635.984,93.6769 M635.984,101.83 L636.999,112.857 L636.999,90.2881 M636.999,112.857 L637.998,107.267 L637.998,96.7491 M637.998,107.267 L638.982,108.291 L638.982,91.5617 M638.982,108.291 L640.025,105.576 L640.025,91.2435 M640.025,105.576 L640.979,105.014 L640.979,91.1818 M640.979,105.014 L641.991,112.213 L641.991,92.8113 M641.991,112.213 L642.988,101.078 L642.988,91.829 M642.988,101.078 L643.969,105.344 L643.969,91.0915 M643.969,105.344 L645.005,97.5953 L645.005,91.5575 M645.005,97.5953 L646.024,105.753 L646.024,91.7207 M646.024,105.753 L647.028,107.85 L647.028,94.9062 M647.028,107.85 L648.016,110.877 L648.016,94.0146 M648.016,110.877 L648.989,107.743 L648.989,93.1788 M648.989,107.743 L650.012,103.363 L650.012,90.888 M650.012,103.363 L651.019,111.458 L651.019,92.8849 M651.019,111.458 L652.011,109.459 L652.011,94.7474 M652.011,109.459 L652.987,110.12 L652.987,95.4476 M652.987,110.12 L654.009,104.799 L654.009,91.4082 M654.009,104.799 L655.015,113.437 L655.015,93.9968 M655.015,113.437 L656.006,108.164 L656.006,94.4123 M656.006,108.164 L656.982,103.116 L656.982,94.0806 M656.982,103.116 L658,105.745 L658,92.3285 M658,105.745 L659.002,108.392 L659.002,91.2149 M659.002,108.392 L659.989,108.312 L659.989,94.3956 M659.989,108.312 L661.015,112.573 L661.015,94.0346 M661.015,112.573 L662.024,110.551 L662.024,91.7002 M662.024,110.551 L663.019,104.384 L663.019,95.126 M663.019,104.384 L663.998,110.855 L663.998,90.8136 M663.998,110.855 L665.014,107.616 L665.014,96.0412 M665.014,107.616 L666.013,109.331 L666.013,96.8499 M666.013,109.331 L666.998,109.702 L666.998,93.6776 M666.998,109.702 L668.016,113.965 L668.016,93.5027 M668.016,113.965 L669.018,108.136 L669.018,93.7316 M669.018,108.136 L670.006,113.303 L670.006,95.8043 M670.006,113.303 L670.978,105.144 L670.978,94.5477 M670.978,105.144 L671.982,116.716 L671.982,95.2098 M671.982,116.716 L673.014,109.88 L673.014,95.5491 M673.014,109.88 L673.987,111.147 L673.987,97.6672 M673.987,111.147 L674.989,107.148 L674.989,95.7424 M674.989,107.148 L676.018,109.505 L676.018,93.8242 M676.018,109.505 L676.989,109.401 L676.989,93.34 M676.989,109.401 L677.988,111.316 L677.988,95.2237 M677.988,111.316 L679.011,109.853 L679.011,96.4549 M679.011,109.853 L680.019,113.328 L680.019,97.335 M680.019,113.328 L681.012,114.545 L681.012,95.5226 M681.012,114.545 L681.99,115.47 L681.99,97.0065 M681.99,115.47 L682.991,112.421 L682.991,97.4473 M682.991,112.421 L684.015,111.429 L684.015,96.7838 M684.015,111.429 L684.986,107.272 L684.986,97.4367 M684.986,107.272 L686.016,113.604 L686.016,95.734 M686.016,113.604 L686.994,120.062 L686.994,96.7744 M686.994,120.062 L687.993,115.691 L687.993,98.1428 M687.993,115.691 L689.011,111.217 L689.011,98.8298 M689.011,111.217 L690.014,116.495 L690.014,99.9304 M690.014,116.495 L691.002,120.693 L691.002,101.968 M691.002,120.693 L692.008,111.141 L692.008,102.546 M692.008,111.141 L692.999,113.129 L692.999,101.416 M692.999,113.129 L694.007,115.823 L694.007,105.44 M694.007,115.823 L694.968,125.727 L694.968,109.211 M694.968,125.727"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="29,156 723,156 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="186,156 186,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="185" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="190,156 190,166 " />
+<rect x="189" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="197,156 197,166 " />
+<rect x="196" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="202,156 202,166 " />
+<polyline fill="none" vector-effect="none" points="207,156 207,166 " />
+<rect x="206" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="214,156 214,166 " />
+<rect x="213" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="222,156 222,166 " />
+<rect x="221" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="227,156 227,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="228" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="232,156 232,166 " />
+<rect x="231" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="239,156 239,166 " />
+<rect x="238" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="245,156 245,166 " />
+<polyline fill="none" vector-effect="none" points="250,156 250,166 " />
+<rect x="249" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="258,156 258,166 " />
+<rect x="257" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="265,156 265,166 " />
+<rect x="264" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="270,156 270,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="271" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="276,156 276,166 " />
+<rect x="275" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="283,156 283,166 " />
+<rect x="282" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="289,156 289,166 " />
+<polyline fill="none" vector-effect="none" points="294,156 294,166 " />
+<rect x="293" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="302,156 302,166 " />
+<rect x="301" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="309,156 309,166 " />
+<rect x="308" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="315,156 315,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="316" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="320,156 320,166 " />
+<rect x="319" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="328,156 328,166 " />
+<rect x="327" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="333,156 333,166 " />
+<polyline fill="none" vector-effect="none" points="339,156 339,166 " />
+<rect x="338" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="346,156 346,166 " />
+<rect x="345" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="354,156 354,166 " />
+<rect x="353" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="359,156 359,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="365,156 365,166 " />
+<rect x="364" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="373,156 373,166 " />
+<rect x="372" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="378,156 378,166 " />
+<polyline fill="none" vector-effect="none" points="384,156 384,166 " />
+<rect x="383" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="391,156 391,166 " />
+<rect x="390" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="399,156 399,166 " />
+<rect x="398" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="404,156 404,166 " />
+</g>
+
+<g fill="#7f7fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="405" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="410,156 410,166 " />
+<rect x="409" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="418,156 418,166 " />
+<rect x="417" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="423,156 423,166 " />
+<polyline fill="none" vector-effect="none" points="429,156 429,166 " />
+<rect x="428" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="436,156 436,166 " />
+<rect x="435" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="444,156 444,166 " />
+<rect x="443" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="449,156 449,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="455,156 455,166 " />
+<rect x="454" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="463,156 463,166 " />
+<rect x="462" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="468,156 468,166 " />
+<polyline fill="none" vector-effect="none" points="474,156 474,166 " />
+<rect x="473" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="481,156 481,166 " />
+<rect x="480" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="489,156 489,166 " />
+<rect x="488" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="494,156 494,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="495" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="500,156 500,166 " />
+<rect x="499" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="508,156 508,166 " />
+<rect x="507" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="513,156 513,166 " />
+<polyline fill="none" vector-effect="none" points="519,156 519,166 " />
+<rect x="518" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="527,156 527,166 " />
+<rect x="526" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="534,156 534,166 " />
+<rect x="533" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="540,156 540,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="541" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="545,156 545,166 " />
+<rect x="544" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="553,156 553,166 " />
+<rect x="552" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="558,156 558,166 " />
+<polyline fill="none" vector-effect="none" points="564,156 564,166 " />
+<rect x="563" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="572,156 572,166 " />
+<rect x="571" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="579,156 579,166 " />
+<rect x="578" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="585,156 585,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="586" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="591,156 591,166 " />
+<rect x="590" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="598,156 598,166 " />
+<rect x="597" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="604,156 604,166 " />
+<polyline fill="none" vector-effect="none" points="609,156 609,166 " />
+<rect x="608" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="617,156 617,166 " />
+<rect x="616" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="624,156 624,166 " />
+<rect x="623" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="630,156 630,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="631" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="636,156 636,166 " />
+<rect x="635" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="643,156 643,166 " />
+<rect x="642" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="649,156 649,166 " />
+<polyline fill="none" vector-effect="none" points="654,156 654,166 " />
+<rect x="653" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="29,167 202,167 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="187" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >Hz</text>
+<polyline fill="none" vector-effect="none" points="202,167 897,167 " />
+<polyline fill="none" vector-effect="none" points="227,167 227,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >16</text>
+<polyline fill="none" vector-effect="none" points="255,167 255,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="260" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >25</text>
+<polyline fill="none" vector-effect="none" points="285,167 285,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="290" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >40</text>
+<polyline fill="none" vector-effect="none" points="314,167 314,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="319" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >63</text>
+<polyline fill="none" vector-effect="none" points="344,167 344,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="349" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >100</text>
+<polyline fill="none" vector-effect="none" points="374,167 374,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="379" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >160</text>
+<polyline fill="none" vector-effect="none" points="403,167 403,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="408" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >250</text>
+<polyline fill="none" vector-effect="none" points="434,167 434,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="439" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >400</text>
+<polyline fill="none" vector-effect="none" points="463,167 463,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="468" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >630</text>
+<polyline fill="none" vector-effect="none" points="494,167 494,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="499" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1000</text>
+<polyline fill="none" vector-effect="none" points="524,167 524,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="529" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1600</text>
+<polyline fill="none" vector-effect="none" points="584,167 584,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="589" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >4000</text>
+<polyline fill="none" vector-effect="none" points="643,167 643,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="648" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1e+04</text>
+<polyline fill="none" vector-effect="none" points="695,167 695,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="700" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >2.5e+04</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1422,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="2117" y="0" width="695" height="189"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#f0f0f0" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,143 695,143 " />
+<polyline fill="none" vector-effect="none" points="0,128 695,128 " />
+<polyline fill="none" vector-effect="none" points="0,113 695,113 " />
+<polyline fill="none" vector-effect="none" points="0,98 695,98 " />
+<polyline fill="none" vector-effect="none" points="0,82 695,82 " />
+<polyline fill="none" vector-effect="none" points="0,67 695,67 " />
+<polyline fill="none" vector-effect="none" points="0,52 695,52 " />
+<polyline fill="none" vector-effect="none" points="0,37 695,37 " />
+<polyline fill="none" vector-effect="none" points="0,21 695,21 " />
+</g>
+
+<g fill="none" stroke="#ff9632" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M29,59.5858 L202.996,48.2006 L245.852,43.0621 L271.48,46.5475 L289.824,50.0308 L304.121,50.9042 L315.837,50.3375 L325.764,49.444 L334.376,46.4321 L341.982,43.9298 L348.791,42.7229 L354.956,40.3896 L360.587,39.1035 L365.77,39.3844 L370.57,38.4162 L375.041,39.6212 L379.225,43.7172 L383.156,50.2842 L386.863,57.8219 L390.371,62.1448 L393.699,62.8438 L396.866,67.9022 L399.886,62.8696 L402.772,63.6616 L405.535,63.4822 L408.186,64.6296 L410.733,60.0172 L413.185,55.6311 L415.547,53.1509 L417.827,54.266 L420.03,57.0423 L422.16,57.4017 L424.223,53.9216 L426.223,53.7956 L428.163,58.1302 L430.047,65.9901 L431.878,70.2734 L433.659,71.8525 L435.393,85.9195 L437.082,73.5757 L438.728,79.0423 L440.333,78.4304 L441.9,81.1232 L443.43,85.6535 L444.925,85.0204 L446.386,91.5184 L447.816,87.1399 L449.214,84.9071 L450.583,85.3461 L451.924,75.5946 L453.238,74.2998 L454.526,80.0329 L455.789,75.6728 L457.028,80.8397 L458.244,81.2096 L459.438,82.5511 L460.61,82.5767 L461.761,82.6134 L462.893,86.6582 L464.005,76.8303 L465.098,74.7331 L466.173,79.2718 L467.231,83.9676 L468.272,80.7218 L469.297,77.6231 L470.305,78.4623 L471.299,81.6944 L472.277,85.3624 L473.241,82.7308 L474.191,89.6076 L475.127,93.9651 L476.05,85.2659 L476.96,81.6593 L477.858,84.0145 L478.743,93.2836 L479.617,83.9862 L481.329,84.3368 L481.329,84.0744 M481.329,84.3368 L482.169,82.3898 L482.998,85.9695 L483.816,87.4111 L484.625,79.1131 L486.212,89.0418 L486.212,80.1374 M486.212,89.0418 L486.991,89.2911 L487.762,87.8848 L489.275,93.8504 L489.275,83.7034 M489.275,93.8504 L490.019,81.3566 L490.754,81.7133 L492.201,89.2331 L492.201,87.04 M492.201,89.2331 L492.912,88.4793 L494.312,91.4207 L494.312,83.3964 M494.312,91.4207 L495,81.0978 L495.682,84.4872 L497.024,85.8465 L497.024,83.9608 M497.024,85.8465 L497.685,84.7458 L498.987,86.4747 L498.987,86.3592 M498.987,86.4747 L500.263,100.844 L500.263,93.9462 M500.263,100.844 L500.892,86.5372 L502.132,84.0535 L502.132,83.8293 M502.132,84.0535 L502.743,89.2368 L503.948,91.7466 L503.948,84.8298 M503.948,91.7466 L505.132,87.0339 L505.132,84.6144 M505.132,87.0339 L505.716,89.7807 L506.868,84.1083 L506.868,82.9122 M506.868,84.1083 L508,87.8101 L508,87.7795 M508,87.8101 L509.113,90.1725 L509.113,85.427 M509.113,90.1725 L510.207,90.8752 L510.207,87.9618 M510.207,90.8752 L510.747,91.3168 L511.814,92.824 L511.814,86.2664 M511.814,92.824 L512.864,83.3521 L512.864,82.3683 M512.864,83.3521 L513.897,98.8138 L513.897,84.6463 M513.897,98.8138 L514.914,97.4713 L514.914,91.7276 M514.914,97.4713 L515.916,86.4071 L515.916,83.038 M515.916,86.4071 L516.902,91.4164 L516.902,86.6719 M516.902,91.4164 L517.874,89.5697 L517.874,85.7627 M517.874,89.5697 L518.831,86.7068 L518.831,86.4884 M518.831,86.7068 L519.775,86.0965 L519.775,85.0462 M519.775,86.0965 L521.165,87.9436 L521.165,86.1793 M521.165,87.9436 L522.076,86.9378 L522.076,85.516 M522.076,86.9378 L522.974,90.991 L522.974,89.9754 M522.974,90.991 L523.859,90.4777 L523.859,86.8808 M523.859,90.4777 L525.166,90.876 L525.166,83.1983 M525.166,90.876 L526.022,91.6327 L526.022,87.0064 M526.022,91.6327 L526.868,94.955 L526.868,89.2205 M526.868,94.955 L528.116,98.8338 L528.116,90.0591 M528.116,98.8338 L528.935,90.7334 L528.935,88.6576 M528.935,90.7334 L530.144,90.6241 L530.144,86.1316 M530.144,90.6241 L530.938,97.2184 L530.938,90.9641 M530.938,97.2184 L532.112,95.0381 L532.112,89.2727 M532.112,95.0381 L532.882,94.7087 L532.882,91.7974 M532.882,94.7087 L534.021,90.6564 L534.021,87.4216 M534.021,90.6564 L535.14,91.1202 L535.14,88.1637 M535.14,91.1202 L535.876,89.7078 L535.876,88.8819 M535.876,89.7078 L536.964,91.7949 L536.964,87.3529 M536.964,91.7949 L538.035,90.2679 L538.035,88.4745 M538.035,90.2679 L539.088,93.8635 L539.088,89.5613 M539.088,93.8635 L540.124,91.3541 L540.124,86.9423 M540.124,91.3541 L541.144,101.351 L541.144,90.7966 M541.144,101.351 L542.148,111.573 L542.148,92.5443 M542.148,111.573 L543.137,95.0312 L543.137,90.3327 M543.137,95.0312 L544.112,96.9272 L544.112,92.1724 M544.112,96.9272 L545.071,97.1404 L545.071,91.0604 M545.071,97.1404 L546.017,94.8905 L546.017,88.5636 M546.017,94.8905 L546.95,97.3085 L546.95,91.6069 M546.95,97.3085 L547.869,94.2027 L547.869,91.7191 M547.869,94.2027 L549.075,92.5513 L549.075,87.9805 M549.075,92.5513 L549.965,95.7836 L549.965,88.2807 M549.965,95.7836 L551.133,93.9136 L551.133,90.7256 M551.133,93.9136 L551.995,102.329 L551.995,94.8592 M551.995,102.329 L553.128,97.1223 L553.128,92.5578 M553.128,97.1223 L553.964,92.6216 L553.964,91.962 M553.964,92.6216 L555.063,97.9828 L555.063,90.4874 M555.063,97.9828 L555.876,92.2629 L555.876,92.2103 M555.876,92.2629 L556.943,100.284 L556.943,95.2603 M556.943,100.284 L557.994,96.4531 L557.994,91.0075 M557.994,96.4531 L559.027,98.2196 L559.027,94.9034 M559.027,98.2196 L560.045,102.784 L560.045,96.0837 M560.045,102.784 L561.046,115.014 L561.046,91.8888 M561.046,115.014 L562.033,104.534 L562.033,88.9963 M562.033,104.534 L563.005,108.26 L563.005,92.3986 M563.005,108.26 L563.963,99.0531 L563.963,90.2969 M563.963,99.0531 L564.906,99.8127 L564.906,93.6545 M564.906,99.8127 L566.067,99.0608 L566.067,90.6969 M566.067,99.0608 L566.981,100.921 L566.981,89.4063 M566.981,100.921 L568.106,94.6148 L568.106,90.4453 M568.106,94.6148 L568.992,93.6641 L568.992,92.1273 M568.992,93.6641 L570.083,95.7993 L570.083,87.9942 M570.083,95.7993 L570.942,95.1222 L570.942,89.5451 M570.942,95.1222 L572.001,101.551 L572.001,95.3406 M572.001,101.551 L573.043,102.888 L573.043,93.8319 M573.043,102.888 L574.069,97.6842 L574.069,94.3794 M574.069,97.6842 L575.078,109.304 L575.078,89.9749 M575.078,109.304 L576.073,98.8384 L576.073,94.1228 M576.073,98.8384 L577.052,102.071 L577.052,93.2781 M577.052,102.071 L578.017,105.744 L578.017,96.6954 M578.017,105.744 L578.968,106.738 L578.968,95.5249 M578.968,106.738 L580.09,106.151 L580.09,94.1323 M580.09,106.151 L581.011,105.454 L581.011,94.5975 M581.011,105.454 L581.92,101.445 L581.92,93.3267 M581.92,101.445 L582.993,100.697 L582.993,93.7273 M582.993,100.697 L584.049,104.237 L584.049,89.2303 M584.049,104.237 L584.916,98.6513 L584.916,88.9219 M584.916,98.6513 L585.942,103.152 L585.942,94.4607 M585.942,103.152 L586.952,98.3664 L586.952,91.2969 M586.952,98.3664 L587.946,105.276 L587.946,94.4178 M587.946,105.276 L588.925,98.8357 L588.925,91.8597 M588.925,98.8357 L590.05,104.76 L590.05,93.9456 M590.05,104.76 L590.998,100.525 L590.998,93.7289 M590.998,100.525 L591.933,99.7163 L591.933,93.235 M591.933,99.7163 L593.007,104.692 L593.007,95.4032 M593.007,104.692 L594.063,104.416 L594.063,94.7774 M594.063,104.416 L594.955,101.035 L594.955,92.4501 M594.955,101.035 L595.981,108.801 L595.981,95.0097 M595.981,108.801 L596.991,110.102 L596.991,93.7215 M596.991,110.102 L597.985,100.246 L597.985,93.3004 M597.985,100.246 L598.964,102.966 L598.964,94.6432 M598.964,102.966 L600.066,104.354 L600.066,94.6335 M600.066,104.354 L601.015,108.07 L601.015,95.3707 M601.015,108.07 L601.95,110.923 L601.95,96.318 M601.95,110.923 L603.002,110.475 L603.002,94.9643 M603.002,110.475 L604.038,103.896 L604.038,96.3195 M604.038,103.896 L605.058,106.118 L605.058,96.4338 M605.058,106.118 L606.062,109.403 L606.062,97.6645 M606.062,109.403 L607.05,107.636 L607.05,95.1602 M607.05,107.636 L608.024,111.418 L608.024,95.5293 M608.024,111.418 L608.984,118.13 L608.984,97.5257 M608.984,118.13 L610.047,104.469 L610.047,96.9484 M610.047,104.469 L610.977,109.498 L610.977,94.0768 M610.977,109.498 L612.008,107.51 L612.008,95.1028 M612.008,107.51 L613.023,103.209 L613.023,93.3831 M613.023,103.209 L614.023,116.754 L614.023,94.6853 M614.023,116.754 L615.007,103.153 L615.007,96.5709 M615.007,103.153 L615.977,107.909 L615.977,94.5383 M615.977,107.909 L617.037,104.023 L617.037,96.3693 M617.037,104.023 L617.977,100.527 L617.977,94.6284 M617.977,100.527 L619.006,108.817 L619.006,93.498 M619.006,108.817 L620.019,105.847 L620.019,96.0734 M620.019,105.847 L621.017,102.654 L621.017,95.9668 M621.017,102.654 L621.999,106.376 L621.999,95.7759 M621.999,106.376 L622.967,108.119 L622.967,97.2892 M622.967,108.119 L624.015,110.639 L624.015,94.1022 M624.015,110.639 L624.953,103.624 L624.953,93.9277 M624.953,103.624 L625.97,108.568 L625.97,93.6258 M625.97,108.568 L626.972,122.119 L626.972,95.9206 M626.972,122.119 L627.958,102.602 L627.958,93.5542 M627.958,102.602 L629.017,106.477 L629.017,95.216 M629.017,106.477 L629.973,107.602 L629.973,96.9788 M629.973,107.602 L631,104.265 L631,94.1886 M631,104.265 L632.011,103.633 L632.011,97.0771 M632.011,103.633 L633.007,116.82 L633.007,94.5575 M633.007,116.82 L633.987,105.78 L633.987,95.1753 M633.987,105.78 L635.033,102.707 L635.033,91.979 M635.033,102.707 L635.984,106.603 L635.984,96.0756 M635.984,106.603 L636.999,107.167 L636.999,93.6602 M636.999,107.167 L637.998,107.571 L637.998,98.1941 M637.998,107.571 L638.982,109.237 L638.982,94.4339 M638.982,109.237 L640.025,109.267 L640.025,96.6377 M640.025,109.267 L640.979,108.46 L640.979,97.1132 M640.979,108.46 L641.991,119.798 L641.991,96.0091 M641.991,119.798 L642.988,107.784 L642.988,96.6053 M642.988,107.784 L643.969,108.64 L643.969,96.0529 M643.969,108.64 L645.005,112.258 L645.005,95.8917 M645.005,112.258 L646.024,108.985 L646.024,98.3185 M646.024,108.985 L647.028,110.396 L647.028,98.2187 M647.028,110.396 L648.016,105.653 L648.016,96.1042 M648.016,105.653 L648.989,107.703 L648.989,96.8864 M648.989,107.703 L650.012,116.624 L650.012,96.4339 M650.012,116.624 L651.019,105.99 L651.019,93.8481 M651.019,105.99 L652.011,114.407 L652.011,96.1617 M652.011,114.407 L652.987,109.115 L652.987,95.5221 M652.987,109.115 L654.009,117.196 L654.009,96.0763 M654.009,117.196 L655.015,109.63 L655.015,93.97 M655.015,109.63 L656.006,109.284 L656.006,97.7867 M656.006,109.284 L656.982,107.885 L656.982,96.4659 M656.982,107.885 L658,106.748 L658,94.397 M658,106.748 L659.002,117.017 L659.002,96.2702 M659.002,117.017 L659.989,118.726 L659.989,96.0558 M659.989,118.726 L661.015,108.804 L661.015,94.4543 M661.015,108.804 L662.024,108.286 L662.024,96.6464 M662.024,108.286 L663.019,110.343 L663.019,94.9535 M663.019,110.343 L663.998,113.781 L663.998,96.5564 M663.998,113.781 L665.014,107.799 L665.014,96.8774 M665.014,107.799 L666.013,110.716 L666.013,95.6607 M666.013,110.716 L666.998,105.174 L666.998,94.6642 M666.998,105.174 L668.016,110.609 L668.016,96.3877 M668.016,110.609 L669.018,114.939 L669.018,95.5751 M669.018,114.939 L670.006,115.164 L670.006,96.3207 M670.006,115.164 L670.978,106.754 L670.978,95.1647 M670.978,106.754 L671.982,107.39 L671.982,97.5756 M671.982,107.39 L673.014,119.894 L673.014,96.69 M673.014,119.894 L673.987,110.24 L673.987,97.5318 M673.987,110.24 L674.989,112.137 L674.989,95.602 M674.989,112.137 L676.018,108.21 L676.018,95.2939 M676.018,108.21 L676.989,117.619 L676.989,98.5348 M676.989,117.619 L677.988,115.699 L677.988,94.1305 M677.988,115.699 L679.011,115.222 L679.011,94.9414 M679.011,115.222 L680.019,113.39 L680.019,97.018 M680.019,113.39 L681.012,112.552 L681.012,97.2172 M681.012,112.552 L681.99,112.03 L681.99,95.9257 M681.99,112.03 L682.991,110.118 L682.991,97.5575 M682.991,110.118 L684.015,110.715 L684.015,98.1238 M684.015,110.715 L684.986,118.546 L684.986,96.2893 M684.986,118.546 L686.016,111.007 L686.016,96.9576 M686.016,111.007 L686.994,112.649 L686.994,96.1517 M686.994,112.649 L687.993,115.495 L687.993,97.7296 M687.993,115.495 L689.011,109.852 L689.011,95.8644 M689.011,109.852 L690.014,112.675 L690.014,97.6219 M690.014,112.675 L691.002,115.764 L691.002,101.042 M691.002,115.764 L692.008,118.088 L692.008,99.546 M692.008,118.088 L692.999,117.95 L692.999,102.17 M692.999,117.95 L694.007,124.264 L694.007,105.422 M694.007,124.264 L694.968,132.253 L694.968,106.954 M694.968,132.253"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="29,156 723,156 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="186,156 186,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="185" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="190,156 190,166 " />
+<rect x="189" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="197,156 197,166 " />
+<rect x="196" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="202,156 202,166 " />
+<polyline fill="none" vector-effect="none" points="207,156 207,166 " />
+<rect x="206" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="214,156 214,166 " />
+<rect x="213" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="222,156 222,166 " />
+<rect x="221" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="227,156 227,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="228" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="232,156 232,166 " />
+<rect x="231" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="239,156 239,166 " />
+<rect x="238" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="245,156 245,166 " />
+<polyline fill="none" vector-effect="none" points="250,156 250,166 " />
+<rect x="249" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="258,156 258,166 " />
+<rect x="257" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="265,156 265,166 " />
+<rect x="264" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="270,156 270,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="271" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="276,156 276,166 " />
+<rect x="275" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="283,156 283,166 " />
+<rect x="282" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="289,156 289,166 " />
+<polyline fill="none" vector-effect="none" points="294,156 294,166 " />
+<rect x="293" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="302,156 302,166 " />
+<rect x="301" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="309,156 309,166 " />
+<rect x="308" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="315,156 315,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="316" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="320,156 320,166 " />
+<rect x="319" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="328,156 328,166 " />
+<rect x="327" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="333,156 333,166 " />
+<polyline fill="none" vector-effect="none" points="339,156 339,166 " />
+<rect x="338" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="346,156 346,166 " />
+<rect x="345" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="354,156 354,166 " />
+<rect x="353" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="359,156 359,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="365,156 365,166 " />
+<rect x="364" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="373,156 373,166 " />
+<rect x="372" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="378,156 378,166 " />
+<polyline fill="none" vector-effect="none" points="384,156 384,166 " />
+<rect x="383" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="391,156 391,166 " />
+<rect x="390" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="399,156 399,166 " />
+<rect x="398" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="404,156 404,166 " />
+</g>
+
+<g fill="#7f7fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="405" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="410,156 410,166 " />
+<rect x="409" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="418,156 418,166 " />
+<rect x="417" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="423,156 423,166 " />
+<polyline fill="none" vector-effect="none" points="429,156 429,166 " />
+<rect x="428" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="436,156 436,166 " />
+<rect x="435" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="444,156 444,166 " />
+<rect x="443" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="449,156 449,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="455,156 455,166 " />
+<rect x="454" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="463,156 463,166 " />
+<rect x="462" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="468,156 468,166 " />
+<polyline fill="none" vector-effect="none" points="474,156 474,166 " />
+<rect x="473" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="481,156 481,166 " />
+<rect x="480" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="489,156 489,166 " />
+<rect x="488" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="494,156 494,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="495" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="500,156 500,166 " />
+<rect x="499" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="508,156 508,166 " />
+<rect x="507" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="513,156 513,166 " />
+<polyline fill="none" vector-effect="none" points="519,156 519,166 " />
+<rect x="518" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="527,156 527,166 " />
+<rect x="526" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="534,156 534,166 " />
+<rect x="533" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="540,156 540,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="541" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="545,156 545,166 " />
+<rect x="544" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="553,156 553,166 " />
+<rect x="552" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="558,156 558,166 " />
+<polyline fill="none" vector-effect="none" points="564,156 564,166 " />
+<rect x="563" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="572,156 572,166 " />
+<rect x="571" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="579,156 579,166 " />
+<rect x="578" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="585,156 585,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="586" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="591,156 591,166 " />
+<rect x="590" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="598,156 598,166 " />
+<rect x="597" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="604,156 604,166 " />
+<polyline fill="none" vector-effect="none" points="609,156 609,166 " />
+<rect x="608" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="617,156 617,166 " />
+<rect x="616" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="624,156 624,166 " />
+<rect x="623" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="630,156 630,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="631" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="636,156 636,166 " />
+<rect x="635" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="643,156 643,166 " />
+<rect x="642" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="649,156 649,166 " />
+<polyline fill="none" vector-effect="none" points="654,156 654,166 " />
+<rect x="653" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="29,167 202,167 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="187" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >Hz</text>
+<polyline fill="none" vector-effect="none" points="202,167 897,167 " />
+<polyline fill="none" vector-effect="none" points="227,167 227,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >16</text>
+<polyline fill="none" vector-effect="none" points="255,167 255,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="260" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >25</text>
+<polyline fill="none" vector-effect="none" points="285,167 285,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="290" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >40</text>
+<polyline fill="none" vector-effect="none" points="314,167 314,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="319" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >63</text>
+<polyline fill="none" vector-effect="none" points="344,167 344,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="349" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >100</text>
+<polyline fill="none" vector-effect="none" points="374,167 374,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="379" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >160</text>
+<polyline fill="none" vector-effect="none" points="403,167 403,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="408" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >250</text>
+<polyline fill="none" vector-effect="none" points="434,167 434,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="439" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >400</text>
+<polyline fill="none" vector-effect="none" points="463,167 463,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="468" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >630</text>
+<polyline fill="none" vector-effect="none" points="494,167 494,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="499" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1000</text>
+<polyline fill="none" vector-effect="none" points="524,167 524,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="529" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1600</text>
+<polyline fill="none" vector-effect="none" points="584,167 584,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="589" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >4000</text>
+<polyline fill="none" vector-effect="none" points="643,167 643,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="648" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1e+04</text>
+<polyline fill="none" vector-effect="none" points="695,167 695,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="700" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >2.5e+04</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2117,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="2812" y="0" width="695" height="189"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#f0f0f0" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,143 695,143 " />
+<polyline fill="none" vector-effect="none" points="0,128 695,128 " />
+<polyline fill="none" vector-effect="none" points="0,113 695,113 " />
+<polyline fill="none" vector-effect="none" points="0,98 695,98 " />
+<polyline fill="none" vector-effect="none" points="0,82 695,82 " />
+<polyline fill="none" vector-effect="none" points="0,67 695,67 " />
+<polyline fill="none" vector-effect="none" points="0,52 695,52 " />
+<polyline fill="none" vector-effect="none" points="0,37 695,37 " />
+<polyline fill="none" vector-effect="none" points="0,21 695,21 " />
+</g>
+
+<g fill="none" stroke="#ff9632" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M29,62.7384 L202.996,52.3488 L245.852,46.2371 L271.48,46.6139 L289.824,52.9777 L304.121,59.1884 L315.837,54.924 L325.764,54.1459 L334.376,58.2112 L341.982,57.2201 L348.791,59.6471 L354.956,66.4377 L360.587,66.3923 L365.77,61.8637 L370.57,62.2247 L375.041,63.9092 L379.225,62.6902 L383.156,64.8112 L386.863,66.6993 L390.371,69.1452 L393.699,81.364 L396.866,78.19 L399.886,76.6496 L402.772,78.5204 L405.535,73.6752 L408.186,71.6716 L410.733,79.323 L413.185,70.4678 L415.547,69.7527 L417.827,75.185 L420.03,87.3092 L422.16,78.8681 L424.223,91.489 L426.223,76.7572 L428.163,76.9484 L430.047,71.0087 L431.878,73.2182 L433.659,74.377 L435.393,72.1296 L437.082,73.4937 L438.728,82.29 L440.333,73.0223 L441.9,74.6188 L443.43,84.9727 L444.925,78.8385 L446.386,82.8861 L447.816,83.3131 L449.214,76.4574 L450.583,78.829 L451.924,80.5747 L453.238,76.6085 L454.526,78.2999 L455.789,86.2732 L457.028,85.7386 L458.244,86.0894 L459.438,82.4873 L460.61,87.7801 L461.761,81.3415 L462.893,94.418 L464.005,78.0524 L465.098,74.594 L466.173,80.3937 L467.231,90.0779 L468.272,83.0791 L469.297,78.4858 L470.305,78.4042 L471.299,82.4515 L472.277,83.6649 L473.241,85.624 L474.191,85.138 L475.127,86.1904 L476.05,95.6453 L476.96,81.9501 L477.858,80.8803 L478.743,82.4335 L479.617,90.4513 L481.329,85.9417 L481.329,85.4298 M481.329,85.9417 L482.169,91.8132 L482.998,88.0961 L483.816,81.3269 L484.625,80.329 L486.212,83.9413 L486.212,83.6798 M486.212,83.9413 L486.991,81.0357 L487.762,94.5499 L489.275,82.1984 L489.275,80.9694 M489.275,82.1984 L490.019,80.9602 L490.754,80.5124 L492.201,88.719 L492.201,87.8846 M492.201,88.719 L492.912,96.3878 L494.312,84.7139 L494.312,81.0574 M494.312,84.7139 L495,84.3295 L495.682,87.0644 L497.024,86.9118 L497.024,84.0588 M497.024,86.9118 L497.685,84.267 L498.987,82.1691 L498.987,81.5977 M498.987,82.1691 L500.263,83.4411 L500.263,78.0992 M500.263,83.4411 L500.892,80.8077 L502.132,93.2034 L502.132,89.2615 M502.132,93.2034 L502.743,88.7776 L503.948,88.0426 L503.948,83.1821 M503.948,88.0426 L505.132,83.4751 L505.132,81.944 M505.132,83.4751 L505.716,84.9231 L506.868,82.7679 L506.868,81.4374 M506.868,82.7679 L508,81.2118 L508,77.9763 M508,81.2118 L509.113,80.3578 L509.113,78.2688 M509.113,80.3578 L510.207,81.5548 L510.207,81.0635 M510.207,81.5548 L510.747,79.8427 L511.814,84.9774 L511.814,81.2898 M511.814,84.9774 L512.864,94.6703 L512.864,86.3981 M512.864,94.6703 L513.897,85.7284 L513.897,85.4722 M513.897,85.7284 L514.914,94.5607 L514.914,84.4857 M514.914,94.5607 L515.916,88.5306 L515.916,86.4417 M515.916,88.5306 L516.902,83.3216 L516.902,81.9285 M516.902,83.3216 L517.874,82.5858 L517.874,81.9263 M517.874,82.5858 L518.831,92.3483 L518.831,92.2845 M518.831,92.3483 L519.775,83.9346 L519.775,80.8892 M519.775,83.9346 L521.165,93.9831 L521.165,82.5037 M521.165,93.9831 L522.076,93.2828 L522.076,88.3734 M522.076,93.2828 L522.974,95.7247 L522.974,89.4238 M522.974,95.7247 L523.859,93.0257 L523.859,88.4626 M523.859,93.0257 L525.166,92.7316 L525.166,85.1734 M525.166,92.7316 L526.022,88.171 L526.022,86.8481 M526.022,88.171 L526.868,83.4134 L526.868,82.3194 M526.868,83.4134 L528.116,85.9538 L528.116,83.051 M528.116,85.9538 L528.935,87.2016 L528.935,83.5618 M528.935,87.2016 L530.144,94.3923 L530.144,86.3243 M530.144,94.3923 L530.938,86.6363 L530.938,85.7312 M530.938,86.6363 L532.112,94.3235 L532.112,85.323 M532.112,94.3235 L532.882,95.2155 L532.882,92.2193 M532.882,95.2155 L534.021,89.1906 L534.021,84.3208 M534.021,89.1906 L535.14,97.2471 L535.14,87.9519 M535.14,97.2471 L535.876,101.993 L535.876,89.0312 M535.876,101.993 L536.964,92.6659 L536.964,84.3941 M536.964,92.6659 L538.035,102.512 L538.035,84.0344 M538.035,102.512 L539.088,89.6238 L539.088,85.1877 M539.088,89.6238 L540.124,94.24 L540.124,85.4525 M540.124,94.24 L541.144,90.6283 L541.144,84.3871 M541.144,90.6283 L542.148,87.112 L542.148,83.7697 M542.148,87.112 L543.137,90.5746 L543.137,83.5004 M543.137,90.5746 L544.112,90.3141 L544.112,86.2984 M544.112,90.3141 L545.071,87.528 L545.071,86.2826 M545.071,87.528 L546.017,88.4882 L546.017,83.7601 M546.017,88.4882 L546.95,84.764 L546.95,83.8626 M546.95,84.764 L547.869,90.9035 L547.869,90.3341 M547.869,90.9035 L549.075,95.8909 L549.075,88.0605 M549.075,95.8909 L549.965,93.0841 L549.965,89.1523 M549.965,93.0841 L551.133,90.1672 L551.133,84.931 M551.133,90.1672 L551.995,91.0631 L551.995,84.2936 M551.995,91.0631 L553.128,94.4354 L553.128,86.9073 M553.128,94.4354 L553.964,91.0674 L553.964,84.3893 M553.964,91.0674 L555.063,109.419 L555.063,87.3473 M555.063,109.419 L555.876,94.5857 L555.876,86.4236 M555.876,94.5857 L556.943,100.15 L556.943,92.8491 M556.943,100.15 L557.994,99.0909 L557.994,88.2506 M557.994,99.0909 L559.027,90.5493 L559.027,87.8123 M559.027,90.5493 L560.045,110.695 L560.045,88.5017 M560.045,110.695 L561.046,92.9601 L561.046,89.4054 M561.046,92.9601 L562.033,104.965 L562.033,96.5622 M562.033,104.965 L563.005,100.072 L563.005,92.3305 M563.005,100.072 L563.963,100.295 L563.963,89.4948 M563.963,100.295 L564.906,99.1545 L564.906,89.3047 M564.906,99.1545 L566.067,108.292 L566.067,89.7372 M566.067,108.292 L566.981,98.9692 L566.981,95.982 M566.981,98.9692 L568.106,96.6246 L568.106,92.7488 M568.106,96.6246 L568.992,94.8408 L568.992,90.6791 M568.992,94.8408 L570.083,105.935 L570.083,91.1762 M570.083,105.935 L570.942,96.2664 L570.942,92.5465 M570.942,96.2664 L572.001,101.835 L572.001,91.5646 M572.001,101.835 L573.043,97.4619 L573.043,89.5917 M573.043,97.4619 L574.069,100.886 L574.069,92.9527 M574.069,100.886 L575.078,101.718 L575.078,89.8156 M575.078,101.718 L576.073,104.014 L576.073,94.4928 M576.073,104.014 L577.052,96.8841 L577.052,90.8608 M577.052,96.8841 L578.017,98.1958 L578.017,90.3031 M578.017,98.1958 L578.968,97.4774 L578.968,90.4018 M578.968,97.4774 L580.09,97.5119 L580.09,92.1327 M580.09,97.5119 L581.011,97.5807 L581.011,94.057 M581.011,97.5807 L581.92,99.6466 L581.92,93.2439 M581.92,99.6466 L582.993,108.632 L582.993,96.5327 M582.993,108.632 L584.049,110.572 L584.049,90.7116 M584.049,110.572 L584.916,102.217 L584.916,87.8428 M584.916,102.217 L585.942,107.326 L585.942,97.0697 M585.942,107.326 L586.952,101.555 L586.952,90.8347 M586.952,101.555 L587.946,96.7022 L587.946,93.9341 M587.946,96.7022 L588.925,98.7752 L588.925,91.7743 M588.925,98.7752 L590.05,96.1539 L590.05,92.6875 M590.05,96.1539 L590.998,98.8294 L590.998,94.821 M590.998,98.8294 L591.933,103.412 L591.933,92.9735 M591.933,103.412 L593.007,109.396 L593.007,94.0038 M593.007,109.396 L594.063,116.012 L594.063,96.5218 M594.063,116.012 L594.955,108.586 L594.955,95.5358 M594.955,108.586 L595.981,103.895 L595.981,98.2611 M595.981,103.895 L596.991,107.306 L596.991,92.8304 M596.991,107.306 L597.985,103.369 L597.985,93.7026 M597.985,103.369 L598.964,111.181 L598.964,91.2495 M598.964,111.181 L600.066,101.18 L600.066,92.2943 M600.066,101.18 L601.015,110.515 L601.015,98.5534 M601.015,110.515 L601.95,105.144 L601.95,97.0839 M601.95,105.144 L603.002,103.839 L603.002,95.7586 M603.002,103.839 L604.038,103.767 L604.038,92.9506 M604.038,103.767 L605.058,105.555 L605.058,94.0309 M605.058,105.555 L606.062,107.011 L606.062,96.0544 M606.062,107.011 L607.05,100.396 L607.05,95.6793 M607.05,100.396 L608.024,115.138 L608.024,93.5677 M608.024,115.138 L608.984,109.979 L608.984,96.8439 M608.984,109.979 L610.047,102.815 L610.047,94.9209 M610.047,102.815 L610.977,105.419 L610.977,94.2635 M610.977,105.419 L612.008,111.321 L612.008,94.1132 M612.008,111.321 L613.023,120.824 L613.023,93.3134 M613.023,120.824 L614.023,109.121 L614.023,96.1584 M614.023,109.121 L615.007,101.222 L615.007,95.1626 M615.007,101.222 L615.977,103.287 L615.977,93.577 M615.977,103.287 L617.037,103.95 L617.037,92.3266 M617.037,103.95 L617.977,105.865 L617.977,95.7972 M617.977,105.865 L619.006,106.424 L619.006,93.1659 M619.006,106.424 L620.019,100.792 L620.019,92.0994 M620.019,100.792 L621.017,102.811 L621.017,95.8007 M621.017,102.811 L621.999,118.256 L621.999,94.5806 M621.999,118.256 L622.967,107.188 L622.967,93.0148 M622.967,107.188 L624.015,102.829 L624.015,95.8962 M624.015,102.829 L624.953,103.515 L624.953,95.1666 M624.953,103.515 L625.97,112.875 L625.97,95.3771 M625.97,112.875 L626.972,115.412 L626.972,94.4162 M626.972,115.412 L627.958,108.237 L627.958,95.2837 M627.958,108.237 L629.017,110.377 L629.017,97.0059 M629.017,110.377 L629.973,106.86 L629.973,95.7604 M629.973,106.86 L631,113.082 L631,94.9725 M631,113.082 L632.011,102.261 L632.011,95.5163 M632.011,102.261 L633.007,108.392 L633.007,93.7087 M633.007,108.392 L633.987,115.304 L633.987,93.1413 M633.987,115.304 L635.033,111.319 L635.033,95.0502 M635.033,111.319 L635.984,105.875 L635.984,92.7116 M635.984,105.875 L636.999,109.644 L636.999,96.7078 M636.999,109.644 L637.998,115.075 L637.998,96.6534 M637.998,115.075 L638.982,111.319 L638.982,93.2666 M638.982,111.319 L640.025,108.477 L640.025,95.3524 M640.025,108.477 L640.979,106.046 L640.979,94.6932 M640.979,106.046 L641.991,108.48 L641.991,99.7794 M641.991,108.48 L642.988,106.006 L642.988,97.1641 M642.988,106.006 L643.969,113.776 L643.969,94.4267 M643.969,113.776 L645.005,105.708 L645.005,96.2893 M645.005,105.708 L646.024,109.751 L646.024,95.0145 M646.024,109.751 L647.028,109.771 L647.028,95.375 M647.028,109.771 L648.016,114.53 L648.016,96.9687 M648.016,114.53 L648.989,115.245 L648.989,95.4982 M648.989,115.245 L650.012,113.996 L650.012,94.4066 M650.012,113.996 L651.019,104.816 L651.019,93.9529 M651.019,104.816 L652.011,112.878 L652.011,98.0815 M652.011,112.878 L652.987,112.359 L652.987,97.0362 M652.987,112.359 L654.009,108.733 L654.009,95.8002 M654.009,108.733 L655.015,136.924 L655.015,97.0436 M655.015,136.924 L656.006,110.931 L656.006,96.154 M656.006,110.931 L656.982,113.02 L656.982,92.929 M656.982,113.02 L658,109.645 L658,96.9781 M658,109.645 L659.002,114.68 L659.002,96.1372 M659.002,114.68 L659.989,116.161 L659.989,98.4735 M659.989,116.161 L661.015,114.943 L661.015,96.3794 M661.015,114.943 L662.024,112.26 L662.024,95.5857 M662.024,112.26 L663.019,114.624 L663.019,96.7919 M663.019,114.624 L663.998,107.488 L663.998,94.7456 M663.998,107.488 L665.014,112.048 L665.014,96.4994 M665.014,112.048 L666.013,110.987 L666.013,95.3333 M666.013,110.987 L666.998,109.697 L666.998,97.789 M666.998,109.697 L668.016,119.811 L668.016,98.3426 M668.016,119.811 L669.018,116.781 L669.018,97.3489 M669.018,116.781 L670.006,109.887 L670.006,94.9202 M670.006,109.887 L670.978,109.036 L670.978,96.8947 M670.978,109.036 L671.982,111.637 L671.982,96.9853 M671.982,111.637 L673.014,111.695 L673.014,96.2852 M673.014,111.695 L673.987,109.367 L673.987,95.3688 M673.987,109.367 L674.989,108.86 L674.989,97.4659 M674.989,108.86 L676.018,118.547 L676.018,96.1612 M676.018,118.547 L676.989,112.758 L676.989,95.4996 M676.989,112.758 L677.988,112.243 L677.988,97.5741 M677.988,112.243 L679.011,118.926 L679.011,97.3482 M679.011,118.926 L680.019,124.271 L680.019,97.9237 M680.019,124.271 L681.012,107.246 L681.012,93.9176 M681.012,107.246 L681.99,111.942 L681.99,94.4968 M681.99,111.942 L682.991,115.669 L682.991,96.1297 M682.991,115.669 L684.015,112.477 L684.015,97.3303 M684.015,112.477 L684.986,110.538 L684.986,96.3322 M684.986,110.538 L686.016,111.79 L686.016,99.2589 M686.016,111.79 L686.994,112.933 L686.994,95.2352 M686.994,112.933 L687.993,111.202 L687.993,96.9064 M687.993,111.202 L689.011,119.406 L689.011,96.9334 M689.011,119.406 L690.014,114.158 L690.014,98.7668 M690.014,114.158 L691.002,113.178 L691.002,97.3032 M691.002,113.178 L692.008,116.856 L692.008,98.847 M692.008,116.856 L692.999,119.631 L692.999,101.67 M692.999,119.631 L694.007,123.546 L694.007,103.553 M694.007,123.546 L694.968,132.132 L694.968,109.467 M694.968,132.132"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="29,156 723,156 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="186,156 186,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="185" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="190,156 190,166 " />
+<rect x="189" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="197,156 197,166 " />
+<rect x="196" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="202,156 202,166 " />
+<polyline fill="none" vector-effect="none" points="207,156 207,166 " />
+<rect x="206" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="214,156 214,166 " />
+<rect x="213" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="222,156 222,166 " />
+<rect x="221" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="227,156 227,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="228" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="232,156 232,166 " />
+<rect x="231" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="239,156 239,166 " />
+<rect x="238" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="245,156 245,166 " />
+<polyline fill="none" vector-effect="none" points="250,156 250,166 " />
+<rect x="249" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="258,156 258,166 " />
+<rect x="257" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="265,156 265,166 " />
+<rect x="264" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="270,156 270,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="271" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="276,156 276,166 " />
+<rect x="275" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="283,156 283,166 " />
+<rect x="282" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="289,156 289,166 " />
+<polyline fill="none" vector-effect="none" points="294,156 294,166 " />
+<rect x="293" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="302,156 302,166 " />
+<rect x="301" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="309,156 309,166 " />
+<rect x="308" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="315,156 315,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="316" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="320,156 320,166 " />
+<rect x="319" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="328,156 328,166 " />
+<rect x="327" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="333,156 333,166 " />
+<polyline fill="none" vector-effect="none" points="339,156 339,166 " />
+<rect x="338" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="346,156 346,166 " />
+<rect x="345" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="354,156 354,166 " />
+<rect x="353" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="359,156 359,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="365,156 365,166 " />
+<rect x="364" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="373,156 373,166 " />
+<rect x="372" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="378,156 378,166 " />
+<polyline fill="none" vector-effect="none" points="384,156 384,166 " />
+<rect x="383" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="391,156 391,166 " />
+<rect x="390" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="399,156 399,166 " />
+<rect x="398" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="404,156 404,166 " />
+</g>
+
+<g fill="#7f7fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="405" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="410,156 410,166 " />
+<rect x="409" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="418,156 418,166 " />
+<rect x="417" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="423,156 423,166 " />
+<polyline fill="none" vector-effect="none" points="429,156 429,166 " />
+<rect x="428" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="436,156 436,166 " />
+<rect x="435" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="444,156 444,166 " />
+<rect x="443" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="449,156 449,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="455,156 455,166 " />
+<rect x="454" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="463,156 463,166 " />
+<rect x="462" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="468,156 468,166 " />
+<polyline fill="none" vector-effect="none" points="474,156 474,166 " />
+<rect x="473" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="481,156 481,166 " />
+<rect x="480" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="489,156 489,166 " />
+<rect x="488" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="494,156 494,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="495" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="500,156 500,166 " />
+<rect x="499" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="508,156 508,166 " />
+<rect x="507" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="513,156 513,166 " />
+<polyline fill="none" vector-effect="none" points="519,156 519,166 " />
+<rect x="518" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="527,156 527,166 " />
+<rect x="526" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="534,156 534,166 " />
+<rect x="533" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="540,156 540,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="541" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="545,156 545,166 " />
+<rect x="544" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="553,156 553,166 " />
+<rect x="552" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="558,156 558,166 " />
+<polyline fill="none" vector-effect="none" points="564,156 564,166 " />
+<rect x="563" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="572,156 572,166 " />
+<rect x="571" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="579,156 579,166 " />
+<rect x="578" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="585,156 585,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="586" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="591,156 591,166 " />
+<rect x="590" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="598,156 598,166 " />
+<rect x="597" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="604,156 604,166 " />
+<polyline fill="none" vector-effect="none" points="609,156 609,166 " />
+<rect x="608" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="617,156 617,166 " />
+<rect x="616" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="624,156 624,166 " />
+<rect x="623" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="630,156 630,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="631" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="636,156 636,166 " />
+<rect x="635" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="643,156 643,166 " />
+<rect x="642" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="649,156 649,166 " />
+<polyline fill="none" vector-effect="none" points="654,156 654,166 " />
+<rect x="653" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="29,167 202,167 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="187" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >Hz</text>
+<polyline fill="none" vector-effect="none" points="202,167 897,167 " />
+<polyline fill="none" vector-effect="none" points="227,167 227,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >16</text>
+<polyline fill="none" vector-effect="none" points="255,167 255,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="260" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >25</text>
+<polyline fill="none" vector-effect="none" points="285,167 285,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="290" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >40</text>
+<polyline fill="none" vector-effect="none" points="314,167 314,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="319" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >63</text>
+<polyline fill="none" vector-effect="none" points="344,167 344,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="349" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >100</text>
+<polyline fill="none" vector-effect="none" points="374,167 374,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="379" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >160</text>
+<polyline fill="none" vector-effect="none" points="403,167 403,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="408" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >250</text>
+<polyline fill="none" vector-effect="none" points="434,167 434,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="439" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >400</text>
+<polyline fill="none" vector-effect="none" points="463,167 463,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="468" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >630</text>
+<polyline fill="none" vector-effect="none" points="494,167 494,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="499" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1000</text>
+<polyline fill="none" vector-effect="none" points="524,167 524,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="529" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1600</text>
+<polyline fill="none" vector-effect="none" points="584,167 584,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="589" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >4000</text>
+<polyline fill="none" vector-effect="none" points="643,167 643,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="648" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1e+04</text>
+<polyline fill="none" vector-effect="none" points="695,167 695,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="700" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >2.5e+04</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2812,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="3507" y="0" width="695" height="189"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#f0f0f0" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,143 695,143 " />
+<polyline fill="none" vector-effect="none" points="0,128 695,128 " />
+<polyline fill="none" vector-effect="none" points="0,113 695,113 " />
+<polyline fill="none" vector-effect="none" points="0,98 695,98 " />
+<polyline fill="none" vector-effect="none" points="0,82 695,82 " />
+<polyline fill="none" vector-effect="none" points="0,67 695,67 " />
+<polyline fill="none" vector-effect="none" points="0,52 695,52 " />
+<polyline fill="none" vector-effect="none" points="0,37 695,37 " />
+<polyline fill="none" vector-effect="none" points="0,21 695,21 " />
+</g>
+
+<g fill="none" stroke="#ff9632" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M29,78.0563 L202.996,69.1143 L245.852,63.1004 L271.48,65.1648 L289.824,77.3178 L304.121,64.6624 L315.837,64.7914 L325.764,72.7069 L334.376,69.582 L341.982,70.127 L348.791,77.1386 L354.956,70.3772 L360.587,66.7315 L365.77,62.8383 L370.57,61.404 L375.041,66.5742 L379.225,75.5996 L383.156,70.1622 L386.863,71.0198 L390.371,76.4488 L393.699,86.2657 L396.866,73.6995 L399.886,73.1711 L402.772,75.5759 L405.535,81.9392 L408.186,72.5921 L410.733,70.8712 L413.185,70.6115 L415.547,71.6162 L417.827,81.2518 L420.03,80.2411 L422.16,74.5921 L424.223,72.7304 L426.223,72.423 L428.163,75.3986 L430.047,79.9411 L431.878,77.094 L433.659,78.4829 L435.393,80.1703 L437.082,72.8127 L438.728,74.4987 L440.333,85.8766 L441.9,81.4455 L443.43,81.2779 L444.925,82.5515 L446.386,82.1819 L447.816,79.6589 L449.214,76.9997 L450.583,83.2051 L451.924,82.3406 L453.238,82.8225 L454.526,96.8555 L455.789,79.811 L457.028,77.0307 L458.244,77.1193 L459.438,80.6447 L460.61,88.8453 L461.761,84.5819 L462.893,83.1377 L464.005,83.0928 L465.098,81.9666 L466.173,79.0303 L467.231,85.6071 L468.272,84.3665 L469.297,78.6089 L470.305,82.4769 L471.299,84.8971 L472.277,79.4431 L473.241,78.7246 L474.191,83.0212 L475.127,87.4491 L476.05,81.2249 L476.96,82.2765 L477.858,84.1166 L478.743,85.8765 L479.617,92.6876 L481.329,97.9387 L481.329,92.5822 M481.329,97.9387 L482.169,88.1056 L482.998,84.4062 L483.816,90.2965 L484.625,86.4792 L486.212,92.3227 L486.212,85.0226 M486.212,92.3227 L486.991,87.3632 L487.762,77.6433 L489.275,91.0099 L489.275,80.2521 M489.275,91.0099 L490.019,82.0635 L490.754,79.0898 L492.201,82.6873 L492.201,78.1619 M492.201,82.6873 L492.912,85.7463 L494.312,85.5096 L494.312,81.3694 M494.312,85.5096 L495,81.6248 L495.682,81.0576 L497.024,87.8586 L497.024,81.4052 M497.024,87.8586 L497.685,86.7749 L498.987,87.8417 L498.987,86.9816 M498.987,87.8417 L500.263,82.2602 L500.263,79.9132 M500.263,82.2602 L500.892,77.9715 L502.132,85.2858 L502.132,79.6131 M502.132,85.2858 L502.743,90.4602 L503.948,90.5884 L503.948,86.7467 M503.948,90.5884 L505.132,91.911 L505.132,88.588 M505.132,91.911 L505.716,84.038 L506.868,91.7556 L506.868,85.6265 M506.868,91.7556 L508,92.5233 L508,88.8863 M508,92.5233 L509.113,86.0335 L509.113,80.6957 M509.113,86.0335 L510.207,86.8572 L510.207,83.3162 M510.207,86.8572 L510.747,87.5895 L511.814,85.2199 L511.814,83.8229 M511.814,85.2199 L512.864,88.2988 L512.864,84.6059 M512.864,88.2988 L513.897,92.9457 L513.897,86.1962 M513.897,92.9457 L514.914,87.8278 L514.914,84.1126 M514.914,87.8278 L515.916,86.4034 L515.916,82.8387 M515.916,86.4034 L516.902,87.0613 L516.902,84.0275 M516.902,87.0613 L517.874,83.7576 L517.874,82.3472 M517.874,83.7576 L518.831,85.861 L518.831,84.0152 M518.831,85.861 L519.775,81.6051 L519.775,81.403 M519.775,81.6051 L521.165,94.1961 L521.165,84.7755 M521.165,94.1961 L522.076,84.385 L522.076,83.3565 M522.076,84.385 L522.974,95.0518 L522.974,90.2606 M522.974,95.0518 L523.859,83.3513 L523.859,81.4993 M523.859,83.3513 L525.166,85.3682 L525.166,84.0215 M525.166,85.3682 L526.022,88.2275 L526.022,88.1176 M526.022,88.2275 L526.868,87.8336 L526.868,85.41 M526.868,87.8336 L528.116,91.0691 L528.116,88.8812 M528.116,91.0691 L528.935,89.7134 L528.935,83.6169 M528.935,89.7134 L530.144,90.2495 L530.144,85.4586 M530.144,90.2495 L530.938,91.7603 L530.938,90.3647 M530.938,91.7603 L532.112,93.6839 L532.112,87.9742 M532.112,93.6839 L532.882,99.1048 L532.882,93.4307 M532.882,99.1048 L534.021,101.258 L534.021,91.6811 M534.021,101.258 L535.14,108.635 L535.14,88.4308 M535.14,108.635 L535.876,86.3532 L535.876,85.1664 M535.876,86.3532 L536.964,102.904 L536.964,90.4923 M536.964,102.904 L538.035,94.6244 L538.035,85.3163 M538.035,94.6244 L539.088,95.1163 L539.088,86.3463 M539.088,95.1163 L540.124,92.6675 L540.124,88.6838 M540.124,92.6675 L541.144,89.8369 L541.144,88.6868 M541.144,89.8369 L542.148,103.086 L542.148,93.6747 M542.148,103.086 L543.137,88.9794 L543.137,86.601 M543.137,88.9794 L544.112,96.3362 L544.112,90.273 M544.112,96.3362 L545.071,108.519 L545.071,92.2657 M545.071,108.519 L546.017,99.6675 L546.017,92.6132 M546.017,99.6675 L546.95,94.3546 L546.95,89.0176 M546.95,94.3546 L547.869,93.2041 L547.869,90.2561 M547.869,93.2041 L549.075,95.1088 L549.075,87.9936 M549.075,95.1088 L549.965,93.7244 L549.965,89.1774 M549.965,93.7244 L551.133,91.3626 L551.133,88.3547 M551.133,91.3626 L551.995,96.5667 L551.995,89.6476 M551.995,96.5667 L553.128,109.972 L553.128,92.1996 M553.128,109.972 L553.964,88.2558 L553.964,86.5048 M553.964,88.2558 L555.063,98.3838 L555.063,89.8649 M555.063,98.3838 L555.876,89.6066 L555.876,87.6069 M555.876,89.6066 L556.943,91.3993 L556.943,88.2359 M556.943,91.3993 L557.994,93.267 L557.994,87.8019 M557.994,93.267 L559.027,101.663 L559.027,88.4944 M559.027,101.663 L560.045,99.4724 L560.045,86.6847 M560.045,99.4724 L561.046,102.791 L561.046,89.4339 M561.046,102.791 L562.033,98.5372 L562.033,93.7888 M562.033,98.5372 L563.005,102.893 L563.005,92.4427 M563.005,102.893 L563.963,101.171 L563.963,90.3244 M563.963,101.171 L564.906,95.0356 L564.906,92.4718 M564.906,95.0356 L566.067,100.738 L566.067,92.9337 M566.067,100.738 L566.981,98.258 L566.981,92.6699 M566.981,98.258 L568.106,107.638 L568.106,91.1265 M568.106,107.638 L568.992,99.862 L568.992,89.2786 M568.992,99.862 L570.083,94.5262 L570.083,90.8273 M570.083,94.5262 L570.942,100.695 L570.942,93.1277 M570.942,100.695 L572.001,105.732 L572.001,91.5341 M572.001,105.732 L573.043,103.017 L573.043,90.1259 M573.043,103.017 L574.069,102.2 L574.069,95.315 M574.069,102.2 L575.078,98.6492 L575.078,90.2731 M575.078,98.6492 L576.073,100.786 L576.073,91.3942 M576.073,100.786 L577.052,106.388 L577.052,94.2472 M577.052,106.388 L578.017,97.323 L578.017,89.3686 M578.017,97.323 L578.968,100.1 L578.968,95.8147 M578.968,100.1 L580.09,100.411 L580.09,93.3323 M580.09,100.411 L581.011,104.859 L581.011,94.4013 M581.011,104.859 L581.92,101.426 L581.92,92.5078 M581.92,101.426 L582.993,102.527 L582.993,91.83 M582.993,102.527 L584.049,98.8151 L584.049,93.8466 M584.049,98.8151 L584.916,97.7015 L584.916,91.6388 M584.916,97.7015 L585.942,101.108 L585.942,91.4912 M585.942,101.108 L586.952,98.4965 L586.952,92.7633 M586.952,98.4965 L587.946,97.7905 L587.946,93.9962 M587.946,97.7905 L588.925,107.776 L588.925,92.8783 M588.925,107.776 L590.05,111.298 L590.05,94.7927 M590.05,111.298 L590.998,102.641 L590.998,95.088 M590.998,102.641 L591.933,102.244 L591.933,92.1114 M591.933,102.244 L593.007,108.144 L593.007,96.3496 M593.007,108.144 L594.063,107.772 L594.063,95.9259 M594.063,107.772 L594.955,103.744 L594.955,93.9844 M594.955,103.744 L595.981,103.551 L595.981,97.2434 M595.981,103.551 L596.991,101.949 L596.991,95.1317 M596.991,101.949 L597.985,108.152 L597.985,94.026 M597.985,108.152 L598.964,102.348 L598.964,95.8376 M598.964,102.348 L600.066,111.562 L600.066,96.7602 M600.066,111.562 L601.015,110.886 L601.015,98.2571 M601.015,110.886 L601.95,105.98 L601.95,95.4483 M601.95,105.98 L603.002,99.8878 L603.002,96.3593 M603.002,99.8878 L604.038,105.045 L604.038,97.4342 M604.038,105.045 L605.058,111.247 L605.058,98.7494 M605.058,111.247 L606.062,102.212 L606.062,94.6472 M606.062,102.212 L607.05,111.38 L607.05,96.3238 M607.05,111.38 L608.024,107.553 L608.024,95.1972 M608.024,107.553 L608.984,105.33 L608.984,95.2954 M608.984,105.33 L610.047,109.189 L610.047,95.718 M610.047,109.189 L610.977,100.288 L610.977,94.6853 M610.977,100.288 L612.008,113.537 L612.008,91.4167 M612.008,113.537 L613.023,108.945 L613.023,92.3885 M613.023,108.945 L614.023,101.945 L614.023,97.476 M614.023,101.945 L615.007,110.924 L615.007,94.625 M615.007,110.924 L615.977,109.842 L615.977,96.0608 M615.977,109.842 L617.037,107.691 L617.037,96.8006 M617.037,107.691 L617.977,107.83 L617.977,95.5413 M617.977,107.83 L619.006,107.578 L619.006,95.1132 M619.006,107.578 L620.019,108.52 L620.019,93.2201 M620.019,108.52 L621.017,112.136 L621.017,96.0573 M621.017,112.136 L621.999,105.39 L621.999,95.9203 M621.999,105.39 L622.967,110.58 L622.967,95.9324 M622.967,110.58 L624.015,108.168 L624.015,95.3508 M624.015,108.168 L624.953,102.963 L624.953,96.4719 M624.953,102.963 L625.97,114.707 L625.97,97.7112 M625.97,114.707 L626.972,106.148 L626.972,97.3061 M626.972,106.148 L627.958,108.9 L627.958,96.9216 M627.958,108.9 L629.017,111.737 L629.017,97.1956 M629.017,111.737 L629.973,117.726 L629.973,96.2689 M629.973,117.726 L631,107.152 L631,96.0625 M631,107.152 L632.011,100.109 L632.011,95.1583 M632.011,100.109 L633.007,111.008 L633.007,99.4442 M633.007,111.008 L633.987,110.959 L633.987,94.0782 M633.987,110.959 L635.033,106.59 L635.033,96.9132 M635.033,106.59 L635.984,109.833 L635.984,95.9918 M635.984,109.833 L636.999,106.499 L636.999,96.8226 M636.999,106.499 L637.998,103.525 L637.998,97.4504 M637.998,103.525 L638.982,119.294 L638.982,95.8182 M638.982,119.294 L640.025,106.594 L640.025,95.4181 M640.025,106.594 L640.979,106.934 L640.979,96.1257 M640.979,106.934 L641.991,110.308 L641.991,96.4809 M641.991,110.308 L642.988,108.907 L642.988,95.2229 M642.988,108.907 L643.969,114.79 L643.969,96.8242 M643.969,114.79 L645.005,107.025 L645.005,98.5482 M645.005,107.025 L646.024,111.097 L646.024,95.3437 M646.024,111.097 L647.028,109.225 L647.028,95.5512 M647.028,109.225 L648.016,107.982 L648.016,95.4266 M648.016,107.982 L648.989,119.958 L648.989,94.2488 M648.989,119.958 L650.012,122.117 L650.012,98.6531 M650.012,122.117 L651.019,108.509 L651.019,96.0862 M651.019,108.509 L652.011,105.624 L652.011,94.2269 M652.011,105.624 L652.987,107.522 L652.987,96.0898 M652.987,107.522 L654.009,110.546 L654.009,94.974 M654.009,110.546 L655.015,117.395 L655.015,97.5262 M655.015,117.395 L656.006,108.471 L656.006,97.4762 M656.006,108.471 L656.982,108.2 L656.982,95.7334 M656.982,108.2 L658,103.579 L658,96.2979 M658,103.579 L659.002,116.097 L659.002,96.8108 M659.002,116.097 L659.989,108.085 L659.989,93.7947 M659.989,108.085 L661.015,114.197 L661.015,95.9128 M661.015,114.197 L662.024,110.832 L662.024,95.7306 M662.024,110.832 L663.019,113.48 L663.019,95.97 M663.019,113.48 L663.998,112.773 L663.998,97.4909 M663.998,112.773 L665.014,111.067 L665.014,94.8939 M665.014,111.067 L666.013,111.915 L666.013,95.9693 M666.013,111.915 L666.998,113.227 L666.998,97.1449 M666.998,113.227 L668.016,114.586 L668.016,95.3859 M668.016,114.586 L669.018,112.192 L669.018,95.8252 M669.018,112.192 L670.006,115.562 L670.006,95.1976 M670.006,115.562 L670.978,113.013 L670.978,95.2581 M670.978,113.013 L671.982,112.817 L671.982,96.1072 M671.982,112.817 L673.014,109.289 L673.014,97.9743 M673.014,109.289 L673.987,112.949 L673.987,97.9867 M673.987,112.949 L674.989,123.415 L674.989,97.1761 M674.989,123.415 L676.018,107.391 L676.018,96.2603 M676.018,107.391 L676.989,117.454 L676.989,95.9555 M676.989,117.454 L677.988,112.083 L677.988,96.633 M677.988,112.083 L679.011,112.496 L679.011,95.8779 M679.011,112.496 L680.019,117.916 L680.019,95.9825 M680.019,117.916 L681.012,110.216 L681.012,95.9659 M681.012,110.216 L681.99,113.921 L681.99,97.2111 M681.99,113.921 L682.991,112.94 L682.991,97.0916 M682.991,112.94 L684.015,118.279 L684.015,97.381 M684.015,118.279 L684.986,110.757 L684.986,94.0347 M684.986,110.757 L686.016,110.646 L686.016,95.3665 M686.016,110.646 L686.994,119.539 L686.994,98.312 M686.994,119.539 L687.993,123.38 L687.993,96.1987 M687.993,123.38 L689.011,112.576 L689.011,97.0496 M689.011,112.576 L690.014,113.99 L690.014,94.0397 M690.014,113.99 L691.002,112.142 L691.002,97.9601 M691.002,112.142 L692.008,111.083 L692.008,99.8281 M692.008,111.083 L692.999,118.396 L692.999,101.362 M692.999,118.396 L694.007,119.985 L694.007,103.599 M694.007,119.985 L694.968,122.32 L694.968,106.217 M694.968,122.32"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="29,156 723,156 " />
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="186,156 186,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="185" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="190,156 190,166 " />
+<rect x="189" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="197,156 197,166 " />
+<rect x="196" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="202,156 202,166 " />
+<polyline fill="none" vector-effect="none" points="207,156 207,166 " />
+<rect x="206" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="214,156 214,166 " />
+<rect x="213" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="222,156 222,166 " />
+<rect x="221" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="227,156 227,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="228" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="232,156 232,166 " />
+<rect x="231" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="239,156 239,166 " />
+<rect x="238" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="245,156 245,166 " />
+<polyline fill="none" vector-effect="none" points="250,156 250,166 " />
+<rect x="249" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="258,156 258,166 " />
+<rect x="257" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="265,156 265,166 " />
+<rect x="264" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="270,156 270,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="271" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="276,156 276,166 " />
+<rect x="275" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="283,156 283,166 " />
+<rect x="282" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="289,156 289,166 " />
+<polyline fill="none" vector-effect="none" points="294,156 294,166 " />
+<rect x="293" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="302,156 302,166 " />
+<rect x="301" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="309,156 309,166 " />
+<rect x="308" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="315,156 315,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="316" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="320,156 320,166 " />
+<rect x="319" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="328,156 328,166 " />
+<rect x="327" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="333,156 333,166 " />
+<polyline fill="none" vector-effect="none" points="339,156 339,166 " />
+<rect x="338" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="346,156 346,166 " />
+<rect x="345" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="354,156 354,166 " />
+<rect x="353" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="359,156 359,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="360" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="365,156 365,166 " />
+<rect x="364" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="373,156 373,166 " />
+<rect x="372" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="378,156 378,166 " />
+<polyline fill="none" vector-effect="none" points="384,156 384,166 " />
+<rect x="383" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="391,156 391,166 " />
+<rect x="390" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="399,156 399,166 " />
+<rect x="398" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="404,156 404,166 " />
+</g>
+
+<g fill="#7f7fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="405" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="410,156 410,166 " />
+<rect x="409" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="418,156 418,166 " />
+<rect x="417" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="423,156 423,166 " />
+<polyline fill="none" vector-effect="none" points="429,156 429,166 " />
+<rect x="428" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="436,156 436,166 " />
+<rect x="435" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="444,156 444,166 " />
+<rect x="443" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="449,156 449,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="450" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="455,156 455,166 " />
+<rect x="454" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="463,156 463,166 " />
+<rect x="462" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="468,156 468,166 " />
+<polyline fill="none" vector-effect="none" points="474,156 474,166 " />
+<rect x="473" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="481,156 481,166 " />
+<rect x="480" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="489,156 489,166 " />
+<rect x="488" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="494,156 494,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="495" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="500,156 500,166 " />
+<rect x="499" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="508,156 508,166 " />
+<rect x="507" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="513,156 513,166 " />
+<polyline fill="none" vector-effect="none" points="519,156 519,166 " />
+<rect x="518" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="527,156 527,166 " />
+<rect x="526" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="534,156 534,166 " />
+<rect x="533" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="540,156 540,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="541" y="157" width="4" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="545,156 545,166 " />
+<rect x="544" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="553,156 553,166 " />
+<rect x="552" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="558,156 558,166 " />
+<polyline fill="none" vector-effect="none" points="564,156 564,166 " />
+<rect x="563" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="572,156 572,166 " />
+<rect x="571" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="579,156 579,166 " />
+<rect x="578" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="585,156 585,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="586" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="591,156 591,166 " />
+<rect x="590" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="598,156 598,166 " />
+<rect x="597" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="604,156 604,166 " />
+<polyline fill="none" vector-effect="none" points="609,156 609,166 " />
+<rect x="608" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="617,156 617,166 " />
+<rect x="616" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="624,156 624,166 " />
+<rect x="623" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="630,156 630,166 " />
+</g>
+
+<g fill="#a0a0a4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="631" y="157" width="5" height="10"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="636,156 636,166 " />
+<rect x="635" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="643,156 643,166 " />
+<rect x="642" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="649,156 649,166 " />
+<polyline fill="none" vector-effect="none" points="654,156 654,166 " />
+<rect x="653" y="161" width="2" height="5"/>
+<polyline fill="none" vector-effect="none" points="29,167 202,167 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="187" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >Hz</text>
+<polyline fill="none" vector-effect="none" points="202,167 897,167 " />
+<polyline fill="none" vector-effect="none" points="227,167 227,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >16</text>
+<polyline fill="none" vector-effect="none" points="255,167 255,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="260" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >25</text>
+<polyline fill="none" vector-effect="none" points="285,167 285,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="290" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >40</text>
+<polyline fill="none" vector-effect="none" points="314,167 314,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="319" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >63</text>
+<polyline fill="none" vector-effect="none" points="344,167 344,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="349" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >100</text>
+<polyline fill="none" vector-effect="none" points="374,167 374,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="379" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >160</text>
+<polyline fill="none" vector-effect="none" points="403,167 403,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="408" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >250</text>
+<polyline fill="none" vector-effect="none" points="434,167 434,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="439" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >400</text>
+<polyline fill="none" vector-effect="none" points="463,167 463,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="468" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >630</text>
+<polyline fill="none" vector-effect="none" points="494,167 494,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="499" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1000</text>
+<polyline fill="none" vector-effect="none" points="524,167 524,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="529" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1600</text>
+<polyline fill="none" vector-effect="none" points="584,167 584,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="589" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >4000</text>
+<polyline fill="none" vector-effect="none" points="643,167 643,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="648" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >1e+04</text>
+<polyline fill="none" vector-effect="none" points="695,167 695,199 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="700" y="182" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >2.5e+04</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,3507,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="-1" width="32" height="190"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="150" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-80</text>
+<polyline fill="none" vector-effect="none" points="25,145 32,145 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="135" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-70</text>
+<polyline fill="none" vector-effect="none" points="25,130 32,130 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="119" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-60</text>
+<polyline fill="none" vector-effect="none" points="25,114 32,114 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="104" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-50</text>
+<polyline fill="none" vector-effect="none" points="25,99 32,99 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="88" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-40</text>
+<polyline fill="none" vector-effect="none" points="25,83 32,83 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="72" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-30</text>
+<polyline fill="none" vector-effect="none" points="25,67 32,67 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="57" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-20</text>
+<polyline fill="none" vector-effect="none" points="25,52 32,52 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="8" y="41" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >-10</text>
+<polyline fill="none" vector-effect="none" points="25,36 32,36 " />
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="7" y="25" font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+ >0dB</text>
+<polyline fill="none" vector-effect="none" points="25,20 32,20 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

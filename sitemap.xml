@@ -3,13 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/contacts/</loc>
+    <lastmod>2020-08-25T10:43:40-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-08-23T22:16:35-07:00</lastmod>
+    <lastmod>2020-08-25T10:43:40-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
-    <lastmod>2020-08-23T22:16:35-07:00</lastmod>
+    <lastmod>2020-08-25T10:43:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/audio/</loc>
+    <lastmod>2020-08-25T10:43:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/html/</loc>
+    <lastmod>2020-08-25T10:36:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/diagrams/</loc>
+    <lastmod>2020-08-24T12:54:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/books/</loc>
+    <lastmod>2020-08-24T12:53:56-07:00</lastmod>
   </url>
   
   <url>
@@ -425,6 +450,14 @@
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/my-first-post/</loc>
     <lastmod>2020-08-17T12:32:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/veev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/yeti-noise/</loc>
   </url>
   
   <url>
