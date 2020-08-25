@@ -66,3 +66,16 @@ https://stackoverflow.com/questions/21361106/how-would-i-implement-a-dict-with-a
 Supercharge Your Classes With Python super() – Real Python
 https://realpython.com/python-super/
 
+* Iterating over two elements at a time
+python - Iterating over every two elements in a list - Stack Overflow
+https://stackoverflow.com/questions/5389507/iterating-over-every-two-elements-in-a-list
+
+itertools — Functions creating iterators for efficient looping — Python 3.8.5 documentation
+https://docs.python.org/3/library/itertools.html
+
+python - Speeding up itertools combinations with cython - Stack Overflow
+https://stackoverflow.com/questions/50198393/speeding-up-itertools-combinations-with-cython
+
+python/cpython: The Python programming language
+https://github.com/python/cpython
+

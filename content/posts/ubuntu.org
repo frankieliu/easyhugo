@@ -8,3 +8,13 @@ draft = false
 
 13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know - It's FOSS
 https://itsfoss.com/ubuntu-shortcuts/
+
+* icon problem
+System Settings messed up and crashing [SOLVED] / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=235871
+
+Bug #1672027 “Invalid Context= “stock” line for icon theme: " : Bugs : kmines package : Ubuntu
+https://bugs.launchpad.net/ubuntu/+source/kmines/+bug/1672027
+
+bash show theme errors · Issue #322 · PapirusDevelopmentTeam/papirus-icon-theme
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/322

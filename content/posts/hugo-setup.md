@@ -1177,4 +1177,8 @@ menu:
 (459) How to create navigation menus in Hugo - YouTube
 https://www.youtube.com/watch?v=E6bhmixcR5k
 
+# hugo configure markup
 
+## turn of unsafe
+Configure Markup | Hugo
+https://gohugo.io/getting-started/configuration-markup/

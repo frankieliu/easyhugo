@@ -31,3 +31,12 @@ https://launchpad.net/~cdekter/+archive/ubuntu/ppa/+packages
 
 Linux Automation Tip: Send Messages to Your Discord Server Using Python ? Maker Hacks
 https://makerhacks.com/python-messages-discord/
+
+* Share audio in discord
+
+Only on certain apps, when sharing you need to 
+allow audio from the app
+
+(467) How to Have Program Audio on Your Discord Screenshare 2018 - YouTube
+https://www.youtube.com/watch?v=VC0t-Z5VsUU
+

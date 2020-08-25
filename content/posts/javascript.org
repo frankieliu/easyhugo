@@ -14,3 +14,13 @@ https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
 
 (25) Oleksii Trekhleb | LinkedIn
 https://www.linkedin.com/in/trekhleb/?originalSubdomain=nl
+
+javascript - How to append something to an array? - Stack Overflow
+https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array
+
+Loop through an array in JavaScript - Stack Overflow
+https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript
+
+javascript - Map an Array by every two elements - Stack Overflow
+https://stackoverflow.com/questions/49491452/map-an-array-by-every-two-elements
+
