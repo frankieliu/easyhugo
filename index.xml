@@ -200,7 +200,7 @@ R. Scott Bakker - Wikipedia https://en.wikipedia.org/wiki/R._Scott_Bakker</descr
       <pubDate>Sun, 23 Aug 2020 18:15:16 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ubuntu/</guid>
-      <description>  13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know - It&amp;#39;s FOSS https://itsfoss.com/ubuntu-shortcuts/ icon problem   System Settings messed up and crashing [SOLVED] / Newbie Corner / Arch Linux Forums https://bbs.archlinux.org/viewtopic.php?id=235871  Bug #1672027 “Invalid Context= “stock” line for icon theme: &amp;#34; : Bugs : kmines package : Ubuntu https://bugs.launchpad.net/ubuntu/+source/kmines/+bug/1672027  bash show theme errors · Issue #322 · PapirusDevelopmentTeam/papirus-icon-theme https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/322 </description>
+      <description>13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know - It&amp;#39;s FOSS https://itsfoss.com/ubuntu-shortcuts/ icon problem   System Settings messed up and crashing [SOLVED] / Newbie Corner / Arch Linux Forums https://bbs.archlinux.org/viewtopic.php?id=235871  Bug #1672027 “Invalid Context= “stock” line for icon theme: &amp;#34; : Bugs : kmines package : Ubuntu https://bugs.launchpad.net/ubuntu/+source/kmines/+bug/1672027  bash show theme errors · Issue #322 · PapirusDevelopmentTeam/papirus-icon-theme https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/322  windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow https://stackoverflow.</description>
     </item>
     
     <item>
@@ -227,7 +227,12 @@ R. Scott Bakker - Wikipedia https://en.wikipedia.org/wiki/R._Scott_Bakker</descr
       <pubDate>Sat, 22 Aug 2020 13:58:41 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/terminals/</guid>
-      <description>rxvt-unicode vs Xfce4 terminal detailed comparison as of 2020 - Slant https://www.slant.co/versus/2443/2456/~rxvt-unicode_vs_xfce4-terminal Xfce4 changing theme is via gtk or gnome preferences   themes - Change color scheme for xfce4 terminal manually - Ask Ubuntu https://askubuntu.com/questions/676428/change-color-scheme-for-xfce4-terminal-manually  [xubuntu] How do I get rid of the scroll bar in the xfce4-terminal https://ubuntuforums.org/showthread.php?t=2059070  apps:terminal:start [Xfce Docs] https://docs.xfce.org/apps/terminal/start  apps:terminal:advanced [Xfce Docs] https://docs.xfce.org/apps/terminal/advanced  Terminal Menubar Color does not match theme / Desktop / Xfce Forums https://forum.</description>
+      <description>comparison between terminals rxvt-unicode vs Xfce4 terminal detailed comparison as of 2020 - Slant https://www.slant.co/versus/2443/2456/~rxvt-unicode_vs_xfce4-terminal
+Xfce4 changing theme is via gtk or gnome preferences themes - Change color scheme for xfce4 terminal manually - Ask Ubuntu https://askubuntu.com/questions/676428/change-color-scheme-for-xfce4-terminal-manually
+[xubuntu] How do I get rid of the scroll bar in the xfce4-terminal https://ubuntuforums.org/showthread.php?t=2059070
+apps:terminal:start [Xfce Docs] https://docs.xfce.org/apps/terminal/start
+apps:terminal:advanced [Xfce Docs] https://docs.xfce.org/apps/terminal/advanced
+Terminal Menubar Color does not match theme / Desktop / Xfce Forums https://forum.</description>
     </item>
     
     <item>
@@ -696,7 +701,14 @@ graph LR; A--B;   </description>
       <pubDate>Tue, 18 Aug 2020 14:11:59 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/wsl2/</guid>
-      <description> x11   windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2  VcXsrv Windows X Server download | SourceForge.net https://sourceforge.net/projects/vcxsrv/  Xming X Server for Windows - Fonts http://www.straightrunning.com/XmingNotes/fonts.php  xcfe https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/ ubuntu   Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script  Virtual machine ip https://www.reddit.com/r/bashonubuntuonwindows/comments/c871g7/command_to_get_virtual_machine_ip_in_wsl2/ </description>
+      <description>x11 windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+VcXsrv Windows X Server download | SourceForge.net https://sourceforge.net/projects/vcxsrv/
+Xming X Server for Windows - Fonts http://www.straightrunning.com/XmingNotes/fonts.php
+xcfe https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
+ubuntu Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script
+Virtual machine ip https://www.reddit.com/r/bashonubuntuonwindows/comments/c871g7/command_to_get_virtual_machine_ip_in_wsl2/
+selecting default browser windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal
+New Issue � wslutilities/wslu https://github.com/wslutilities/wslu/issues/new/choose</description>
     </item>
     
     <item>
