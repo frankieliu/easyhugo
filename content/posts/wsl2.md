@@ -6,7 +6,7 @@ date = "2020-08-18T14:11:59-07:00"
 draft = false
 +++
 
-* x11
+# x11
 
 windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow
 https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
@@ -20,10 +20,20 @@ http://www.straightrunning.com/XmingNotes/fonts.php
 xcfe
 https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
 
-* ubuntu
+# ubuntu
 
 Detect ubuntu on wsl
 https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script
 
 Virtual machine ip
 https://www.reddit.com/r/bashonubuntuonwindows/comments/c871g7/command_to_get_virtual_machine_ip_in_wsl2/
+
+# selecting default browser
+
+windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow
+https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal
+
+New Issue � wslutilities/wslu
+https://github.com/wslutilities/wslu/issues/new/choose
+
+
