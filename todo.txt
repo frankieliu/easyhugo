@@ -1,0 +1,101 @@
+BookMarkDown
+https://jerrysievert.github.io/bookmarkdown/#configuration
+
+Lydia - Manual Thresholding Anaylsis - Google Sheets
+https://docs.google.com/spreadsheets/d/1enbm7h1gC9JeQpmCxvR2cnOZaz5cZtlmctXquPi_NOs/edit#gid=0
+
+plasticboy/vim-markdown: Markdown Vim Mode
+https://github.com/plasticboy/vim-markdown#options
+
+get the first (or n'th) element in a jq json parsing - Stack Overflow
+https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing
+
+printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq
+https://github.com/stedolan/jq/issues/306
+
+editor - Using Vim's tabs like buffers - Stack Overflow
+https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
+
+toml-lang/toml: Tom's Obvious, Minimal Language
+https://github.com/toml-lang/toml
+
+YAML Ain’t Markup Language (YAML™) Version 1.2
+https://yaml.org/spec/1.2/spec.html
+
+Deep dive into TOML, JSON and YAML
+https://gohugohq.com/howto/toml-json-yaml-comparison/
+
+(460) How to create navigation menus in Hugo - YouTube
+https://www.youtube.com/watch?v=E6bhmixcR5k
+
+Menus | Hugo
+https://gohugo.io/content-management/menus/#advanced
+
+Menu Templates | Hugo
+https://gohugo.io/templates/menu-templates/
+
+masasam/emacs-easy-hugo: Emacs major mode for managing hugo
+https://github.com/masasam/emacs-easy-hugo
+
+ikea tool book kit - Google Search
+https://www.google.com/search?q=ikea+tool+book+kit&oq=ikea+tool+book+kit&aqs=chrome..69i57.4697j0j7&sourceid=chrome&ie=UTF-8
+
+20.04 why do terminals take longer to exit - Google Search
+https://www.google.com/search?q=20.04+why+do+terminals+take+longer+to+exit&oq=20.04+why+do+terminals+take+longer+to+exit&aqs=chrome..69i57.8883j0j4&sourceid=chrome&ie=UTF-8
+
+Minimum cost stair climb
+https://uplevel.interviewkickstart.com/resource/rc-video-5866-24337-103-523-155394
+
+Extensions
+chrome://extensions/
+
+Sorry
+https://player.vimeo.com/434e4eae-b322-4e21-b37b-67243df19ce2
+
+Sorry
+https://player.vimeo.com/video/420606404?app_id=122963
+
+How do I download m4s segment videos and combine them to mp4 format ? - VideoHelp Forum
+https://forum.videohelp.com/threads/388942-How-do-I-download-m4s-segment-videos-and-combine-them-to-mp4-format
+
+Безымянный — Postimages
+https://postimg.cc/2VBDbHtQ
+
+video - Download all .m4s files of a mpeg dash stream - Super User
+https://superuser.com/questions/1204497/download-all-m4s-files-of-a-mpeg-dash-stream
+
+video - ffmpeg converting m4s to mp4 - Stack Overflow
+https://stackoverflow.com/questions/52705023/ffmpeg-converting-m4s-to-mp4
+
+Download video from Vimeo (chopped m4s files)
+https://gist.github.com/mistic100/895f6d17b1e193334882a4c37d0d7748
+
+mkvmerge -- Merge multimedia streams into a Matroska file
+https://mkvtoolnix.download/doc/mkvmerge.html
+
+Prefix function. Knuth–Morris–Pratt algorithm - Competitive Programming Algorithms
+https://cp-algorithms.com/string/prefix-function.html
+
+Qingyang (Frankie) Liu Interview
+https://coderpad.io/Y2FGGHQN
+
+Pads | CoderPad
+https://coderpad.io/pads
+
+Python 3 | CoderPad
+https://coderpad.io/YZ339XF9
+
+Skip and xfail: dealing with tests that cannot succeed — pytest documentation
+https://docs.pytest.org/en/latest/skipping.html
+
+(475) Mocking Strategies in Python - YouTube
+https://www.youtube.com/watch?v=zW0f4ZRYF5M
+
+rsync(1) - Linux man page
+https://linux.die.net/man/1/rsync
+
+Rsync – To Slash or Not To Slash? – Rants & Raves – The Blog!
+http://qdosmsq.dunbar-it.co.uk/blog/2013/02/rsync-to-slash-or-not-to-slash/
+
+Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux
+https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)https://uit.stanford.edu/service/vpn/linux_builtin -->
+<html lang="en" dir="ltr" class="js"><!-- <![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+<link rel="shortcut icon" href="https://uit.stanford.edu/sites/all/themes/stanford_uit/favicon.ico" type="image/vnd.microsoft.icon">
+<link href="https://uit.stanford.edu/sites/all/themes/stanford_framework/apple-touch-icon.png" rel="apple-touch-icon">
+<meta name="description" content="The Cisco AnyConnect VPN client for Linux is recommended. The following instructions are provided for those who prefer to use a built-in VPN client for Linux. Overview Stanford&#39;s VPN allows you to connect to Stanford&#39;s network as if you were on campus, making access to restricted services possible. Two types of VPN are available: Default Stanford (split-tunnel). When using">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://uit.stanford.edu/service/vpn/linux_builtin">
+<link rel="shortlink" href="https://uit.stanford.edu/service/vpn/linux_builtin">
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How to Configure a Built-in VPN Client for Linux | University IT</title>
+  <link type="text/css" rel="stylesheet" href="../vpn-stanford-files/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="../vpn-stanford-files/css_Xj-z5SvTNCdzcftNU3j8qpLMl91kL1z65pr9J0yLZRk.css" media="all">
+<link type="text/css" rel="stylesheet" href="../vpn-stanford-files/css_A4MVhERhBwz9Gux0Jv1pYdIpQhyyN10K69DFRkF06bI.css" media="all">
+<link type="text/css" rel="stylesheet" href="../vpn-stanford-files/css_cZM1zdNvS8pLRIB8-G-sa-JeqlN2ReshrD9va5ljfO4.css" media="all">
+<link type="text/css" rel="stylesheet" href="../vpn-stanford-files/css_nGZ0EUi6HATidAf3pITrpLdyTGtTsmfVAzXLpUp2gr4.css" media="print">
+<link type="text/css" rel="stylesheet" href="../vpn-stanford-files/stanford_uit_custom.css" media="all">
+<link type="text/css" rel="stylesheet" href="../vpn-stanford-files/css_Vo7xK2wocu0uhYa205j2WmTLkxp9csDWVxp1DV_uZtE.css" media="all">
+  <script async="" src="../vpn-stanford-files/async-ads.js"></script><script async="" src="../vpn-stanford-files/analytics.js"></script><script type="text/javascript" async="" src="../vpn-stanford-files/f.txt"></script><script type="text/javascript" src="../vpn-stanford-files/js_h8Od-FAGkhR_7A30HaaMaTrO_5Hale-5uw8QHV7ogq0.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_US_DuCQ7ocjdQEimZ_NqCfdlPZoMGZmQyc1nqO2T95s.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-2886499-18", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="../vpn-stanford-files/js_bMNcqAqOcpVB4VGYw6F9HDONHfb363vwhq0fr67kcxM.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_mIqtp7ZsxWqzHt0L0u4tnGxO5_Vjc-TCbB2NgGbjgaU.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_injector_10.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_injector_11.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_injector_12.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_XDfISTchxIKi8i7WyBs1gtFH-gKrY7cMXalibmcVm3o.js"></script>
+<script type="text/javascript" src="../vpn-stanford-files/js_injector_26.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stanford_uit","theme_token":"4EZNvoNoOJK2IT70P5OLIUbLbl_kdcWEJWW_BtSZGns","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/simple_registration\/all.css":1,"sites\/all\/modules\/custom\/stanford_rsvp\/css\/style.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/packages\/font-awesome-4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/all\/themes\/stanford_framework\/css\/stanford-framework.css":1,"sites\/all\/themes\/stanford_framework\/css\/stanford_default\/stanford-default.css":1,"sites\/all\/themes\/stanford_framework\/css\/ie.css":1,"sites\/all\/themes\/stanford_uit\/css\/stanford_uit.css":1,"sites\/all\/themes\/stanford_uit\/footable\/css\/footable.css":1,"sites\/all\/themes\/stanford_uit\/fancybox\/jquery.fancybox.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"sites\/all\/themes\/stanford_uit\/css\/stanford_uit_custom.css":1,"public:\/\/css_injector\/css_injector_43.css":1,"public:\/\/css_injector\/css_injector_48.css":1},"js":{"sites\/default\/files\/js_injector\/js_injector_28.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/itservices\/js\/google_cse.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/open_framework\/packages\/bootstrap-2.3.1\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/jquery.placeholder.min.js":1,"sites\/all\/themes\/stanford_uit\/js\/override.js":1,"sites\/all\/themes\/stanford_framework\/js\/stanford-framework.js":1,"sites\/all\/themes\/stanford_uit\/js\/stanford_uit.js":1,"sites\/all\/themes\/stanford_uit\/footable\/js\/footable.js":1,"sites\/all\/themes\/stanford_uit\/fancybox\/jquery.fancybox.pack.js":1,"sites\/default\/files\/js_injector\/js_injector_10.js":1,"sites\/default\/files\/js_injector\/js_injector_11.js":1,"sites\/default\/files\/js_injector\/js_injector_12.js":1,"sites\/default\/files\/js_injector\/js_injector_19.js":1,"sites\/default\/files\/js_injector\/js_injector_26.js":1}},"better_exposed_filters":{"views":{"service_notice":{"displays":{"block_1":{"filters":[]}}},"service_information_notice":{"displays":{"block":{"filters":[]}}},"updated_date":{"displays":{"block":{"filters":[]}}},"service_information_links_action":{"displays":{"attachment_1":{"filters":[]},"attachment_2":{"filters":[]},"attachment_3":{"filters":[]},"block":{"filters":[]}}},"service_information_parent_service_support_links":{"displays":{"attachment_1":{"filters":[]},"block":{"filters":[]}}},"service_page_related_services":{"displays":{"block":{"filters":[]}}},"service_information_related_pages":{"displays":{"block":{"filters":[]}}},"guide_menu":{"displays":{"block":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip|dmg"}});
+//--><!]]>
+</script>
+  <!--[if IE 7]>
+    <![endif]-->
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
+  <![endif]-->
+<style type="text/css">.fancybox-margin{margin-right:15px;}</style><script src="../vpn-stanford-files/cse_element__en.js" type="text/javascript"></script><link type="text/css" rel="stylesheet" href="../vpn-stanford-files/default+en.css"><link type="text/css" rel="stylesheet" href="../vpn-stanford-files/default.css"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#d7d7d7}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#B3995D;background-color:#D2C295;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#006CB8}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#00548F}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#00548F}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#00548F}.gsc-cursor-page{color:#006CB8}a.gsc-trailing-more-results:link{color:#006CB8}.gs-webResult .gs-snippet,.gs-fileFormatType{color:#2E2D29}.gs-webResult div.gs-visibleUrl{color:#3F3C30}.gs-webResult div.gs-visibleUrl-short{color:#3F3C30}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:block}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:block}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#C5BEAE;background-color:#F2F1EB}.gsc-completion-title{color:#006CB8}.gsc-completion-snippet{color:#2E2D29}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#4D4F53}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#4D4F53}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#4D4F53}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#4D4F53}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#333333}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#827252}.gcsc-find-more-on-google{color:#006CB8}.gcsc-find-more-on-google-magnifier{fill:#006CB8}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+
+<body class="html not-front logged-in one-sidebar sidebar-second page-node page-node- page-node-25945 node-type-service-information        style-uit  header-bkg-image header-bkg-text-light subsite-nav" style="">
+    <div id="wrap"><a href="https://uit.stanford.edu/service/vpn/linux_builtin#main" class="element-invisible element-focusable">Skip to content</a>
+      <a href="https://uit.stanford.edu/service/vpn/linux_builtin#header-nav" class="element-invisible element-focusable">Skip to site navigation</a>
+        <a href="https://uit.stanford.edu/service/vpn/linux_builtin#main-nav" class="element-invisible element-focusable">Skip to service navigation</a>
+    <!-- /#skipnav -->
+    <!-- /#admin-shortcuts -->
+    <!-- /#global-header -->
+  
+  <!-- /#header -->
+
+  
+  <div id="main" class="clearfix main" role="main">
+    <div class="container">
+                  <div id="main-top" class="row-fluid main-top"> <div class="region region-main-top clearfix">
+  <div id="block-menu-block-5" class="clearfix block block-menu-block">       <div class="content"> <div class="menu-block-wrapper menu-block-5 menu-name-book-toc-67 parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first last leaf has-children active-trail menu-mlid-3107"><a href="https://uit.stanford.edu/service/vpn" class="active-trail">VPN (Virtual Private Network)</a></li>
+</ul></div>
+ </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                  <div id="main-content" class="row main-content">
+        <div id="content-title" class="span12">                     <h1 class="title" id="page-title"> How to Configure a Built-in VPN Client for Linux </h1>
+                     </div>
+                <div id="content" class="mc-content span8">
+          <div id="content-wrapper" class="content-wrapper">
+            <div id="content-head" class="row-fluid content-head">
+                                                                                  </div>
+                                                <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <article id="node-25945" class="node node-service-information clearfix">          <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="alert alert-info">
+<p>The <a href="https://uit.stanford.edu/service/vpn/linux">Cisco AnyConnect VPN client for Linux</a> is recommended. The following instructions are provided for those who prefer to use a built-in VPN client for Linux.</p>
+</div>
+
+<h2 id="c1">Overview</h2>
+
+<p>Stanford's VPN allows you to connect to Stanford's network as if you were on campus, making access to restricted services possible.&nbsp;</p>
+
+<p>Two types of VPN are available:</p>
+
+<ul>
+	<li><strong>Default Stanford (split-tunnel).</strong> When using Stanford's VPN from home, we generally recommend using the Default Stanford split-tunnel VPN. This routes and encrypts all traffic going to Stanford sites and systems through the Stanford network as if you were on campus. All non-Stanford traffic proceeds to its destination directly.<br>
+	&nbsp;</li>
+	<li><strong>Full Traffic (non-split-tunnel).</strong> This encrypts all internet traffic from your computer but may inadvertently block you from using resources on your local network, such as a networked printer at home. If you are traveling or using Wi-Fi in an untrusted location like a coffee shop or hotel, you may wish to encrypt all of your internet traffic through the Full Traffic non-split-tunnel VPN to provide an additional layer of security.</li>
+</ul>
+
+<p>You can select thy type of VPN you want to use each time you connect to the Stanford VPN.</p>
+
+<h2>Install the OpenConnect client</h2>
+
+<ul>
+	<li>On Debian-compatible distributions (including Ubuntu), install the <strong>network-manager-openconnect-gnome</strong> package.</li>
+	<li>On RedHat-compatible distributions (including Fedora and CentOS), install <strong>NetworkManager-openconnect-gnome</strong>.</li>
+</ul>
+
+<h2>Set up a new VPN interface</h2>
+
+<ol class="linebreak">
+	<li>In System Settings, open the Network panel and click the <strong>+</strong> button to create a new interface.</li>
+	<li><img alt="Network system settings panel" height="252" src="../vpn-stanford-files/network_settings.png" width="560"></li>
+	<li>On Ubuntu, select <strong>VPN </strong>from the list of interface types and click <strong>Create</strong>.<br>
+	<img alt="select VPN interface type to use for service" height="201" src="../vpn-stanford-files/interface_types.png" width="380"></li>
+	<li>Select the <strong>Cisco AnyConnect Compatible VPN</strong>&nbsp; connection type (and, on Ubuntu, click <strong>Create</strong>).<br>
+	<img alt="choose a VPN connection type" height="232" src="../vpn-stanford-files/connection_type.png" width="500"></li>
+	<li>Choose a name for the connection (e.g., Stanford) and set the <strong>Gateway </strong>to&nbsp;<strong>su-vpn.stanford.edu</strong>. Then, click <strong>Add </strong>(or <strong>Save</strong>).<br>
+	<img alt="add connection name and gateway setting" height="582" src="../vpn-stanford-files/edit_connection.png" width="440">​</li>
+</ol>
+
+<h2>Connect to the Stanford VPN</h2>
+
+<ol class="linebreak">
+	<li>In the Network panel, turn the&nbsp;new interface on.
+	<ul>
+		<li>On Ubuntu, in the <strong>System </strong>menu you may also click the <strong>Network </strong>icon&nbsp;select the new interface from the list of<strong> VPN Connections.</strong></li>
+		<li>On Fedora, in the <strong>System </strong>menu you may choose <strong>VPN Off</strong>&nbsp; and click <strong>Connect</strong>.</li>
+	</ul>
+	</li>
+	<li>In the Connect to VPN dialog box, enter the following information and then click <strong>Login</strong>.
+	<ul>
+		<li><strong>GROUP</strong>: select <strong>Default Stanford split- tunnel</strong>&nbsp;or&nbsp;<strong>Full Traffic non-split-tunnel</strong></li>
+		<li><strong>Username</strong>: your SUNet ID</li>
+		<li><strong>Password</strong>: your SUNet ID password</li>
+	</ul>
+
+	<p><img alt="enter your SUNet ID and password to log in to Stanford VPN" height="347" src="../vpn-stanford-files/connect.png" width="353"></p>
+	</li>
+	<li>
+	<p>Complete the two-step authentication.</p>
+	</li>
+</ol>
+</div>
+      </div>
+</div>
+  </div>
+    </article> </div>
+</div><div id="block-views-updated-date-block" class="clearfix block block-views">       <div class="content"> <div class="view view-updated-date view-id-updated_date view-display-id-block view-dom-id-93746415f233e8b577975eab405a1897">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-modified-date">        <div class="field-content">Last modified August 17, 2017</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div></div>
+ <!-- /.region -->
+  </div>
+                                                                                                                      </div>
+          <!-- /#content-wrap -->
+        </div>
+        <!-- /#content -->
+                
+        <!-- /#sidebar-second -->
+              </div>
+                </div>
+  </div>
+  <!-- /#main, /#main-wrapper -->
+    <div id="push"></div>
+  <!-- /#push -->
+</div>
+<!-- /#wrap -->
+
+<!-- /#footer -->
+
+<!-- /#global-footer -->
+   <!-- /.region -->
+<script type="text/javascript" src="../vpn-stanford-files/js_ayLNthpYLmDu8KfjP52Q2z7dtJvBYA40FqhVhVi0yKQ.js"></script>
+
+
+<table cellspacing="0" cellpadding="0" class="gstl_50 gssb_c" style="width: 2px; display: none; top: 3px; position: absolute; left: -1px;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>
