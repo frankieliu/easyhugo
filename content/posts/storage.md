@@ -1,3 +1,10 @@
++++
+categories = [""]
+tags = [""]
+title = "Storage"
+date = "2020-08-28T13:06:32-07:00"
+draft = false
++++
 
 pCloud – 10GB free
 Sync.com – 5GB free
