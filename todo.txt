@@ -99,3 +99,207 @@ http://qdosmsq.dunbar-it.co.uk/blog/2013/02/rsync-to-slash-or-not-to-slash/
 
 Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux
 https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+
+Leetcode checklist
+https://www.frankliu.org/leet-200/
+
+(29) Remove Sub-Folders from the Filesystem - LeetCode
+https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+
+(29) Tree Diameter - LeetCode
+https://leetcode.com/problems/tree-diameter/
+
+(29) Tree Diameter - Submission Detail - LeetCode
+https://leetcode.com/submissions/detail/387415396/
+
+pdb — The Python Debugger — Python 3.8.5 documentation
+https://docs.python.org/3/library/pdb.html
+
+matrix - Pretty print 2D Python list - Stack Overflow
+https://stackoverflow.com/questions/13214809/pretty-print-2d-python-list
+
+RNC 2020: Schedule and speaker lineup for Night 4
+https://www.cnbc.com/2020/08/27/rnc-speakers-schedule-tonight.html
+
+Pricing | Codecademy
+https://www.codecademy.com/pricing
+
+Running Python code in Vim - Stack Overflow
+https://stackoverflow.com/questions/18948491/running-python-code-in-vim
+
+python trie reduce lambda defaultdict - Google Search
+https://www.google.com/search?q=python+trie+reduce+lambda+defaultdict&oq=python+trie+reduce+lambda+defaultdict+&aqs=chrome..69i57.9128j0j7&sourceid=chrome&ie=UTF-8
+
+Built-in Types — Python 3.8.5 documentation
+https://docs.python.org/3/library/stdtypes.html#dict
+
+Python and default dict, how to pprint - Stack Overflow
+https://stackoverflow.com/questions/12925052/python-and-default-dict-how-to-pprint
+
+(2) Marketplace - Passion Fruit Cuttings | Facebook
+https://www.facebook.com/marketplace/item/378935076437626
+
+Amazon.com : acepen
+https://www.amazon.com/s?k=acepen&i=electronics&ref=nb_sb_noss_2
+
+Passion Fruit
+https://www.vargasgarden.com/Passion-Fruit-liliko%CA%BBi/
+
+How To Deploy a Rails App with Passenger and Apache on Ubuntu 14.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04
+
+How to create a Web based File Browser using NodeJS, Express and JQuery Datatables – Sumit Chawla's Blog
+https://chawlasumit.wordpress.com/2014/08/04/how-to-create-a-web-based-file-browser-using-nodejs-express-and-jquery-datatables/
+
+Build Node.js Apps with Visual Studio Code
+https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
+
+Express Tutorial Part 2: Creating a skeleton website - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
+file manager in nodejs - Google Search
+https://www.google.com/search?sxsrf=ALeKk008JhGdmaJzcGrDpjVY6Qhjt-qXEQ%3A1598624493692&ei=7RJJX5TtKf6T0PEPz7WgiA8&q=file+manager+in+nodejs&oq=file+manager+in+nodejs&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB46BAgAEEc6BAgjECc6BAgAEEM6AggAOggILhDHARCjAjoFCAAQsQM6BwgAELEDEEM6BwguELEDEEM6BwgAEBQQhwI6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgoILhDqAhAnEJMCOgcIIxDqAhAnOggIABCxAxCDAToLCC4QsQMQxwEQowI6CAguELEDEIMBOgQILhBDOgUIABCRAjoKCAAQsQMQFBCHAjoLCC4QsQMQxwEQrwE6BQguELEDOggIABCxAxCRAjoECAAQCjoHCAAQsQMQCjoHCCEQChCgAToFCCEQoAE6BAgAEA1QtBFYg1tg4VtoDHABeAKAAXCIAacbkgEEMzguNJgBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwjUl82ojL7rAhX-CTQIHc8aCPEQ4dUDCA0&uact=5
+
+OpusCapita/filemanager: React based FileManager for browser ( + FS REST API for Node.js and Express)
+https://github.com/OpusCapita/filemanager
+
+file-manager - npm
+https://www.npmjs.com/package/file-manager
+
+File Manager · API · Essential JS 2 · Syncfusion
+https://ej2.syncfusion.com/demos/#/material/file-manager/default.html
+
+Free Trial Downloads | Syncfusion
+https://www.syncfusion.com/downloads?_ga=2.84729113.1254556617.1598624523-1988703969.1598624523
+
+Free Trial Downloads | Syncfusion
+https://www.syncfusion.com/downloads?_ga=2.84729113.1254556617.1598624523-1988703969.1598624523
+
+Buy .NET Components and Products | Pricing | Syncfusion
+https://www.syncfusion.com/sales/products
+
+@syncfusion/ej2-filemanager-node-filesystem - npm
+https://www.npmjs.com/package/@syncfusion/ej2-filemanager-node-filesystem
+
+SyncfusionExamples/ej2-filemanager-node-filesystem: This repository contains the Node JS file system provider for the file manager component.
+https://github.com/SyncfusionExamples/ej2-filemanager-node-filesystem
+
+frankieliu/node-file-manager: File manager web server based on Node.js with Koa, Angular.js and Bootstrap
+https://github.com/frankieliu/node-file-manager
+
+react file manager - Google Search
+https://www.google.com/search?q=react+file+manager&oq=react+file+manager&aqs=chrome..69i57.5455j0j7&sourceid=chrome&ie=UTF-8
+
+Package - react-file-manager
+https://developer.aliyun.com/mirror/npm/package/react-file-manager
+
+File Browser - React.js Examples
+https://reactjsexample.com/tag/file-browser/
+
+A file manager built in ReactJs
+https://reactjsexample.com/a-file-manager-built-in-reactjs/
+
+dailykit/react-file-manager: A file manager built in ReactJs
+https://github.com/dailykit/react-file-manager
+
+ec2-13-59-178-203.us-east-2.compute.amazonaws.com
+http://ec2-13-59-178-203.us-east-2.compute.amazonaws.com:3000/
+
+Overview - DevExtreme File Manager: jQuery Widgets by DevExpress
+https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/Overview/jQuery/Light/
+
+Pricing, Compare Subscriptions: DevExtreme - HTML5 JavaScript UI Widgets for Angular, React, Vue and jQuery by DevExpress
+https://js.devexpress.com/Buy/
+
+New Tab
+chrome://newtab/
+
+tutorial react js express application - Google Search
+https://www.google.com/search?q=tutorial+react+js+express+application&sxsrf=ALeKk00pY_CIYCtv_AhwwXhFPSFa-UBEiA:1598626303430&ei=_xlJX7roGZ3L0PEPgIibgAk&start=20&sa=N&ved=2ahUKEwj648aHk77rAhWdJTQIHQDEBpA4ChDw0wN6BAgMEEE&biw=1422&bih=732
+
+Build a Blog Using Express.js and React in 30 Minutes ― Scotch.io
+https://scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes
+
+React + Node.js + Express + MySQL example: Build a CRUD App - BezKoder
+https://bezkoder.com/react-node-express-mysql/
+
+Build a Basic CRUD App with Node and React | Okta Developer
+https://developer.okta.com/blog/2018/07/10/build-a-basic-crud-app-with-node-and-react
+
+Create React App with an Express Backend
+https://daveceddia.com/create-react-app-express-backend/
+
+Deploying a React app with React-Router and an Express Backend - DEV
+https://dev.to/nburgess/creating-a-react-app-with-react-router-and-an-express-backend-33l3
+
+How to Create a Nodejs Express App - Simple and Stylish Restaurant App
+https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/
+
+React Express Tutorial Example From Scratch
+https://appdividend.com/2018/04/05/react-express-tutorial-example/
+
+Express Tutorial Part 2: Creating a skeleton website - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
+Full Stack Web Application using React, Node.js, Express and Webpack | Hacker Noon
+https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708
+
+React MERN Stack CRUD App Tutorial - positronX.io
+https://www.positronx.io/react-mern-stack-crud-app-tutorial/
+
+31 Best React.js Books of All Time - BookAuthority
+https://bookauthority.org/books/best-reactjs-books
+
+The Road to GraphQL | Robin Wieruch [Robin Wieruch] | download
+https://bookos-z1.org/book/5511400/c4adf0
+
+facebook/create-react-app: Set up a modern web app by running one command.
+https://github.com/facebook/create-react-app
+
+Getting Started
+https://create-react-app.dev/docs/getting-started/
+
+Supported Browsers and Features
+https://create-react-app.dev/docs/supported-browsers-features/
+
+Folder Structure
+https://create-react-app.dev/docs/folder-structure/
+
+Introducing JSX – React
+https://reactjs.org/docs/introducing-jsx.html
+
+React App
+http://localhost:3000/
+
+Google Calendar - Week of August 23, 2020
+https://calendar.google.com/calendar/r
+
+Segment fault bluejean linux ubuntu 20.04 ... [ ref:_00DE0IOFe._5004W1TqBbZ:ref ] - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXfkGZWmNlKXBGRCRhFsftgKq
+
+(2) Richard Tung | LinkedIn
+https://www.linkedin.com/in/richard-tung/
+
+Contact BlueJeans Support
+https://support.bluejeans.com/s/contactsupport
+
+how to install bluejeans gdebi - Google Search
+https://www.google.com/search?q=how+to+install+bluejeans+gdebi&oq=how+to+install+bluejeans+gdebi&aqs=chrome..69i57.10079j0j7&sourceid=chrome&ie=UTF-8
+
+Download Center | BlueJeans
+https://www.bluejeans.com/downloads
+
+(2) "robinhood hiring" | Search | LinkedIn
+https://www.linkedin.com/search/results/all/?keywords=robinhood%20hiring&origin=GLOBAL_SEARCH_HEADER
+
+How to comment out a block of Python code in Vim - Stack Overflow
+https://stackoverflow.com/questions/2561418/how-to-comment-out-a-block-of-python-code-in-vim#:~:text=Step%201%3A%20Go%20to%20the,line%20you%20want%20to%20comment.&text=Step%203%3A%20Shift%20%2D%20I%20%23,be%20modified%20after%20Step%204.)&text=%23%20to%20comment%20your%20lines%20from%20the%20first%20column.
+
+What's a quick way to comment/uncomment lines in Vim? - Stack Overflow
+https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim/23063140#23063140
+
+New Tab
+chrome://newtab/
+
+BlueJeans Support Chat
+https://1h98.la2-c2-ia5.salesforceliveagent.com/content/s/chat?language=en_US&org_id=00DE0000000IOFe&deployment_id=5722R000000fxSu&sid=4ee843ce-a3ff-438e-afd1-122bff6551e8#deployment_id=5722R000000fxSu&org_id=00DE0000000IOFe&button_id=5732R000000fxT4&session_id=4ee843ce-a3ff-438e-afd1-122bff6551e8
