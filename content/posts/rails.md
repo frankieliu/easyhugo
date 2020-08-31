@@ -14,6 +14,24 @@ https://www.youtube.com/watch?v=pkiskHXb8U0
 How To Build a Ruby on Rails Application | DigitalOcean
 https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application
 
+1.3.4 Branch, Edit, Commit, Merge | Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_03_04
+
+Purchase Tutorial | Learn Enough to Be Dangerous
+https://www.railstutorial.org/checkout/tutorial/ruby_on_rails_tutorial_6th_edition
+
+1.2 The First Application | Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_02_00?autoplay=false
+
+Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/library/view/ruby-on-rails/9780136702726/
+
+1.0 Introduction | Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_00_00?autoplay=false
+
+1.2 The First Application | Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_02_00?autoplay=false
+
 # passenger
 
 Passenger - Enterprise grade web app server for Ruby, Node.js, Python

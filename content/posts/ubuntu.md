@@ -21,3 +21,13 @@ https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/322
 
 windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow
 https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal
+
+# vnc
+
+Problem
+- localhost is yes by default
+- set to -localhost no
+
+networking - TigerVNCViewer: unable to connect to socket: Connection Refused (10061) - Ask Ubuntu
+https://askubuntu.com/questions/1209147/tigervncviewer-unable-to-connect-to-socket-connection-refused-10061
+

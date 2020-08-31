@@ -33,3 +33,11 @@ https://serverfault.com/questions/68684/how-can-i-get-diff-to-show-only-added-an
 odeke-em/drive: Google Drive client for the commandline
 https://github.com/odeke-em/drive#retrieving-md5-checksums
 
+prasmussen/gdrive: Google Drive CLI Client
+https://github.com/prasmussen/gdrive
+
+odeke-em/drive: Google Drive client for the commandline
+https://github.com/odeke-em/drive
+
+Google Drive Linux Clients - Options? - Putorius
+https://www.putorius.net/google-drive-linux-clients-options.html

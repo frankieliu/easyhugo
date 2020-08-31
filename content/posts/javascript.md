@@ -6,18 +6,8 @@ date = "2020-08-23T19:20:24-07:00"
 draft = false
 +++
 
-# Tutorials
 
-trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-https://github.com/trekhleb/javascript-algorithms
-
-(465) Algorithms and Data Structures - YouTube
-https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
-
-(25) Oleksii Trekhleb | LinkedIn
-https://www.linkedin.com/in/trekhleb/?originalSubdomain=nl
-
-# Array
+# array
 
 ## append
 javascript - How to append something to an array? - Stack Overflow
@@ -38,7 +28,29 @@ https://stackoverflow.com/questions/49491452/map-an-array-by-every-two-elements
 Build Node.js Apps with Visual Studio Code
 https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
 
-# Express and jquery
+# node npm
+
+Introducing npx: an npm package runner | by Kat March�n | Medium
+https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
+
+Switch Node.js versions with the Node Version Manager (nvm)
+https://michael-kuehnel.de/node.js/2015/09/08/using-vm-to-switch-node-versions.html
+
+How To Install Node.js on Ubuntu 18.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04
+
+Download | Node.js
+https://nodejs.org/en/download/
+
+## nvm
+
+nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+https://github.com/nvm-sh/nvm
+
+nvm essential - Google Search
+https://www.google.com/search?q=nvm+essential&rlz=1C1CHBF_enUS811US811&oq=nvm+essential&aqs=chrome..69i57.3583j0j7&sourceid=chrome&ie=UTF-8
+
+# express and jquery
 
 How to create a Web based File Browser using NodeJS, Express and JQuery Datatables – Sumit Chawla's Blog
 https://chawlasumit.wordpress.com/2014/08/04/how-to-create-a-web-based-file-browser-using-nodejs-express-and-jquery-datatables/
@@ -46,7 +58,18 @@ https://chawlasumit.wordpress.com/2014/08/04/how-to-create-a-web-based-file-brow
 Express Tutorial Part 2: Creating a skeleton website - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
 
-# File manager
+# tutorials
+
+trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/trekhleb/javascript-algorithms
+
+(465) Algorithms and Data Structures - YouTube
+https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
+
+(25) Oleksii Trekhleb | LinkedIn
+https://www.linkedin.com/in/trekhleb/?originalSubdomain=nl
+# examples
+## File manager
 
 file manager in nodejs - Google Search
 https://www.google.com/search?sxsrf=ALeKk008JhGdmaJzcGrDpjVY6Qhjt-qXEQ%3A1598624493692&ei=7RJJX5TtKf6T0PEPz7WgiA8&q=file+manager+in+nodejs&oq=file+manager+in+nodejs&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB46BAgAEEc6BAgjECc6BAgAEEM6AggAOggILhDHARCjAjoFCAAQsQM6BwgAELEDEEM6BwguELEDEEM6BwgAEBQQhwI6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgoILhDqAhAnEJMCOgcIIxDqAhAnOggIABCxAxCDAToLCC4QsQMQxwEQowI6CAguELEDEIMBOgQILhBDOgUIABCRAjoKCAAQsQMQFBCHAjoLCC4QsQMQxwEQrwE6BQguELEDOggIABCxAxCRAjoECAAQCjoHCAAQsQMQCjoHCCEQChCgAToFCCEQoAE6BAgAEA1QtBFYg1tg4VtoDHABeAKAAXCIAacbkgEEMzguNJgBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwjUl82ojL7rAhX-CTQIHc8aCPEQ4dUDCA0&uact=5
@@ -93,7 +116,7 @@ https://github.com/dailykit/react-file-manager
 ec2-13-59-178-203.us-east-2.compute.amazonaws.com
 http://ec2-13-59-178-203.us-east-2.compute.amazonaws.com:3000/
 
-# DevExtreme
+## DevExtreme
 
 Overview - DevExtreme File Manager: jQuery Widgets by DevExpress
 https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/Overview/jQuery/Light/

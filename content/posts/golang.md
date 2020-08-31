@@ -6,8 +6,27 @@ date = "2020-08-18T17:01:40-07:00"
 draft = false
 +++
 
+# install
+
+Downloads - The Go Programming Language
+https://golang.org/dl/
+
+How to Install Go on Ubuntu | Linode
+https://www.linode.com/docs/development/go/install-go-on-ubuntu/
+
+# language
+
+## intro
+
+Getting Started - The Go Programming Language
+https://golang.org/doc/install
+
+## testing
+
 testing - The Go Programming Language
 https://golang.org/pkg/testing/
+
+## algo and ds
 
 golang algorithms and data structures - Google Search
 https://www.google.com/search?q=golang+algorithms+and+data+structures&oq=golang+algorithms+and+data+structures&aqs=chrome..69i57.11762j0j7&sourceid=chrome&ie=UTF-8

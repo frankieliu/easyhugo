@@ -34,3 +34,11 @@ https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-int
 The Internet Computer | DFINITY
 https://dfinity.org/foundation/
 
+# hackathon
+
+re:Boost hacks
+https://reboost.qoom.io/
+
+# text editor
+Build Your Own Text Editor
+https://viewsourcecode.org/snaptoken/kilo/

@@ -46,3 +46,19 @@ Final Thoughts
 13 OneDrive       5GB
 14 iCloud         5GB
 15 Amazon Drive   5GB
+
+# blomp
+
+Free Cloud Storage Backup for Photos & Videos - Blomp
+https://www.blomp.com/
+
+Blomp Cloud Storage - Dashboard
+https://dashboard.blomp.com/dashboard/profile/invite
+
+The Freedom of Worry Free Back Up: Let?s Blomp Along!
+https://thesiliconreview.com/magazine/profile/the-freedom-of-worry-free-back-up-lets-blomp-along
+
+# degoo
+
+Positive & Negative Reviews: Degoo Cloud Storage - by Degoo Backup AB - Cloud - #6 App in Photo Storage - Productivity Category - 10 Similar Apps, 40 Features, 6 Review Highlights & 494,713 Reviews - AppGrooves: Get More Out of Life with iPhone & Android Apps
+https://appgrooves.com/app/100-gb-free-cloud-drive-from-degoo-by-degoo-backup-ab-cloud/negative?p=2

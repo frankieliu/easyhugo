@@ -40,6 +40,9 @@ https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.p
 Design Fundamentals | SystemsExpert
 https://www.algoexpert.io/systems/fundamentals
 
+Design Fundamentals | SystemsExpert
+https://www.algoexpert.io/systems/fundamentals
+
 # crdt
 
 Conflict-free replicated data type - Wikipedia

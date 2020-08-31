@@ -6,7 +6,85 @@ date = "2020-08-18T10:49:13-07:00"
 draft = false
 +++
 
-* Love
+# install
+
+L�VE - Free 2D Game Engine
+https://love2d.org/
+
+# books
+
+LOVE2D book - L�VE
+https://love2d.org/forums/viewtopic.php?t=80239
+
+L�VE for Lua Game Programming
+https://www.packtpub.com/product/l-ve-for-lua-game-programming/9781782161608
+
+Untitled
+https://love2d-book.github.io/#world1-1
+
+# example
+
+love2d complex example - Google Search
+https://www.google.com/search?q=love2d+complex+example&rlz=1C1CHBF_enUS811US811&oq=love2d+complex+example&aqs=chrome..69i57.5612j0j7&sourceid=chrome&ie=UTF-8
+
+BYTEPATH tutorial - making a complete game with L�VE - L�VE
+https://love2d.org/forums/viewtopic.php?t=84886
+
+BYTEPATH #0 - Introduction � Issue #30 � a327ex/blog
+https://github.com/a327ex/blog/issues/30
+
+# lua
+
+Learn Lua in Y Minutes
+https://learnxinyminutes.com/docs/lua/
+
+# tutorial
+
+Looking for more complex L�VE tutorials : love2d
+https://www.reddit.com/r/love2d/comments/6pjifg/looking_for_more_complex_l%C3%B6ve_tutorials/
+
+a327ex/blog: gamedev blog
+https://github.com/a327ex/blog
+
+# ide
+
+Support - ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux
+https://studio.zerobrane.com/support
+
+Getting Started - ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux
+https://studio.zerobrane.com/doc-getting-started.html
+
+Download - ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux
+https://studio.zerobrane.com/download?not-this-time
+
+ZeroBrane
+http://notebook.kulchenko.com/
+
+zerobrane how to run the programs in complex examples - Google Search
+https://www.google.com/search?q=zerobrane+how+to+run+the+programs+in+complex+examples&rlz=1C1CHBF_enUS811US811&oq=zerobrane+how+to+run+the+programs+in+complex+examples&aqs=chrome..69i57.9120j0j7&sourceid=chrome&ie=UTF-8
+
+Configuration - ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux
+https://studio.zerobrane.com/doc-configuration
+
+Highest Voted 'zerobrane' Questions - Stack Overflow
+https://stackoverflow.com/questions/tagged/zerobrane?sort=votes
+
+zerobrane turtle not found - Google Search
+https://www.google.com/search?q=zerobrane+turtle+not+found&rlz=1C1CHBF_enUS811US811&oq=zerobrane+turtle+not+found&aqs=chrome..69i57.7595j0j7&sourceid=chrome&ie=UTF-8
+
+pkulchenko/ZeroBraneEduPack: A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
+https://github.com/pkulchenko/ZeroBraneEduPack
+
+Issues � pkulchenko/ZeroBraneStudio
+https://github.com/pkulchenko/ZeroBraneStudio/issues?page=2&q=is%3Aissue+is%3Aopen
+
+pkulchenko/ZeroBranePackage: Packages for ZeroBrane Studio (https://studio.zerobrane.com)
+https://github.com/pkulchenko/ZeroBranePackage
+
+Cuberite - Setting up ZeroBrane Studio
+https://api.cuberite.org/SettingUpZeroBrane.html
+
+# Love
 
 Getting Started - LOVE
 https://love2d.org/wiki/Getting_Started
