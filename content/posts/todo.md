@@ -1,113 +1,3 @@
-Prefix function. Knuth–Morris–Pratt algorithm - Competitive Programming Algorithms
-https://cp-algorithms.com/string/prefix-function.html
-
-Skip and xfail: dealing with tests that cannot succeed — pytest documentation
-https://docs.pytest.org/en/latest/skipping.html
-
-(475) Mocking Strategies in Python - YouTube
-https://www.youtube.com/watch?v=zW0f4ZRYF5M
-
-pdb — The Python Debugger — Python 3.8.5 documentation
-https://docs.python.org/3/library/pdb.html
-
-matrix - Pretty print 2D Python list - Stack Overflow
-https://stackoverflow.com/questions/13214809/pretty-print-2d-python-list
-
-RNC 2020: Schedule and speaker lineup for Night 4
-https://www.cnbc.com/2020/08/27/rnc-speakers-schedule-tonight.html
-
-Pricing | Codecademy
-https://www.codecademy.com/pricing
-
-Running Python code in Vim - Stack Overflow
-https://stackoverflow.com/questions/18948491/running-python-code-in-vim
-
-python trie reduce lambda defaultdict - Google Search
-https://www.google.com/search?q=python+trie+reduce+lambda+defaultdict&oq=python+trie+reduce+lambda+defaultdict+&aqs=chrome..69i57.9128j0j7&sourceid=chrome&ie=UTF-8
-
-Built-in Types — Python 3.8.5 documentation
-https://docs.python.org/3/library/stdtypes.html#dict
-
-Python and default dict, how to pprint - Stack Overflow
-https://stackoverflow.com/questions/12925052/python-and-default-dict-how-to-pprint
-
-(2) Marketplace - Passion Fruit Cuttings | Facebook
-https://www.facebook.com/marketplace/item/378935076437626
-
-Amazon.com : acepen
-https://www.amazon.com/s?k=acepen&i=electronics&ref=nb_sb_noss_2
-
-Passion Fruit
-https://www.vargasgarden.com/Passion-Fruit-liliko%CA%BBi/
-
-How To Deploy a Rails App with Passenger and Apache on Ubuntu 14.04 | DigitalOcean
-https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04
-
-How to create a Web based File Browser using NodeJS, Express and JQuery Datatables – Sumit Chawla's Blog
-https://chawlasumit.wordpress.com/2014/08/04/how-to-create-a-web-based-file-browser-using-nodejs-express-and-jquery-datatables/
-
-Build Node.js Apps with Visual Studio Code
-https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
-
-Express Tutorial Part 2: Creating a skeleton website - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
-
-file manager in nodejs - Google Search
-https://www.google.com/search?sxsrf=ALeKk008JhGdmaJzcGrDpjVY6Qhjt-qXEQ%3A1598624493692&ei=7RJJX5TtKf6T0PEPz7WgiA8&q=file+manager+in+nodejs&oq=file+manager+in+nodejs&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB46BAgAEEc6BAgjECc6BAgAEEM6AggAOggILhDHARCjAjoFCAAQsQM6BwgAELEDEEM6BwguELEDEEM6BwgAEBQQhwI6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgoILhDqAhAnEJMCOgcIIxDqAhAnOggIABCxAxCDAToLCC4QsQMQxwEQowI6CAguELEDEIMBOgQILhBDOgUIABCRAjoKCAAQsQMQFBCHAjoLCC4QsQMQxwEQrwE6BQguELEDOggIABCxAxCRAjoECAAQCjoHCAAQsQMQCjoHCCEQChCgAToFCCEQoAE6BAgAEA1QtBFYg1tg4VtoDHABeAKAAXCIAacbkgEEMzguNJgBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwjUl82ojL7rAhX-CTQIHc8aCPEQ4dUDCA0&uact=5
-
-OpusCapita/filemanager: React based FileManager for browser ( + FS REST API for Node.js and Express)
-https://github.com/OpusCapita/filemanager
-
-file-manager - npm
-https://www.npmjs.com/package/file-manager
-
-File Manager · API · Essential JS 2 · Syncfusion
-https://ej2.syncfusion.com/demos/#/material/file-manager/default.html
-
-Free Trial Downloads | Syncfusion
-https://www.syncfusion.com/downloads?_ga=2.84729113.1254556617.1598624523-1988703969.1598624523
-
-Free Trial Downloads | Syncfusion
-https://www.syncfusion.com/downloads?_ga=2.84729113.1254556617.1598624523-1988703969.1598624523
-
-Buy .NET Components and Products | Pricing | Syncfusion
-https://www.syncfusion.com/sales/products
-
-@syncfusion/ej2-filemanager-node-filesystem - npm
-https://www.npmjs.com/package/@syncfusion/ej2-filemanager-node-filesystem
-
-SyncfusionExamples/ej2-filemanager-node-filesystem: This repository contains the Node JS file system provider for the file manager component.
-https://github.com/SyncfusionExamples/ej2-filemanager-node-filesystem
-
-frankieliu/node-file-manager: File manager web server based on Node.js with Koa, Angular.js and Bootstrap
-https://github.com/frankieliu/node-file-manager
-
-react file manager - Google Search
-https://www.google.com/search?q=react+file+manager&oq=react+file+manager&aqs=chrome..69i57.5455j0j7&sourceid=chrome&ie=UTF-8
-
-Package - react-file-manager
-https://developer.aliyun.com/mirror/npm/package/react-file-manager
-
-File Browser - React.js Examples
-https://reactjsexample.com/tag/file-browser/
-
-A file manager built in ReactJs
-https://reactjsexample.com/a-file-manager-built-in-reactjs/
-
-dailykit/react-file-manager: A file manager built in ReactJs
-https://github.com/dailykit/react-file-manager
-
-ec2-13-59-178-203.us-east-2.compute.amazonaws.com
-http://ec2-13-59-178-203.us-east-2.compute.amazonaws.com:3000/
-
-Overview - DevExtreme File Manager: jQuery Widgets by DevExpress
-https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/Overview/jQuery/Light/
-
-Pricing, Compare Subscriptions: DevExtreme - HTML5 JavaScript UI Widgets for Angular, React, Vue and jQuery by DevExpress
-https://js.devexpress.com/Buy/
-
-New Tab
-chrome://newtab/
 
 tutorial react js express application - Google Search
 https://www.google.com/search?q=tutorial+react+js+express+application&sxsrf=ALeKk00pY_CIYCtv_AhwwXhFPSFa-UBEiA:1598626303430&ei=_xlJX7roGZ3L0PEPgIibgAk&start=20&sa=N&ved=2ahUKEwj648aHk77rAhWdJTQIHQDEBpA4ChDw0wN6BAgMEEE&biw=1422&bih=732
@@ -406,24 +296,6 @@ https://github.com/nvm-sh/nvm
 nvm essential - Google Search
 https://www.google.com/search?q=nvm+essential&rlz=1C1CHBF_enUS811US811&oq=nvm+essential&aqs=chrome..69i57.3583j0j7&sourceid=chrome&ie=UTF-8
 
-Google Calendar - Week of August 23, 2020
-https://calendar.google.com/calendar/r
-
-how to download kaltura video - Google Search
-https://www.google.com/search?rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk01cbtntBuJfxiImcUlLQpHdFRjA4w%3A1598816919909&ei=lwJMX42RN4r1-gT8q7iwBw&q=how+to+download+kaltura+video&oq=how+to+download+kaltura+video&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEEc6BAgjECc6BQgAEJECOgsILhCxAxDHARCjAjoICAAQsQMQgwE6BAgAEEM6AgguOgUIABCxAzoHCAAQFBCHAlCdcFi-oQFglaYBaAFwBHgAgAF6iAHiEpIBBDI3LjSYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjNuMmU2cPrAhWKup4KHfwVDnYQ4dUDCA0&uact=5
-
-KalturaApiClient � PyPI
-https://pypi.org/project/KalturaApiClient/
-
-Online Return Center
-https://www.amazon.com/spr/returns/confirmation/0aa22677-766c-4fdf-80e0-2c35cdfa3e42?ref_=orc_spr_mthd_post&returnSessionId=03609722-f75b-4705-82a1-14b6066a32d9&recordData=false
-
-Online Return Center
-https://www.amazon.com/spr/returns/label/0aa22677-766c-4fdf-80e0-2c35cdfa3e42?ref_=orc_spr_prex_conf_pg&_encoding=UTF8&printLabel=1
-
-costco hours - Google Search
-https://www.google.com/search?rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk00Wi7CicbUDNBzp2oXv9IFx-CLRnQ:1598735332328&q=costco+hours&npsic=0&rflfq=1&rlha=0&rllag=37388945,-122017455,7760&tbm=lcl&ved=2ahUKEwij18qcqcHrAhWK_J4KHbJ4CS8QtgN6BAgMEAQ&rldoc=1#rlfi=hd:;si:;mv:[[37.84275787897532,-121.99497197609229],[37.570594623145,-122.5120160434751],null,[37.70680118165404,-122.2534940097837],11]
-
 Advanced Programming in the Unix Environment - Wikipedia
 https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment#:~:text=Advanced%20Programming%20in%20the%20Unix%20Environment%20is%20a%20computer%20programming,in%20the%20C%20programming%20language.
 
@@ -481,35 +353,9 @@ https://www.facebook.com/marketplace/item/1009245569548562
 14 Best New Full Stack Development Books To Read In 2020 - BookAuthority
 https://bookauthority.org/books/new-full-stack-development-books
 
+cracking the full stack developer interview the complete handbook to land the jobg
 https://ey.u-vetrom.ru/books/?q=T2c0cHNJMEhCbmtRdmZucDA0SjlGRFhWVW4waUt6dkpOYmdoUlNCVXI1c1VDS09Rc3Zid3duRkZsNVcxUzNjN0VLUitzd3Nka0JyOUdhUUV6N0RwVHZhaUNvUmVISjU3VU5Zb1d1VzJJT3hvanJYSXBjNVo4QXo2cXJGTjg4WUw=&enc=1&id=399&utm_source=https%3A%2F%2Fwww.google.com%2F&utm_term=T2c0cHNJMEhCbmtRdmZucDA0SjlGRFhWVW4waUt6dkpOYmdoUlNCVXI1c1VDS09Rc3Zid3duRkZsNVcxUzNjN0VLUitzd3Nka0JyOUdhUUV6N0RwVHZhaUNvUmVISjU3VU5Zb1d1VzJJT3hvanJYSXBjNVo4QXo2cXJGTjg4WUw=&utm_referrer=https%3A%2F%2Fey.u-vetrom.ru%2F245&pk_campaign=https%3A%2F%2Fwww.google.com%2F&pk_kwd=T2c0cHNJMEhCbmtRdmZucDA0SjlGRFhWVW4waUt6dkpOYmdoUlNCVXI1c1VDS09Rc3Zid3duRkZsNVcxUzNjN0VLUitzd3Nka0JyOUdhUUV6N0RwVHZhaUNvUmVISjU3VU5Zb1d1VzJJT3hvanJYSXBjNVo4QXo2cXJGTjg4WUw=&tk=0
-https://ey.u-vetrom.ru/books/?q=T2c0cHNJMEhCbmtRdmZucDA0SjlGRFhWVW4waUt6dkpOYmdoUlNCVXI1c1VDS09Rc3Zid3duRkZsNVcxUzNjN0VLUitzd3Nka0JyOUdhUUV6N0RwVHZhaUNvUmVISjU3VU5Zb1d1VzJJT3hvanJYSXBjNVo4QXo2cXJGTjg4WUw=&enc=1&id=399&utm_source=https%3A%2F%2Fwww.google.com%2F&utm_term=T2c0cHNJMEhCbmtRdmZucDA0SjlGRFhWVW4waUt6dkpOYmdoUlNCVXI1c1VDS09Rc3Zid3duRkZsNVcxUzNjN0VLUitzd3Nka0JyOUdhUUV6N0RwVHZhaUNvUmVISjU3VU5Zb1d1VzJJT3hvanJYSXBjNVo4QXo2cXJGTjg4WUw=&utm_referrer=https%3A%2F%2Fey.u-vetrom.ru%2F245&pk_campaign=https%3A%2F%2Fwww.google.com%2F&pk_kwd=T2c0cHNJMEhCbmtRdmZucDA0SjlGRFhWVW4waUt6dkpOYmdoUlNCVXI1c1VDS09Rc3Zid3duRkZsNVcxUzNjN0VLUitzd3Nka0JyOUdhUUV6N0RwVHZhaUNvUmVISjU3VU5Zb1d1VzJJT3hvanJYSXBjNVo4QXo2cXJGTjg4WUw=&tk=0
 
-Electronic library. Download books free. Finding books
-https://book4you.org/?signAll=1
-
-rails: free download. Ebooks library. On-line books store on Z-Library
-https://book4you.org/s/rails
-
-The Ruby on Rails Tutorial | Michael Hartl | download
-https://book4you.org/book/5397035/bb4237
-
-Ruby on Rails Tutorial | Michael Hartl | download
-https://book4you.org/book/5576407/973c80?dsource=recommend
-
-How To Launch Microsoft Edge from Run or Command Prompt - Edge Talk
-https://edgetalk.net/how-to-launch-microsoft-edge-from-run-or-command-prompt/
-
-windows subsystem for linux - How do I start Edge from WSL2? - Stack Overflow
-https://stackoverflow.com/questions/61686075/how-do-i-start-edge-from-wsl2
-
-Amazon.com : ruby on rails tutorial
-https://www.amazon.com/s?k=ruby+on+rails+tutorial&ref=nb_sb_noss_2
-
-Ruby on Rails Tutorial, 6th Edition [Book]
-https://www.oreilly.com/library/view/ruby-on-rails/9780136702726/
-
-Extensions
-chrome://extensions/
 
 1.3.4 Branch, Edit, Commit, Merge | Ruby on Rails Tutorial, 6th Edition
 https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_03_04
@@ -538,20 +384,51 @@ https://tpb.party/torrent/36442419/EasyUEFI_Enterprise_v4.0___Crack
 bandicut filmora lumens - Google Search
 https://www.google.com/search?rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk00v3sARsCfhJ0ECYKOFiGLyzC_jow%3A1598813686543&ei=9vVLX9DWIIzh-gSzuIqADg&q=bandicut+filmora+lumens&oq=bandicut+filmora+lumens&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAEyBQghEKABOgQIABBHOgUIIRCrAlD7W1imaWCDamgAcAF4AIABZogBiQSSAQM1LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjQqeSOzcPrAhWMsJ4KHTOcAuAQ4dUDCA0&uact=5
 
-?Torrent Web
-https://utweb.trontv.com/gui/index.html?v=1.1.0.2686&localauth=localapidb4f5027c05f8a8a:#/library
-
 Download | The Official KMSpico Site
 https://www.getkmspico.com/download
 
 Manage EFI/UEFI boot options & Manage EFI System Partitions & Fix EFI/UEFI boot issues the easy way!
 https://www.easyuefi.com/index-us.html
 
-?Torrent Web
-https://utweb.trontv.com/gui/index.html?v=1.1.0.2686&localauth=localapidb4f5027c05f8a8a:#/library
 
-381 (633�356)
-https://cfvod.kaltura.com/p/1926081/sp/192608100/thumbnail/entry_id/0_9mks24st/version/100002/width/633/height/381
+1.2 The First Application | Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_02_00?autoplay=false
 
-https://cdnsecakmi.kaltura.com/api_v3/index.php/service/caption_captionAsset/action/serve/captionAssetId/0_zp8eqqgl/v/42/ks/djJ8MTkyNjA4MXxgmcBeQVFa_QMDk3_Eo5iiCiA7CfQ6P7VowsPiilBjtWu4yMhaBqpQBYx1GaefdpksiUTrN-YYi6eysoSrilgqgcLayJkJx6lPkA-vrR8uAQCS3BS8Yt307izPsMCigQfAx-QYCWk_b06JK6bAT9C83IhuhEFU9uzfM9-LgDHHy2oCd1S-iDD6zP_yjSJsbVmwyUZTuMOVrzUASn-jCUuk/.dfxp
-https://cdnsecakmi.kaltura.com/api_v3/index.php/service/caption_captionAsset/action/serve/captionAssetId/0_zp8eqqgl/v/42/ks/djJ8MTkyNjA4MXxgmcBeQVFa_QMDk3_Eo5iiCiA7CfQ6P7VowsPiilBjtWu4yMhaBqpQBYx1GaefdpksiUTrN-YYi6eysoSrilgqgcLayJkJx6lPkA-vrR8uAQCS3BS8Yt307izPsMCigQfAx-QYCWk_b06JK6bAT9C83IhuhEFU9uzfM9-LgDHHy2oCd1S-iDD6zP_yjSJsbVmwyUZTuMOVrzUASn-jCUuk/.dfxp
+gtk POLICY_NEVER - Google Search
+https://www.google.com/search?q=gtk+POLICY_NEVER&rlz=1C1CHBF_enUS811US811&oq=gtk+POLICY_NEVER&aqs=chrome..69i57.5748j0j7&sourceid=chrome&ie=UTF-8
+
+Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/library/view/ruby-on-rails/9780136702726/
+
+1.0 Introduction | Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_00_00?autoplay=false
+
+Design Fundamentals | SystemsExpert
+https://www.algoexpert.io/systems/fundamentals
+
+1.2 The First Application | Ruby on Rails Tutorial, 6th Edition
+https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_02_00?autoplay=false
+
+Vim Markdown Folding? - Stack Overflow
+https://stackoverflow.com/questions/3828606/vim-markdown-folding
+
+Memory RAM & SSD Upgrades | lenovo | thinkpad t series | ThinkPad T460p | Crucial.com
+https://www.crucial.com/compatible-upgrade-for/lenovo/thinkpad-t460p
+
+How do I move an existing Git submodule within a Git repository? - Stack Overflow
+https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submodule-within-a-git-repository
+
+How do I move an existing Git submodule within a Git repository? - Stack Overflow
+https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submodule-within-a-git-repository/24767348#24767348
+
+Installing Vim(8) plugins with the native pack system | by Paulo Diovani | Medium
+https://medium.com/@paulodiovani/installing-vim-8-plugins-with-the-native-pack-system-39b71c351fea#:~:text=vim%2Fpack%20is%20considered%20a,user%20with%20the%20command%20%3Apackadd.
+
+Creating your own syntax files | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Creating_your_own_syntax_files
+
+Syntax folding of Vim scripts | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Syntax_folding_of_Vim_scripts
+
+How do I change the color for directories with ls in the console? - Ask Ubuntu
+https://askubuntu.com/questions/466198/how-do-i-change-the-color-for-directories-with-ls-in-the-console

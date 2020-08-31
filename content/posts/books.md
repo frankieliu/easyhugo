@@ -27,3 +27,26 @@ book4you.org
 bookz.ru/search.php
 sites.reformal.ru/book4you.org
 
+# book4you.org
+
+Electronic library. Download books free. Finding books
+https://book4you.org/?signAll=1
+
+rails: free download. Ebooks library. On-line books store on Z-Library
+https://book4you.org/s/rails
+
+The Ruby on Rails Tutorial | Michael Hartl | download
+https://book4you.org/book/5397035/bb4237
+
+Ruby on Rails Tutorial | Michael Hartl | download
+https://book4you.org/book/5576407/973c80?dsource=recommend
+
+# math books
+
+(3) Marketplace - Foundations of Mathematical Analysis (Dover Books on Mathematics) Paperback | Facebook
+https://www.facebook.com/marketplace/item/1009245569548562
+
+# full stack books
+
+14 Best New Full Stack Development Books To Read In 2020 - BookAuthority
+https://bookauthority.org/books/new-full-stack-development-books

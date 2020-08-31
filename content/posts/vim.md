@@ -221,3 +221,18 @@ https://learnvimscriptthehardway.stevelosh.com/preface.html
 https://stevelosh.com
 https://stevelosh.com/
 
+* python
+
+Running Python code in Vim - Stack Overflow
+https://stackoverflow.com/questions/18948491/running-python-code-in-vim
+
+# stay in visual mode
+
+Vim: how to stay in visual mode after executing a command - Stack Overflow
+https://stackoverflow.com/questions/4711079/vim-how-to-stay-in-visual-mode-after-executing-a-command
+
+keyboard shortcuts - Vim visual mode, stay selected - Super User
+https://superuser.com/questions/115038/vim-visual-mode-stay-selected
+
+## how to do it
+gv 

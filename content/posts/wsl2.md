@@ -36,4 +36,10 @@ https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in
 New Issue � wslutilities/wslu
 https://github.com/wslutilities/wslu/issues/new/choose
 
+# how to start edge
 
+windows subsystem for linux - How do I start Edge from WSL2? - Stack Overflow
+https://stackoverflow.com/questions/61686075/how-do-i-start-edge-from-wsl2
+
+How To Launch Microsoft Edge from Run or Command Prompt - Edge Talk
+https://edgetalk.net/how-to-launch-microsoft-edge-from-run-or-command-prompt/
