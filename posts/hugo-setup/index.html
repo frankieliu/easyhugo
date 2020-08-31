@@ -29,22 +29,22 @@
     
     
     <meta property="og:title" content="Hugo Setup" />
-<meta property="og:description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # use this add ananke theme git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm -rf themes/ananke/ git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .git/Vhhh vim config git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .. less .gitmodules rm .gitmodules git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm themes/ rm -rf themes/ ls cd .git/ l less config git submodule add https://github." />
+<meta property="og:description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # starting a new repo rm -rf easyhugo/ hugo new site easyhugo cd easyhugo/ git init . git remote add origin https://github.com/frankieliu/easyhugo.git git push -u origin master git status git branch # from scratch again rm -rf easyhugo/ git clone https://github.com/frankieliu/easyhugo.git cd easyhugo/ echo &#34;# easyhugo&#34; &gt;&gt; README.md git add README.md git commit -m&#34;readme&#34; git push hugo new site --force ." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/hugo-setup/" />
 <meta property="article:published_time" content="2020-08-17T13:45:18-07:00" />
 <meta property="article:modified_time" content="2020-08-17T13:45:18-07:00" />
 <meta itemprop="name" content="Hugo Setup">
-<meta itemprop="description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # use this add ananke theme git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm -rf themes/ananke/ git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .git/Vhhh vim config git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .. less .gitmodules rm .gitmodules git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm themes/ rm -rf themes/ ls cd .git/ l less config git submodule add https://github.">
+<meta itemprop="description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # starting a new repo rm -rf easyhugo/ hugo new site easyhugo cd easyhugo/ git init . git remote add origin https://github.com/frankieliu/easyhugo.git git push -u origin master git status git branch # from scratch again rm -rf easyhugo/ git clone https://github.com/frankieliu/easyhugo.git cd easyhugo/ echo &#34;# easyhugo&#34; &gt;&gt; README.md git add README.md git commit -m&#34;readme&#34; git push hugo new site --force .">
 <meta itemprop="datePublished" content="2020-08-17T13:45:18-07:00" />
 <meta itemprop="dateModified" content="2020-08-17T13:45:18-07:00" />
-<meta itemprop="wordCount" content="2586">
+<meta itemprop="wordCount" content="2304">
 
 
 
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Hugo Setup"/>
-<meta name="twitter:description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # use this add ananke theme git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm -rf themes/ananke/ git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .git/Vhhh vim config git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke cd .. less .gitmodules rm .gitmodules git submodule remove https://github.com/budparr/gohugo-theme-ananke themes/ananke git submodule add https://github.com/budparr/gohugo-theme-ananke themes/ananke rm themes/ rm -rf themes/ ls cd .git/ l less config git submodule add https://github."/>
+<meta name="twitter:description" content="# use deploy to add commit hugo to gh-pages and push ./deploy.sh # starting a new repo rm -rf easyhugo/ hugo new site easyhugo cd easyhugo/ git init . git remote add origin https://github.com/frankieliu/easyhugo.git git push -u origin master git status git branch # from scratch again rm -rf easyhugo/ git clone https://github.com/frankieliu/easyhugo.git cd easyhugo/ echo &#34;# easyhugo&#34; &gt;&gt; README.md git add README.md git commit -m&#34;readme&#34; git push hugo new site --force ."/>
 
 	
     <script>
@@ -166,103 +166,6 @@
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e"># use deploy to add commit hugo to gh-pages and push</span>
 ./deploy.sh
 
-<span style="color:#75715e"># use this add ananke theme</span>
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-rm -rf themes/ananke/
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd .git/Vhhh
-vim config 
-git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd ..
-less .gitmodules 
-rm .gitmodules 
-git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-rm themes/
-rm -rf themes/
-ls
-cd .git/
-l
-less config 
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd ..
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-ls
-cd .git/
-ls
-cd ..
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-touch .gitmodules
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git submodule update --remote
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git status
-git rm .gitmodules 
-git rm -f .gitmodules 
-git status
-git add themes 
-git status
-git commit -m<span style="color:#e6db74">&#34;removing modules&#34;</span>
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git push
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-ls
-ls -a
-cd .git/
-ls
-cd ..
-ls
-mv deploy.sh  ..
-mv content/ ..
-mv static/ ..
-ls
-mv config.toml  ..
-ls
-mv README.md  ..
-ls
-cd ..
-rm -rf easyhugo/
-hugo new site easyhugo
-mv content/post/my-first-post.md easyhugo/
-ls
-mv config.toml hugo/
-mv README.md hugo/
-ls
-mv deploy.sh hugo/
-mv static/ hugo/
-mv static/ easyhugo/
-mv hugo/deploy.sh easyhugo/
-ls
-rmdir content/post/
-rmdir content
-ls
-cd easyhugo/
-ls
-mkdir content/posts
-mv my-first-post.md content/posts/
-cd ..
-ls
-cd hugo/
-ls
-cd content
-ls
-cd ..
-ls
-cd ..
-cd easyhugo/
-ls
-less config.toml 
-cd ..
-cd hugo/
-ls
-less config.toml 
-mv config.toml  ../easyhugo/
-git checkout config.toml
-ls
-git status
-less README.md 
-mv README.md  ../easyhugo/
-ls
 <span style="color:#75715e"># starting a new repo</span>
 rm -rf easyhugo/
 hugo new site easyhugo
@@ -272,55 +175,25 @@ git remote add origin https://github.com/frankieliu/easyhugo.git
 git push -u origin master
 git status
 git branch
-cd ..
-rm -rf easyhugo/
-git clone https://github.com/frankieliu/easyhugo
-cd easyhugo/
-ls
-git branch
-git init
-echo <span style="color:#e6db74">&#34;# easyhugo&#34;</span> &gt;&gt; README.md
-git commit -m<span style="color:#e6db74">&#34;first commit&#34;</span>
-git push 
-git branch
-git remote add origin https://github.com/frankieliu/easyhugo
-cd ..
+
+<span style="color:#75715e"># from scratch again</span>
 rm -rf easyhugo/
 git clone https://github.com/frankieliu/easyhugo.git
 cd easyhugo/
-ls
-echo <span style="color:#e6db74">&#34;# easyhugo&#34;</span> &gt;&gt; README&gt;md
-git status
-rm README 
-rm md 
 echo <span style="color:#e6db74">&#34;# easyhugo&#34;</span> &gt;&gt; README.md
 git add README.md 
 git commit -m<span style="color:#e6db74">&#34;readme&#34;</span>
 git push
-git branch
-hugo init .
-hugo new site .
 hugo new site --force .
-git status
 git add archetypes/
 git add config.toml 
-ls
 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
 echo <span style="color:#e6db74">&#39;theme = &#34;ananke&#34;&#39;</span> &gt;&gt; config.toml
 hugo new posts/my-first-post.md
 vim content/posts/my-first-post.md 
-cd static/
-ls
-mkdir images
-cd images/
-mv ~/Downloads/chinese-club-moss-huperzine-a1-350x233.jpg chinese-club-moss-huperzine-a1.jpg
-mv ~/Downloads/chinese-club-moss.jpg .
-ls
-rm chinese-club-moss-huperzine-a1.jpg 
-cd ..
 hugo server
-less config.toml 
-vim config.toml 
+
+<span style="color:#75715e"># creating a gh-pages branch</span>
 echo <span style="color:#e6db74">&#34;public&#34;</span> &gt;&gt; .gitignore
 git checkout --orphan gh-pages
 git checkout master
@@ -1268,9 +1141,19 @@ next to the post which is kind of nice.</p>
 <p>(459) How to create navigation menus in Hugo - YouTube
 <a href="https://www.youtube.com/watch?v=E6bhmixcR5k">https://www.youtube.com/watch?v=E6bhmixcR5k</a></p>
 <h1 id="hugo-configure-markup">hugo configure markup</h1>
-<h2 id="turn-of-unsafe">turn of unsafe</h2>
+<h2 id="turn-off-unsafe">turn off unsafe</h2>
 <p>Configure Markup | Hugo
 <a href="https://gohugo.io/getting-started/configuration-markup/">https://gohugo.io/getting-started/configuration-markup/</a></p>
+<h1 id="menus-1">Menus</h1>
+<p>(460) How to create navigation menus in Hugo - YouTube
+<a href="https://www.youtube.com/watch?v=E6bhmixcR5k">https://www.youtube.com/watch?v=E6bhmixcR5k</a></p>
+<p>Menus | Hugo
+<a href="https://gohugo.io/content-management/menus/#advanced">https://gohugo.io/content-management/menus/#advanced</a></p>
+<p>Menu Templates | Hugo
+<a href="https://gohugo.io/templates/menu-templates/">https://gohugo.io/templates/menu-templates/</a></p>
+<h1 id="easyhugo">easyhugo</h1>
+<p>masasam/emacs-easy-hugo: Emacs major mode for managing hugo
+<a href="https://github.com/masasam/emacs-easy-hugo">https://github.com/masasam/emacs-easy-hugo</a></p>
 <ul class="pa0">
   
 </ul>

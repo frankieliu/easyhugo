@@ -29,22 +29,43 @@
     
     
     <meta property="og:title" content="System Design" />
-<meta property="og:description" content=" The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn  Grokking the System Design Interview - Learn Interactively https://www.educative.io/courses/grokking-the-system-design-interview  6.824 Lab 2: Raft https://pdos.csail.mit.edu/6.824/labs/lab-raft.html  curator zookeeper - Google Search https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator&#43;zookeeper&amp;oq=curator&#43;zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5  donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. https://github.com/donnemartin/system-design-primer  system-design-primer/MzExP06.png at master · donnemartin/system-design-primer  6.824 Schedule: Spring 2020 https://pdos.csail.mit.edu/6.824/schedule.html " />
+<meta property="og:description" content="The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn
+grokking Grokking the System Design Interview - Learn Interactively https://www.educative.io/courses/grokking-the-system-design-interview
+6.824 6.824 Schedule: Spring 2020 https://pdos.csail.mit.edu/6.824/schedule.html
+6.824 Lab 2: Raft https://pdos.csail.mit.edu/6.824/labs/lab-raft.html
+curator curator zookeeper - Google Search https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator&#43;zookeeper&amp;oq=curator&#43;zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5
+primer donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. https://github.com/donnemartin/system-design-primer
+system-design-primer/MzExP06.png at master · donnemartin/system-design-primer https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png
+algoexpert Design Fundamentals | SystemsExpert https://www." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/system-design/" />
 <meta property="article:published_time" content="2020-08-23T19:29:47-07:00" />
 <meta property="article:modified_time" content="2020-08-23T19:29:47-07:00" />
 <meta itemprop="name" content="System Design">
-<meta itemprop="description" content=" The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn  Grokking the System Design Interview - Learn Interactively https://www.educative.io/courses/grokking-the-system-design-interview  6.824 Lab 2: Raft https://pdos.csail.mit.edu/6.824/labs/lab-raft.html  curator zookeeper - Google Search https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator&#43;zookeeper&amp;oq=curator&#43;zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5  donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. https://github.com/donnemartin/system-design-primer  system-design-primer/MzExP06.png at master · donnemartin/system-design-primer  6.824 Schedule: Spring 2020 https://pdos.csail.mit.edu/6.824/schedule.html ">
+<meta itemprop="description" content="The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn
+grokking Grokking the System Design Interview - Learn Interactively https://www.educative.io/courses/grokking-the-system-design-interview
+6.824 6.824 Schedule: Spring 2020 https://pdos.csail.mit.edu/6.824/schedule.html
+6.824 Lab 2: Raft https://pdos.csail.mit.edu/6.824/labs/lab-raft.html
+curator curator zookeeper - Google Search https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator&#43;zookeeper&amp;oq=curator&#43;zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5
+primer donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. https://github.com/donnemartin/system-design-primer
+system-design-primer/MzExP06.png at master · donnemartin/system-design-primer https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png
+algoexpert Design Fundamentals | SystemsExpert https://www.">
 <meta itemprop="datePublished" content="2020-08-23T19:29:47-07:00" />
 <meta itemprop="dateModified" content="2020-08-23T19:29:47-07:00" />
-<meta itemprop="wordCount" content="60">
+<meta itemprop="wordCount" content="98">
 
 
 
 <meta itemprop="keywords" content="," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="System Design"/>
-<meta name="twitter:description" content=" The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn  Grokking the System Design Interview - Learn Interactively https://www.educative.io/courses/grokking-the-system-design-interview  6.824 Lab 2: Raft https://pdos.csail.mit.edu/6.824/labs/lab-raft.html  curator zookeeper - Google Search https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator&#43;zookeeper&amp;oq=curator&#43;zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5  donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. https://github.com/donnemartin/system-design-primer  system-design-primer/MzExP06.png at master · donnemartin/system-design-primer  6.824 Schedule: Spring 2020 https://pdos.csail.mit.edu/6.824/schedule.html "/>
+<meta name="twitter:description" content="The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn
+grokking Grokking the System Design Interview - Learn Interactively https://www.educative.io/courses/grokking-the-system-design-interview
+6.824 6.824 Schedule: Spring 2020 https://pdos.csail.mit.edu/6.824/schedule.html
+6.824 Lab 2: Raft https://pdos.csail.mit.edu/6.824/labs/lab-raft.html
+curator curator zookeeper - Google Search https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator&#43;zookeeper&amp;oq=curator&#43;zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5
+primer donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. https://github.com/donnemartin/system-design-primer
+system-design-primer/MzExP06.png at master · donnemartin/system-design-primer https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png
+algoexpert Design Fundamentals | SystemsExpert https://www."/>
 
 	
     <script>
@@ -163,34 +184,35 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>
-The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy
-<a href="https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn">https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn</a>
-</p>
-<p>
-Grokking the System Design Interview - Learn Interactively
-<a href="https://www.educative.io/courses/grokking-the-system-design-interview">https://www.educative.io/courses/grokking-the-system-design-interview</a>
-</p>
-<p>
-6.824 Lab 2: Raft
-<a href="https://pdos.csail.mit.edu/6.824/labs/lab-raft.html">https://pdos.csail.mit.edu/6.824/labs/lab-raft.html</a>
-</p>
-<p>
-curator zookeeper - Google Search
-<a href="https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg">https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg</a>%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator+zookeeper&amp;oq=curator+zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5
-</p>
-<p>
-donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-<a href="https://github.com/donnemartin/system-design-primer">https://github.com/donnemartin/system-design-primer</a>
-</p>
-<p>
-system-design-primer/MzExP06.png at master · donnemartin/system-design-primer
-<img src="https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png" alt="https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png" title="https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png" />
-</p>
-<p>
-6.824 Schedule: Spring 2020
-<a href="https://pdos.csail.mit.edu/6.824/schedule.html">https://pdos.csail.mit.edu/6.824/schedule.html</a>
-</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>The 9 Best Programming Languages to Learn in 2020 | Fullstack Academy
+<a href="https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn">https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn</a></p>
+<h1 id="grokking">grokking</h1>
+<p>Grokking the System Design Interview - Learn Interactively
+<a href="https://www.educative.io/courses/grokking-the-system-design-interview">https://www.educative.io/courses/grokking-the-system-design-interview</a></p>
+<h1 id="6824">6.824</h1>
+<p>6.824 Schedule: Spring 2020
+<a href="https://pdos.csail.mit.edu/6.824/schedule.html">https://pdos.csail.mit.edu/6.824/schedule.html</a></p>
+<p>6.824 Lab 2: Raft
+<a href="https://pdos.csail.mit.edu/6.824/labs/lab-raft.html">https://pdos.csail.mit.edu/6.824/labs/lab-raft.html</a></p>
+<h1 id="curator">curator</h1>
+<p>curator zookeeper - Google Search
+<a href="https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator+zookeeper&amp;oq=curator+zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5">https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&amp;ei=6rBCX9XwFdPw9AOYwaL4DQ&amp;q=curator+zookeeper&amp;oq=curator+zookeeper&amp;gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&amp;uact=5</a></p>
+<h1 id="primer">primer</h1>
+<p>donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+<a href="https://github.com/donnemartin/system-design-primer">https://github.com/donnemartin/system-design-primer</a></p>
+<p>system-design-primer/MzExP06.png at master · donnemartin/system-design-primer
+<a href="https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png">https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png</a></p>
+<h1 id="algoexpert">algoexpert</h1>
+<p>Design Fundamentals | SystemsExpert
+<a href="https://www.algoexpert.io/systems/fundamentals">https://www.algoexpert.io/systems/fundamentals</a></p>
+<p>Design Fundamentals | SystemsExpert
+<a href="https://www.algoexpert.io/systems/fundamentals">https://www.algoexpert.io/systems/fundamentals</a></p>
+<h1 id="crdt">crdt</h1>
+<p>Conflict-free replicated data type - Wikipedia
+<a href="https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#G-Counter_(Grow-only_Counter)">https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#G-Counter_(Grow-only_Counter)</a></p>
+<h1 id="time-series-db">time series db</h1>
+<p>Writing a Time Series Database from Scratch | Fabian Reinartz
+<a href="https://fabxc.org/tsdb/">https://fabxc.org/tsdb/</a></p>
 <ul class="pa0">
   
    <li class="list">
