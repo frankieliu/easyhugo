@@ -8,103 +8,6 @@ draft: false
 # use deploy to add commit hugo to gh-pages and push
 ./deploy.sh
 
-# use this add ananke theme
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-rm -rf themes/ananke/
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd .git/Vhhh
-vim config 
-git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd ..
-less .gitmodules 
-rm .gitmodules 
-git submodule remove  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-rm themes/
-rm -rf themes/
-ls
-cd .git/
-l
-less config 
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-cd ..
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-ls
-cd .git/
-ls
-cd ..
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-touch .gitmodules
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git submodule update --remote
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git status
-git rm .gitmodules 
-git rm -f .gitmodules 
-git status
-git add themes 
-git status
-git commit -m"removing modules"
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-git push
-git submodule add  https://github.com/budparr/gohugo-theme-ananke themes/ananke
-ls
-ls -a
-cd .git/
-ls
-cd ..
-ls
-mv deploy.sh  ..
-mv content/ ..
-mv static/ ..
-ls
-mv config.toml  ..
-ls
-mv README.md  ..
-ls
-cd ..
-rm -rf easyhugo/
-hugo new site easyhugo
-mv content/post/my-first-post.md easyhugo/
-ls
-mv config.toml hugo/
-mv README.md hugo/
-ls
-mv deploy.sh hugo/
-mv static/ hugo/
-mv static/ easyhugo/
-mv hugo/deploy.sh easyhugo/
-ls
-rmdir content/post/
-rmdir content
-ls
-cd easyhugo/
-ls
-mkdir content/posts
-mv my-first-post.md content/posts/
-cd ..
-ls
-cd hugo/
-ls
-cd content
-ls
-cd ..
-ls
-cd ..
-cd easyhugo/
-ls
-less config.toml 
-cd ..
-cd hugo/
-ls
-less config.toml 
-mv config.toml  ../easyhugo/
-git checkout config.toml
-ls
-git status
-less README.md 
-mv README.md  ../easyhugo/
-ls
 # starting a new repo
 rm -rf easyhugo/
 hugo new site easyhugo
@@ -114,55 +17,25 @@ git remote add origin https://github.com/frankieliu/easyhugo.git
 git push -u origin master
 git status
 git branch
-cd ..
-rm -rf easyhugo/
-git clone https://github.com/frankieliu/easyhugo
-cd easyhugo/
-ls
-git branch
-git init
-echo "# easyhugo" >> README.md
-git commit -m"first commit"
-git push 
-git branch
-git remote add origin https://github.com/frankieliu/easyhugo
-cd ..
+
+# from scratch again
 rm -rf easyhugo/
 git clone https://github.com/frankieliu/easyhugo.git
 cd easyhugo/
-ls
-echo "# easyhugo" >> README>md
-git status
-rm README 
-rm md 
 echo "# easyhugo" >> README.md
 git add README.md 
 git commit -m"readme"
 git push
-git branch
-hugo init .
-hugo new site .
 hugo new site --force .
-git status
 git add archetypes/
 git add config.toml 
-ls
 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
 echo 'theme = "ananke"' >> config.toml
 hugo new posts/my-first-post.md
 vim content/posts/my-first-post.md 
-cd static/
-ls
-mkdir images
-cd images/
-mv ~/Downloads/chinese-club-moss-huperzine-a1-350x233.jpg chinese-club-moss-huperzine-a1.jpg
-mv ~/Downloads/chinese-club-moss.jpg .
-ls
-rm chinese-club-moss-huperzine-a1.jpg 
-cd ..
 hugo server
-less config.toml 
-vim config.toml 
+
+# creating a gh-pages branch
 echo "public" >> .gitignore
 git checkout --orphan gh-pages
 git checkout master
@@ -1179,6 +1052,22 @@ https://www.youtube.com/watch?v=E6bhmixcR5k
 
 # hugo configure markup
 
-## turn of unsafe
+## turn off unsafe
 Configure Markup | Hugo
 https://gohugo.io/getting-started/configuration-markup/
+
+# Menus
+
+(460) How to create navigation menus in Hugo - YouTube
+https://www.youtube.com/watch?v=E6bhmixcR5k
+
+Menus | Hugo
+https://gohugo.io/content-management/menus/#advanced
+
+Menu Templates | Hugo
+https://gohugo.io/templates/menu-templates/
+
+# easyhugo
+
+masasam/emacs-easy-hugo: Emacs major mode for managing hugo
+https://github.com/masasam/emacs-easy-hugo

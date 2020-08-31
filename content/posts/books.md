@@ -18,4 +18,12 @@ https://www.sffworld.com/2005/11/bookreview229/
 R. Scott Bakker - Wikipedia
 https://en.wikipedia.org/wiki/R._Scott_Bakker
 
+ohmslaw377@gmail.com
+1lib.eu
+booksc.org
+zlibraryexau2g3p.onion (TOR)
+books-z1.org
+book4you.org
+bookz.ru/search.php
+sites.reformal.ru/book4you.org
 

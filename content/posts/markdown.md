@@ -36,6 +36,6 @@ https://stackoverflow.com/questions/10964681/enabling-markdown-highlighting-in-v
 jtratner/vim-flavored-markdown
 https://github.com/jtratner/vim-flavored-markdown
 
-bookmarkdown - Google Search
-https://www.google.com/search?q=bookmarkdown&oq=bookmarkdown&aqs=chrome..69i57.4221j0j4&sourceid=chrome&ie=UTF-8
+BookMarkDown
+https://jerrysievert.github.io/bookmarkdown/#configuration
 
