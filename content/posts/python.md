@@ -92,6 +92,14 @@ https://stackoverflow.com/questions/2276200/changing-default-encoding-of-python/
 python - Why should we NOT use sys.setdefaultencoding("utf-8") in a py script? - Stack Overflow
 https://stackoverflow.com/questions/3828723/why-should-we-not-use-sys-setdefaultencodingutf-8-in-a-py-script
 
+## f-string
+
+PyFormat: Using % and .format() for great good!
+https://pyformat.info/
+
+Python f-string tutorial - formatting strings in Python with f-string
+http://zetcode.com/python/fstring/
+
 # enum
 
 enum — Support for enumerations — Python 3.8.5 documentation
@@ -141,6 +149,30 @@ https://stackoverflow.com/questions/3503879/assign-output-of-os-system-to-a-vari
 subprocess ? Subprocess management ? Python 3.8.5 documentation
 https://docs.python.org/3/library/subprocess.html
 
+Take input from stdin in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/take-input-from-stdin-in-python/
+
+16.4. argparse ? Parser for command-line options, arguments and sub-commands ? Python 3.3.7 documentation
+https://docs.python.org/3.3/library/argparse.html
+
+Python Argparse Cookbook ? mkaz.blog
+https://mkaz.blog/code/python-argparse-cookbook/
+
+Reading and Writing JSON to a File in Python
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+
+## arguments
+
+Take input from stdin in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/take-input-from-stdin-in-python/
+
+16.4. argparse ? Parser for command-line options, arguments and sub-commands ? Python 3.3.7 documentation
+https://docs.python.org/3.3/library/argparse.html
+
+Python Argparse Cookbook ? mkaz.blog
+https://mkaz.blog/code/python-argparse-cookbook/
+
+
 # closure
 
 functional programming - Modify bound variables of a closure in Python - Stack Overflow
@@ -165,6 +197,11 @@ https://www.pitt.edu/~naraehan/python3/file_path_cwd.html
 
 Python Check If File or Directory Exists
 https://www.guru99.com/python-check-if-file-exists.html
+
+## remove files
+
+Python Delete File: A Step-By-Step Guide | Career Karma
+https://careerkarma.com/blog/python-delete-file/#:~:text=In%20Python%2C%20you%20can%20use,you%20can%20use%20the%20shutil.
 
 # graphics
 ## pygtk  pygobject
@@ -220,6 +257,42 @@ https://python-gtk-3-tutorial.readthedocs.io/en/latest/treeview.html
 gtk POLICY_NEVER - Google Search
 https://www.google.com/search?q=gtk+POLICY_NEVER&rlz=1C1CHBF_enUS811US811&oq=gtk+POLICY_NEVER&aqs=chrome..69i57.5748j0j7&sourceid=chrome&ie=UTF-8
 
+# web
+
+## beautiful soup
+Tutorial: Python Web Scraping Using BeautifulSoup ?
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
+
+Python BeautifulSoup tutorial - parse HTML, XML documents in Python
+http://zetcode.com/python/beautifulsoup/
+
+python - bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library? - Stack Overflow
+https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste
+
+## cookies
+
+python - How to set session cookie while extracting contents from URLs using beautiful soup? - Stack Overflow
+https://stackoverflow.com/questions/30450014/how-to-set-session-cookie-while-extracting-contents-from-urls-using-beautiful-so
+
+requests.cookies ? Requests 2.24.0 documentation
+https://requests.readthedocs.io/en/master/_modules/requests/cookies/
+
+How to send cookies in a post request with the Python Requests library? - Stack Overflow
+https://stackoverflow.com/questions/7164679/how-to-send-cookies-in-a-post-request-with-the-python-requests-library
+
+Using cookies.txt file with Python Requests - Stack Overflow
+https://stackoverflow.com/questions/14742899/using-cookies-txt-file-with-python-requests
+
+## requests
+
+Python Requests and Beautiful Soup - Playing with HTTP Requests, HTML Parsing and APIs ? Fernando Medina Corey
+https://www.fernandomc.com/posts/using-requests-to-get-and-post/
+
+## json
+
+Reading and Writing JSON to a File in Python
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+
 # test/debug
 ## testing
 
@@ -234,6 +307,45 @@ https://www.youtube.com/watch?v=zW0f4ZRYF5M
 pdb — The Python Debugger — Python 3.8.5 documentation
 https://docs.python.org/3/library/pdb.html
 
+# documentation
+
+## sphinx
+
+### docs
+Configure Sphinx ? docs-python2readthedocs 0.1.0 documentation
+https://docs-python2readthedocs.readthedocs.io/en/master/configure-sphinx.html
+
+Getting Started with Sphinx ? Read the Docs 5.4.1 documentation
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+
+Getting Started ? Sphinx 4.0.0+ documentation
+https://www.sphinx-doc.org/en/master/usage/quickstart.html
+
+### theme
+
+Sphinx Quickstart ? Sphinx-RTD-Tutorial documentation
+https://sphinx-rtd-tutorial.readthedocs.io/en/latest/sphinx-quickstart.html
+
+### napoleon
+
+Setting up Sphinx for generating documentation from DocStrings, leveraging the Napoleon extension.
+https://gist.github.com/GLMeece/222624fc495caf6f3c010a8e26577d31
+
+sphinx.ext.napoleon ? Support for NumPy and Google style docstrings ? Sphinx 4.0.0+ documentation
+https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html#module-sphinx.ext.napoleon
+
+### autodoc
+
+sphinx.ext.autodoc ? Include documentation from docstrings ? Sphinx 4.0.0+ documentation
+https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#module-sphinx.ext.autodoc
+
+## mkdocs
+
+Writing Your Docs - MkDocs
+https://www.mkdocs.org/user-guide/writing-your-docs/
+
+Getting Started with MkDocs ? Read the Docs 5.4.1 documentation
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html
 
 # algorithms and data structures
 

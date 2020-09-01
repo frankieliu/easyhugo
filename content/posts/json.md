@@ -18,7 +18,6 @@ https://github.com/stedolan/jq/tree/master/src
 jq/docs at master · stedolan/jq
 https://github.com/stedolan/jq/tree/master/docs
 
-#+BEGIN_QUOTE
 This:
 
 ```
@@ -49,7 +48,30 @@ does. This should probably be in the tutorial, as it's quite useful. With a
 bit more effort we could have a built-in truncate tree function (instead of
 `.[]?[]?[]?` we'd use `recurse(.[]?)[0:depth]`.
 
-#+END_QUOTE
-
 vouill/jq-cheatsheet: Some useful jq commands
 https://github.com/vouill/jq-cheatsheet
+
+shell - How to get key names from JSON using jq - Stack Overflow
+https://stackoverflow.com/questions/23118341/how-to-get-key-names-from-json-using-jq
+
+jq 1.4 Manual
+https://stedolan.github.io/jq/manual/v1.4/#Builtinoperatorsandfunctions
+
+jq Manual (development version)
+https://stedolan.github.io/jq/manual/
+
+json - How to filter an array of objects based on values in an inner array with jq? - Stack Overflow
+https://stackoverflow.com/questions/26701538/how-to-filter-an-array-of-objects-based-on-values-in-an-inner-array-with-jq
+
+json - JQ: Select multiple conditions - Stack Overflow
+https://stackoverflow.com/questions/33057420/jq-select-multiple-conditions
+
+filter on "string contains" � Issue #33 � stedolan/jq
+https://github.com/stedolan/jq/issues/33
+
+json - Pattern matching field names with jq - Stack Overflow
+https://stackoverflow.com/questions/42051601/pattern-matching-field-names-with-jq
+
+# counting elements | length
+Count JSON Array Elements with jq - Big Datums
+http://bigdatums.net/2017/05/13/count-json-array-elements-with-jq/
