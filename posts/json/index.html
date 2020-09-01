@@ -29,22 +29,37 @@
     
     
     <meta property="og:title" content="Json" />
-<meta property="og:description" content="get the first (or n&#39;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing  printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306  jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src  jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs   This:  ``` reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) ```  works for me with code from master. If you&#39;re using 1." />
+<meta property="og:description" content="get the first (or n&rsquo;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing
+printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306
+jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src
+jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs
+This:
+reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) works for me with code from master. If you&rsquo;re using 1.3 you&rsquo;ll need to drop the ?s and ignore the errors or write something more like:" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/json/" />
 <meta property="article:published_time" content="2020-08-21T14:24:11-07:00" />
 <meta property="article:modified_time" content="2020-08-21T14:24:11-07:00" />
 <meta itemprop="name" content="Json">
-<meta itemprop="description" content="get the first (or n&#39;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing  printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306  jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src  jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs   This:  ``` reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) ```  works for me with code from master. If you&#39;re using 1.">
+<meta itemprop="description" content="get the first (or n&rsquo;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing
+printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306
+jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src
+jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs
+This:
+reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) works for me with code from master. If you&rsquo;re using 1.3 you&rsquo;ll need to drop the ?s and ignore the errors or write something more like:">
 <meta itemprop="datePublished" content="2020-08-21T14:24:11-07:00" />
 <meta itemprop="dateModified" content="2020-08-21T14:24:11-07:00" />
-<meta itemprop="wordCount" content="253">
+<meta itemprop="wordCount" content="339">
 
 
 
 <meta itemprop="keywords" content="," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Json"/>
-<meta name="twitter:description" content="get the first (or n&#39;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing  printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306  jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src  jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs   This:  ``` reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) ```  works for me with code from master. If you&#39;re using 1."/>
+<meta name="twitter:description" content="get the first (or n&rsquo;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing
+printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306
+jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src
+jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs
+This:
+reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) works for me with code from master. If you&rsquo;re using 1.3 you&rsquo;ll need to drop the ?s and ignore the errors or write something more like:"/>
 
 	
     <script>
@@ -163,66 +178,49 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>
-get the first (or n&#39;th) element in a jq json parsing - Stack Overflow
-<a href="https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing">https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing</a>
-</p>
-<p>
-printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq
-<a href="https://github.com/stedolan/jq/issues/306">https://github.com/stedolan/jq/issues/306</a>
-</p>
-<p>
-jq/src at master · stedolan/jq
-<a href="https://github.com/stedolan/jq/tree/master/src">https://github.com/stedolan/jq/tree/master/src</a>
-</p>
-<p>
-jq/docs at master · stedolan/jq
-<a href="https://github.com/stedolan/jq/tree/master/docs">https://github.com/stedolan/jq/tree/master/docs</a>
-</p>
-<blockquote>
-<p>
-This:
-</p>
-<p>
-```
-reduce path(.[]?[]?[]?) as $path (.; setpath($path; {}))
-```
-</p>
-<p>
-works for me with code from master. If you&#39;re using 1.3 you&#39;ll need to drop the `?`s and ignore the errors or write something more like:
-</p>
-<p>
-```
-def iter: if type <code class="verbatim">= &#34;array&#34; or type =</code> &#34;object&#34; then .[] else empty end;
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>get the first (or n&rsquo;th) element in a jq json parsing - Stack Overflow
+<a href="https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing">https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing</a></p>
+<p>printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq
+<a href="https://github.com/stedolan/jq/issues/306">https://github.com/stedolan/jq/issues/306</a></p>
+<p>jq/src at master · stedolan/jq
+<a href="https://github.com/stedolan/jq/tree/master/src">https://github.com/stedolan/jq/tree/master/src</a></p>
+<p>jq/docs at master · stedolan/jq
+<a href="https://github.com/stedolan/jq/tree/master/docs">https://github.com/stedolan/jq/tree/master/docs</a></p>
+<p>This:</p>
+<pre><code>reduce path(.[]?[]?[]?) as $path (.; setpath($path; {}))
+</code></pre><p>works for me with code from master. If you&rsquo;re using 1.3 you&rsquo;ll need to drop the <code>?</code>s and ignore the errors or write something more like:</p>
+<pre><code>def iter: if type == &quot;array&quot; or type == &quot;object&quot; then .[] else empty end;
 reduce path(iter|iter|iter) as $path (.; setpath($path; {}))
-```
-</p>
-<p>
-which works for me too.
-</p>
-<p>
-Also, you might want to know what was replaced, an array or object, so maybe:
-</p>
-<p>
-```
-reduce path(.[]?[]?[]?) as $path (.; setpath($path; getpath($path)|if type <code class="verbatim">= &#34;array&#34; then [] elif type =</code> &#34;object&#34; then {} else . end))
-```
-</p>
-<p>
-In English: iterate the paths three levels deep in . then set at each of
+</code></pre><p>which works for me too.</p>
+<p>Also, you might want to know what was replaced, an array or object, so maybe:</p>
+<pre><code>reduce path(.[]?[]?[]?) as $path (.; setpath($path; getpath($path)|if type == &quot;array&quot; then [] elif type == &quot;object&quot; then {} else . end))
+</code></pre><p>In English: iterate the paths three levels deep in . then set at each of
 those paths either whatever value is there if it is scalar, else an empty
 structure of the same type (array or object). The reduction is needed because
 jq is copy-on-write, so after setting a value to a path in . we need to
-replace . with the output of setpath(), which is basically what `reduce`
-does. This should probably be in the tutorial, as it&#39;s quite useful. With a
+replace . with the output of setpath(), which is basically what <code>reduce</code>
+does. This should probably be in the tutorial, as it&rsquo;s quite useful. With a
 bit more effort we could have a built-in truncate tree function (instead of
-`.[]?[]?[]?` we&#39;d use `recurse(.[]?)[0:depth]`.
-</p>
-</blockquote>
-<p>
-vouill/jq-cheatsheet: Some useful jq commands
-<a href="https://github.com/vouill/jq-cheatsheet">https://github.com/vouill/jq-cheatsheet</a>
-</p>
+<code>.[]?[]?[]?</code> we&rsquo;d use <code>recurse(.[]?)[0:depth]</code>.</p>
+<p>vouill/jq-cheatsheet: Some useful jq commands
+<a href="https://github.com/vouill/jq-cheatsheet">https://github.com/vouill/jq-cheatsheet</a></p>
+<p>shell - How to get key names from JSON using jq - Stack Overflow
+<a href="https://stackoverflow.com/questions/23118341/how-to-get-key-names-from-json-using-jq">https://stackoverflow.com/questions/23118341/how-to-get-key-names-from-json-using-jq</a></p>
+<p>jq 1.4 Manual
+<a href="https://stedolan.github.io/jq/manual/v1.4/#Builtinoperatorsandfunctions">https://stedolan.github.io/jq/manual/v1.4/#Builtinoperatorsandfunctions</a></p>
+<p>jq Manual (development version)
+<a href="https://stedolan.github.io/jq/manual/">https://stedolan.github.io/jq/manual/</a></p>
+<p>json - How to filter an array of objects based on values in an inner array with jq? - Stack Overflow
+<a href="https://stackoverflow.com/questions/26701538/how-to-filter-an-array-of-objects-based-on-values-in-an-inner-array-with-jq">https://stackoverflow.com/questions/26701538/how-to-filter-an-array-of-objects-based-on-values-in-an-inner-array-with-jq</a></p>
+<p>json - JQ: Select multiple conditions - Stack Overflow
+<a href="https://stackoverflow.com/questions/33057420/jq-select-multiple-conditions">https://stackoverflow.com/questions/33057420/jq-select-multiple-conditions</a></p>
+<p>filter on &ldquo;string contains&rdquo; � Issue #33 � stedolan/jq
+<a href="https://github.com/stedolan/jq/issues/33">https://github.com/stedolan/jq/issues/33</a></p>
+<p>json - Pattern matching field names with jq - Stack Overflow
+<a href="https://stackoverflow.com/questions/42051601/pattern-matching-field-names-with-jq">https://stackoverflow.com/questions/42051601/pattern-matching-field-names-with-jq</a></p>
+<h1 id="counting-elements--length">counting elements | length</h1>
+<p>Count JSON Array Elements with jq - Big Datums
+<a href="http://bigdatums.net/2017/05/13/count-json-array-elements-with-jq/">http://bigdatums.net/2017/05/13/count-json-array-elements-with-jq/</a></p>
 <ul class="pa0">
   
    <li class="list">

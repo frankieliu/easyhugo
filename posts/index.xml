@@ -6,10 +6,21 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 12:53:23 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 23:29:27 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chrome Extensions</title>
+      <link>https://www.frankliu.org/easyhugo/posts/chrome-extensions/</link>
+      <pubDate>Mon, 31 Aug 2020 23:29:27 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/chrome-extensions/</guid>
+      <description>Time-Saving Chrome DevTools Shortcuts - DZone Web Dev https://dzone.com/articles/time-saving-chrome-devtools-shortcuts#:~:text=Cut%2Fcopy%2Fpaste%20elements%20using,%2BX%2C%20Ctrl%2BV.
+chrome dev tools create custom shortcuts - Google Search https://www.google.com/search?q=chrome+dev+tools+create+custom+shortcuts&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;sxsrf=ALeKk00TYJqsDkCH4ZNvG92TR_DwjNQ1yw:1598910510762&amp;amp;ei=LnBNX7uYLo73-gS46ZPwCg&amp;amp;start=10&amp;amp;sa=N&amp;amp;ved=2ahUKEwi755XotcbrAhWOu54KHbj0BK4Q8NMDegQIERBA&amp;amp;biw=1539&amp;amp;bih=687
+Extending DevTools - Google Chrome https://developer.chrome.com/extensions/devtools</description>
+    </item>
     
     <item>
       <title>Hardware</title>
@@ -580,7 +591,12 @@ Enabling markdown highlighting in Vim - Stack Overflow https://stackoverflow.</d
       <pubDate>Fri, 21 Aug 2020 14:24:11 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/json/</guid>
-      <description>get the first (or n&amp;#39;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing  printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306  jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src  jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs   This:  ``` reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) ```  works for me with code from master. If you&amp;#39;re using 1.</description>
+      <description>get the first (or n&amp;rsquo;th) element in a jq json parsing - Stack Overflow https://stackoverflow.com/questions/38500363/get-the-first-or-nth-element-in-a-jq-json-parsing
+printing only the first top N levels, collapsing the rest · Issue #306 · stedolan/jq https://github.com/stedolan/jq/issues/306
+jq/src at master · stedolan/jq https://github.com/stedolan/jq/tree/master/src
+jq/docs at master · stedolan/jq https://github.com/stedolan/jq/tree/master/docs
+This:
+reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) works for me with code from master. If you&amp;rsquo;re using 1.3 you&amp;rsquo;ll need to drop the ?s and ignore the errors or write something more like:</description>
     </item>
     
     <item>
@@ -949,7 +965,7 @@ aliases Bash aliases you can?t live without | Opensource.com https://opensource.
 sort sort -n -t &amp;lsquo;-&amp;rsquo; -k2
 linux - Sort files numerically in bash - Stack Overflow https://stackoverflow.com/questions/13360925/sort-files-numerically-in-bash
 What does the k parameter do in the sort function (Linux Bash Scripting)? - Stack Overflow https://stackoverflow.com/questions/17478511/what-does-the-k-parameter-do-in-the-sort-function-linux-bash-scripting
-joining files How to cat multiple files from a list of files in Bash?</description>
+sorting - How to loop all files in sorted order in Bash? - Stack Overflow https://stackoverflow.</description>
     </item>
     
     <item>
