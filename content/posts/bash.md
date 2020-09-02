@@ -55,3 +55,13 @@ https://unix.stackexchange.com/questions/93029/how-can-i-add-subtract-etc-two-nu
 
 Linux/UNIX: Bash Read a File Line By Line - nixCraft
 https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/
+
+# stat -c
+
+Shell Scripting: Check File Size ( Find File Size ) - nixCraft
+https://www.cyberciti.biz/faq/bash-csh-sh-check-and-file-file-size/
+
+# tab in echo
+
+Echo tab characters in bash script - Stack Overflow
+https://stackoverflow.com/questions/525872/echo-tab-characters-in-bash-script
