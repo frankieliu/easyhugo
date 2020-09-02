@@ -6,10 +6,21 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 23:29:27 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 19:37:52 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vlc</title>
+      <link>https://www.frankliu.org/easyhugo/posts/vlc/</link>
+      <pubDate>Tue, 01 Sep 2020 19:37:52 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/vlc/</guid>
+      <description>mpeg-ts and srt problem &amp;ndash;demux ffmpeg
+Cannot use any subtitle with MPEG-TS file (#370) � Issues � VideoLAN / VLC-Android � GitLab https://code.videolan.org/videolan/vlc-android/-/issues/370
+Cannot use any subtitle with MPEG-TS file (#370) � Issues � VideoLAN / VLC-Android � GitLab https://code.videolan.org/videolan/vlc-android/-/issues/370</description>
+    </item>
     
     <item>
       <title>Chrome Extensions</title>
@@ -384,11 +395,13 @@ algoexpert Design Fundamentals | SystemsExpert https://www.</description>
       <pubDate>Sun, 23 Aug 2020 19:20:24 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/javascript/</guid>
-      <description>array append javascript - How to append something to an array? - Stack Overflow https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array
+      <description>int Number.MAX_VALUE - JavaScript | MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_VALUE
+array append javascript - How to append something to an array? - Stack Overflow https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array
 looping through array Loop through an array in JavaScript - Stack Overflow https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript
 map every two elements javascript - Map an Array by every two elements - Stack Overflow https://stackoverflow.com/questions/49491452/map-an-array-by-every-two-elements
+find Array.prototype.find() - JavaScript | MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
 visual code Build Node.js Apps with Visual Studio Code https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
-node npm Introducing npx: an npm package runner | by Kat March�n | Medium https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b</description>
+node npm Introducing npx: an npm package runner | by Kat March�n | Medium https://medium.</description>
     </item>
     
     <item>
@@ -756,7 +769,12 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Wed, 19 Aug 2020 17:14:00 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/college/</guid>
-      <description> Reminder: 5 Things You Need to Know About College Admissions During the Pandemic starts in 1 Hour - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/5+things+you+need+to+know/FMfcgxwJXVKMQTqTThrSMSCJpjxcNGjz  Order Summary: #6443922 https://thecollegesolution.samcart.com/order_summary/jsr4BZVkkLKVgnsvlwMR8mAw  Member Login » The College SolutionThe College Solution https://www.thecollegesolution.com/member-login/  What to Read: The College Solution - Do It Yourself College Rankings https://www.diycollegerankings.com/what-to-read-the-college-solution/447/  The College Solution » The College SolutionThe College Solution https://www.thecollegesolution.com/ </description>
+      <description>Reminder: 5 Things You Need to Know About College Admissions During the Pandemic starts in 1 Hour - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/5+things+you+need+to+know/FMfcgxwJXVKMQTqTThrSMSCJpjxcNGjz
+The college solution Order Summary: #6443922 https://thecollegesolution.samcart.com/order_summary/jsr4BZVkkLKVgnsvlwMR8mAw
+Member Login » The College SolutionThe College Solution https://www.thecollegesolution.com/member-login/
+What to Read: The College Solution - Do It Yourself College Rankings https://www.diycollegerankings.com/what-to-read-the-college-solution/447/
+The College Solution » The College SolutionThe College Solution https://www.thecollegesolution.com/
+Module 1: Getting Started :: Introduction � The College SolutionThe College Solution https://www.</description>
     </item>
     
     <item>
