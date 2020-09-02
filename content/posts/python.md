@@ -161,6 +161,16 @@ https://mkaz.blog/code/python-argparse-cookbook/
 Reading and Writing JSON to a File in Python
 https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
 
+### subprocess.Popen p.communicate()
+
+python - Constantly print Subprocess output while process is running - Stack Overflow
+https://stackoverflow.com/questions/4417546/constantly-print-subprocess-output-while-process-is-running
+
+### subprocess glob Popen("single_string", shell=True)
+
+Globbing and Python's "subprocess" module ? Reuven Lerner
+https://lerner.co.il/2017/07/20/globbing-pythons-subprocess-module/
+
 ## arguments
 
 Take input from stdin in Python - GeeksforGeeks
@@ -172,11 +182,20 @@ https://docs.python.org/3.3/library/argparse.html
 Python Argparse Cookbook ? mkaz.blog
 https://mkaz.blog/code/python-argparse-cookbook/
 
+argparse ? Parser for command-line options, arguments and sub-commands ? Python 3.8.5 documentation
+https://docs.python.org/3/library/argparse.html
 
 # closure
 
+## closure
+
 functional programming - Modify bound variables of a closure in Python - Stack Overflow
 https://stackoverflow.com/questions/392349/modify-bound-variables-of-a-closure-in-python
+
+## global local nonlocal
+
+Python Global, Local and Nonlocal variables (With Examples)
+https://www.programiz.com/python-programming/global-local-nonlocal-variables
 
 # file system
 
@@ -202,6 +221,11 @@ https://www.guru99.com/python-check-if-file-exists.html
 
 Python Delete File: A Step-By-Step Guide | Career Karma
 https://careerkarma.com/blog/python-delete-file/#:~:text=In%20Python%2C%20you%20can%20use,you%20can%20use%20the%20shutil.
+
+## files in a directory
+
+python - How do I list all files of a directory? - Stack Overflow
+https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
 
 # graphics
 ## pygtk  pygobject
@@ -378,4 +402,5 @@ https://github.com/anujdutt9/Python-Data-Structures-and-Algorithms
 
 tirthajyoti/Algorithm-Data-Structures-Python: Various useful data structures in Python
 https://github.com/tirthajyoti/Algorithm-Data-Structures-Python
+
 

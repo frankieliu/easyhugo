@@ -7,6 +7,11 @@ draft = false
 +++
 
 
+# int
+
+Number.MAX_VALUE - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_VALUE
+
 # array
 
 ## append
@@ -22,6 +27,11 @@ https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript
 
 javascript - Map an Array by every two elements - Stack Overflow
 https://stackoverflow.com/questions/49491452/map-an-array-by-every-two-elements
+
+## find
+
+Array.prototype.find() - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
 
 # visual code
 
@@ -50,13 +60,31 @@ https://github.com/nvm-sh/nvm
 nvm essential - Google Search
 https://www.google.com/search?q=nvm+essential&rlz=1C1CHBF_enUS811US811&oq=nvm+essential&aqs=chrome..69i57.3583j0j7&sourceid=chrome&ie=UTF-8
 
-# express and jquery
+# express jquery web
 
 How to create a Web based File Browser using NodeJS, Express and JQuery Datatables – Sumit Chawla's Blog
 https://chawlasumit.wordpress.com/2014/08/04/how-to-create-a-web-based-file-browser-using-nodejs-express-and-jquery-datatables/
 
 Express Tutorial Part 2: Creating a skeleton website - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
+## json
+
+Reading and Writing JSON Files with Node.js
+https://stackabuse.com/reading-and-writing-json-files-with-node-js/
+
+# system
+
+## exit
+
+How to exit from a Node.js program
+https://nodejs.dev/learn/how-to-exit-from-a-nodejs-program
+
+## shell commands
+Executing Shell Commands with Node.js
+https://stackabuse.com/executing-shell-commands-with-node-js/
+
+
 
 # tutorials
 

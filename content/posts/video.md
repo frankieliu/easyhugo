@@ -42,3 +42,6 @@ https://github.com/AbCthings/vimeo-audio-video
 
 Download video from Vimeo (chopped m4s files)
 https://gist.github.com/mistic100/895f6d17b1e193334882a4c37d0d7748
+
+Vimeo downloader
+https://gist.githubusercontent.com/mistic100/895f6d17b1e193334882a4c37d0d7748/raw/1957dd9a31404727bb45e68bf104739f363dfad8/vimeo-downloader.js

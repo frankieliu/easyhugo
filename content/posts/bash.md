@@ -51,3 +51,7 @@ https://stackoverflow.com/questions/23740545/how-to-print-only-the-unique-lines-
 scripting - how can I add (subtract, etc.) two numbers with bash? - Unix & Linux Stack Exchange
 https://unix.stackexchange.com/questions/93029/how-can-i-add-subtract-etc-two-numbers-with-bash
 
+# read file line by line
+
+Linux/UNIX: Bash Read a File Line By Line - nixCraft
+https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/
