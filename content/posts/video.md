@@ -40,3 +40,5 @@ https://gist.github.com/alexeygrigorev/a1bc540925054b71e1a7268e50ad55cd
 AbCthings/vimeo-audio-video: Download segmented video from Vimeo
 https://github.com/AbCthings/vimeo-audio-video
 
+Download video from Vimeo (chopped m4s files)
+https://gist.github.com/mistic100/895f6d17b1e193334882a4c37d0d7748
