@@ -44,4 +44,14 @@ https://uplevel.interviewkickstart.com/resource/resourcecollection-5939-155
 SmartRecruiters
 https://my.smartrecruiters.com/home
 
+# videos
+
+https://www.youtube.com/c/Interviewkickstart/videos
+
+# top choice
+
+levels.fyi
+payscale
+pita pit payscale
+linkedin salaries
 
