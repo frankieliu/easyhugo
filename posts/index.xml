@@ -6,10 +6,26 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 19:37:52 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 16:05:45 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Windows</title>
+      <link>https://www.frankliu.org/easyhugo/posts/windows/</link>
+      <pubDate>Fri, 04 Sep 2020 16:05:45 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/windows/</guid>
+      <description>net firewall network settings Windows + R, wf.msc
+ip address ipconfig.exe
+More convoluted way: Control Panel/Network and Internet/Network and Sharing Center/Change adapter settings/Wi-Fi
+or
+Control Panel/Network and Internet/Network Connections
+How to find your device IP address on Windows 10 ? Pureinfotech https://pureinfotech.com/find-ip-address-windows-10/
+shortcuts group permissions Windows + R, gpedit.msc
+powershell as admin Windows (search), Powershell, Right click admin Windows + R (run), powershell, Start-Process powershell -Verb RunAs Windows + X (x menu), powershell as admin Crtl-Shift-Esc (task manager), Alt-f, n (new task), powershell, tab, space, enter Start, scroll, windows powershell, powershell adminn</description>
+    </item>
     
     <item>
       <title>Vlc</title>
@@ -58,7 +74,12 @@ Extending DevTools - Google Chrome https://developer.chrome.com/extensions/devto
       
       <guid>https://www.frankliu.org/easyhugo/posts/unix/</guid>
       <description>advanced programming Advanced Programming in the Unix Environment - Wikipedia https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment#:~:text=Advanced%20Programming%20in%20the%20Unix%20Environment%20is%20a%20computer%20programming,in%20the%20C%20programming%20language.
-ls colors How do I change the color for directories with ls in the console? - Ask Ubuntu https://askubuntu.com/questions/466198/how-do-i-change-the-color-for-directories-with-ls-in-the-console</description>
+ls colors How do I change the color for directories with ls in the console? - Ask Ubuntu https://askubuntu.com/questions/466198/how-do-i-change-the-color-for-directories-with-ls-in-the-console
+ssh fs Filesystem in Userspace - Wikipedia https://en.wikipedia.org/wiki/Filesystem_in_Userspace
+How To Use SSHFS to Mount Remote File Systems Over SSH | DigitalOcean https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh
+Using SSHFS to Mount Remote Directories | Linode https://www.linode.com/docs/networking/ssh/using-sshfs-on-linux/
+wget robot wget -e robots=off -r -np site
+ recursive no parent (don&amp;rsquo;t go up)   wget how to prevent robot - Google Search https://www.</description>
     </item>
     
     <item>
@@ -456,7 +477,8 @@ node npm Introducing npx: an npm package runner | by Kat March�n | Medium http
       
       <guid>https://www.frankliu.org/easyhugo/posts/ubuntu/</guid>
       <description>13 Keyboard Shortcut Every Ubuntu 18.04 User Should Know - It&amp;rsquo;s FOSS https://itsfoss.com/ubuntu-shortcuts/
- icon problem System Settings messed up and crashing [SOLVED] / Newbie Corner / Arch Linux Forums https://bbs.archlinux.org/viewtopic.php?id=235871  Bug #1672027 “Invalid Context= “stock” line for icon theme: &amp;quot; : Bugs : kmines package : Ubuntu https://bugs.launchpad.net/ubuntu/+source/kmines/+bug/1672027
+icon problem System Settings messed up and crashing [SOLVED] / Newbie Corner / Arch Linux Forums https://bbs.archlinux.org/viewtopic.php?id=235871
+Bug #1672027 “Invalid Context= “stock” line for icon theme: &amp;quot; : Bugs : kmines package : Ubuntu https://bugs.launchpad.net/ubuntu/+source/kmines/+bug/1672027
 bash show theme errors · Issue #322 · PapirusDevelopmentTeam/papirus-icon-theme https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/issues/322
 windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow https://stackoverflow.</description>
     </item>
@@ -630,10 +652,11 @@ reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) works for me with code 
       <description>sample resumes Senior Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-software-engineer-resume-sample
 Senior / Lead Software Engineer Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/senior-lead-software-engineer-resume-sample
 Principal Software Engineer Lead Resume Samples | Velvet Jobs https://www.velvetjobs.com/resume/principal-software-engineer-lead-resume-sample
+levels.fyi Compare salaries and career levels across companies | Levels.fyi https://www.levels.fyi/#
+Open Compensation Data | Levels.fyi https://www.levels.fyi/comp.html?track=Data%20Scientist
+Levels.fyi - Add Your Compensation Anonymously https://www.levels.fyi/addcomp.html
 search jobs Search | Velvet Jobs https://www.velvetjobs.com/search?filter=&amp;amp;query=distinguised+engineer
-Compare salaries and career levels across companies | Levels.fyi https://www.levels.fyi/
-Principal (Remote) - $400,000/year USD | Crossover for Work | LinkedIn https://www.linkedin.com/jobs/view/1989853533/?lgTemp=jobs_jymbii_digest&amp;amp;eBP=NotAvailableFromMidTier&amp;amp;lgCta=eml-jymbii-organic-job-card&amp;amp;recommendedFlavor=HIDDEN_GEM&amp;amp;refId=7c333a6b-c37a-4ca5-8f55-5337e1c6fc92&amp;amp;midToken=AQEFUDtoXUxhfA&amp;amp;trk=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow&amp;amp;trkEmail=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow-null-9ojgw%7Eke520b5i%7E2f-null-jobs%7Eview
-blind Most embarrassing responses to technical interview questions - Blind https://www.</description>
+Compare salaries and career levels across companies | Levels.</description>
     </item>
     
     <item>
@@ -834,7 +857,14 @@ Ruby on Rails Tutorial, 6th Edition https://learning.oreilly.com/library/view/ru
       <pubDate>Wed, 19 Aug 2020 15:49:14 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/stanford/</guid>
-      <description>ssh   Security | Stanford Computer Science https://cs.stanford.edu/computing-guide/access/security Kerberos   sudo apitude install krb5-user  How to install kinit ubuntu package on Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04 https://zoomadmin.com/HowToInstall/UbuntuPackage/kinit  Ubuntu – Details of source package krb5 in focal https://packages.ubuntu.com/source/focal/krb5 vpn   VPN (Virtual Private Network) | University IT https://uit.stanford.edu/service/vpn  How to Configure Cisco AnyConnect VPN Client for Linux | University IT https://uit.stanford.edu/service/vpn/linux  https://su-vpn-press.stanford.edu/+CSCOE+/portal.html https://su-vpn-press.stanford.edu/+CSCOE+/portal.html  How to Configure a Built-in VPN Client for Linux | University IT https://uit.</description>
+      <description>ssh Security | Stanford Computer Science https://cs.stanford.edu/computing-guide/access/security
+Kerberos sudo apitude install krb5-user
+How to install kinit ubuntu package on Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04 https://zoomadmin.com/HowToInstall/UbuntuPackage/kinit
+Ubuntu – Details of source package krb5 in focal https://packages.ubuntu.com/source/focal/krb5
+vpn VPN (Virtual Private Network) | University IT https://uit.stanford.edu/service/vpn
+How to Configure Cisco AnyConnect VPN Client for Linux | University IT https://uit.stanford.edu/service/vpn/linux
+https://su-vpn-press.stanford.edu/+CSCOE+/portal.html https://su-vpn-press.stanford.edu/+CSCOE+/portal.html
+How to Configure a Built-in VPN Client for Linux | University IT https://uit.</description>
     </item>
     
     <item>
@@ -1026,10 +1056,10 @@ bash syntax in makefile shell - How can I use Bash syntax in Makefile targets? -
 VcXsrv Windows X Server download | SourceForge.net https://sourceforge.net/projects/vcxsrv/
 Xming X Server for Windows - Fonts http://www.straightrunning.com/XmingNotes/fonts.php
 xcfe https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
-ubuntu Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script
-Virtual machine ip https://www.reddit.com/r/bashonubuntuonwindows/comments/c871g7/command_to_get_virtual_machine_ip_in_wsl2/
-selecting default browser windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal
-New Issue � wslutilities/wslu https://github.com/wslutilities/wslu/issues/new/choose</description>
+opengl 190245 ? OpenGL apps report GLXBadContext X error on x86_64 https://bugzilla.redhat.com/show_bug.cgi?id=190245
+sudo aptitude install ubuntu-desktop mesa-utils export LIBGL_ALWAYS_INDIRECT=0
+Does WSL support openGL? � Issue #2855 � microsoft/WSL https://github.com/microsoft/WSL/issues/2855
+ubuntu Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script</description>
     </item>
     
     <item>
