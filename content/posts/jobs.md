@@ -17,6 +17,17 @@ https://www.velvetjobs.com/resume/senior-lead-software-engineer-resume-sample
 Principal Software Engineer Lead Resume Samples | Velvet Jobs
 https://www.velvetjobs.com/resume/principal-software-engineer-lead-resume-sample
 
+# levels.fyi
+
+Compare salaries and career levels across companies | Levels.fyi
+https://www.levels.fyi/#
+
+Open Compensation Data | Levels.fyi
+https://www.levels.fyi/comp.html?track=Data%20Scientist
+
+Levels.fyi - Add Your Compensation Anonymously
+https://www.levels.fyi/addcomp.html
+
 # search jobs
 
 Search | Velvet Jobs
@@ -55,3 +66,18 @@ https://builtin.com/fintech/fintech-companies-startups-to-know
 # infra
 Are infra SWE roles career suicide? - Blind
 https://www.teamblind.com/post/Are-infra-SWE-roles-career-suicide-Lp1UvVPA
+
+# resume
+
+What does the resume of someone who got a software engineering internship or full time job at Facebook, Dropbox, or Quora look like? - Quora
+https://www.quora.com/What-does-the-resume-of-someone-who-got-a-software-engineering-internship-or-full-time-job-at-Facebook-Dropbox-or-Quora-look-like
+
+best resume template latex - Google Search
+https://www.google.com/search?q=best+resume+template+latex&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk01WUUzxlG8mQObOiaAa0FP8AevLiA:1599245064353&tbm=isch&source=iu&ictx=1&fir=uXW-tsB1RDyCiM%252CKYEiTIhC9iF0rM%252C_&vet=1&usg=AI4_-kSGFwV2LMdy1gIZ2Bwb2yAF3dQX2Q&sa=X&ved=2ahUKEwj7xeCPlNDrAhWPt54KHdPdAB0Q_h16BAgMEAU#imgrc=uXv3v7_oAhTyOM
+
+packages - LaTeX template for resume/curriculum vitae - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae
+
+Using the LaTeX Resume Templates
+https://rpi.edu/dept/arc/training/latex/resumes/
+

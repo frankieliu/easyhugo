@@ -47,7 +47,11 @@ a327ex/blog: gamedev blog
 https://github.com/a327ex/blog
 
 # ide
+## vim
+Lua Support 2 - Vim Awesome
+https://vimawesome.com/plugin/lua-support-2
 
+## zerobrane
 Support - ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux
 https://studio.zerobrane.com/support
 

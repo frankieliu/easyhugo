@@ -140,10 +140,16 @@ https://www.pythonforbeginners.com/system/python-sys-argv
 
 ## subprocess
 
-### best use subprocess run and capture_output=True
+### run and capture_output=True
+
 python - Assign output of os.system to a variable and prevent it from being displayed on the screen - Stack Overflow
 https://stackoverflow.com/questions/3503879/assign-output-of-os-system-to-a-variable-and-prevent-it-from-being-displayed-on
 
+How to hide output of subprocess in Python 2.7 - Stack Overflow
+https://stackoverflow.com/questions/11269575/how-to-hide-output-of-subprocess-in-python-2-7
+
+python - How to suppress or capture the output of subprocess.run()? - Stack Overflow
+https://stackoverflow.com/questions/41171791/how-to-suppress-or-capture-the-output-of-subprocess-run
 
 ### subprocess.run
 subprocess ? Subprocess management ? Python 3.8.5 documentation
@@ -171,6 +177,16 @@ https://stackoverflow.com/questions/4417546/constantly-print-subprocess-output-w
 Globbing and Python's "subprocess" module ? Reuven Lerner
 https://lerner.co.il/2017/07/20/globbing-pythons-subprocess-module/
 
+### redirect stderr to STDOUT
+
+python - Redirect subprocess stderr to stdout - Stack Overflow
+https://stackoverflow.com/questions/11495783/redirect-subprocess-stderr-to-stdout
+
+### changing directory
+
+python - Subprocess changing directory - Stack Overflow
+https://stackoverflow.com/questions/21406887/subprocess-changing-directory
+
 ## arguments
 
 Take input from stdin in Python - GeeksforGeeks
@@ -184,6 +200,11 @@ https://mkaz.blog/code/python-argparse-cookbook/
 
 argparse ? Parser for command-line options, arguments and sub-commands ? Python 3.8.5 documentation
 https://docs.python.org/3/library/argparse.html
+
+## shlex
+
+shlex ? Simple lexical analysis ? Python 3.8.5 documentation
+https://docs.python.org/3/library/shlex.html
 
 # closure
 
@@ -281,6 +302,28 @@ https://python-gtk-3-tutorial.readthedocs.io/en/latest/treeview.html
 gtk POLICY_NEVER - Google Search
 https://www.google.com/search?q=gtk+POLICY_NEVER&rlz=1C1CHBF_enUS811US811&oq=gtk+POLICY_NEVER&aqs=chrome..69i57.5748j0j7&sourceid=chrome&ie=UTF-8
 
+## term color
+
+termcolor � PyPI
+https://pypi.org/project/termcolor/
+
+termcolors python light green - Google Search
+https://www.google.com/search?q=termcolors+python+light+green&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk01EqvDJqevO8RvZKw1w5Ns3dLQwtQ:1599335800134&tbm=isch&source=iu&ictx=1&fir=Wmg_R9ejx9V0WM%252CXjJQruZZP_HWNM%252C_&vet=1&usg=AI4_-kQUM8JEPFztNKMy_P_jSYWptlcSHQ&sa=X&ved=2ahUKEwje4fiR5tLrAhVjJzQIHYY3DMAQ9QF6BAgMEAo&cshid=1599335910625084#imgrc=Wmg_R9ejx9V0WM
+
+colorama � PyPI
+https://pypi.org/project/colorama/
+
+termcolor � PyPI
+https://pypi.org/project/termcolor/
+
+## progress bar te quiero desmaciado
+
+tqdm/tqdm: A Fast, Extensible Progress Bar for Python and CLI
+https://github.com/tqdm/tqdm
+
+python enumerate tqdm bar when reading a file? - Stack Overflow
+https://stackoverflow.com/questions/48437189/python-enumerate-tqdm-bar-when-reading-a-file
+
 # web
 
 ## beautiful soup
@@ -316,6 +359,11 @@ https://www.fernandomc.com/posts/using-requests-to-get-and-post/
 
 Reading and Writing JSON to a File in Python
 https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+
+## wget
+
+python3-wget � PyPI
+https://pypi.org/project/python3-wget/
 
 # test/debug
 ## testing
@@ -371,6 +419,11 @@ https://www.mkdocs.org/user-guide/writing-your-docs/
 Getting Started with MkDocs ? Read the Docs 5.4.1 documentation
 https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html
 
+## numpy docstrings
+
+numpydoc docstring guide ? numpydoc v1.2.dev0 Manual
+https://numpydoc.readthedocs.io/en/latest/format.html
+
 # algorithms and data structures
 
 bt3gl/Book_on_Python_Algorithms_and_Data_Structure: 🪐 Book on Python, Algorithms, and Data Structures. 🪐
@@ -402,5 +455,3 @@ https://github.com/anujdutt9/Python-Data-Structures-and-Algorithms
 
 tirthajyoti/Algorithm-Data-Structures-Python: Various useful data structures in Python
 https://github.com/tirthajyoti/Algorithm-Data-Structures-Python
-
-

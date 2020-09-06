@@ -6,12 +6,12 @@ date = "2020-08-19T15:49:14-07:00"
 draft = false
 +++
 
-* ssh
+# ssh
 
 Security | Stanford Computer Science
 https://cs.stanford.edu/computing-guide/access/security
 
-* Kerberos
+# Kerberos
 
 sudo apitude install krb5-user
 
@@ -21,7 +21,7 @@ https://zoomadmin.com/HowToInstall/UbuntuPackage/kinit
 Ubuntu – Details of source package krb5 in focal
 https://packages.ubuntu.com/source/focal/krb5
 
-* vpn
+# vpn
 
 VPN (Virtual Private Network) | University IT
 https://uit.stanford.edu/service/vpn
@@ -35,7 +35,7 @@ https://su-vpn-press.stanford.edu/+CSCOE+/portal.html
 How to Configure a Built-in VPN Client for Linux | University IT
 https://uit.stanford.edu/service/vpn/linux_builtin
 
-* authentication
+# authentication
 
 Authentication Developer Information | University IT
 https://uit.stanford.edu/service/kerberos/developer_info
@@ -151,3 +151,28 @@ https://uit.stanford.edu/service/web/centralhosting/howto_group
 Stanford Sites Drupal 8 is Here! | University IT
 https://uit.stanford.edu/blog/stanford-sites-drupal-8-here
 
+# cs 229
+
+CS229: Machine Learning
+http://cs229.stanford.edu/
+
+Syllabus for Machine Learning
+https://canvas.stanford.edu/courses/121703/assignments/syllabus
+
+CS 229 (131 unread)
+https://piazza.com/class/ka764abpkd62w?cid=689
+
+ps2-sol.pdf | Powered by Box
+https://stanford.app.box.com/file/699630658920?sb=/activity
+
+Untitled Note 2020-09-05 14.40.08
+https://stanford.app.box.com/notes/715923474584
+
+Panopto Course Videos
+https://canvas.stanford.edu/courses/121703/external_tools/3367
+
+L02: Review of Matrix Calculus, Probability
+https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5
+
+Summer 2020 - Machine Learning : Panopto
+https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22

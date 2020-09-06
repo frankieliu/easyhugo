@@ -52,3 +52,13 @@ https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#G-Counter_(Grow
 Writing a Time Series Database from Scratch | Fabian Reinartz
 https://fabxc.org/tsdb/
 
+# guide to crack system interview
+
+The complete guide to crack the System Design interview | by Harshith | Towards Data Science
+https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
+
+# reverse-proxy load-balancer
+
+What is a Reverse Proxy vs. Load Balancer? - NGINX
+https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/#:~:text=A%20reverse%20proxy%20accepts%20a,server%20to%20the%20appropriate%20client.
+

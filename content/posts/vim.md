@@ -103,6 +103,11 @@ Vim Markdown Folding? - Stack Overflow
 https://stackoverflow.com/questions/3828606/vim-markdown-folding
 
 # Modes
+## syntax highlight
+
+Turn on syntax highlighting for vim on Mac OS | Codexpedia
+https://www.codexpedia.com/text-editor/turn-on-syntax-highlighting-for-vim-on-mac-os/#:~:text=By%20default%2C%20Mac%20OS%20doesn,it%20doesn't%20already%20exist.
+
 ## hugo
 
 Too basic...

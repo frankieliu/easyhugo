@@ -90,3 +90,37 @@ https://www.oreilly.com/library/view/ruby-on-rails/9780136702726/
 1.0 Introduction | Ruby on Rails Tutorial, 6th Edition
 https://learning.oreilly.com/videos/ruby-on-rails/9780136733461/9780136733461-ROR6_01_01_00_00?autoplay=false
 
+# versions
+
+All versions of rails | RubyGems.org | your community gem host
+https://rubygems.org/gems/rails/versions
+
+# upgrade
+
+How To Upgrade To Rails 6
+https://selleo.com/blog/how-to-upgrade-to-rails-6
+
+How to upgrade from rails 4.2.6 to rails 5.0 - Stack Overflow
+https://stackoverflow.com/questions/38442248/how-to-upgrade-from-rails-4-2-6-to-rails-5-0#:~:text=Change%20your%20version%20of%20that,finally%20pin%20Rails%20to%205.0.
+
+# transfer
+how to transfer a rails to another server - Google Search
+https://www.google.com/search?rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk034Ezu5QqIVEnM37jH_i-fyIJD52A%3A1599180564857&ei=FI9RX6PuM5bT-gTO66zQAw&q=how+to+transfer+a+rails+to+another+server&oq=how+to+transfer+a+rails+to+another+server&gs_lcp=CgZwc3ktYWIQAzIFCCEQqwI6BAgAEEc6BAgjECc6BwgjEOoCECc6BAgAEEM6BQgAEJECOgIIADoCCC46BQgAELEDOgUILhCxAzoGCAAQFhAeOggIABAWEAoQHjoICCEQFhAdEB46BQghEKABUMdbWJ_VAWCY1gFoD3ABeAKAAXGIAeYskgEENjkuM5gBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwijyP_ro87rAhWWqZ4KHc41CzoQ4dUDCA0&uact=5
+
+Transferring a Rails App to a new Server
+https://die-antwort.eu/techblog/2017-02-transferring-a-rails-app-to-a-new-server/
+
+Checklist For Migrating Your Rails Application
+https://blog.engineyard.com/checklist-for-migrating-your-rails-application
+
+Cloning a Rails App | Install Rails in Production | Treehouse
+https://teamtreehouse.com/library/cloning-a-rails-app
+
+# sample app
+
+railstutorial/sample_app_rails_4: The reference implementation of the sample app for the Ruby on Rails Tutorial (Rails 4)
+https://github.com/railstutorial/sample_app_rails_4
+
+sample_app_6th_ed/HELP.md at master � mhartl/sample_app_6th_ed
+https://github.com/mhartl/sample_app_6th_ed/blob/master/HELP.md
+
