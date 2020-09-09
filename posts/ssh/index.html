@@ -6,7 +6,7 @@
     
     <title>Ssh | My New Hugo Site</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.68.3" />
+    <meta name="generator" content="Hugo 0.74.3" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -29,22 +29,29 @@
     
     
     <meta property="og:title" content="Ssh" />
-<meta property="og:description" content=" ssh keys   How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use removing keys   This removes all keys from know_hosts file. ssh-keygen -R hostname  " />
+<meta property="og:description" content="ssh keys How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use
+ removing keys  This removes all keys from know_hosts file.
+#&#43;BEGIN_SRC bash ssh-keygen -R hostname #&#43;END_SRC" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/ssh/" />
 <meta property="article:published_time" content="2020-08-19T15:50:34-07:00" />
 <meta property="article:modified_time" content="2020-08-19T15:50:34-07:00" />
 <meta itemprop="name" content="Ssh">
-<meta itemprop="description" content=" ssh keys   How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use removing keys   This removes all keys from know_hosts file. ssh-keygen -R hostname  ">
+<meta itemprop="description" content="ssh keys How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use
+ removing keys  This removes all keys from know_hosts file.
+#&#43;BEGIN_SRC bash ssh-keygen -R hostname #&#43;END_SRC">
 <meta itemprop="datePublished" content="2020-08-19T15:50:34-07:00" />
 <meta itemprop="dateModified" content="2020-08-19T15:50:34-07:00" />
-<meta itemprop="wordCount" content="34">
+<meta itemprop="wordCount" content="37">
 
 
 
-<meta itemprop="keywords" content="," /><meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="," />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Ssh"/>
-<meta name="twitter:description" content=" ssh keys   How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use removing keys   This removes all keys from know_hosts file. ssh-keygen -R hostname  "/>
+<meta name="twitter:description" content="ssh keys How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use
+ removing keys  This removes all keys from know_hosts file.
+#&#43;BEGIN_SRC bash ssh-keygen -R hostname #&#43;END_SRC"/>
 
 	
     <script>
@@ -163,26 +170,19 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
-<h2 id="headline-1">
-ssh keys
-</h2>
-<p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul>
+<li>ssh keys
 How does SSH find a local key? | DigitalOcean
-<a href="https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key">https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key</a>
-</p>
-<p>
-ssh uses .ssh/config to figure out which key-pair to use
-</p>
-<h2 id="headline-2">
-removing keys
-</h2>
-<p>
-This removes all keys from know_hosts file.
-</p>
-<div class="src src-bash">
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ssh-keygen -R hostname</code></pre></div>
-</div>
+<a href="https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key">https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key</a></li>
+</ul>
+<p>ssh uses .ssh/config to figure out which key-pair to use</p>
+<ul>
+<li>removing keys</li>
+</ul>
+<p>This removes all keys from know_hosts file.</p>
+<p>#+BEGIN_SRC bash
+ssh-keygen -R hostname
+#+END_SRC</p>
 <ul class="pa0">
   
    <li class="list">

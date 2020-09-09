@@ -6,7 +6,7 @@
     
     <title>Trash | My New Hugo Site</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.68.3" />
+    <meta name="generator" content="Hugo 0.74.3" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -29,22 +29,38 @@
     
     
     <meta property="og:title" content="Trash" />
-<meta property="og:description" content="shell - Make `rm` move to trash - Unix &amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775  andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/ Files in different mounts   Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&#39;: [Errno 13] Permission denied: &#39;/.Trash-1000&#39; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1   trash regular empty file `test&#39;: [Errno 13] Permission denied: &#39;/.Trash-1000&#39; http://code.google.com/p/trash-cli/issues/detail?id=63  Dear Narnie I think I figured out the problem." />
+<meta property="og:description" content="shell - Make rm move to trash - Unix &amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775
+andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/
+ Files in different mounts  Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&rsquo;: [Errno 13] Permission denied: &lsquo;/.Trash-1000&rsquo; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1
+#&#43;BEGIN_QUOTE trash regular empty file `test&rsquo;: [Errno 13] Permission denied: &lsquo;/.Trash-1000&rsquo; http://code.google.com/p/trash-cli/issues/detail?id=63
+Dear Narnie I think I figured out the problem.
+Currently trash-cli always trashes files moving they in a trash directory of the same volume." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/trash/" />
 <meta property="article:published_time" content="2020-08-18T15:17:18-07:00" />
 <meta property="article:modified_time" content="2020-08-18T15:17:18-07:00" />
 <meta itemprop="name" content="Trash">
-<meta itemprop="description" content="shell - Make `rm` move to trash - Unix &amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775  andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/ Files in different mounts   Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&#39;: [Errno 13] Permission denied: &#39;/.Trash-1000&#39; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1   trash regular empty file `test&#39;: [Errno 13] Permission denied: &#39;/.Trash-1000&#39; http://code.google.com/p/trash-cli/issues/detail?id=63  Dear Narnie I think I figured out the problem.">
+<meta itemprop="description" content="shell - Make rm move to trash - Unix &amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775
+andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/
+ Files in different mounts  Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&rsquo;: [Errno 13] Permission denied: &lsquo;/.Trash-1000&rsquo; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1
+#&#43;BEGIN_QUOTE trash regular empty file `test&rsquo;: [Errno 13] Permission denied: &lsquo;/.Trash-1000&rsquo; http://code.google.com/p/trash-cli/issues/detail?id=63
+Dear Narnie I think I figured out the problem.
+Currently trash-cli always trashes files moving they in a trash directory of the same volume.">
 <meta itemprop="datePublished" content="2020-08-18T15:17:18-07:00" />
 <meta itemprop="dateModified" content="2020-08-18T15:17:18-07:00" />
-<meta itemprop="wordCount" content="155">
+<meta itemprop="wordCount" content="157">
 
 
 
-<meta itemprop="keywords" content="," /><meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="," />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Trash"/>
-<meta name="twitter:description" content="shell - Make `rm` move to trash - Unix &amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775  andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/ Files in different mounts   Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&#39;: [Errno 13] Permission denied: &#39;/.Trash-1000&#39; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1   trash regular empty file `test&#39;: [Errno 13] Permission denied: &#39;/.Trash-1000&#39; http://code.google.com/p/trash-cli/issues/detail?id=63  Dear Narnie I think I figured out the problem."/>
+<meta name="twitter:description" content="shell - Make rm move to trash - Unix &amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775
+andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/
+ Files in different mounts  Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&rsquo;: [Errno 13] Permission denied: &lsquo;/.Trash-1000&rsquo; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1
+#&#43;BEGIN_QUOTE trash regular empty file `test&rsquo;: [Errno 13] Permission denied: &lsquo;/.Trash-1000&rsquo; http://code.google.com/p/trash-cli/issues/detail?id=63
+Dear Narnie I think I figured out the problem.
+Currently trash-cli always trashes files moving they in a trash directory of the same volume."/>
 
 	
     <script>
@@ -163,59 +179,34 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
-<p>
-shell - Make `rm` move to trash - Unix &amp; Linux Stack Exchange
-<a href="https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775">https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775</a>
-</p>
-<p>
-andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan.
-<a href="https://github.com/andreafrancia/trash-cli/">https://github.com/andreafrancia/trash-cli/</a>
-</p>
-<h2 id="headline-1">
-Files in different mounts
-</h2>
-<p>
-Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&#39;: [Errno 13] Permission denied: &#39;/.Trash-1000&#39;
-<a href="https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1">https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1</a>
-</p>
-<blockquote>
-<p>
-trash regular empty file `test&#39;: [Errno 13] Permission
-denied: &#39;/.Trash-1000&#39;
-<a href="http://code.google.com/p/trash-cli/issues/detail?id=63">http://code.google.com/p/trash-cli/issues/detail?id=63</a>
-</p>
-<p>
-Dear Narnie
-I think I figured out the problem.
-</p>
-<p>
-Currently trash-cli always trashes files moving they in a trash directory
-of the same volume.
-</p>
-<p>
-In your case the <em>tmp/test file belongs to the &#34;</em>&#34; volume. Unfortunately in
-this volume there isn&#39;t any trash directory and none can be created (since 
-$HOME is on a different volume).
-</p>
-<p>
-The trash spec address this issue letting the administrator create a
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>shell - Make <code>rm</code> move to trash - Unix &amp; Linux Stack Exchange
+<a href="https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775">https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775</a></p>
+<p>andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan.
+<a href="https://github.com/andreafrancia/trash-cli/">https://github.com/andreafrancia/trash-cli/</a></p>
+<ul>
+<li>Files in different mounts</li>
+</ul>
+<p>Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&rsquo;: [Errno 13] Permission denied: &lsquo;/.Trash-1000&rsquo;
+<a href="https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1">https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1</a></p>
+<p>#+BEGIN_QUOTE
+trash regular empty file `test&rsquo;: [Errno 13] Permission
+denied: &lsquo;/.Trash-1000&rsquo;
+<a href="http://code.google.com/p/trash-cli/issues/detail?id=63">http://code.google.com/p/trash-cli/issues/detail?id=63</a></p>
+<p>Dear Narnie
+I think I figured out the problem.</p>
+<p>Currently trash-cli always trashes files moving they in a trash directory
+of the same volume.</p>
+<p>In your case the /tmp/test file belongs to the &ldquo;/&rdquo; volume. Unfortunately in
+this volume there isn&rsquo;t any trash directory and none can be created (since
+$HOME is on a different volume).</p>
+<p>The trash spec address this issue letting the administrator create a
 directory with the sticky bit in the $topdir of volumes that should support
-trashing.
-</p>
-<p>
-The following command should solve your issue:
-</p>
-<p>
-sudo mkdir –mode=1777 /.Trash
-</p>
-<p>
-Please let me know if works
-</p>
-<p>
-Andrea
-</p>
-</blockquote>
+trashing.</p>
+<p>The following command should solve your issue:</p>
+<p>sudo mkdir &ndash;mode=1777 /.Trash</p>
+<p>Please let me know if works</p>
+<p>Andrea
+#+END_QUOTE</p>
 <ul class="pa0">
   
    <li class="list">

@@ -6,10 +6,87 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 16:05:45 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 17:36:46 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Family</title>
+      <link>https://www.frankliu.org/easyhugo/posts/family/</link>
+      <pubDate>Tue, 08 Sep 2020 17:36:46 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/family/</guid>
+      <description>Laney.edu - largest community college in Oakland</description>
+    </item>
+    
+    <item>
+      <title>Vnc</title>
+      <link>https://www.frankliu.org/easyhugo/posts/vnc/</link>
+      <pubDate>Tue, 08 Sep 2020 17:29:07 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/vnc/</guid>
+      <description>vnc existing desktop Use tigervnc xvncserver0
+linux - How to VNC into an existing X session? - Server Fault https://serverfault.com/questions/27044/how-to-vnc-into-an-existing-x-session
+How to start a vnc server for the actual display (scraping) with TigerVNC https://www.howtoforge.com/tutorial/how-to-start-a-vnc-server-for-the-actual-display-scraping-with-tigervnc/
+vnc server - Open Google Chrome in another display - Stack Overflow https://stackoverflow.com/questions/24203189/open-google-chrome-in-another-display
+Google Chrome can not start under VNC (Ubuntu 18.04) - Ask Ubuntu https://askubuntu.com/questions/1048723/google-chrome-can-not-start-under-vnc-ubuntu-18-04</description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://www.frankliu.org/easyhugo/posts/math/</link>
+      <pubDate>Tue, 08 Sep 2020 17:25:07 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/math/</guid>
+      <description>What are the best mathematics forums/discussion boards? - Quora https://www.quora.com/What-are-the-best-mathematics-forums-discussion-boards
+(112) MathOverflow https://mathoverflow.net/
+discrete mathematics - Bounds on rate $r$ for finishing $n$ jobs: $[w_1,w_2,\cdots, w_n]$ to be completed by time $H$ - Mathematics Stack Exchange https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-n-jobs-w-1-w-2-cdots-w-n-to-be-complet
+probability - Given n jobs and m processors. Use Chernoff Bound to determine upper and lower bounds on jobs to be completed of processing time? - Mathematics Stack Exchange https://math.stackexchange.com/questions/2299806/given-n-jobs-and-m-processors-use-chernoff-bound-to-determine-upper-and-lower-b
+probability - Expected time for both people to finish a job - Mathematics Stack Exchange https://math.</description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://www.frankliu.org/easyhugo/posts/algorithms/</link>
+      <pubDate>Mon, 07 Sep 2020 13:20:43 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/algorithms/</guid>
+      <description>general Main Page - Competitive Programming Algorithms https://cp-algorithms.com/
+blog boundary – Huahua&amp;rsquo;s Tech Road https://zxi.mytechroad.com/blog/tag/boundary/
+probability Reservoir sampling - Wikipedia https://en.wikipedia.org/wiki/Reservoir_sampling
+complexity Master theorem (analysis of algorithms) - Wikipedia https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
+math inverse Inverse of a Matrix using Minors, Cofactors and Adjugate https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html
+Geometry convex hull Graham scan - Wikipedia https://en.wikipedia.org/wiki/Graham_scan</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://www.frankliu.org/easyhugo/posts/machine-learning/</link>
+      <pubDate>Mon, 07 Sep 2020 12:59:24 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/machine-learning/</guid>
+      <description>(Virtual) AutoML Global Summit 2020 | Meetup https://www.meetup.com/aittg-sfsv/events/272411465/
+(502) The Bayesian Trap - YouTube https://www.youtube.com/watch?v=R13BD8qKeTg
+AICamp https://learn.xnextcon.com/
+Workera | Test https://workera.ai/candidates/candidate-test
+Preparing for the machine learning test https://workera.ai/resources/preparing-for-the-machine-learning-test/
+AI Notes - deeplearning.ai https://www.deeplearning.ai/ai-notes/</description>
+    </item>
+    
+    <item>
+      <title>Design Patterns</title>
+      <link>https://www.frankliu.org/easyhugo/posts/design-patterns/</link>
+      <pubDate>Sun, 06 Sep 2020 17:49:59 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/design-patterns/</guid>
+      <description>java-design-patterns/facade at master · iluwatar/java-design-patterns https://github.com/iluwatar/java-design-patterns/tree/master/facade
+Software design pattern - Wikipedia https://en.wikipedia.org/wiki/Software_design_pattern
+Decorator pattern - Wikipedia https://en.wikipedia.org/wiki/Decorator_pattern
+Decorators in Python - DataCamp https://www.datacamp.com/community/tutorials/decorators-python?utm_source=adwords_ppc&amp;amp;utm_campaignid=1565261270&amp;amp;utm_adgroupid=67750485268&amp;amp;utm_device=c&amp;amp;utm_keyword=&amp;amp;utm_matchtype=b&amp;amp;utm_network=g&amp;amp;utm_adpostion=&amp;amp;utm_creative=332661264374&amp;amp;utm_targetid=dsa-429603003980&amp;amp;utm_loc_interest_ms=&amp;amp;utm_loc_physical_ms=9031934&amp;amp;gclid=Cj0KCQjw-af6BRC5ARIsAALPIlWCwG1xj2nxicX7EwTTR3e7IpUJ99F2FEOIbqAW9T7hsuVbWHyqAWwaAigQEALw_wcB
+@Override annotation in Java https://beginnersbook.com/2014/07/override-annotation-in-java/#:~:text=%40Override%20annotation%20is%20used%20when,annotation%20while%20overriding%20the%20method.
+Class Diagram syntax and features https://plantuml.com/class-diagram</description>
+    </item>
     
     <item>
       <title>Windows</title>
@@ -64,7 +141,9 @@ Extending DevTools - Google Chrome https://developer.chrome.com/extensions/devto
       <pubDate>Mon, 31 Aug 2020 12:51:42 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/programming/</guid>
-      <description>Repl.it - Home https://repl.it/~</description>
+      <description>Repl.it - Home https://repl.it/~
+Learning to program Programming FAQ http://www.paulgraham.com/pfaq.html
+Teach Yourself Programming in Ten Years https://norvig.com/21-days.html</description>
     </item>
     
     <item>
@@ -389,7 +468,9 @@ algoexpert Design Fundamentals | SystemsExpert https://www.</description>
       <pubDate>Sun, 23 Aug 2020 19:24:18 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/dynamic-programming/</guid>
-      <description> Dynamic programming - Wikipedia https://en.wikipedia.org/wiki/Dynamic_programming  Dynamic programming - Wikipedia https://en.wikipedia.org/wiki/Dynamic_programming#Example_from_economics:_Ramsey&amp;#39;s_problem_of_optimal_saving  Lazy Dynamic Programming | jelv.is https://jelv.is/blog/Lazy-Dynamic-Programming/#:~:text=Dynamic%20programming%20is%20a%20method,in%20any%20introductory%20algorithms%20course.&amp;amp;text=The%20differences%20between%20two%20strings,by%20the%20edit%20distance%20algorithm. </description>
+      <description>Dynamic programming - Wikipedia https://en.wikipedia.org/wiki/Dynamic_programming
+Dynamic programming - Wikipedia https://en.wikipedia.org/wiki/Dynamic_programming#Example_from_economics:_Ramsey&#39;s_problem_of_optimal_saving
+Lazy Dynamic Programming | jelv.is https://jelv.is/blog/Lazy-Dynamic-Programming/#:~:text=Dynamic%20programming%20is%20a%20method,in%20any%20introductory%20algorithms%20course.&amp;amp;text=The%20differences%20between%20two%20strings,by%20the%20edit%20distance%20algorithm.</description>
     </item>
     
     <item>
@@ -398,7 +479,12 @@ algoexpert Design Fundamentals | SystemsExpert https://www.</description>
       <pubDate>Sun, 23 Aug 2020 19:21:38 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/kotlin/</guid>
-      <description> kotlin algorithms and data structures - Google Search https://www.google.com/search?q=kotlin+algorithms+and+data+structures&amp;amp;oq=kotlin+algorithms+and+data+structures&amp;amp;aqs=chrome..69i57.6215j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  bmaslakov/kotlin-algorithm-club: Algorithms and data structures in Kotlin. https://github.com/bmaslakov/kotlin-algorithm-club  Competitive Programming - Kotlin Programming Language https://kotlinlang.org/docs/tutorials/competitive-programming.html  Hands-On Data Structures and Algorithms with Kotlin https://learning.oreilly.com/library/view/hands-on-data-structures/9781788994019/  Hands-On Data Structures and Algorithms with Kotlin https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-kotlin/9781788994019  Kotlin Algorithm https://awesomeopensource.com/project/gazolla/Kotlin-Algorithm </description>
+      <description>kotlin algorithms and data structures - Google Search https://www.google.com/search?q=kotlin+algorithms+and+data+structures&amp;amp;oq=kotlin+algorithms+and+data+structures&amp;amp;aqs=chrome..69i57.6215j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+bmaslakov/kotlin-algorithm-club: Algorithms and data structures in Kotlin. https://github.com/bmaslakov/kotlin-algorithm-club
+Competitive Programming - Kotlin Programming Language https://kotlinlang.org/docs/tutorials/competitive-programming.html
+Hands-On Data Structures and Algorithms with Kotlin https://learning.oreilly.com/library/view/hands-on-data-structures/9781788994019/
+Hands-On Data Structures and Algorithms with Kotlin https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-kotlin/9781788994019
+Kotlin Algorithm https://awesomeopensource.com/project/gazolla/Kotlin-Algorithm</description>
     </item>
     
     <item>
@@ -407,7 +493,14 @@ algoexpert Design Fundamentals | SystemsExpert https://www.</description>
       <pubDate>Sun, 23 Aug 2020 19:21:07 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/rust/</guid>
-      <description>rust algorithms and data structures - Google Search https://www.google.com/search?q=rust+algorithms+and+data+structures&amp;amp;oq=rust+algorithms+and+data+structures&amp;amp;aqs=chrome..69i57.6845j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  EbTech/rust-algorithms: Common data structures and algorithms in Rust https://github.com/EbTech/rust-algorithms  TheAlgorithms/Rust: All Algorithms implemented in Rust https://github.com/TheAlgorithms/Rust  Hands-On Data Structures and Algorithms with Rust https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528  Data structures and Algorithms in Rust - tutorials - The Rust Programming Language Forum https://users.rust-lang.org/t/data-structures-and-algorithms-in-rust/42462  data structures and algorithms in Rust? : rust https://www.reddit.com/r/rust/comments/4jd7sa/data_structures_and_algorithms_in_rust/  Algorithms - Rust Cookbook https://rust-lang-nursery.github.io/rust-cookbook/algorithms.html  Rust Algorithm Club https://awesomeopensource.</description>
+      <description>rust algorithms and data structures - Google Search https://www.google.com/search?q=rust+algorithms+and+data+structures&amp;amp;oq=rust+algorithms+and+data+structures&amp;amp;aqs=chrome..69i57.6845j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+EbTech/rust-algorithms: Common data structures and algorithms in Rust https://github.com/EbTech/rust-algorithms
+TheAlgorithms/Rust: All Algorithms implemented in Rust https://github.com/TheAlgorithms/Rust
+Hands-On Data Structures and Algorithms with Rust https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528
+Data structures and Algorithms in Rust - tutorials - The Rust Programming Language Forum https://users.rust-lang.org/t/data-structures-and-algorithms-in-rust/42462
+data structures and algorithms in Rust? : rust https://www.reddit.com/r/rust/comments/4jd7sa/data_structures_and_algorithms_in_rust/
+Algorithms - Rust Cookbook https://rust-lang-nursery.github.io/rust-cookbook/algorithms.html
+Rust Algorithm Club https://awesomeopensource.com/project/weihanglo/rust-algorithm-club</description>
     </item>
     
     <item>
@@ -431,7 +524,8 @@ node npm Introducing npx: an npm package runner | by Kat March�n | Medium http
       <pubDate>Sun, 23 Aug 2020 19:19:21 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/resevoir-sampling/</guid>
-      <description> Reservoir sampling - Wikipedia https://en.wikipedia.org/wiki/Reservoir_sampling  Geometric distribution - Wikipedia https://en.wikipedia.org/wiki/Geometric_distribution </description>
+      <description>Reservoir sampling - Wikipedia https://en.wikipedia.org/wiki/Reservoir_sampling
+Geometric distribution - Wikipedia https://en.wikipedia.org/wiki/Geometric_distribution</description>
     </item>
     
     <item>
@@ -440,7 +534,8 @@ node npm Introducing npx: an npm package runner | by Kat March�n | Medium http
       <pubDate>Sun, 23 Aug 2020 19:18:50 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/category-theory/</guid>
-      <description> Introduction to Category Theory | Meetup https://www.meetup.com/Category-Theory/events/lcmnvrybcmbcb/?action=rsvp&amp;amp;response=yes  Let&amp;#39;s do Chapter 4 of Computational Category Theory | Meetup https://www.meetup.com/SF-Types-Theorems-and-Programming-Languages/events/272498894 </description>
+      <description>Introduction to Category Theory | Meetup https://www.meetup.com/Category-Theory/events/lcmnvrybcmbcb/?action=rsvp&amp;amp;response=yes
+Let&amp;rsquo;s do Chapter 4 of Computational Category Theory | Meetup https://www.meetup.com/SF-Types-Theorems-and-Programming-Languages/events/272498894</description>
     </item>
     
     <item>
@@ -449,7 +544,15 @@ node npm Introducing npx: an npm package runner | by Kat March�n | Medium http
       <pubDate>Sun, 23 Aug 2020 19:16:58 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/mob-programming/</guid>
-      <description>What is pair programming and does it actually work? | Codementor https://www.codementor.io/pair-programming  Pair Programming: Does It Really Work? | Agile Alliance https://www.agilealliance.org/glossary/pairing/#q=~(infinite~false~filters~(postType~(~&amp;#39;page~&amp;#39;post~&amp;#39;aa_book~&amp;#39;aa_event_session~&amp;#39;aa_experience_report~&amp;#39;aa_glossary~&amp;#39;aa_research_paper~&amp;#39;aa_video)~tags~(~&amp;#39;pair*20programming))~searchTerm~&amp;#39;~sort~false~sortDirection~&amp;#39;asc~page~1)  pair programming - Google Search https://www.google.com/search?q=pair+programming&amp;amp;oq=pair+programming&amp;amp;aqs=chrome..69i57j69i60l2j69i61.2428j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  On Pair Programming https://martinfowler.com/articles/on-pair-programming.html  What is Pair Programming? Advantages, Challenges, Tutorials &amp;amp; More https://stackify.com/pair-programming-advantages/  Pair Programming http://www.extremeprogramming.org/rules/pair.html  The Pros and Cons Of Pair Programming | Hacker Noon https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784  group programming - Google Search https://www.google.com/search?q=group+programming&amp;amp;oq=group+programming&amp;amp;aqs=chrome..69i57.7441j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  Pair and Group Programming Standards and Requirements https://www.</description>
+      <description>What is pair programming and does it actually work? | Codementor https://www.codementor.io/pair-programming
+Pair Programming: Does It Really Work? | Agile Alliance https://www.agilealliance.org/glossary/pairing/#q=~(infinite~false~filters~(postType~(~&#39;page~&#39;post~&#39;aa_book~&#39;aa_event_session~&#39;aa_experience_report~&#39;aa_glossary~&#39;aa_research_paper~&#39;aa_video)~tags~(~&#39;pair*20programming))~searchTerm~&#39;~sort~false~sortDirection~&#39;asc~page~1)
+pair programming - Google Search https://www.google.com/search?q=pair+programming&amp;amp;oq=pair+programming&amp;amp;aqs=chrome..69i57j69i60l2j69i61.2428j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+On Pair Programming https://martinfowler.com/articles/on-pair-programming.html
+What is Pair Programming? Advantages, Challenges, Tutorials &amp;amp; More https://stackify.com/pair-programming-advantages/
+Pair Programming http://www.extremeprogramming.org/rules/pair.html
+The Pros and Cons Of Pair Programming | Hacker Noon https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784
+group programming - Google Search https://www.google.com/search?q=group+programming&amp;amp;oq=group+programming&amp;amp;aqs=chrome..69i57.7441j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+Pair and Group Programming Standards and Requirements https://www.cs.utexas.edu/~ans/classes/cs439/pairprogramming.html#:~:text=Group%20programming%20is%20very%20similar,should%20change%20every%2030%20minutes.</description>
     </item>
     
     <item>
@@ -458,7 +561,13 @@ node npm Introducing npx: an npm package runner | by Kat March�n | Medium http
       <pubDate>Sun, 23 Aug 2020 18:20:05 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/google-drive/</guid>
-      <description>nurdtechie98/drive-cli: A command line interface for accessing google drive https://github.com/nurdtechie98/drive-cli  drive-cli · PyPI https://pypi.org/project/drive-cli/  odeke-em/drive: Google Drive client for the commandline https://github.com/odeke-em/drive  Please rename drive to something less generic · Issue #271 · odeke-em/drive https://github.com/odeke-em/drive/issues/271  can somebody please add to Debian? · Issue #277 · odeke-em/drive https://github.com/odeke-em/drive/issues/277 Extremely powerful md5 on google directory and compare with md5 of local   files  How can I compare my local folder to the Google Drive Copy?</description>
+      <description>cli nurdtechie98/drive-cli: A command line interface for accessing google drive https://github.com/nurdtechie98/drive-cli
+python drive-cli · PyPI https://pypi.org/project/drive-cli/
+odeke odeke-em/drive: Google Drive client for the commandline https://github.com/odeke-em/drive#retrieving-md5-checksums
+odeke-em/drive: Google Drive client for the commandline https://github.com/odeke-em/drive
+Please rename drive to something less generic · Issue #271 · odeke-em/drive https://github.com/odeke-em/drive/issues/271
+can somebody please add to Debian? · Issue #277 · odeke-em/drive https://github.com/odeke-em/drive/issues/277
+ Extremely powerful md5 on google directory and compare with md5 of local files  How can I compare my local folder to the Google Drive Copy?</description>
     </item>
     
     <item>
@@ -467,7 +576,7 @@ node npm Introducing npx: an npm package runner | by Kat March�n | Medium http
       <pubDate>Sun, 23 Aug 2020 18:15:39 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/databases/</guid>
-      <description> GUN documentation https://gun.eco/docs/Todo-Dapp </description>
+      <description>GUN documentation https://gun.eco/docs/Todo-Dapp</description>
     </item>
     
     <item>
@@ -489,7 +598,12 @@ windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - St
       <pubDate>Sun, 23 Aug 2020 18:13:33 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/concurrency/</guid>
-      <description> multithreading - Conditional Variable vs Semaphore - Stack Overflow https://stackoverflow.com/questions/3513045/conditional-variable-vs-semaphore?answertab=active#tab-top </description>
+      <description>multithreading - Conditional Variable vs Semaphore - Stack Overflow https://stackoverflow.com/questions/3513045/conditional-variable-vs-semaphore?answertab=active#tab-top
+Concurrency with Python: Actor Models &amp;gt; Ying Wang https://bytes.yingw787.com/posts/2019/02/02/concurrency_with_python_actor_models/
+Thespian In-Depth Introduction https://thespianpy.com/doc/in_depth
+Peterlog https://sabaini.at/peterlog/posts/2020/Feb/16/thespian-a-python-actor-system/
+Mininet Walkthrough - Mininet http://mininet.org/walkthrough/#test-connectivity-between-hosts
+Thespian Actors User&amp;rsquo;s Guide https://thespianpy.com/doc/using.html</description>
     </item>
     
     <item>
@@ -498,7 +612,17 @@ windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - St
       <pubDate>Sun, 23 Aug 2020 18:12:22 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/computer-org/</guid>
-      <description>Changing the hardware resources on a running VM | StarWind Blog https://www.starwindsoftware.com/blog/changing-the-hardware-resources-on-a-running-vm  [SOLVED] Can page tables grow dynamically? https://www.linuxquestions.org/questions/programming-9/can-page-tables-grow-dynamically-909425/  The Linux kernel: Memory https://www.win.tue.nl/~aeb/linux/lk/lk-9.html  bootlin/elixir: The Elixir Cross Referencer https://github.com/bootlin/elixir  Non-Contiguous Memory Allocation https://www.kernel.org/doc/gorman/html/understand/understand010.html  Allocating kernel memory (buddy system and slab system) - GeeksforGeeks https://www.geeksforgeeks.org/operating-system-allocating-kernel-memory-buddy-system-slab-system/  tlgbos - Marcelo Bytes https://blog.ksub.org/bytes/tags/tlgbos/page/3/  CS 162 — Summer 2020 https://inst.eecs.berkeley.edu/~cs162/su20/  Overview http://ospp.cs.washington.edu/  Operating Systems: Three Easy Pieces http://pages.</description>
+      <description>Changing the hardware resources on a running VM | StarWind Blog https://www.starwindsoftware.com/blog/changing-the-hardware-resources-on-a-running-vm
+[SOLVED] Can page tables grow dynamically? https://www.linuxquestions.org/questions/programming-9/can-page-tables-grow-dynamically-909425/
+The Linux kernel: Memory https://www.win.tue.nl/~aeb/linux/lk/lk-9.html
+bootlin/elixir: The Elixir Cross Referencer https://github.com/bootlin/elixir
+Non-Contiguous Memory Allocation https://www.kernel.org/doc/gorman/html/understand/understand010.html
+Allocating kernel memory (buddy system and slab system) - GeeksforGeeks https://www.geeksforgeeks.org/operating-system-allocating-kernel-memory-buddy-system-slab-system/
+tlgbos - Marcelo Bytes https://blog.ksub.org/bytes/tags/tlgbos/page/3/
+CS 162 — Summer 2020 https://inst.eecs.berkeley.edu/~cs162/su20/
+Overview http://ospp.cs.washington.edu/
+Operating Systems: Three Easy Pieces http://pages.cs.wisc.edu/~remzi/OSTEP/
+Amazon.com: Linux Kernel Development (8601300366272): Love, Robert: Books https://www.</description>
     </item>
     
     <item>
@@ -521,7 +645,13 @@ Terminal Menubar Color does not match theme / Desktop / Xfce Forums https://foru
       <pubDate>Sat, 22 Aug 2020 13:48:14 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/flatpak/</guid>
-      <description>sudo aptitude install flatpak sudo aptitude install gnome-software-plugin-flatpak flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo flatpak install flathub org.gnome.Extensions flatpak run org.gnome.Extensions   Note that the directories  &amp;#39;var/lib/flatpak/exports/share&amp;#39; &amp;#39;/home/adam.local/share/flatpak/exports/share&amp;#39;  are not in the search path set by the XDG_DATA_DIRS environment variable, so applications installed by Flatpak may not appear on your desktop until the session is restarted.  Extensions—Linux Apps on Flathub https://flathub.org/apps/details/org.gnome.Extensions  Flatpak—the future of application distribution https://flatpak.</description>
+      <description>#+BEGIN_SRC sh sudo aptitude install flatpak sudo aptitude install gnome-software-plugin-flatpak flatpak remote-add &amp;ndash;if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo flatpak install flathub org.gnome.Extensions flatpak run org.gnome.Extensions #+END_SRC
+Note that the directories
+&amp;lsquo;/var/lib/flatpak/exports/share&amp;rsquo; &amp;lsquo;/home/adam/.local/share/flatpak/exports/share&amp;rsquo;
+are not in the search path set by the XDG_DATA_DIRS environment variable, so applications installed by Flatpak may not appear on your desktop until the session is restarted.
+Extensions—Linux Apps on Flathub https://flathub.org/apps/details/org.gnome.Extensions
+Flatpak—the future of application distribution https://flatpak.org/setup/Ubuntu/
+adam@quack:~$ flatpak install flathub org.</description>
     </item>
     
     <item>
@@ -530,7 +660,7 @@ Terminal Menubar Color does not match theme / Desktop / Xfce Forums https://foru
       <pubDate>Fri, 21 Aug 2020 16:35:26 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/screen-rectangle/</guid>
-      <description> Ubuntu – Package Search Results – slop https://packages.ubuntu.com/search?keywords=slop </description>
+      <description>Ubuntu – Package Search Results &amp;ndash; slop https://packages.ubuntu.com/search?keywords=slop</description>
     </item>
     
     <item>
@@ -554,7 +684,14 @@ lists Iterating over two elements at a time python - Iterating over every two el
       <pubDate>Fri, 21 Aug 2020 16:32:29 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/game-dev/</guid>
-      <description>Phaser.io vs Godot detailed comparison as of 2020 - Slant https://www.slant.co/versus/1065/1068/~phaser-io_vs_godot  Writing games in D? : gamedev https://www.reddit.com/r/gamedev/comments/15cug8/writing_games_in_d/  Top HTML5 games with server-based network multiplayer - itch.io https://itch.io/games/html5/multiplayer-server  Category:Browser-based multiplayer online games - Wikipedia https://en.wikipedia.org/wiki/Category:Browser-based_multiplayer_online_games  7 years ago today, SwatSec destroyed ROTMG! : RotMG https://www.reddit.com/r/RotMG/comments/ibl5os/7_years_ago_today_swatsec_destroyed_rotmg/  Realm of the Mad God https://www.realmofthemadgod.com/legacy/#download  Using the Adobe Flash Projector - the RotMG Wiki | RealmEye.com https://www.realmeye.com/wiki/using-the-adobe-flash-projector  Adobe - Download Adobe Flash Player https://get.</description>
+      <description>Phaser.io vs Godot detailed comparison as of 2020 - Slant https://www.slant.co/versus/1065/1068/~phaser-io_vs_godot
+Writing games in D? : gamedev https://www.reddit.com/r/gamedev/comments/15cug8/writing_games_in_d/
+Top HTML5 games with server-based network multiplayer - itch.io https://itch.io/games/html5/multiplayer-server
+Category:Browser-based multiplayer online games - Wikipedia https://en.wikipedia.org/wiki/Category:Browser-based_multiplayer_online_games
+7 years ago today, SwatSec destroyed ROTMG! : RotMG https://www.reddit.com/r/RotMG/comments/ibl5os/7_years_ago_today_swatsec_destroyed_rotmg/
+Realm of the Mad God https://www.realmofthemadgod.com/legacy/#download
+Using the Adobe Flash Projector - the RotMG Wiki | RealmEye.com https://www.realmeye.com/wiki/using-the-adobe-flash-projector
+Adobe - Download Adobe Flash Player https://get.adobe.com/flashplayer/completion/?installer=FP_32.0_for_Linux_64-bit_(.tar.gz)-_PPAPI</description>
     </item>
     
     <item>
@@ -563,7 +700,20 @@ lists Iterating over two elements at a time python - Iterating over every two el
       <pubDate>Fri, 21 Aug 2020 16:31:53 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/cheatsheets/</guid>
-      <description> Vim scripting cheatsheet https://devhints.io/vimscript  Elixir cheatsheet https://devhints.io/elixir  React.js cheatsheet https://devhints.io/react  Devhints — TL;DR for developer documentation https://devhints.io/?q=ruby  Ruby cheatsheet https://devhints.io/ruby  Rake cheatsheet https://devhints.io/rake  Rails cheatsheet https://devhints.io/rails  CSS cheatsheet https://devhints.io/css  Bootstrap cheatsheet https://devhints.io/bootstrap  SQL joins cheatsheet https://devhints.io/sql-join  Python cheatsheet https://devhints.io/python  Lua cheatsheet https://devhints.io/lua  TypeScript cheatsheet https://devhints.io/typescript  Vue.js cheatsheet https://devhints.io/vue </description>
+      <description>Vim scripting cheatsheet https://devhints.io/vimscript
+Elixir cheatsheet https://devhints.io/elixir
+React.js cheatsheet https://devhints.io/react
+Devhints — TL;DR for developer documentation https://devhints.io/?q=ruby
+Ruby cheatsheet https://devhints.io/ruby
+Rake cheatsheet https://devhints.io/rake
+Rails cheatsheet https://devhints.io/rails
+CSS cheatsheet https://devhints.io/css
+Bootstrap cheatsheet https://devhints.io/bootstrap
+SQL joins cheatsheet https://devhints.io/sql-join
+Python cheatsheet https://devhints.io/python
+Lua cheatsheet https://devhints.io/lua
+TypeScript cheatsheet https://devhints.io/typescript
+Vue.js cheatsheet https://devhints.io/vue</description>
     </item>
     
     <item>
@@ -572,7 +722,14 @@ lists Iterating over two elements at a time python - Iterating over every two el
       <pubDate>Fri, 21 Aug 2020 16:28:46 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/key-display/</guid>
-      <description>keyboard - Show keys pressed in Linux - Super User https://superuser.com/questions/248517/show-keys-pressed-in-linux  scottkirkwood/key-mon: Automatically exported from code.google.com/p/key-mon https://github.com/scottkirkwood/key-mon  key-mon/INSTALL.rst at master · scottkirkwood/key-mon https://github.com/scottkirkwood/key-mon/blob/master/INSTALL.rst  Google Code Archive - Long-term storage for Google Code Project Hosting. https://code.google.com/archive/p/key-mon/downloads  (459) Install Screenkey and Keymon on Ubuntu - YouTube https://www.youtube.com/watch?v=BT8SBnCd_SA  key-mon on lubuntu 20.04 - Ask Ubuntu https://askubuntu.com/questions/1236194/key-mon-on-lubuntu-20-04  linux - How to stop run the screenkey - Super User https://superuser.</description>
+      <description>keyboard - Show keys pressed in Linux - Super User https://superuser.com/questions/248517/show-keys-pressed-in-linux
+scottkirkwood/key-mon: Automatically exported from code.google.com/p/key-mon https://github.com/scottkirkwood/key-mon
+key-mon/INSTALL.rst at master · scottkirkwood/key-mon https://github.com/scottkirkwood/key-mon/blob/master/INSTALL.rst
+Google Code Archive - Long-term storage for Google Code Project Hosting. https://code.google.com/archive/p/key-mon/downloads
+(459) Install Screenkey and Keymon on Ubuntu - YouTube https://www.youtube.com/watch?v=BT8SBnCd_SA
+key-mon on lubuntu 20.04 - Ask Ubuntu https://askubuntu.com/questions/1236194/key-mon-on-lubuntu-20-04
+linux - How to stop run the screenkey - Super User https://superuser.com/questions/1330427/how-to-stop-run-the-screenkey
+linux - How to stop run the screenkey - Super User https://superuser.</description>
     </item>
     
     <item>
@@ -608,7 +765,10 @@ Enabling markdown highlighting in Vim - Stack Overflow https://stackoverflow.</d
       <pubDate>Fri, 21 Aug 2020 14:52:30 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/keymap/</guid>
-      <description> Key to mute   Create a Shortcut or Hotkey to Mute the Speakers on Linux https://www.howtogeek.com/howto/linux/create-a-shortcut-or-hotkey-to-mute-the-speakers-on-linux/  Enabling multimedia keys - i3 FAQ https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html  audiomicmute ubuntu remap - Google Search https://www.google.com/search?sxsrf=ALeKk03QEgc92bwqx56y_mFBjxj_8uru5w%3A1598023042228&amp;amp;ei=guU_X9y7DZje-gTgyp2YAw&amp;amp;q=audiomicmute+ubuntu+remap&amp;amp;oq=audiomicmute+ubuntu+remap&amp;amp;gs_lcp=CgZwc3ktYWIQAzIHCCEQChCgATIHCCEQChCgAToECAAQRzoFCCEQqwI6BwgjELACECc6CAgAEAgQDRAeUPIYWOBJYKlLaAdwAXgAgAG3AYgBoBWSAQUxNi4xMZgBAKABAaoBB2d3cy13aXrAAQE&amp;amp;sclient=psy-ab&amp;amp;ved=0ahUKEwjchJney6zrAhUYr54KHWBlBzMQ4dUDCAw&amp;amp;uact=5  How to enable the Thinkpad microphone mute key on Ubuntu 16.04 - makandra dev https://makandracards.com/makandra/47162-how-to-enable-the-thinkpad-microphone-mute-key-on-ubuntu-16-04  ubuntu map key to mute - Google Search https://www.google.com/search?q=ubuntu+map+key+to+mute&amp;amp;oq=ubuntu+map+key+to+mute&amp;amp;aqs=chrome..69i57.7521j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 </description>
+      <description>Key to mute Create a Shortcut or Hotkey to Mute the Speakers on Linux https://www.howtogeek.com/howto/linux/create-a-shortcut-or-hotkey-to-mute-the-speakers-on-linux/  Enabling multimedia keys - i3 FAQ https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html
+audiomicmute ubuntu remap - Google Search https://www.google.com/search?sxsrf=ALeKk03QEgc92bwqx56y_mFBjxj_8uru5w%3A1598023042228&amp;amp;ei=guU_X9y7DZje-gTgyp2YAw&amp;amp;q=audiomicmute+ubuntu+remap&amp;amp;oq=audiomicmute+ubuntu+remap&amp;amp;gs_lcp=CgZwc3ktYWIQAzIHCCEQChCgATIHCCEQChCgAToECAAQRzoFCCEQqwI6BwgjELACECc6CAgAEAgQDRAeUPIYWOBJYKlLaAdwAXgAgAG3AYgBoBWSAQUxNi4xMZgBAKABAaoBB2d3cy13aXrAAQE&amp;amp;sclient=psy-ab&amp;amp;ved=0ahUKEwjchJney6zrAhUYr54KHWBlBzMQ4dUDCAw&amp;amp;uact=5
+How to enable the Thinkpad microphone mute key on Ubuntu 16.04 - makandra dev https://makandracards.com/makandra/47162-how-to-enable-the-thinkpad-microphone-mute-key-on-ubuntu-16-04
+ubuntu map key to mute - Google Search https://www.google.com/search?q=ubuntu+map+key+to+mute&amp;amp;oq=ubuntu+map+key+to+mute&amp;amp;aqs=chrome..69i57.7521j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8</description>
     </item>
     
     <item>
@@ -617,7 +777,11 @@ Enabling markdown highlighting in Vim - Stack Overflow https://stackoverflow.</d
       <pubDate>Fri, 21 Aug 2020 14:50:15 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/bootstrap/</guid>
-      <description> Bootstrap · The most popular HTML, CSS, and JS library in the world. https://getbootstrap.com/  Bootswatch: Free themes for Bootstrap https://bootswatch.com/  Instance - Bootstrap Personal Portfolio Template for Full Stack Developers https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/  UX &amp;amp; Bootstrap (@3rdwave_themes) / Twitter https://twitter.com/3rdwave_themes  UX Centred Bootstrap Templates &amp;amp; Themes For Developers | UX &amp;amp; Bootstrap https://themes.3rdwavemedia.com/ </description>
+      <description>Bootstrap · The most popular HTML, CSS, and JS library in the world. https://getbootstrap.com/
+Bootswatch: Free themes for Bootstrap https://bootswatch.com/
+Instance - Bootstrap Personal Portfolio Template for Full Stack Developers https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/
+UX &amp;amp; Bootstrap (@3rdwave_themes) / Twitter https://twitter.com/3rdwave_themes
+UX Centred Bootstrap Templates &amp;amp; Themes For Developers | UX &amp;amp; Bootstrap https://themes.3rdwavemedia.com/</description>
     </item>
     
     <item>
@@ -640,7 +804,18 @@ reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) works for me with code 
       <pubDate>Fri, 21 Aug 2020 14:23:35 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/facebook/</guid>
-      <description>Blue Jeans Network | Video Collaboration in the Cloud https://fb.bluejeans.com/?next=/scheduling/  Immigration Form | Facebook Recruiting https://www.facebookrecruiting.com/portal/immigration/?fid=2449982275299983  Facebook Prep - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/kevin+barnes/FMfcgxwJWrhMkkRptXNSKtHfrwRJtJWN  Interview Prep Hub | Facebook Recruiting https://www.facebookrecruiting.com/portal/interview_prep_hub  Next steps with Google - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/keny/FMfcgxwJXVJDXNdNdsKLWTfrMPCZGgzq  Facebook Engineering https://engineering.fb.com/  (29) Problems - LeetCode https://leetcode.com/problemset/algorithms/  HiredInTech&amp;#39;s Training Camp for Coding Interviews https://www.hiredintech.com/classrooms/algorithm-design/lesson/77  Private video on Vimeo https://vimeo.com/157480836  Private video on Vimeo https://vimeo.</description>
+      <description>Blue Jeans Network | Video Collaboration in the Cloud https://fb.bluejeans.com/?next=/scheduling/
+Immigration Form | Facebook Recruiting https://www.facebookrecruiting.com/portal/immigration/?fid=2449982275299983
+Facebook Prep - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/kevin+barnes/FMfcgxwJWrhMkkRptXNSKtHfrwRJtJWN
+Interview Prep Hub | Facebook Recruiting https://www.facebookrecruiting.com/portal/interview_prep_hub
+Next steps with Google - frankie.y.liu@gmail.com - Gmail https://mail.google.com/mail/u/0/#search/keny/FMfcgxwJXVJDXNdNdsKLWTfrMPCZGgzq
+Facebook Engineering https://engineering.fb.com/
+(29) Problems - LeetCode https://leetcode.com/problemset/algorithms/
+HiredInTech&amp;rsquo;s Training Camp for Coding Interviews https://www.hiredintech.com/classrooms/algorithm-design/lesson/77
+Private video on Vimeo https://vimeo.com/157480836
+Private video on Vimeo https://vimeo.com/158532188
+Private video on Vimeo https://vimeo.com/275298962
+Facebook Interview Questions | Glassdoor https://www.</description>
     </item>
     
     <item>
@@ -665,7 +840,7 @@ Compare salaries and career levels across companies | Levels.</description>
       <pubDate>Fri, 21 Aug 2020 14:05:00 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/thunderbird/</guid>
-      <description> Moving Thunderbird Data to a New Computer | Thunderbird Help https://support.mozilla.org/en-US/kb/moving-thunderbird-data-to-a-new-computer#:~:text=Go%20to%20the%20drive%20you,Thunderbird%20folder%2C%20and%20select%20Copy%20. </description>
+      <description>Moving Thunderbird Data to a New Computer | Thunderbird Help https://support.mozilla.org/en-US/kb/moving-thunderbird-data-to-a-new-computer#:~:text=Go%20to%20the%20drive%20you,Thunderbird%20folder%2C%20and%20select%20Copy%20.</description>
     </item>
     
     <item>
@@ -674,7 +849,12 @@ Compare salaries and career levels across companies | Levels.</description>
       <pubDate>Fri, 21 Aug 2020 13:58:30 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/screen-capture/</guid>
-      <description> Screenshot Tool - GNOME Shell Extensions https://extensions.gnome.org/extension/1112/screenshot-tool/  (453) Lightshot » Capturar pantalla en Windows o Mac y agregar flechas, texto, líneas, garabatos, etc. 📝 - YouTube https://www.youtube.com/watch?v=4mqO9ouRdZ8 </description>
+      <description>Screenshot Tool - GNOME Shell Extensions https://extensions.gnome.org/extension/1112/screenshot-tool/
+(453) Lightshot » Capturar pantalla en Windows o Mac y agregar flechas, texto, líneas, garabatos, etc. 📝 - YouTube https://www.youtube.com/watch?v=4mqO9ouRdZ8
+windows how to screen shot selected window - Google Search https://www.google.com/search?q=windows+how+to+screen+shot+selected+window&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=windows+how+to+screen+shot+selected+window&amp;amp;aqs=chrome..69i57.12823j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+Where do &amp;ldquo;print screen&amp;rdquo; pictures get stored? - Microsoft Community https://answers.microsoft.com/en-us/windows/forum/windows_vista-pictures/where-do-print-screen-pictures-get-stored/4b81a498-c370-e011-8dfc-68b599b31bf5
+Check Out The 10 Best Snipping Tools in 2020 https://launchberg.com/10-best-snipping-tools/#snagit
+windows 10 - How to snip same part of screen as last time?</description>
     </item>
     
     <item>
@@ -683,7 +863,13 @@ Compare salaries and career levels across companies | Levels.</description>
       <pubDate>Fri, 21 Aug 2020 13:57:34 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/screen-annotate/</guid>
-      <description>xorg - Drawing over the desktop - Ask Ubuntu https://askubuntu.com/questions/328543/drawing-over-the-desktop  Draw On Your Screen with this Neat GNOME Shell Extension - OMG! Ubuntu! https://www.omgubuntu.co.uk/2019/03/draw-on-your-screen-ubuntu-linux  Draw On You Screen - GNOME Shell Extensions https://extensions.gnome.org/extension/1683/draw-on-you-screen/  abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen  Gromit-MPX VS Ardesia - differences &amp;amp; reviews? | SaaSHub https://www.saashub.com/compare-gromit-mpx-vs-ardesia  Google Code Archive - Long-term storage for Google Code Project Hosting. https://code.google.com/archive/p/ardesia/  software recommendation - Can I annotate the screen in Gnome Shell?</description>
+      <description>xorg - Drawing over the desktop - Ask Ubuntu https://askubuntu.com/questions/328543/drawing-over-the-desktop
+Draw On Your Screen with this Neat GNOME Shell Extension - OMG! Ubuntu! https://www.omgubuntu.co.uk/2019/03/draw-on-your-screen-ubuntu-linux
+Draw On You Screen - GNOME Shell Extensions https://extensions.gnome.org/extension/1683/draw-on-you-screen/
+abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen
+Gromit-MPX VS Ardesia - differences &amp;amp; reviews? | SaaSHub https://www.saashub.com/compare-gromit-mpx-vs-ardesia
+Google Code Archive - Long-term storage for Google Code Project Hosting. https://code.google.com/archive/p/ardesia/
+software recommendation - Can I annotate the screen in Gnome Shell?</description>
     </item>
     
     <item>
@@ -692,7 +878,13 @@ Compare salaries and career levels across companies | Levels.</description>
       <pubDate>Fri, 21 Aug 2020 13:56:46 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/screen-record/</guid>
-      <description>9 Best Screen Recorders for Linux in 2020 https://itsfoss.com/best-linux-screen-recorders/  Instantly Screen Record on Ubuntu Using this Hidden Feature - OMG! Ubuntu! https://www.omgubuntu.co.uk/2018/06/gnome-shell-screen-recorder-ubuntu  Design/Apps/Potential/Recorder - GNOME Wiki! https://wiki.gnome.org/Design/Apps/Potential/Recorder  EasyScreenCast - GNOME Shell Extensions https://extensions.gnome.org/extension/690/easyscreencast/  EasyScreenCast/EasyScreenCast: This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording. https://github.com/EasyScreenCast/EasyScreenCast  EasyScreenCast - GNOME Shell Extensions https://extensions.</description>
+      <description>9 Best Screen Recorders for Linux in 2020 https://itsfoss.com/best-linux-screen-recorders/
+Instantly Screen Record on Ubuntu Using this Hidden Feature - OMG! Ubuntu! https://www.omgubuntu.co.uk/2018/06/gnome-shell-screen-recorder-ubuntu
+Design/Apps/Potential/Recorder - GNOME Wiki! https://wiki.gnome.org/Design/Apps/Potential/Recorder
+EasyScreenCast - GNOME Shell Extensions https://extensions.gnome.org/extension/690/easyscreencast/
+EasyScreenCast/EasyScreenCast: This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording. https://github.com/EasyScreenCast/EasyScreenCast
+EasyScreenCast - GNOME Shell Extensions https://extensions.gnome.org/extension/690/easyscreencast/
+EasyScreenCast - GNOME Shell Extensions https://extensions.</description>
     </item>
     
     <item>
@@ -720,7 +912,12 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Thu, 20 Aug 2020 17:11:56 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/oracle/</guid>
-      <description>Job Description - Sr. Member of Technical Staff - Network Monitoring (OCI) (20000MW5) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000MW5&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Technical Staff - Network Monitoring (OCI) (20000JF8) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000JF8&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Technical Staff (20000MW3) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000MW3&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Technical Staff (20000JF7) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000JF7&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr. Member of Tech Staff- OCI- VIrtual Networking- Cloud Engineering Infrastructure Developer (20000KI0) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000KI0&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles  Job Description - Sr.</description>
+      <description>Job Description - Sr. Member of Technical Staff - Network Monitoring (OCI) (20000MW5) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000MW5&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles
+Job Description - Sr. Member of Technical Staff - Network Monitoring (OCI) (20000JF8) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000JF8&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles
+Job Description - Sr. Member of Technical Staff (20000MW3) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000MW3&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles
+Job Description - Sr. Member of Technical Staff (20000JF7) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000JF7&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles
+Job Description - Sr. Member of Tech Staff- OCI- VIrtual Networking- Cloud Engineering Infrastructure Developer (20000KI0) https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000KI0&amp;amp;tz=GMT-07%3A00&amp;amp;tzname=America%2FLos_Angeles
+Job Description - Sr. Member of Tech Staff- OCI- VIrtual Networking- Cloud Engineering Infrastructure Developer (20000KI1) https://oracle.</description>
     </item>
     
     <item>
@@ -729,7 +926,7 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Thu, 20 Aug 2020 17:10:47 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/electronics/</guid>
-      <description> (457) Teardown of the Blue Yeti Microphone - YouTube https://www.youtube.com/watch?v=graD2MPEVlU </description>
+      <description>(457) Teardown of the Blue Yeti Microphone - YouTube https://www.youtube.com/watch?v=graD2MPEVlU</description>
     </item>
     
     <item>
@@ -738,7 +935,12 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Thu, 20 Aug 2020 17:08:55 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/java/</guid>
-      <description>vscode   How to Install Visual Studio Code on Ubuntu 20.04 | Linuxize https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/  vscode-java-debug/Troubleshooting.md at master · microsoft/vscode-java-debug https://github.com/Microsoft/vscode-java-debug/blob/master/Troubleshooting.md  java - System.out.println() shortcut doesn&amp;#39;t work - Stack Overflow https://stackoverflow.com/questions/32919618/system-out-println-shortcut-doesnt-work  sysout ctrl-space jdk   Installing Open JDK 8 on Debian or Ubuntu Systems | Installing the JDK https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html conversion   java convert integer to a string - Google Search https://www.google.com/search?q=java+convert+integer+to+a+string&amp;amp;oq=java+convert+integer+to+a+string&amp;amp;aqs=chrome..69i57.6099j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  How can I convert integer into float in Java?</description>
+      <description>vscode How to Install Visual Studio Code on Ubuntu 20.04 | Linuxize https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/  vscode-java-debug/Troubleshooting.md at master · microsoft/vscode-java-debug https://github.com/Microsoft/vscode-java-debug/blob/master/Troubleshooting.md
+java - System.out.println() shortcut doesn&amp;rsquo;t work - Stack Overflow https://stackoverflow.com/questions/32919618/system-out-println-shortcut-doesnt-work
+sysout ctrl-space
+  jdk Installing Open JDK 8 on Debian or Ubuntu Systems | Installing the JDK https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
+  conversion java convert integer to a string - Google Search https://www.google.com/search?q=java+convert+integer+to+a+string&amp;amp;oq=java+convert+integer+to+a+string&amp;amp;aqs=chrome..69i57.6099j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+  How can I convert integer into float in Java?</description>
     </item>
     
     <item>
@@ -747,7 +949,7 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Thu, 20 Aug 2020 17:08:06 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/meetup/</guid>
-      <description> Upcoming events | SF Bay Area Distributed Systems Group (Santa Clara, CA) | Meetup https://www.meetup.com/SF-BayArea-Distributed-Systems-Reading-Group/events/ </description>
+      <description>Upcoming events | SF Bay Area Distributed Systems Group (Santa Clara, CA) | Meetup https://www.meetup.com/SF-BayArea-Distributed-Systems-Reading-Group/events/</description>
     </item>
     
     <item>
@@ -756,7 +958,16 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Thu, 20 Aug 2020 12:47:38 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/gnome-extensions/</guid>
-      <description>DrawOnYourScreen   abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen/-/tree/touchscreen4  Request: touchscreen support (#2) · Issues · abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen/-/issues/2 Clutter   Clutter (software) - Wikipedia https://en.wikipedia.org/wiki/Clutter_(software)  ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html  ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html#ClutterActor-touch-event  ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html#ClutterActor-event  Events: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/clutter-Events.html#ClutterMotionEvent  clutter/clutter-event.c · master · GNOME / clutter · GitLab https://gitlab.gnome.org/GNOME/clutter/-/blob/master/clutter/clutter-event.c Gromit-mpx   gromit-mpx/input.</description>
+      <description>DrawOnYourScreen  abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen/-/tree/touchscreen4
+Request: touchscreen support (#2) · Issues · abakkk / DrawOnYourScreen · GitLab https://framagit.org/abakkk/DrawOnYourScreen/-/issues/2
+ Clutter  Clutter (software) - Wikipedia https://en.wikipedia.org/wiki/Clutter_(software)
+ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html
+ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html#ClutterActor-touch-event
+ClutterActor: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/ClutterActor.html#ClutterActor-event
+Events: Clutter Reference Manual https://developer.gnome.org/clutter/1.26/clutter-Events.html#ClutterMotionEvent
+clutter/clutter-event.c · master · GNOME / clutter · GitLab https://gitlab.gnome.org/GNOME/clutter/-/blob/master/clutter/clutter-event.c
+  Gromit-mpx gromit-mpx/input.c at master · bk138/gromit-mpx https://github.com/bk138/gromit-mpx/blob/master/src/input.c
+  Wacom</description>
     </item>
     
     <item>
@@ -765,7 +976,11 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Wed, 19 Aug 2020 18:28:58 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/net/</guid>
-      <description> 192.168.29.1/Logout.asp http://192.168.29.1/Logout.asp  Laptop 192.168.29.192  Dell MFP E515dw http://192.168.29.156/general/status.html  Network Address Translation (NAT) FAQ - Cisco https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html#:~:text=It%20enables%20private%20IP%20networks,are%20forwarded%20to%20another%20network.  RFC 3022 - Traditional IP Network Address Translator (Traditional NAT) https://tools.ietf.org/html/rfc3022 </description>
+      <description>192.168.29.1/Logout.asp http://192.168.29.1/Logout.asp
+Laptop 192.168.29.192
+Dell MFP E515dw http://192.168.29.156/general/status.html
+Network Address Translation (NAT) FAQ - Cisco https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html#:~:text=It%20enables%20private%20IP%20networks,are%20forwarded%20to%20another%20network.
+RFC 3022 - Traditional IP Network Address Translator (Traditional NAT) https://tools.ietf.org/html/rfc3022</description>
     </item>
     
     <item>
@@ -774,7 +989,7 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Wed, 19 Aug 2020 17:33:02 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/health/</guid>
-      <description> Constipation and cheerios   Fiber in Cheerios | Livestrong.com https://www.livestrong.com/article/346587-fiber-in-cheerios/ </description>
+      <description> Constipation and cheerios Fiber in Cheerios | Livestrong.com https://www.livestrong.com/article/346587-fiber-in-cheerios/  </description>
     </item>
     
     <item>
@@ -783,7 +998,12 @@ gimp: open as layers (select all images), crop, image-&amp;gt;scale 30dpi 400px,
       <pubDate>Wed, 19 Aug 2020 17:14:26 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/cassandra/</guid>
-      <description>(452) [Cassandra Cloud-Native Workshop Series] - #8 Road to Cloud NA|LATAM - YouTube https://www.youtube.com/watch?v=bk5e6QWijSc  Materials and Homework for Week 8 - Datastax Community https://community.datastax.com/questions/7787/materials-and-homework-for-week-8.html  cassandra-workshop-series/HACKATHON.MD at master · DataStax-Academy/cassandra-workshop-series https://github.com/DataStax-Academy/cassandra-workshop-series/blob/master/week4-AppDev-api/HACKATHON.MD  What is the eligibility criteria for the exam voucher? - Datastax Community https://community.datastax.com/questions/6568/index.html  How long are the workshop exam vouchers valid for? - Datastax Community https://community.datastax.com/questions/5137/index.html  Why haven&amp;#39;t you given out vouchers yet during the Cloud-Native Workshop Series?</description>
+      <description>(452) [Cassandra Cloud-Native Workshop Series] - #8 Road to Cloud NA|LATAM - YouTube https://www.youtube.com/watch?v=bk5e6QWijSc
+Materials and Homework for Week 8 - Datastax Community https://community.datastax.com/questions/7787/materials-and-homework-for-week-8.html
+cassandra-workshop-series/HACKATHON.MD at master · DataStax-Academy/cassandra-workshop-series https://github.com/DataStax-Academy/cassandra-workshop-series/blob/master/week4-AppDev-api/HACKATHON.MD
+What is the eligibility criteria for the exam voucher? - Datastax Community https://community.datastax.com/questions/6568/index.html
+How long are the workshop exam vouchers valid for? - Datastax Community https://community.datastax.com/questions/5137/index.html
+Why haven&amp;rsquo;t you given out vouchers yet during the Cloud-Native Workshop Series? - Datastax Community https://community.</description>
     </item>
     
     <item>
@@ -806,7 +1026,11 @@ Module 1: Getting Started :: Introduction � The College SolutionThe College So
       <pubDate>Wed, 19 Aug 2020 17:13:08 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/apache/</guid>
-      <description>modules   linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed cgi   Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/ wsgi   mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/ reverse proxy   node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16.</description>
+      <description>modules  linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed
+ cgi Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/
+  wsgi mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/
+  reverse proxy node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server
+  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16.</description>
     </item>
     
     <item>
@@ -830,7 +1054,12 @@ Ruby on Rails Tutorial, 6th Edition https://learning.oreilly.com/library/view/ru
       <pubDate>Wed, 19 Aug 2020 17:08:48 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/snippets/</guid>
-      <description>How to use ultisnips https://yufanlu.net/2016/10/30/ultisnips/  Sharpen your Vim with snippets. Save time and effort, and maximize your? | by Joe Lencioni | Brigade Engineering https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db  SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! https://github.com/SirVer/ultisnips  garbas/vim-snipmate: snipMate.vim aims to be a concise vim script that implements some of TextMate&amp;#39;s snippets features in Vim. https://github.com/garbas/vim-snipmate  Shougo/neosnippet.vim: neo-snippet plugin https://github.com/Shougo/neosnippet.vim  drmingdrmer/xptemplate: Code snippets engine for Vim, with snippets library.</description>
+      <description>How to use ultisnips https://yufanlu.net/2016/10/30/ultisnips/
+Sharpen your Vim with snippets. Save time and effort, and maximize your? | by Joe Lencioni | Brigade Engineering https://brigade.engineering/sharpen-your-vim-with-snippets-767b693886db
+SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! https://github.com/SirVer/ultisnips
+garbas/vim-snipmate: snipMate.vim aims to be a concise vim script that implements some of TextMate&amp;rsquo;s snippets features in Vim. https://github.com/garbas/vim-snipmate
+Shougo/neosnippet.vim: neo-snippet plugin https://github.com/Shougo/neosnippet.vim
+drmingdrmer/xptemplate: Code snippets engine for Vim, with snippets library.</description>
     </item>
     
     <item>
@@ -839,7 +1068,8 @@ Ruby on Rails Tutorial, 6th Edition https://learning.oreilly.com/library/view/ru
       <pubDate>Wed, 19 Aug 2020 17:07:26 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/hangouts/</guid>
-      <description> Meet - out-gega-waa https://meet.google.com/out-gega-waa  Meet - out-gega-waa https://meet.google.com/out-gega-waa </description>
+      <description>Meet - out-gega-waa https://meet.google.com/out-gega-waa
+Meet - out-gega-waa https://meet.google.com/out-gega-waa</description>
     </item>
     
     <item>
@@ -848,7 +1078,9 @@ Ruby on Rails Tutorial, 6th Edition https://learning.oreilly.com/library/view/ru
       <pubDate>Wed, 19 Aug 2020 15:50:34 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ssh/</guid>
-      <description> ssh keys   How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use removing keys   This removes all keys from know_hosts file. ssh-keygen -R hostname  </description>
+      <description>ssh keys How does SSH find a local key? | DigitalOcean https://www.digitalocean.com/community/questions/how-does-ssh-find-a-local-key  ssh uses .ssh/config to figure out which key-pair to use
+ removing keys  This removes all keys from know_hosts file.
+#+BEGIN_SRC bash ssh-keygen -R hostname #+END_SRC</description>
     </item>
     
     <item>
@@ -873,7 +1105,11 @@ How to Configure a Built-in VPN Client for Linux | University IT https://uit.</d
       <pubDate>Wed, 19 Aug 2020 15:46:51 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/microsoft/</guid>
-      <description>Search results | Find available job openings at Microsoft https://careers.microsoft.com/professionals/us/en/search-results?from=60&amp;amp;s=1&amp;amp;rk=l-l-bayarea  Principal HW Program Manager, Hardware Engineering in Mountain View, California, United States | Hardware Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/826751/Principal-HW-Program-Manager-Hardware-Engineering  Software Engineer (Havok Gaming) in San Francisco, California, United States | Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/850058/Software-Engineer-Havok-Gaming  Software Engineer in San Francisco, California, United States | Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/844347/Software-Engineer  Silicon CAD Engineer in Sunnyvale, California, United States | Hardware Engineering at Microsoft https://careers.</description>
+      <description>Search results | Find available job openings at Microsoft https://careers.microsoft.com/professionals/us/en/search-results?from=60&amp;amp;s=1&amp;amp;rk=l-l-bayarea
+Principal HW Program Manager, Hardware Engineering in Mountain View, California, United States | Hardware Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/826751/Principal-HW-Program-Manager-Hardware-Engineering
+Software Engineer (Havok Gaming) in San Francisco, California, United States | Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/850058/Software-Engineer-Havok-Gaming
+Software Engineer in San Francisco, California, United States | Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/844347/Software-Engineer
+Silicon CAD Engineer in Sunnyvale, California, United States | Hardware Engineering at Microsoft https://careers.microsoft.com/professionals/us/en/job/804835/Silicon-CAD-Engineer</description>
     </item>
     
     <item>
@@ -882,7 +1118,7 @@ How to Configure a Built-in VPN Client for Linux | University IT https://uit.</d
       <pubDate>Wed, 19 Aug 2020 15:46:14 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/sport/</guid>
-      <description> Jetson Bolt Pro Folding Electric Bike https://www.costco.com/jetson-bolt-pro-folding-electric-bike.product.100663239.html </description>
+      <description>Jetson Bolt Pro Folding Electric Bike https://www.costco.com/jetson-bolt-pro-folding-electric-bike.product.100663239.html</description>
     </item>
     
     <item>
@@ -891,7 +1127,9 @@ How to Configure a Built-in VPN Client for Linux | University IT https://uit.</d
       <pubDate>Wed, 19 Aug 2020 15:43:15 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/text-editors/</guid>
-      <description>  StackEdit https://stackedit.io/app#providerId=googleDrive&amp;amp;state=%7B%22ids%22%3A%5B%221fHgagb3BOOtEPAwYUBGBJNVHWFBROWKr%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22113098389584130909559%22%7D  Text Editor - Free App for Editing Text Files https://texteditor.co/ For very large files   Text editor to edit large (4.3 GB) plain text file - Ask Ubuntu https://askubuntu.com/questions/28847/text-editor-to-edit-large-4-3-gb-plain-text-file </description>
+      <description>StackEdit https://stackedit.io/app#providerId=googleDrive&amp;amp;state=%7B%22ids%22%3A%5B%221fHgagb3BOOtEPAwYUBGBJNVHWFBROWKr%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22113098389584130909559%22%7D
+Text Editor - Free App for Editing Text Files https://texteditor.co/
+ For very large files  Text editor to edit large (4.3 GB) plain text file - Ask Ubuntu https://askubuntu.com/questions/28847/text-editor-to-edit-large-4-3-gb-plain-text-file</description>
     </item>
     
     <item>
@@ -900,7 +1138,9 @@ How to Configure a Built-in VPN Client for Linux | University IT https://uit.</d
       <pubDate>Wed, 19 Aug 2020 15:41:51 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/bitbucket/</guid>
-      <description> Log in to continue - Log in with Atlassian account https://id.atlassian.com/login?application=bitbucket&amp;amp;continue=https%3A%2F%2Fbitbucket.org%2Faccount%2Fsignin%2F%3FredirectCount%3D1%26next%3D%252F&amp;amp;prompt=login  Overview — Bitbucket https://bitbucket.org/dashboard/overview  Can&amp;#39;t log in? - Log in with Atlassian account https://id.atlassian.com/login/resetpassword?application=bitbucket&amp;amp;continue=https%3A%2F%2Fbitbucket.org%2Faccount%2Fsignin%2F%3FredirectCount%3D1%26next%3D%252F&amp;amp;email=frankie.y.liu%40gmail.com&amp;amp;errorCode </description>
+      <description>Log in to continue - Log in with Atlassian account https://id.atlassian.com/login?application=bitbucket&amp;amp;continue=https%3A%2F%2Fbitbucket.org%2Faccount%2Fsignin%2F%3FredirectCount%3D1%26next%3D%252F&amp;amp;prompt=login
+Overview — Bitbucket https://bitbucket.org/dashboard/overview
+Can&amp;rsquo;t log in? - Log in with Atlassian account https://id.atlassian.com/login/resetpassword?application=bitbucket&amp;amp;continue=https%3A%2F%2Fbitbucket.org%2Faccount%2Fsignin%2F%3FredirectCount%3D1%26next%3D%252F&amp;amp;email=frankie.y.liu%40gmail.com&amp;amp;errorCode</description>
     </item>
     
     <item>
@@ -909,7 +1149,15 @@ How to Configure a Built-in VPN Client for Linux | University IT https://uit.</d
       <pubDate>Wed, 19 Aug 2020 10:57:45 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/saml/</guid>
-      <description>how to delete a list or card in trello - Google Search https://www.google.com/search?q=how+to+delete+a+list+or+card+in+trello&amp;amp;oq=how+to+delete+a+list+or+card+in+trello&amp;amp;aqs=chrome..69i57.6353j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  Leetcode checklist https://www.frankliu.org/leet-200/  (28) Super Egg Drop - LeetCode https://leetcode.com/problems/super-egg-drop/  (28) Decode Ways II - LeetCode https://leetcode.com/problems/decode-ways-ii/  (28) C++ Solution with O(n + klgn) time using Max Heap and Stack - LeetCode Discuss https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/54118/C%2B%2B-Solution-with-O(n-%2B-klgn)-time-using-Max-Heap-and-Stack  (28) Super Egg Drop - LeetCode https://leetcode.com/problems/super-egg-drop/  (28) Decode Ways II - LeetCode https://leetcode.com/problems/decode-ways-ii/  (28) Self Crossing - LeetCode https://leetcode.</description>
+      <description>how to delete a list or card in trello - Google Search https://www.google.com/search?q=how+to+delete+a+list+or+card+in+trello&amp;amp;oq=how+to+delete+a+list+or+card+in+trello&amp;amp;aqs=chrome..69i57.6353j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+Leetcode checklist https://www.frankliu.org/leet-200/
+(28) Super Egg Drop - LeetCode https://leetcode.com/problems/super-egg-drop/
+(28) Decode Ways II - LeetCode https://leetcode.com/problems/decode-ways-ii/
+(28) C++ Solution with O(n + klgn) time using Max Heap and Stack - LeetCode Discuss https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/54118/C%2B%2B-Solution-with-O(n-%2B-klgn)-time-using-Max-Heap-and-Stack
+(28) Super Egg Drop - LeetCode https://leetcode.com/problems/super-egg-drop/
+(28) Decode Ways II - LeetCode https://leetcode.com/problems/decode-ways-ii/
+(28) Self Crossing - LeetCode https://leetcode.com/problems/self-crossing/submissions/
+(28) Self Crossing - LeetCode https://leetcode.</description>
     </item>
     
     <item>
@@ -918,7 +1166,11 @@ How to Configure a Built-in VPN Client for Linux | University IT https://uit.</d
       <pubDate>Wed, 19 Aug 2020 06:38:57 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/sherlock/</guid>
-      <description> Connecting - Sherlock https://www.sherlock.stanford.edu/docs/getting-started/connecting/  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts  Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts  frankieliu/sherlock https://github.com/frankieliu/sherlock  Version tigervnc/1.11beta - tigervnc https://bintray.com/tigervnc/beta/tigervnc/1.11beta </description>
+      <description>Connecting - Sherlock https://www.sherlock.stanford.edu/docs/getting-started/connecting/
+Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts
+Connection - Sherlock https://www.sherlock.stanford.edu/docs/advanced-topics/connection/#avoiding-multiple-duo-prompts
+frankieliu/sherlock https://github.com/frankieliu/sherlock
+Version tigervnc/1.11beta - tigervnc https://bintray.com/tigervnc/beta/tigervnc/1.11beta</description>
     </item>
     
     <item>
@@ -942,7 +1194,9 @@ The fundamentals of the Go programming language from the perspective of data str
       <pubDate>Tue, 18 Aug 2020 17:00:19 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/microphone/</guid>
-      <description> Top 10 Best USB Microphones In 2020 (With Buying Guide) https://kbonet.com/best-usb-microphones  Amazon.com: Rode NT-USB Versatile Studio-Quality USB Cardioid Condenser Microphone,Black: Musical Instruments https://www.amazon.com/Rode-NT-USB-Versatile-Studio-Quality-Microphone/dp/B00KQPGRRE/ref=as_li_ss_tl?keywords=Rode+NT-USB&amp;amp;qid=1579950416&amp;amp;sr=8-2&amp;amp;linkCode=sl1&amp;amp;tag=kbonet-20&amp;amp;linkId=1cf24dbefc721d156b2884244167a694&amp;amp;language=en_US  (449) Blue Yeti Blackout Review | 2018 - YouTube https://www.youtube.com/watch?v=HqHJWAlVcRw </description>
+      <description>Top 10 Best USB Microphones In 2020 (With Buying Guide) https://kbonet.com/best-usb-microphones
+Amazon.com: Rode NT-USB Versatile Studio-Quality USB Cardioid Condenser Microphone,Black: Musical Instruments https://www.amazon.com/Rode-NT-USB-Versatile-Studio-Quality-Microphone/dp/B00KQPGRRE/ref=as_li_ss_tl?keywords=Rode+NT-USB&amp;amp;qid=1579950416&amp;amp;sr=8-2&amp;amp;linkCode=sl1&amp;amp;tag=kbonet-20&amp;amp;linkId=1cf24dbefc721d156b2884244167a694&amp;amp;language=en_US
+(449) Blue Yeti Blackout Review | 2018 - YouTube https://www.youtube.com/watch?v=HqHJWAlVcRw</description>
     </item>
     
     <item>
@@ -963,7 +1217,14 @@ q:bash - In VIM, how do you delete to end of line while in command mode :?</desc
       <pubDate>Tue, 18 Aug 2020 16:58:28 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/trello/</guid>
-      <description>Trello   Todo | Trello https://trello.com/b/naGD4VMR/todo Twilio   Transform your customer communications with Twilio https://ahoy.twilio.com/twilio-products?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_term=twilio&amp;amp;utm_campaign=G_S_Brand_NAMER_USA&amp;amp;CA_mCPC=&amp;amp;gclid=Cj0KCQjw-O35BRDVARIsAJU5mQUKr_q63Z5IdPqBNvRIqQkm6GIw9L9uJv6k9IJUs_j4QEwKyM7XmYcaApofEALw_wcB&amp;amp;gclsrc=aw.ds Monday   Untitled board https://frankie153869.monday.com/boards/694371560 Alternatives   Top 3 Software Alternatives to Trello in 2020 https://project-management.com/top-3-software-alternatives-to-trello/?gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXehZuXArw8yf5hHn8Ry1QGSODpWBE8yHpvM7c0cw3LWjTuGorZkrkaAjeGEALw_wcB Productivity management   Increase Productivity With This Powerful Project Management Software | Smartsheet https://www.smartsheet.com/s/pm-software?s=268&amp;amp;c=3&amp;amp;m=3000&amp;amp;utm_source=project-management.com&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=project%20management Wrike   Wrike - Leading work management solution https://try.wrike.com/all-in-one-collaboration-project-management-software/?utm_source=p_mcom&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=top10 Smartsheet   (1) New Message! https://www.smartsheet.com/pricing Asana   Asana vs.</description>
+      <description>Trello  Todo | Trello https://trello.com/b/naGD4VMR/todo
+  Twilio Transform your customer communications with Twilio https://ahoy.twilio.com/twilio-products?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_term=twilio&amp;amp;utm_campaign=G_S_Brand_NAMER_USA&amp;amp;CA_mCPC=&amp;amp;gclid=Cj0KCQjw-O35BRDVARIsAJU5mQUKr_q63Z5IdPqBNvRIqQkm6GIw9L9uJv6k9IJUs_j4QEwKyM7XmYcaApofEALw_wcB&amp;amp;gclsrc=aw.ds
+  Monday Untitled board https://frankie153869.monday.com/boards/694371560
+  Alternatives Top 3 Software Alternatives to Trello in 2020 https://project-management.com/top-3-software-alternatives-to-trello/?gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXehZuXArw8yf5hHn8Ry1QGSODpWBE8yHpvM7c0cw3LWjTuGorZkrkaAjeGEALw_wcB
+  Productivity management Increase Productivity With This Powerful Project Management Software | Smartsheet https://www.smartsheet.com/s/pm-software?s=268&amp;amp;c=3&amp;amp;m=3000&amp;amp;utm_source=project-management.com&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=project%20management
+  Wrike Wrike - Leading work management solution https://try.wrike.com/all-in-one-collaboration-project-management-software/?utm_source=p_mcom&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=top10
+  Smartsheet (1) New Message! https://www.smartsheet.com/pricing
+  Asana Asana vs.</description>
     </item>
     
     <item>
@@ -972,7 +1233,9 @@ q:bash - In VIM, how do you delete to end of line while in command mode :?</desc
       <pubDate>Tue, 18 Aug 2020 15:26:59 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ftp/</guid>
-      <description> vsftp https://unix.stackexchange.com/questions/93566/ls-command-in-ftp-not-working  vsftp passive mode https://www.computing.net/answers/linux/vsftpd-500-illegal-port-command-error/31587.html  vsftp enable write /etc/vsftp.conf write_enable=YES </description>
+      <description>vsftp https://unix.stackexchange.com/questions/93566/ls-command-in-ftp-not-working
+vsftp passive mode https://www.computing.net/answers/linux/vsftpd-500-illegal-port-command-error/31587.html
+vsftp enable write ~/etc/vsftp.conf~ write_enable=YES</description>
     </item>
     
     <item>
@@ -981,7 +1244,11 @@ q:bash - In VIM, how do you delete to end of line while in command mode :?</desc
       <pubDate>Tue, 18 Aug 2020 15:18:39 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/emacs/</guid>
-      <description>I hate switching emacs   daedreth/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently. https://github.com/daedreth/ihsec  frankieliu/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently. https://github.com/frankieliu/ihsec  can you put .spacemacs file in .emacs.d - Google Search https://www.google.com/search?q=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;aqs=chrome..69i57.8580j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8 Easy hugo   masasam/emacs-easy-hugo: Emacs major mode for managing hugo https://github.</description>
+      <description>I hate switching emacs  daedreth/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently. https://github.com/daedreth/ihsec
+frankieliu/ihsec: ihsec - I hate Switching Emacs Configs - A symlink machine to change your ~/.emacs.d quickly and efficiently. https://github.com/frankieliu/ihsec
+can you put .spacemacs file in .emacs.d - Google Search https://www.google.com/search?q=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=can+you+put+.spacemacs+file+in+.emacs.d&amp;amp;aqs=chrome..69i57.8580j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+  Easy hugo masasam/emacs-easy-hugo: Emacs major mode for managing hugo https://github.com/masasam/emacs-easy-hugo
+  getting rid of the lock files How to get rid of &amp;ldquo;.</description>
     </item>
     
     <item>
@@ -990,7 +1257,8 @@ q:bash - In VIM, how do you delete to end of line while in command mode :?</desc
       <pubDate>Tue, 18 Aug 2020 15:17:42 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/anaconda/</guid>
-      <description> Anaconda vs {pyenv + pipenv} https://liatas.com/posts/anaconda-vs-pyenv-pipenv/  python - Anaconda vs. miniconda - Stack Overflow https://stackoverflow.com/questions/45421163/anaconda-vs-miniconda </description>
+      <description>Anaconda vs {pyenv + pipenv} https://liatas.com/posts/anaconda-vs-pyenv-pipenv/
+python - Anaconda vs. miniconda - Stack Overflow https://stackoverflow.com/questions/45421163/anaconda-vs-miniconda</description>
     </item>
     
     <item>
@@ -999,7 +1267,12 @@ q:bash - In VIM, how do you delete to end of line while in command mode :?</desc
       <pubDate>Tue, 18 Aug 2020 15:17:18 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/trash/</guid>
-      <description>shell - Make `rm` move to trash - Unix &amp;amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775  andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/ Files in different mounts   Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&amp;#39;: [Errno 13] Permission denied: &amp;#39;/.Trash-1000&amp;#39; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1   trash regular empty file `test&amp;#39;: [Errno 13] Permission denied: &amp;#39;/.Trash-1000&amp;#39; http://code.google.com/p/trash-cli/issues/detail?id=63  Dear Narnie I think I figured out the problem.</description>
+      <description>shell - Make rm move to trash - Unix &amp;amp; Linux Stack Exchange https://unix.stackexchange.com/questions/42757/make-rm-move-to-trash/42775
+andreafrancia/trash-cli: Command line interface to the freedesktop.org trashcan. https://github.com/andreafrancia/trash-cli/
+ Files in different mounts  Issue 63 in trash-cli: trash-put: trash: cannot trash regular empty file `test&amp;rsquo;: [Errno 13] Permission denied: &amp;lsquo;/.Trash-1000&amp;rsquo; https://groups.google.com/g/trash-cli-devel/c/TtZr53YFxqc?pli=1
+#+BEGIN_QUOTE trash regular empty file `test&amp;rsquo;: [Errno 13] Permission denied: &amp;lsquo;/.Trash-1000&amp;rsquo; http://code.google.com/p/trash-cli/issues/detail?id=63
+Dear Narnie I think I figured out the problem.
+Currently trash-cli always trashes files moving they in a trash directory of the same volume.</description>
     </item>
     
     <item>
@@ -1022,7 +1295,7 @@ sorting - How to loop all files in sorted order in Bash? - Stack Overflow https:
       <pubDate>Tue, 18 Aug 2020 15:15:40 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/websocket/</guid>
-      <description> WebSocket https://javascript.info/websocket </description>
+      <description>WebSocket https://javascript.info/websocket</description>
     </item>
     
     <item>
@@ -1031,7 +1304,11 @@ sorting - How to loop all files in sorted order in Bash? - Stack Overflow https:
       <pubDate>Tue, 18 Aug 2020 14:14:59 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/rename/</guid>
-      <description> bash - Rename files by incrementing a number within the filename - Unix &amp;amp; Linux Stack Exchange https://unix.stackexchange.com/questions/40523/rename-files-by-incrementing-a-number-within-the-filename  rene file renamer download | SourceForge.net https://sourceforge.net/projects/rene-file-renamer/  Renaming Magically With zmv - The Code Whisperer https://blog.thecodewhisperer.com/permalink/renaming-magically-with-zmv  How to Use the rename Command on Linux https://www.howtogeek.com/423214/how-to-use-the-rename-command-on-linux/  bash - Renaming files in a folder to sequential numbers - Stack Overflow https://stackoverflow.com/questions/3211595/renaming-files-in-a-folder-to-sequential-numbers </description>
+      <description>bash - Rename files by incrementing a number within the filename - Unix &amp;amp; Linux Stack Exchange https://unix.stackexchange.com/questions/40523/rename-files-by-incrementing-a-number-within-the-filename
+rene file renamer download | SourceForge.net https://sourceforge.net/projects/rene-file-renamer/
+Renaming Magically With zmv - The Code Whisperer https://blog.thecodewhisperer.com/permalink/renaming-magically-with-zmv
+How to Use the rename Command on Linux https://www.howtogeek.com/423214/how-to-use-the-rename-command-on-linux/
+bash - Renaming files in a folder to sequential numbers - Stack Overflow https://stackoverflow.com/questions/3211595/renaming-files-in-a-folder-to-sequential-numbers</description>
     </item>
     
     <item>
@@ -1068,7 +1345,13 @@ ubuntu Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-
       <pubDate>Tue, 18 Aug 2020 14:09:35 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/discord/</guid>
-      <description>AutoHotKey   DisCal - Lazy DisCal https://www.discalbot.com/lazy-discal  AutoHotkey https://www.autohotkey.com/  My experience porting AHK scripts to Linux. - AutoHotkey Community https://www.autohotkey.com/boards/viewtopic.php?t=65552  10.10 - Is there any way to get AutoHotKey or IronAHK working? - Ask Ubuntu https://askubuntu.com/questions/6237/is-there-any-way-to-get-autohotkey-or-ironahk-working  How to Customize Shortcut Keys for Any Linux Application https://www.howtogeek.com/howto/26913/how-to-customize-shortcut-keys-for-any-linux-application/  Packages in ?AutoKey PPA? : AutoKey PPA : Chris D https://launchpad.net/~cdekter/+archive/ubuntu/ppa/+packages Send to discord via python   Linux Automation Tip: Send Messages to Your Discord Server Using Python ?</description>
+      <description>AutoHotKey  DisCal - Lazy DisCal https://www.discalbot.com/lazy-discal
+AutoHotkey https://www.autohotkey.com/
+My experience porting AHK scripts to Linux. - AutoHotkey Community https://www.autohotkey.com/boards/viewtopic.php?t=65552
+10.10 - Is there any way to get AutoHotKey or IronAHK working? - Ask Ubuntu https://askubuntu.com/questions/6237/is-there-any-way-to-get-autohotkey-or-ironahk-working
+How to Customize Shortcut Keys for Any Linux Application https://www.howtogeek.com/howto/26913/how-to-customize-shortcut-keys-for-any-linux-application/
+Packages in ?AutoKey PPA? : AutoKey PPA : Chris D https://launchpad.net/~cdekter/+archive/ubuntu/ppa/+packages
+ Send to discord via python  Linux Automation Tip: Send Messages to Your Discord Server Using Python ?</description>
     </item>
     
     <item>
@@ -1141,7 +1424,7 @@ top choice levels.fyi payscale pita pit payscale linkedin salaries</description>
       <pubDate>Tue, 18 Aug 2020 11:05:13 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/netlify/</guid>
-      <description> Overview | frankliu https://app.netlify.com/sites/frankliu/overview </description>
+      <description>Overview | frankliu https://app.netlify.com/sites/frankliu/overview</description>
     </item>
     
     <item>
@@ -1150,7 +1433,10 @@ top choice levels.fyi payscale pita pit payscale linkedin salaries</description>
       <pubDate>Tue, 18 Aug 2020 11:01:02 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/chinese-club-moss/</guid>
-      <description> chinese club moss - Google Search https://www.google.com/search?q=chinese+club+moss&amp;amp;sxsrf=ALeKk02FQyKDlGQ2hOCqfcuLTTsvldWklA:1597692810575&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=2ahUKEwjnwrzD_aLrAhWMuJ4KHV6iDhwQ_AUoA3oECAsQBQ&amp;amp;biw=1243&amp;amp;bih=758#imgrc=EVo6kv9w0mIH2M  Huperzine A - the Newest Study Aid? https://piracetam.net/huperzine-a-study-aid/  chinese club moss tea - Google Search https://www.google.com/search?q=chinese+club+moss+tea&amp;amp;oq=chinese+club+moss+tea&amp;amp;aqs=chrome..69i57.8998j0j9&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8  Lycopodium Herb Tea Lycopodium clavatum Health Embassy | Etsy https://www.etsy.com/listing/269284895/lycopodium-herb-tea-lycopodium-clavatum?gpla=1&amp;amp;gao=1&amp;amp;&amp;amp;utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=shopping_us_ts1-e-home_and_living-food_and_drink-herbs_and_spices_and_seasonings-herbs_and_spices&amp;amp;utm_custom1=12a6fca8-3a45-493d-a42d-47969f3a6e85&amp;amp;utm_content=go_2063076437_76452849815_367965823419_pla-306107311649_c__269284895&amp;amp;utm_custom2=2063076437&amp;amp;gclid=CjwKCAjw1ej5BRBhEiwAfHyh1NmUsSWECu74TFGAPKIm1_IkkEOd802hPiifj7JQUTjqEZbHDNXWIhoCyLoQAvD_BwE </description>
+      <description>chinese club moss - Google Search https://www.google.com/search?q=chinese+club+moss&amp;amp;sxsrf=ALeKk02FQyKDlGQ2hOCqfcuLTTsvldWklA:1597692810575&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=2ahUKEwjnwrzD_aLrAhWMuJ4KHV6iDhwQ_AUoA3oECAsQBQ&amp;amp;biw=1243&amp;amp;bih=758#imgrc=EVo6kv9w0mIH2M
+Huperzine A - the Newest Study Aid? https://piracetam.net/huperzine-a-study-aid/
+chinese club moss tea - Google Search https://www.google.com/search?q=chinese+club+moss+tea&amp;amp;oq=chinese+club+moss+tea&amp;amp;aqs=chrome..69i57.8998j0j9&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+Lycopodium Herb Tea Lycopodium clavatum Health Embassy | Etsy https://www.etsy.com/listing/269284895/lycopodium-herb-tea-lycopodium-clavatum?gpla=1&amp;amp;gao=1&amp;amp;&amp;amp;utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=shopping_us_ts1-e-home_and_living-food_and_drink-herbs_and_spices_and_seasonings-herbs_and_spices&amp;amp;utm_custom1=12a6fca8-3a45-493d-a42d-47969f3a6e85&amp;amp;utm_content=go_2063076437_76452849815_367965823419_pla-306107311649_c__269284895&amp;amp;utm_custom2=2063076437&amp;amp;gclid=CjwKCAjw1ej5BRBhEiwAfHyh1NmUsSWECu74TFGAPKIm1_IkkEOd802hPiifj7JQUTjqEZbHDNXWIhoCyLoQAvD_BwE</description>
     </item>
     
     <item>
@@ -1159,7 +1445,7 @@ top choice levels.fyi payscale pita pit payscale linkedin salaries</description>
       <pubDate>Tue, 18 Aug 2020 11:00:20 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/hub/</guid>
-      <description> hub-create(1) - Create a new repository on GitHub and add a git remote for it. https://hub.github.com/hub-create.1.html </description>
+      <description>hub-create(1) - Create a new repository on GitHub and add a git remote for it. https://hub.github.com/hub-create.1.html</description>
     </item>
     
     <item>
@@ -1168,7 +1454,7 @@ top choice levels.fyi payscale pita pit payscale linkedin salaries</description>
       <pubDate>Tue, 18 Aug 2020 10:58:52 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/low-code/</guid>
-      <description> See Our Leading Low-code Platform in Action | OutSystems https://www.outsystems.com/p/low-code-platform/?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=NA_Search_Brand&amp;amp;utm_term=outsystems&amp;amp;utm_content=Try-for-free&amp;amp;gclid=CjwKCAjw1ej5BRBhEiwAfHyh1IWHTzmSdMdS0j9l4hhzI_GYtnfT7aIGun-MJ9L2TWfvTdkWTSoRwxoCVZcQAvD_BwE </description>
+      <description>See Our Leading Low-code Platform in Action | OutSystems https://www.outsystems.com/p/low-code-platform/?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=NA_Search_Brand&amp;amp;utm_term=outsystems&amp;amp;utm_content=Try-for-free&amp;amp;gclid=CjwKCAjw1ej5BRBhEiwAfHyh1IWHTzmSdMdS0j9l4hhzI_GYtnfT7aIGun-MJ9L2TWfvTdkWTSoRwxoCVZcQAvD_BwE</description>
     </item>
     
     <item>
@@ -1177,7 +1463,15 @@ top choice levels.fyi payscale pita pit payscale linkedin salaries</description>
       <pubDate>Tue, 18 Aug 2020 10:50:11 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/namecheap/</guid>
-      <description>CNAME ALIAS URL records   amazon web services - Alias cname record for zone apex - Server Fault https://serverfault.com/questions/998538/alias-cname-record-for-zone-apex  Differences between A, CNAME, ALIAS and URL records http://blog.mallow-tech.com/2017/05/differences-between-a-cname-alias-and-url-records/  How to create an ALIAS record - Domains - Namecheap.com https://www.namecheap.com/support/knowledgebase/article.aspx/10128/2237/how-to-create-an-alias-record Namecheap   Login Signup https://www.namecheap.com/myaccount/login-signup/?ReturnUrl=https%3A%2F%2Fap.www.namecheap.com%2Fsettings%2Fsecurity  Namecheap.com • Login https://www.namecheap.com/myaccount/login/?ReturnUrl=%2fDomains%2fDomainControlPanel%2ffrankliu.org%2fadvancedns  Account Panel Layout https://ap.www.namecheap.com/settings/security  Namecheap Customer Survey https://nps.namecheap.com/survey/f425f6944b7284e1245e312d53907776  Namecheap.com - Powered by Kayako Help Desk Software https://support.</description>
+      <description>CNAME ALIAS URL records  amazon web services - Alias cname record for zone apex - Server Fault https://serverfault.com/questions/998538/alias-cname-record-for-zone-apex
+Differences between A, CNAME, ALIAS and URL records http://blog.mallow-tech.com/2017/05/differences-between-a-cname-alias-and-url-records/
+How to create an ALIAS record - Domains - Namecheap.com https://www.namecheap.com/support/knowledgebase/article.aspx/10128/2237/how-to-create-an-alias-record
+ Namecheap  Login Signup https://www.namecheap.com/myaccount/login-signup/?ReturnUrl=https%3A%2F%2Fap.www.namecheap.com%2Fsettings%2Fsecurity
+Namecheap.com • Login https://www.namecheap.com/myaccount/login/?ReturnUrl=%2fDomains%2fDomainControlPanel%2ffrankliu.org%2fadvancedns
+Account Panel Layout https://ap.www.namecheap.com/settings/security
+Namecheap Customer Survey https://nps.namecheap.com/survey/f425f6944b7284e1245e312d53907776
+Namecheap.com - Powered by Kayako Help Desk Software https://support.namecheap.com/visitor/index.php?/LiveChat/Chat/PrintChat/dIPukyOR1NZmEAciF1ca8ce2b0e74c3a876a710fbc8b9989ad8905dadwQVv74jq1ULNkkBInLc1Ge7D7WoO4K/72ewnl7moPog1T1R4QCpsq6BpYj0f86be6d8327309d0a84f41fb4e1d758b2914a0a7Reod51EZIjAM7jrLKPydyPB
+Namecheap.com - Powered by Kayako Help Desk Software https://support.</description>
     </item>
     
     <item>
@@ -1204,7 +1498,16 @@ a327ex/blog: gamedev blog https://github.</description>
       <pubDate>Mon, 17 Aug 2020 19:39:41 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/helpful-resources/</guid>
-      <description>ox-hugo   https://raw.githubusercontent.com/kaushalmodi/ox-hugo/master/test/site/content-org/all-posts.org image-size   #+attr_ORG: :width 1200 [[file:/path/to/an/image.png]]  https://llazarek.com/2018/10/images-in-org-mode.html sample svg   https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/ https://www.w3schools.com/graphics/svg_examples.asp css   ananke:  This is just a [params] custom_css = [&amp;#34;file.css&amp;#34;, &amp;#34;file2.css&amp;#34;]  https://discourse.gohugo.io/t/where-do-we-tell-hugo-about-our-css/619 This is also in ananke&amp;#39;s readme how org mode is parsed   https://github.com/niklasfasching/go-org/tree/master/org emacs easy hugo   https://github.com/masasam/emacs-easy-hugo/blob/master/easy-hugo.el Author: Masashi Miyaura using org mode in hugo   https://willschenk.com/articles/2019/using_org_mode_in_hugo/ has about short-codes for images mathjax   https://discourse.</description>
+      <description>ox-hugo https://raw.githubusercontent.com/kaushalmodi/ox-hugo/master/test/site/content-org/all-posts.org
+  image-size ~#+attr_ORG: :width 1200~ ~[[file:/path/to/an/image.png]]~
+  https://llazarek.com/2018/10/images-in-org-mode.html
+  sample svg https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/ https://www.w3schools.com/graphics/svg_examples.asp
+  css ananke:
+  This is just a [params] custom_css = [&amp;ldquo;file.css&amp;rdquo;, &amp;ldquo;file2.css&amp;rdquo;]
+https://discourse.gohugo.io/t/where-do-we-tell-hugo-about-our-css/619 This is also in ananke&amp;rsquo;s readme
+  how org mode is parsed https://github.com/niklasfasching/go-org/tree/master/org
+  emacs easy hugo https://github.com/masasam/emacs-easy-hugo/blob/master/easy-hugo.el Author: Masashi Miyaura
+  using org mode in hugo https://willschenk.com/articles/2019/using_org_mode_in_hugo/ has about short-codes for images</description>
     </item>
     
     <item>
@@ -1213,7 +1516,13 @@ a327ex/blog: gamedev blog https://github.</description>
       <pubDate>Mon, 17 Aug 2020 14:15:30 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/org-file/</guid>
-      <description>class ballon(): def __init__(self): pass   $x_2 + y_3 = 5$ $$ \sum_{i&amp;lt;j} \Pi $$  literals   Literal Examples (The Org Manual) https://orgmode.org/manual/Literal-Examples.html inline literals   Inline verbatim and code with quotes in Org-mode - Emacs Stack Exchange https://emacs.stackexchange.com/questions/13820/inline-verbatim-and-code-with-quotes-in-org-mode quotations   org mode - how to markup a quotation? - Emacs Stack Exchange https://emacs.stackexchange.com/questions/27601/how-to-markup-a-quotation code blocks   Structure of Code Blocks (The Org Manual) https://orgmode.</description>
+      <description>#+BEGIN_SRC python class ballon(): def init(self): pass #+END_SRC
+$x_2 + y_3 = 5$ $$ \sum_{i&amp;lt;j} \Pi $$
+[[../../images/anim1.svg]]
+ literals  Literal Examples (The Org Manual) https://orgmode.org/manual/Literal-Examples.html
+ inline literals  Inline verbatim and code with quotes in Org-mode - Emacs Stack Exchange https://emacs.stackexchange.com/questions/13820/inline-verbatim-and-code-with-quotes-in-org-mode
+ quotations  org mode - how to markup a quotation? - Emacs Stack Exchange https://emacs.stackexchange.com/questions/27601/how-to-markup-a-quotation
+ code blocks  Structure of Code Blocks (The Org Manual) https://orgmode.</description>
     </item>
     
     <item>
@@ -1249,7 +1558,31 @@ a327ex/blog: gamedev blog https://github.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/todo/</guid>
-      <description></description>
+      <description>computer science through puzzles - Google Search https://www.google.com/search?q=computer+science+through+puzzles&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;sxsrf=ALeKk01gloTgH_SfL_CVzpFRAvVzny1d7Q:1599416870400&amp;amp;ei=JipVX6aFGJXI-gT3qpX4DQ&amp;amp;start=20&amp;amp;sa=N&amp;amp;ved=2ahUKEwimsKGTlNXrAhUVpJ4KHXdVBd84ChDw0wN6BAgMEF8&amp;amp;biw=1375&amp;amp;bih=745
+Current Session - Session Buddy chrome-extension://edacconmaakjimmfgnblocblbcdcpbko/main.html
+combinatorics - Coloring dots in a circle with no two consecutive dots being the same color - Mathematics Stack Exchange https://math.stackexchange.com/questions/405109/coloring-dots-in-a-circle-with-no-two-consecutive-dots-being-the-same-color
+Proofs that Really Count: The Art of Combinatorial Proof (Dolciani Mathematical Expositions): Arthur T. Benjamin, Jennifer Quinn: 9780883853337: Amazon.com: Books https://www.amazon.com/dp/0883853337
+discrete mathematics - Bounds on rate $r$ for finishing $n$ jobs: $[w_1,w_2,\cdots, w_n]$ to be completed by time $H$ - Mathematics Stack Exchange https://math.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.frankliu.org/easyhugo/posts/todo1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/todo1/</guid>
+      <description>New Tab chrome://newtab/
+https://piazza.com/verify_account https://piazza.com/verify_account
+Syllabus for Machine Learning https://canvas.stanford.edu/courses/121703/assignments/syllabus
+CS 229 (131 unread) https://piazza.com/class/ka764abpkd62w?cid=689
+mnist | Powered by Box https://stanford.app.box.com/folder/119469048360
+Untitled Note 2020-09-05 14.40.08 https://stanford.app.box.com/notes/715923474584
+CS229: Machine Learning http://cs229.stanford.edu/
+CS229: Machine Learning http://cs229.stanford.edu/syllabus-summer2020.html
+L02: Review of Matrix Calculus, Probability https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5
+Summer 2020 - Machine Learning : Panopto https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
+windows how to screen shot selected window - Google Search https://www.google.com/search?q=windows+how+to+screen+shot+selected+window&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=windows+how+to+screen+shot+selected+window&amp;amp;aqs=chrome..69i57.12823j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+vnc server - Open Google Chrome in another display - Stack Overflow https://stackoverflow.</description>
     </item>
     
     <item>
@@ -1258,7 +1591,8 @@ a327ex/blog: gamedev blog https://github.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/veev/</guid>
-      <description> cross section corian exte hymaxcs 17000 - 22% 200,000 steel aluminun union city fabricatiom sip structural insulated panels 120,000 300 sq ft east union city workspace 80 san jose isolation  </description>
+      <description>cross section corian exte hymaxcs 17000 - 22% 200,000 steel aluminun union city fabricatiom sip structural insulated panels 120,000 300 sq ft east union city workspace 80 san jose isolation
+:</description>
     </item>
     
     <item>

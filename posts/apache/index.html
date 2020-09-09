@@ -6,7 +6,7 @@
     
     <title>Apache | My New Hugo Site</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.68.3" />
+    <meta name="generator" content="Hugo 0.74.3" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -29,22 +29,35 @@
     
     
     <meta property="og:title" content="Apache" />
-<meta property="og:description" content="modules   linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed cgi   Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/ wsgi   mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/ reverse proxy   node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16." />
+<meta property="og:description" content="modules  linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed
+ cgi Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/
+  wsgi mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/
+  reverse proxy node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server
+  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/apache/" />
 <meta property="article:published_time" content="2020-08-19T17:13:08-07:00" />
 <meta property="article:modified_time" content="2020-08-19T17:13:08-07:00" />
 <meta itemprop="name" content="Apache">
-<meta itemprop="description" content="modules   linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed cgi   Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/ wsgi   mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/ reverse proxy   node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16.">
+<meta itemprop="description" content="modules  linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed
+ cgi Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/
+  wsgi mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/
+  reverse proxy node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server
+  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16.">
 <meta itemprop="datePublished" content="2020-08-19T17:13:08-07:00" />
 <meta itemprop="dateModified" content="2020-08-19T17:13:08-07:00" />
 <meta itemprop="wordCount" content="69">
 
 
 
-<meta itemprop="keywords" content="," /><meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="," />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Apache"/>
-<meta name="twitter:description" content="modules   linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed cgi   Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/ wsgi   mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/ reverse proxy   node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16."/>
+<meta name="twitter:description" content="modules  linux - How to check which apache modules are enabled/installed? - Super User https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed
+ cgi Common Gateway Interface - Wikipedia https://en.wikipedia.org/wiki/Common_Gateway_Interface  What is Rack?: A Primer http://codefol.io/posts/What-is-Rack-A-Primer/
+  wsgi mod_wsgi (Apache) — Flask Documentation (1.1.x) https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/
+  reverse proxy node.js - NodeJS Express and Apache on same server - Stack Overflow https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server
+  How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16."/>
 
 	
     <script>
@@ -163,47 +176,34 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
-<h2 id="headline-1">
-modules
-</h2>
-<p>
-linux - How to check which apache modules are enabled/installed? - Super User
-<a href="https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed">https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed</a>
-</p>
-<h2 id="headline-2">
-cgi
-</h2>
-<p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul>
+<li>modules</li>
+</ul>
+<p>linux - How to check which apache modules are enabled/installed? - Super User
+<a href="https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed">https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed</a></p>
+<ul>
+<li>cgi
 Common Gateway Interface - Wikipedia
-<a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface">https://en.wikipedia.org/wiki/Common_Gateway_Interface</a>
-</p>
-<p>
-What is Rack?: A Primer
-<a href="http://codefol.io/posts/What-is-Rack-A-Primer/">http://codefol.io/posts/What-is-Rack-A-Primer/</a>
-</p>
-<h2 id="headline-3">
-wsgi
-</h2>
-<p>
+<a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface">https://en.wikipedia.org/wiki/Common_Gateway_Interface</a></li>
+</ul>
+<p>What is Rack?: A Primer
+<a href="http://codefol.io/posts/What-is-Rack-A-Primer/">http://codefol.io/posts/What-is-Rack-A-Primer/</a></p>
+<ul>
+<li>
+<p>wsgi
 mod_wsgi (Apache) — Flask Documentation (1.1.x)
-<a href="https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/">https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/</a>
-</p>
-<h2 id="headline-4">
-reverse proxy
-</h2>
-<p>
+<a href="https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/">https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/</a></p>
+</li>
+<li>
+<p>reverse proxy
 node.js - NodeJS Express and Apache on same server - Stack Overflow
-<a href="https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server">https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server</a>
-</p>
-<p>
-How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16.04 | DigitalOcean
-<a href="https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-ubuntu-16-04">https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-ubuntu-16-04</a>
-</p>
-<p>
-apache-rails-proxy-ssl
-<a href="https://gist.github.com/abachman/851492">https://gist.github.com/abachman/851492</a>
-</p>
+<a href="https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server">https://stackoverflow.com/questions/51290919/nodejs-express-and-apache-on-same-server</a></p>
+</li>
+</ul>
+<p>How To Use Apache as a Reverse Proxy with mod_proxy on Ubuntu 16.04 | DigitalOcean
+<a href="https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-ubuntu-16-04">https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-ubuntu-16-04</a></p>
+<p>apache-rails-proxy-ssl
+<a href="https://gist.github.com/abachman/851492">https://gist.github.com/abachman/851492</a></p>
 <ul class="pa0">
   
    <li class="list">

@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/family/</loc>
+    <lastmod>2020-09-08T17:36:46-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.frankliu.org/easyhugo/</loc>
-    <lastmod>2020-09-04T16:05:45-07:00</lastmod>
+    <lastmod>2020-09-08T17:36:46-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/</loc>
-    <lastmod>2020-09-04T16:05:45-07:00</lastmod>
+    <lastmod>2020-09-08T17:36:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/vnc/</loc>
+    <lastmod>2020-09-08T17:29:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/math/</loc>
+    <lastmod>2020-09-08T17:25:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/algorithms/</loc>
+    <lastmod>2020-09-07T13:20:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/machine-learning/</loc>
+    <lastmod>2020-09-07T12:59:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/design-patterns/</loc>
+    <lastmod>2020-09-06T17:49:59-07:00</lastmod>
   </url>
   
   <url>
@@ -583,6 +613,10 @@
   
   <url>
     <loc>https://www.frankliu.org/easyhugo/posts/todo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.frankliu.org/easyhugo/posts/todo1/</loc>
   </url>
   
   <url>
