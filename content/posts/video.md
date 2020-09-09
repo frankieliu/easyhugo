@@ -45,3 +45,23 @@ https://gist.github.com/mistic100/895f6d17b1e193334882a4c37d0d7748
 
 Vimeo downloader
 https://gist.githubusercontent.com/mistic100/895f6d17b1e193334882a4c37d0d7748/raw/1957dd9a31404727bb45e68bf104739f363dfad8/vimeo-downloader.js
+
+# breaking videos at mpeg frames
+
+How to split a video using FFMPEG so that each chunk starts with a key frame? - Stack Overflow
+https://stackoverflow.com/questions/14005110/how-to-split-a-video-using-ffmpeg-so-that-each-chunk-starts-with-a-key-frame
+
+Video Shrinker: How to Shrink Video File Size
+https://filmora.wondershare.com/video-editing-tips/shrink-video-file-size.html
+
+# video editors
+
+Top 12 Video Editors for Linux - Linux Video Editing Software
+https://filmora.wondershare.com/video-editor/free-linux-video-editor.html
+
+15 Best video editors for Linux as of 2020 - Slant
+https://www.slant.co/topics/2073/~video-editors-for-linux
+
+Lumen5 - Video Maker | Create Videos Online in Minutes
+https://lumen5.com/careers/#grnhse_app
+

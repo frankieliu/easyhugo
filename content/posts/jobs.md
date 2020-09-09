@@ -81,3 +81,55 @@ https://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-
 Using the LaTeX Resume Templates
 https://rpi.edu/dept/arc/training/latex/resumes/
 
+10 Tips for Writing a Great Engineering Resume - All Together
+https://alltogether.swe.org/2019/06/10-tips-for-writing-a-great-engineering-resume/
+
+SWE Career Center
+https://careers.swe.org/career-resources/articles/?article=1
+
+Job Seeker Help - SWE Career Center
+https://careers.swe.org/help/
+
+SWE Career Center
+https://careers.swe.org/career-resources/articles/?article=42&category=1&subcategory=1
+
+SWE Career Center
+https://careers.swe.org/career-resources/articles/?article=40&category=1&subcategory=1
+
+How to Make the Perfect Resume (With Examples!) | The Muse
+https://www.themuse.com/advice/how-to-make-a-resume-examples
+
+How to Make the Perfect Resume (With Examples!) | The Muse
+https://www.themuse.com/advice/how-to-make-a-resume-examples#employers
+
+How to Make the Perfect Resume (With Examples!) | The Muse
+https://www.themuse.com/advice/how-to-make-a-resume-examples#howtowriteresume
+
+How to Make the Perfect Resume (With Examples!) | The Muse
+https://www.themuse.com/advice/how-to-make-a-resume-examples#resumeexamples
+
+SWE Résumé – What is it and why should you care – Society of Women Engineers – Graduate Community
+https://swegrad.wordpress.com/2015/12/21/swe-resume/
+
+Please help me to improve my resume(SWE) : resumes
+https://www.reddit.com/r/resumes/comments/et81v3/please_help_me_to_improve_my_resumeswe/
+
+# manager
+
+7 Manager Interview Questions and Answers
+https://www.indeed.com/hire/interview-questions/manager?aceid=&gclid=CjwKCAjwqML6BRAHEiwAdquMnXWRIqlygnmYu5t5kZWCIx_bFDriGoVCkb-50ZCVhpAvy_NzpESJtBoCXKEQAvD_BwE
+
+(524) 5 Things You Should Never Say In a Job Interview - YouTube
+https://www.youtube.com/watch?v=wIjK-6Do6lg
+
+# linkedin
+
+10 Best Templates for LinkedIn Connection Requests | The Muse
+https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates
+
+How to reply to job recruiters on LinkedIn using InMail
+https://www.fastcompany.com/90393447/this-is-the-right-way-to-reply-to-a-recruiter-message-on-linkedin#:~:text=I'm%20interested%20in%20%5Bcompany's,d%20be%20a%20great%20fit%5D.
+
+7 changes for your LinkedIn profile if you've been laid off
+https://www.fastcompany.com/90508311/7-changes-to-make-your-linkedin-profile-if-youve-been-laid-off
+

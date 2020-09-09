@@ -49,4 +49,19 @@ ip addr
 How To Check IP Address on Ubuntu 18.04 (Desktop) - TecAdmin
 https://tecadmin.net/check-ip-address-ubuntu-18-04-desktop/#:~:text=Press%20CTRL%20%2B%20ALT%20%2B%20T%20to,addresses%20configured%20on%20your%20system.
 
+# firefox vs chrome problem xdg- exo- mime
+
+xdg-settings
+exo-preferred-applications
+update-alternatives --config x-www-browser
+.local/share/applicatoins/mimeapps.list
+.share/xfce4/helpers/custom-WebBrowser.desktop
+.config/mimeapps.list
+
+-- put desktop files here
+.local/share/applications/
+/usr/share/applications/
+
+I have tried to change all of these to point wslview but firefox still gets picked up somehow.
+In the end resorted to removing firefox.
 

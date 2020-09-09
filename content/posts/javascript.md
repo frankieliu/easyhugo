@@ -54,6 +54,18 @@ https://nodejs.org/en/download/
 
 ## nvm
 
+
+```bash
+# install nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh 
+| bash
+
+# if you want to use it right away
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+```
+
 nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 https://github.com/nvm-sh/nvm
 
