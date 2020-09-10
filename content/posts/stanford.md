@@ -224,3 +224,16 @@ https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-
 Summer 2020 - Machine Learning : Panopto
 https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
 
+# explore courses
+Stanford University Explore Courses
+https://explorecourses.stanford.edu/search?q=CS&view=catalog&academicYear=&filter-term-Autumn=on&filter-departmentcode-CS=on&page=2&filter-coursestatus-Active=on&collapse=
+
+YOUNES BENSOUDA MOURRI
+https://explorecourses.stanford.edu/instructor/younes
+
+President?s update on autumn 2020 undergraduate education - COVID-19
+https://healthalerts.stanford.edu/covid-19/2020/08/13/autumn-update/
+
+How to Enroll in Classes | Registrar's Office
+https://registrar.stanford.edu/resources-and-help/axess-students/how-enroll-classes
+

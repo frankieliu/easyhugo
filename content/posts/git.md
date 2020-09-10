@@ -114,3 +114,13 @@ https://hub.github.com/
 
 Viewing Differences Between Branches | Git Branches and Merging | Treehouse
 https://teamtreehouse.com/library/viewing-differences-between-branches
+
+# issues
+
+## github issues attaching a file
+
+attach a file by dragging and dropping, but must be .zipped
+
+github issues how to attach a file - Google Search
+[](https://www.google.com/search?q=github+issues+how+to+attach+a+file&rlz=1C1CHBF_enUS811US811&oq=github+issues+how+to+attach+a+file&aqs=chrome..69i57j69i64.7335j0j7&sourceid=chrome&ie=UTF-8)
+

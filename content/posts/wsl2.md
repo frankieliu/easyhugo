@@ -59,6 +59,18 @@ https://stackoverflow.com/questions/61686075/how-do-i-start-edge-from-wsl2
 How To Launch Microsoft Edge from Run or Command Prompt - Edge Talk
 https://edgetalk.net/how-to-launch-microsoft-edge-from-run-or-command-prompt/
 
+## powershell
+
+powershell.exe -F '<powershell script>.ps1'
+Note that you need to run explorer.exe .
+So that the network share will open up.
+
+Calling a PowerShell Script from WSL
+https://www.raymondcamden.com/2017/09/25/calling-a-powershell-script-from-wsl
+
+Running a command as Administrator using PowerShell? - Stack Overflow
+https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell
+
 # ssh
 
 Missing the proxy step

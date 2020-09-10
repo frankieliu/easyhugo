@@ -1,9 +1,3 @@
-computer science through puzzles - Google Search
-https://www.google.com/search?q=computer+science+through+puzzles&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk01gloTgH_SfL_CVzpFRAvVzny1d7Q:1599416870400&ei=JipVX6aFGJXI-gT3qpX4DQ&start=20&sa=N&ved=2ahUKEwimsKGTlNXrAhUVpJ4KHXdVBd84ChDw0wN6BAgMEF8&biw=1375&bih=745
-
-Current Session - Session Buddy
-chrome-extension://edacconmaakjimmfgnblocblbcdcpbko/main.html
-
 combinatorics - Coloring dots in a circle with no two consecutive dots being the same color - Mathematics Stack Exchange
 https://math.stackexchange.com/questions/405109/coloring-dots-in-a-circle-with-no-two-consecutive-dots-being-the-same-color
 
@@ -179,9 +173,6 @@ https://discourse.gohugo.io/t/hugo-on-bashonwindows-windows-subsystem-for-linux/
 Hugo development environment in WSL 2 - Sysadmins of the North
 https://www.saotn.org/hugo-development-environment-in-wsl-2/
 
-localhost
-http://localhost:1313/posts/asciidoc/
-
 Content Formats | Hugo
 https://gohugo.io/content-management/formats/
 
@@ -200,24 +191,6 @@ https://www.google.com/search?q=markdown+images&rlz=1C1CHBF_enUS811US811&oq=mark
 Mastering Markdown � GitHub Guides
 https://guides.github.com/features/mastering-markdown/
 
-History
-chrome://history/
-
-Inbox (27,354) - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox
-
-how to install asciidoc - Google Search
-https://www.google.com/search?q=how+to+install+asciidoc&rlz=1C1CHBF_enUS811US811&oq=how+to+install+asciidoc&aqs=chrome..69i57.5134j0j7&sourceid=chrome&ie=UTF-8
-
-Notifications | LinkedIn
-https://www.linkedin.com/notifications/
-
-(35) Image Overlap - Submission Detail - LeetCode
-https://leetcode.com/submissions/detail/392161952/?from=/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3450/
-
-Inbox (27,354) - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox
-
 Releases � gohugoio/hugo
 https://github.com/gohugoio/hugo/releases
 
@@ -230,20 +203,11 @@ https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/
 Prism
 https://prismjs.com/
 
-Download ? Prism
-https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+clike+javascript+abap+abnf+actionscript+ada+agda+al+antlr4+apacheconf+apl+applescript+aql+arduino+arff+asciidoc+aspnet+asm6502+autohotkey+autoit+bash+basic+batch+bbcode+bison+bnf+brainfuck+brightscript+bro+bsl+c+csharp+cpp+cil+clojure+cmake+coffeescript+concurnas+csp+crystal+css-extras+cypher+d+dart+dax+dhall+diff+django+dns-zone-file+docker+ebnf+editorconfig+eiffel+ejs+elixir+elm+etlua+erb+erlang+excel-formula+fsharp+factor+firestore-security-rules+flow+fortran+ftl+gml+gcode+gdscript+gedcom+gherkin+git+glsl+go+graphql+groovy+haml+handlebars+haskell+haxe+hcl+hlsl+http+hpkp+hsts+ichigojam+icon+ignore+inform7+ini+io+j+java+javadoc+javadoclike+javastacktrace+jolie+jq+jsdoc+js-extras+json+json5+jsonp+jsstacktrace+js-templates+julia+keyman+kotlin+latex+latte+less+lilypond+liquid+lisp+livescript+llvm+lolcode+lua+makefile+markdown+markup-templating+matlab+mel+mizar+mongodb+monkey+moonscript+n1ql+n4js+nand2tetris-hdl+naniscript+nasm+neon+nginx+nim+nix+nsis+objectivec+ocaml+opencl+oz+parigp+parser+pascal+pascaligo+pcaxis+peoplecode+perl+php+phpdoc+php-extras+plsql+powerquery+powershell+processing+prolog+properties+protobuf+pug+puppet+pure+purebasic+purescript+python+q+qml+qore+r+racket+jsx+tsx+reason+regex+renpy+rest+rip+roboconf+robotframework+ruby+rust+sas+sass+scss+scala+scheme+shell-session+smali+smalltalk+smarty+solidity+solution-file+soy+sparql+splunk-spl+sqf+sql+stan+iecst+stylus+swift+t4-templating+t4-cs+t4-vb+tap+tcl+tt2+textile+toml+turtle+twig+typescript+typoscript+unrealscript+vala+vbnet+velocity+verilog+vhdl+vim+visual-basic+warpscript+wasm+wiki+xeora+xml-doc+xojo+xquery+yaml+yang+zig
-
 Blogging with Asciidoctor and Hugo :: A Hack's Code ? Computer Engineering Student
 https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/
 
 Asciidoctor Diagram | Asciidoctor
 https://asciidoctor.org/docs/asciidoctor-diagram/
-
-localhost
-http://localhost:1313/posts/asciidoc/
-
-diagram-classes.png (269�282)
-http://localhost:1313/posts/asciidoc/diagram-classes.png
 
 Asciidoctor Diagram | Asciidoctor
 https://asciidoctor.org/docs/asciidoctor-diagram/
@@ -783,21 +747,6 @@ https://www.linuxcloudvps.com/blog/how-to-install-perl-modules-using-cpan-on-lin
 Hugo Server: Error
 http://localhost:1313/posts/asciidoc/
 
-Leetcode checklist
-https://www.frankliu.org/leet-200/
-
-(35) Explore - LeetCode
-https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3444/
-
-(5) Facebook Marketplace | Facebook
-https://www.facebook.com/marketplace
-
-Top post: Car break in - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXpMRdbPGdXGzTcFrdHbGZVCR
-
-Catherine messaged Frankie � Wacom Bamboo drawing tablet
-https://www.facebook.com/marketplace
-
 How do I cancel? | The Economist
 https://www-economist-com.stanford.idm.oclc.org/help/cancelsubscription
 
@@ -819,18 +768,6 @@ https://www.comixology.com/checkout/success
 Epic Games: 3 out of 10 Ep 5: The Rig Is Up! (PC Digital Download)
 https://slickdeals.net/f/14319293-free-pcdd-game-3-out-of-10-ep-5-the-rig-is-up-epic-games?src=frontpage
 
-10 best reminder apps for Android! - Android Authority
-https://www.androidauthority.com/best-reminder-apps-for-android-654628/#:~:text=Calendar%20Notify%20is%20an%20above,of%20your%20agenda%20and%20schedule.
-
-Google Calendar - Event details
-https://calendar.google.com/calendar/u/0/r/eventedit/bzJpNnJvMm1jODg4MnAycWk5bnBhNmVpZjBfMjAyMDA5MDhUMjAwMDAwWiBmcmFua2llLnkubGl1QG0
-
-Post Attendee - Zoom
-https://us04web.zoom.us/postattendee?id=38
-
-Stirling's approximation - Wikipedia
-https://en.wikipedia.org/wiki/Stirling%27s_approximation
-
 SF bay area for sale "board game" - craigslist
 https://sfbay.craigslist.org/search/sss?query=board%20game&sort=rel
 
@@ -842,96 +779,6 @@ https://www.facebook.com/marketplace/item/256102318726307
 
 Amazon.com: Huion H610 Pro V2 Graphic Drawing Tablet Android Supported Pen Tablet Tilt Function Battery-Free Stylus 8192 Pen Pressure with 8 Express Keys: Computers & Accessories
 https://www.amazon.com/Graphic-Drawing-Function-Battery-Free-Pressure/dp/B07DPC98DT
-
-Google Calendar - Week of September 13, 2020
-https://calendar.google.com/calendar/u/0/r/week/2020/9/15
-
-Inbox
-https://canvas.stanford.edu/conversations#filter=type=inbox
-
-Stanford University Explore Courses
-https://explorecourses.stanford.edu/search?q=CS&view=catalog&academicYear=&filter-term-Autumn=on&filter-departmentcode-CS=on&page=2&filter-coursestatus-Active=on&collapse=
-
-YOUNES BENSOUDA MOURRI
-https://explorecourses.stanford.edu/instructor/younes
-
-President?s update on autumn 2020 undergraduate education - COVID-19
-https://healthalerts.stanford.edu/covid-19/2020/08/13/autumn-update/
-
-How to Enroll in Classes | Registrar's Office
-https://registrar.stanford.edu/resources-and-help/axess-students/how-enroll-classes
-
-Asciidoctor Diagram | Asciidoctor
-https://asciidoctor.org/docs/asciidoctor-diagram/
-
-mermaidjs/mermaid.cli: Development has been moved to https://github.com/mermaid-js/mermaid-cli
-https://github.com/mermaidjs/mermaid.cli
-
-christiangoltz/shaape: Shaape is an ascii art to image converter designed to be used with asciidoc.
-https://github.com/christiangoltz/shaape
-
-frankieliu/svgbob: Convert your ascii diagram scribbles into happy little SVG
-https://github.com/frankieliu/svgbob
-
-Syntrax ? Syntrax 1.0 documentation
-https://kevinpt.github.io/syntrax/
-
-UMLet.com - Screenshots
-https://www.umlet.com/screenshots.htm
-
-A Visualization Grammar | Vega
-https://vega.github.io/vega/
-
-How Vega Works / Vega / Observable
-https://observablehq.com/@vega/how-vega-works
-
-Streaming Data | Vega-Lite
-https://vega.github.io/vega-lite/tutorials/streaming.html
-
-WaveDrom - Digital timing diagram everywhere
-https://wavedrom.com/
-
-Chart (e.g. Vega, vegalite) support in preview � Issue #242 � asciidoctor/asciidoctor-vscode
-https://github.com/asciidoctor/asciidoctor-vscode/issues/242
-
-Kroki!
-https://kroki.io/
-
-Kroki!
-https://kroki.io/#install
-
-Install Kroki :: Kroki Documentation
-https://docs.kroki.io/kroki/setup/install/
-
-AsciiDoc - Visual Studio Marketplace
-https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
-
-Mogztter/asciidoctor-kroki: Asciidoctor.js extension to convert diagrams to images using Kroki!
-https://github.com/Mogztter/asciidoctor-kroki
-
-asciidoctor/asciidoctor.js: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
-https://github.com/asciidoctor/asciidoctor.js
-
-Using kroki.io to support additional diagram types. � Issue #287 � asciidoctor/asciidoctor-intellij-plugin
-https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/287
-
-asciidoctor kroki plugin - Google Search
-https://www.google.com/search?q=asciidoctor+kroki+plugin&rlz=1C1CHBF_enUS811US811&oq=asciidoctor+kroki+plugin&aqs=chrome..69i57j69i60.6093j0j7&sourceid=chrome&ie=UTF-8
-
-Asciidoctor.js Live Preview - Chrome Web Store
-https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia?hl=en
-
-List of Asciidoctor Extensions | Asciidoctor
-https://asciidoctor.org/docs/extensions/
-
-Editing AsciiDoc with Live Preview | Asciidoctor
-https://asciidoctor.org/docs/editing-asciidoc-with-live-preview/
-
-Asciidoctor :: Discussion - Can asciidoctor-diagram be used with asciidoctor-pdf.js?
-https://discuss.asciidoctor.org/Can-asciidoctor-diagram-be-used-with-asciidoctor-pdf-js-td7571.html
-
-Kroki Plugin - Gridsome Asciidoc starter
-https://gridsome-starter-asciidoc.netlify.app/kroki-plugin/
 
 Modern Site Generator for Vue.js - Gridsome
 https://gridsome.org/
@@ -1016,3 +863,66 @@ https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/
 
 feat(asciidoc): set working dir to current content by muenchhausen � Pull Request #6561 � gohugoio/hugo
 https://github.com/gohugoio/hugo/pull/6561
+
+Asciidoc | My New Hugo Site
+https://www.frankliu.org/hugo2/posts/asciidoc/
+
+asciidoctor hugo syntax highlighting - Google Search
+https://www.google.com/search?q=asciidoctor+hugo+syntax+highlighting&rlz=1C1CHBF_enUS811US811&oq=asciidoctor+hugo+syntax+highlighting&aqs=chrome..69i57.14749j0j7&sourceid=chrome&ie=UTF-8
+
+AsciiDoc support doesn't include syntax highlighting � Issue #6 � oktadeveloper/okta-blog-hugo
+https://github.com/oktadeveloper/okta-blog-hugo/issues/6
+
+How to get syntax highlighter's CSS? � Issue #856 � asciidoctor/asciidoctor
+https://github.com/asciidoctor/asciidoctor/issues/856#issuecomment-32670660
+
+Creating a Blog with Hugo and AsciiDoctor � rgielen.net
+https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/
+
+rouge-ruby/rouge: A pure Ruby code highlighter that is compatible with Pygments
+https://github.com/rouge-ruby/rouge
+
+rouge/lib/rouge/themes at master � rouge-ruby/rouge
+https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
+
+hugo2/asciidoc.adoc at master � frankieliu/hugo2
+https://github.com/frankieliu/hugo2/blob/master/content/posts/asciidoc.adoc
+
+Preview of themes for Rouge syntax highlighter
+https://spsarolkar.github.io/rouge/themes/syntax-highlighter/2018/08/05/Rouge-themes-preview.html
+
+spsarolkar/rouge-theme-preview at gh-pages
+https://github.com/spsarolkar/rouge-theme-preview/tree/gh-pages
+
+Where is bash's history stored? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored#:~:text=bash%20keeps%20it%20in%20working,bash%20starts%20or%20on%20request.&text=While%20running%2C%20the%20history%20is,%22%24%2D%22%20)%20is%20set.
+
+command line - Bash history handling with multiple terminals - Ask Ubuntu
+https://askubuntu.com/questions/80371/bash-history-handling-with-multiple-terminals
+
+How to set the program defaults in Gnome Shell
+https://www.addictivetips.com/ubuntu-linux-tips/set-program-defaults-in-gnome-shell/
+
+[SOLVED] Proper way to start bmpanel / tint2 at startup. / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=100474
+
+Ubuntu Manpage: unclutter - remove idle cursor image from screen
+http://manpages.ubuntu.com/manpages/trusty/man1/unclutter.1.html#:~:text=unclutter%20removes%20the%20cursor%20image,have%20a%20mouse%20that%20twitches.
+
+bash - Create symlink - overwrite if one exists - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/207294/create-symlink-overwrite-if-one-exists/207296
+
+How to Check if a File or Directory Exists in Bash | Linuxize
+https://linuxize.com/post/bash-check-if-file-exists/
+
+terminal - Reusing output from last command in Bash - Stack Overflow
+https://stackoverflow.com/questions/24283097/reusing-output-from-last-command-in-bash
+
+Special Parameters (Bash Reference Manual)
+https://www.gnu.org/software/bash/manual/html_node/Special-Parameters.html
+
+Function and difference between $() and ${} in Makefile - Stack Overflow
+https://stackoverflow.com/questions/19475037/function-and-difference-between-and-in-makefile/19476225
+
+~/.config/openbox/autostart.sh / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=60552

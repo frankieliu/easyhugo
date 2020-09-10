@@ -72,6 +72,16 @@ https://github.com/nvm-sh/nvm
 nvm essential - Google Search
 https://www.google.com/search?q=nvm+essential&rlz=1C1CHBF_enUS811US811&oq=nvm+essential&aqs=chrome..69i57.3583j0j7&sourceid=chrome&ie=UTF-8
 
+## nvm default
+
+npm alias default node
+
+Set default node version with NVM ? Eric Binnion
+https://eric.blog/2016/08/23/set-default-node-version-with-nvm/
+
+"nvm use" not persisting � Issue #658 � nvm-sh/nvm
+https://github.com/nvm-sh/nvm/issues/658
+
 # express jquery web
 
 How to create a Web based File Browser using NodeJS, Express and JQuery Datatables – Sumit Chawla's Blog

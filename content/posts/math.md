@@ -38,3 +38,6 @@ https://www.facebook.com/groups/Imad.Zak/
 
 symbols - 'Floor' and 'ceiling' functions - TeX - LaTeX Stack Exchange
 https://tex.stackexchange.com/questions/42271/floor-and-ceiling-functions/42274
+
+Stirling's approximation - Wikipedia
+https://en.wikipedia.org/wiki/Stirling%27s_approximation

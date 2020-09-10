@@ -102,6 +102,11 @@ https://vim.fandom.com/wiki/Syntax_folding_of_Vim_scripts
 Vim Markdown Folding? - Stack Overflow
 https://stackoverflow.com/questions/3828606/vim-markdown-folding
 
+## macro
+
+vim how to record a macro - Google Search
+https://www.google.com/search?q=vim+how+to+record+a+macro&rlz=1C1CHBF_enUS811US811&oq=vim+how+to+record+a+macro&aqs=chrome..69i57.4996j0j7&sourceid=chrome&ie=UTF-8
+
 # Modes
 ## syntax highlight
 

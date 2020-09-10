@@ -37,3 +37,13 @@ wget -e robots=off -r -np site
 wget how to prevent robot - Google Search
 https://www.google.com/search?q=wget+how+to+prevent+robot&rlz=1C1CHBF_enUS811US811&oq=wget+how+to+prevent+robot&aqs=chrome..69i57.7154j0j7&sourceid=chrome&ie=UTF-8
 
+# tabs
+
+tabs -2 : makes it so that cat'ing sees only a tab of length 2
+less -x2 : similar for less
+
+indentation - Change tab size of "cat" command - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/32829/change-tab-size-of-cat-command
+
+Highly Voted Unanswered Questions - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/unanswered
