@@ -6,10 +6,43 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 17:36:46 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 17:12:42 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asciidoctor</title>
+      <link>https://www.frankliu.org/easyhugo/posts/asciidoctor/</link>
+      <pubDate>Wed, 09 Sep 2020 17:12:42 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/asciidoctor/</guid>
+      <description>asciidoctor syntax AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+Asciidoctor User Manual https://asciidoctor.org/docs/user-manual/#user-toc
+hugo asciidoctor cheat Hugo &amp;amp; Asciidoctor cheat sheet | https://zipproth.de/cheat-sheets/hugo-asciidoctor/
+equation reference requires :stem: latexmath :eqnnums: AMS
+:stem: latexmath :eqnums: AMS [stem] ++++ \begin{equation} \mu+\lambda \label{toto} \end{equation} ++++ Refer to stem:[\eqref{toto}]. asciidoctor/asciidoctor - Gitter https://gitter.im/asciidoctor/asciidoctor?at=56fc1c6be4a8384a1bbd58e3
+asciidoctor -&amp;gt; hugo There seems to be only one file: convert
+how does hugo take output from asciidoctor - Google Search https://www.</description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://www.frankliu.org/easyhugo/posts/css/</link>
+      <pubDate>Wed, 09 Sep 2020 17:12:03 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/css/</guid>
+      <description>toc placement toc placement and style � Issue #340 � theNewDynamic/gohugo-theme-ananke https://github.com/theNewDynamic/gohugo-theme-ananke/issues/340
+Base Templates and Blocks | Hugo https://gohugo.io/templates/base/
+splitting a screen How To Create A Split Screen https://www.w3schools.com/howto/howto_css_split_screen.asp
+Tryit Editor v3.6 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_split_screen
+Left Half and Right Half Layout - Many Different Ways | CSS-Tricks https://css-tricks.com/left-and-right/
+Tryit Editor v3.6 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_sel_before_style
+before and after CSS ::before Selector https://www.w3schools.com/cssref/sel_before.asp
+tachyons TACHYONS - Css Toolkit http://tachyons.io/#style
+mt3 mb1 f1 css - Google Search https://www.</description>
+    </item>
     
     <item>
       <title>Family</title>
@@ -1558,11 +1591,10 @@ $x_2 + y_3 = 5$ $$ \sum_{i&amp;lt;j} \Pi $$
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/todo/</guid>
-      <description>computer science through puzzles - Google Search https://www.google.com/search?q=computer+science+through+puzzles&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;sxsrf=ALeKk01gloTgH_SfL_CVzpFRAvVzny1d7Q:1599416870400&amp;amp;ei=JipVX6aFGJXI-gT3qpX4DQ&amp;amp;start=20&amp;amp;sa=N&amp;amp;ved=2ahUKEwimsKGTlNXrAhUVpJ4KHXdVBd84ChDw0wN6BAgMEF8&amp;amp;biw=1375&amp;amp;bih=745
-Current Session - Session Buddy chrome-extension://edacconmaakjimmfgnblocblbcdcpbko/main.html
-combinatorics - Coloring dots in a circle with no two consecutive dots being the same color - Mathematics Stack Exchange https://math.stackexchange.com/questions/405109/coloring-dots-in-a-circle-with-no-two-consecutive-dots-being-the-same-color
+      <description>combinatorics - Coloring dots in a circle with no two consecutive dots being the same color - Mathematics Stack Exchange https://math.stackexchange.com/questions/405109/coloring-dots-in-a-circle-with-no-two-consecutive-dots-being-the-same-color
 Proofs that Really Count: The Art of Combinatorial Proof (Dolciani Mathematical Expositions): Arthur T. Benjamin, Jennifer Quinn: 9780883853337: Amazon.com: Books https://www.amazon.com/dp/0883853337
-discrete mathematics - Bounds on rate $r$ for finishing $n$ jobs: $[w_1,w_2,\cdots, w_n]$ to be completed by time $H$ - Mathematics Stack Exchange https://math.</description>
+discrete mathematics - Bounds on rate $r$ for finishing $n$ jobs: $[w_1,w_2,\cdots, w_n]$ to be completed by time $H$ - Mathematics Stack Exchange https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-n-jobs-w-1-w-2-cdots-w-n-to-be-complet
+repository of computer science puzzles problems learning - Google Search https://www.</description>
     </item>
     
     <item>
