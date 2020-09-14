@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Wsl2 | My New Hugo Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.74.3" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+    
+      <link href="/easyhugo/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/easyhugo/css/custom.css">
+    
+
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Wsl2" />
+<meta property="og:description" content="x11 windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+VcXsrv Windows X Server download | SourceForge.net https://sourceforge.net/projects/vcxsrv/
+Xming X Server for Windows - Fonts http://www.straightrunning.com/XmingNotes/fonts.php
+xcfe https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
+opengl 190245 ? OpenGL apps report GLXBadContext X error on x86_64 https://bugzilla.redhat.com/show_bug.cgi?id=190245
+sudo aptitude install ubuntu-desktop mesa-utils export LIBGL_ALWAYS_INDIRECT=0
+Does WSL support openGL? � Issue #2855 � microsoft/WSL https://github.com/microsoft/WSL/issues/2855
+ubuntu Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/wsl2/" />
+<meta property="article:published_time" content="2020-08-18T14:11:59-07:00" />
+<meta property="article:modified_time" content="2020-08-18T14:11:59-07:00" />
+<meta itemprop="name" content="Wsl2">
+<meta itemprop="description" content="x11 windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+VcXsrv Windows X Server download | SourceForge.net https://sourceforge.net/projects/vcxsrv/
+Xming X Server for Windows - Fonts http://www.straightrunning.com/XmingNotes/fonts.php
+xcfe https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
+opengl 190245 ? OpenGL apps report GLXBadContext X error on x86_64 https://bugzilla.redhat.com/show_bug.cgi?id=190245
+sudo aptitude install ubuntu-desktop mesa-utils export LIBGL_ALWAYS_INDIRECT=0
+Does WSL support openGL? � Issue #2855 � microsoft/WSL https://github.com/microsoft/WSL/issues/2855
+ubuntu Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script">
+<meta itemprop="datePublished" content="2020-08-18T14:11:59-07:00" />
+<meta itemprop="dateModified" content="2020-08-18T14:11:59-07:00" />
+<meta itemprop="wordCount" content="1052">
+
+
+
+<meta itemprop="keywords" content="," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Wsl2"/>
+<meta name="twitter:description" content="x11 windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+VcXsrv Windows X Server download | SourceForge.net https://sourceforge.net/projects/vcxsrv/
+Xming X Server for Windows - Fonts http://www.straightrunning.com/XmingNotes/fonts.php
+xcfe https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
+opengl 190245 ? OpenGL apps report GLXBadContext X error on x86_64 https://bugzilla.redhat.com/show_bug.cgi?id=190245
+sudo aptitude install ubuntu-desktop mesa-utils export LIBGL_ALWAYS_INDIRECT=0
+Does WSL support openGL? � Issue #2855 � microsoft/WSL https://github.com/microsoft/WSL/issues/2855
+ubuntu Detect ubuntu on wsl https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script"/>
+
+	
+    <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/easyhugo/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        My New Hugo Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://www.frankliu.org/easyhugo/posts/wsl2/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://www.frankliu.org/easyhugo/posts/wsl2/&amp;text=Wsl2" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.frankliu.org/easyhugo/posts/wsl2/&amp;title=Wsl2" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Wsl2</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-08-18T14:11:59-07:00">August 18, 2020</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h1 id="x11">x11</h1>
+<p>windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow
+<a href="https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2">https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2</a></p>
+<p>VcXsrv Windows X Server download | SourceForge.net
+<a href="https://sourceforge.net/projects/vcxsrv/">https://sourceforge.net/projects/vcxsrv/</a></p>
+<p>Xming X Server for Windows - Fonts
+<a href="http://www.straightrunning.com/XmingNotes/fonts.php">http://www.straightrunning.com/XmingNotes/fonts.php</a></p>
+<p>xcfe
+<a href="https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/">https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/</a></p>
+<h2 id="opengl">opengl</h2>
+<p>190245 ? OpenGL apps report GLXBadContext X error on x86_64
+<a href="https://bugzilla.redhat.com/show_bug.cgi?id=190245">https://bugzilla.redhat.com/show_bug.cgi?id=190245</a></p>
+<p>sudo aptitude install ubuntu-desktop mesa-utils
+export LIBGL_ALWAYS_INDIRECT=0</p>
+<p>Does WSL support openGL? � Issue #2855 � microsoft/WSL
+<a href="https://github.com/microsoft/WSL/issues/2855">https://github.com/microsoft/WSL/issues/2855</a></p>
+<h1 id="ubuntu">ubuntu</h1>
+<p>Detect ubuntu on wsl
+<a href="https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script">https://stackoverflow.com/questions/38859145/detect-ubuntu-on-windows-vs-native-ubuntu-from-bash-script</a></p>
+<p>Virtual machine ip
+<a href="https://www.reddit.com/r/bashonubuntuonwindows/comments/c871g7/command_to_get_virtual_machine_ip_in_wsl2/">https://www.reddit.com/r/bashonubuntuonwindows/comments/c871g7/command_to_get_virtual_machine_ip_in_wsl2/</a></p>
+<h1 id="interoperability-with-windows">interoperability with windows</h1>
+<h2 id="interop">interop</h2>
+<p>Windows interoperability with Linux | Microsoft Docs
+<a href="https://docs.microsoft.com/en-us/windows/wsl/interop">https://docs.microsoft.com/en-us/windows/wsl/interop</a></p>
+<h2 id="selecting-default-browser">selecting default browser</h2>
+<p>windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow
+<a href="https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal">https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal</a></p>
+<p>New Issue � wslutilities/wslu
+<a href="https://github.com/wslutilities/wslu/issues/new/choose">https://github.com/wslutilities/wslu/issues/new/choose</a></p>
+<h2 id="how-to-start-edge">how to start edge</h2>
+<p>windows subsystem for linux - How do I start Edge from WSL2? - Stack Overflow
+<a href="https://stackoverflow.com/questions/61686075/how-do-i-start-edge-from-wsl2">https://stackoverflow.com/questions/61686075/how-do-i-start-edge-from-wsl2</a></p>
+<p>How To Launch Microsoft Edge from Run or Command Prompt - Edge Talk
+<a href="https://edgetalk.net/how-to-launch-microsoft-edge-from-run-or-command-prompt/">https://edgetalk.net/how-to-launch-microsoft-edge-from-run-or-command-prompt/</a></p>
+<p>windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow
+<a href="https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal">https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal</a></p>
+<p>windows - WSL (Ubuntu): how to open localhost in browser from bash terminal - Stack Overflow
+<a href="https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal">https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal</a></p>
+<p>how to add a desktop file for wslview - Google Search
+<a href="https://www.google.com/search?q=how+to+add+a+desktop+file+for+wslview&amp;rlz=1C1CHBF_enUS811US811&amp;oq=how+to+add+a+desktop+file+for+wslview&amp;aqs=chrome..69i57.6872j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=how+to+add+a+desktop+file+for+wslview&amp;rlz=1C1CHBF_enUS811US811&amp;oq=how+to+add+a+desktop+file+for+wslview&amp;aqs=chrome..69i57.6872j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>Is there a way to open a file in a browser from WSL? e.g. the command <code>open foo.html</code> in any Unix : bashonubuntuonwindows
+<a href="https://www.reddit.com/r/bashonubuntuonwindows/comments/8teo9i/is_there_a_way_to_open_a_file_in_a_browser_from/">https://www.reddit.com/r/bashonubuntuonwindows/comments/8teo9i/is_there_a_way_to_open_a_file_in_a_browser_from/</a></p>
+<h2 id="powershell">powershell</h2>
+<p>powershell.exe -F &lsquo;<powershell script>.ps1&rsquo;
+Note that you need to run explorer.exe .
+So that the network share will open up.</p>
+<p>Calling a PowerShell Script from WSL
+<a href="https://www.raymondcamden.com/2017/09/25/calling-a-powershell-script-from-wsl">https://www.raymondcamden.com/2017/09/25/calling-a-powershell-script-from-wsl</a></p>
+<p>Running a command as Administrator using PowerShell? - Stack Overflow
+<a href="https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell">https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell</a></p>
+<h1 id="ssh">ssh</h1>
+<p>Missing the proxy step</p>
+<p>SSH on Windows Subsystem for Linux (WSL) | Illuminia Studios
+<a href="https://www.illuminiastudios.com/dev-diaries/ssh-on-windows-subsystem-for-linux/">https://www.illuminiastudios.com/dev-diaries/ssh-on-windows-subsystem-for-linux/</a></p>
+<p>Windows interoperability with Linux | Microsoft Docs
+<a href="https://docs.microsoft.com/en-us/windows/wsl/interop">https://docs.microsoft.com/en-us/windows/wsl/interop</a></p>
+<p>SSH-ing into a Windows WSL Linux Subsystem � Jeet Sukumaran
+<a href="https://jeetblogs.org/post/sshing-into-a-windows-wsl-linux-subsystem/">https://jeetblogs.org/post/sshing-into-a-windows-wsl-linux-subsystem/</a></p>
+<p>Linux&rsquo;izing your Windows PC into a dev machine ? Part 1 | cepa.io
+<a href="https://cepa.io/2018/02/10/linuxizing-your-windows-pc-part1/">https://cepa.io/2018/02/10/linuxizing-your-windows-pc-part1/</a></p>
+<p>Linux&rsquo;izing your Windows PC into a dev machine ? Part 2 | cepa.io
+<a href="https://cepa.io/2018/02/20/linuxizing-your-windows-pc-part2/">https://cepa.io/2018/02/20/linuxizing-your-windows-pc-part2/</a></p>
+<h2 id="best-of-the-lot">best of the lot</h2>
+<p>How to SSH into WSL2 on Windows 10 from an external machine - Scott Hanselman
+<a href="https://www.hanselman.com/blog/HowToSSHIntoWSL2OnWindows10FromAnExternalMachine.aspx">https://www.hanselman.com/blog/HowToSSHIntoWSL2OnWindows10FromAnExternalMachine.aspx</a></p>
+<p>THE EASY WAY how to SSH into Bash and WSL2 on Windows 10 from an external machine - Scott Hanselman
+<a href="https://www.hanselman.com/blog/THEEASYWAYHowToSSHIntoBashAndWSL2OnWindows10FromAnExternalMachine.aspx">https://www.hanselman.com/blog/THEEASYWAYHowToSSHIntoBashAndWSL2OnWindows10FromAnExternalMachine.aspx</a></p>
+<h2 id="hyper-v">hyper-v</h2>
+<p>hyper v - ubuntu under windows subsystem for linux 2 (wsl2) has no internet access - Stack Overflow
+<a href="https://stackoverflow.com/questions/62406362/ubuntu-under-windows-subsystem-for-linux-2-wsl2-has-no-internet-access">https://stackoverflow.com/questions/62406362/ubuntu-under-windows-subsystem-for-linux-2-wsl2-has-no-internet-access</a></p>
+<h2 id="forwarding-port-for-ssh">forwarding port for ssh</h2>
+<h3 id="install">install</h3>
+<p>$ sudo apt install openssh-server</p>
+<p>or if installed already</p>
+<p>$ dpkg &ndash;reconfigure openssh-server</p>
+<h3 id="sshd-config">sshd config</h3>
+<p>Using port 2222</p>
+<p>$ sudo vim /etc/ssh/sshd_config</p>
+<pre><code>Port 2222
+#AddressFamily any
+ListenAddress 0.0.0.0
+#ListenAddress ::
+</code></pre><p>$ service ssh start</p>
+<h3 id="forward-ports-to-wsl">forward ports to wsl</h3>
+<p>Use ip addr to find out the address of wsl</p>
+<p>netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=2222 connectaddress=172.23.129.80 connectport=2222</p>
+<h3 id="open-the-firewall">open the firewall</h3>
+<p>netsh advfirewall firewall add rule name=?Open Port 2222 for WSL2? dir=in action=allow protocol=TCP localport=2222</p>
+<p>netsh interface portproxy show v4tov4</p>
+<p>netsh int portproxy reset all</p>
+<h3 id="automated-script">automated script</h3>
+<p>Since the connectaddress does change, might want to script it:</p>
+<p>~/bin/powershell-proxy.ps1</p>
+<h1 id="connection-to-outside">connection to outside</h1>
+<p>sudo bash -c &lsquo;echo &ldquo;nameserver 8.8.8.8&rdquo; &gt; /etc/resolv.conf&rsquo;
+sudo bash -c &lsquo;echo &ldquo;nameserver 8.8.4.4&rdquo; &raquo; /etc/resolv.conf&rsquo;</p>
+<p>Can not connect to internet in WSL 2 � Issue #4275 � microsoft/WSL
+<a href="https://github.com/microsoft/WSL/issues/4275">https://github.com/microsoft/WSL/issues/4275</a></p>
+<h1 id="from-windows-to-wsl">from windows to wsl</h1>
+<p>$ explorer.exe .</p>
+<p>This will open explorer to the location</p>
+<p>powershell&gt; cd \ws$\Ubuntu\home\user\whatever</p>
+<h1 id="windows-address">windows address</h1>
+<p>$ ipconfig.exe</p>
+<h1 id="speeding-up-compilation">speeding up compilation</h1>
+<ol>
+<li>
+<p>need to make an exception to the ubuntu folder</p>
+<p>So, first get the UbuntuOnLinux (or your distro of choice) installation path
+going to %USERPROFILE%\AppData\Local\Packages and lookup for something like
+CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc.</p>
+<p>Copy the entire path from Explorer.exe address bar, then go to:</p>
+<p>Settings &gt; Update &amp; Security &gt; Windows Defender &gt; Open Windows Defender
+Secutiry Central &gt; Protection Against Viruses &amp; Threats &gt; Advanced Config? &gt;
+Exclusions &gt; Add or Remove &gt; Add &gt; Folder and finally: paste the previous
+copied path.</p>
+</li>
+<li>
+<p>need to make an exception to the binaries (process) from ubuntu</p>
+<ol>
+<li>use the script from noelbundick
+<a href="https://gist.github.com/noelbundick/9c804a710eb76e1d6a234b14abf42a52">https://gist.github.com/noelbundick/9c804a710eb76e1d6a234b14abf42a52</a></li>
+<li>this is referenced from the reddit</li>
+</ol>
+</li>
+<li>
+<p>turn off real time protection</p>
+<ol>
+<li>win-r gpedit.msc</li>
+<li>On your Group Policy management machine, open the Group Policy Management
+Console, right-click the Group Policy Object you want to configure and
+click Edit.</li>
+<li>In the Group Policy Management Editor go to Computer configuration.</li>
+<li>Click Policies then Administrative templates.</li>
+<li>Expand the tree to Windows components &gt; Windows Defender Antivirus &gt;
+Real-time protection.</li>
+<li>Double-click the Turn off real-time protection setting and set the option
+to Enabled. Click OK.</li>
+</ol>
+</li>
+</ol>
+<p>Exclude WSL installations from Windows Defender realtime protection
+<a href="https://gist.github.com/noelbundick/9c804a710eb76e1d6a234b14abf42a52">https://gist.github.com/noelbundick/9c804a710eb76e1d6a234b14abf42a52</a></p>
+<p>Speeding up WSL I/O up than 5x fast + saving a lot of battery life &amp; CPU usage | by Leandro Cavalcante (@leandrocrs) | Medium
+<a href="https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74">https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74</a></p>
+<p>Windows Defender/Anti-malware Causing Performance Issues after CU update � Issue #1932 � microsoft/WSL
+<a href="https://github.com/Microsoft/WSL/issues/1932">https://github.com/Microsoft/WSL/issues/1932</a></p>
+<p>Slow compilation and file I/O : bashonubuntuonwindows
+<a href="https://www.reddit.com/r/bashonubuntuonwindows/comments/8adfbm/slow_compilation_and_file_io/dwz6sn8/">https://www.reddit.com/r/bashonubuntuonwindows/comments/8adfbm/slow_compilation_and_file_io/dwz6sn8/</a></p>
+<p>Building GCC 10 on Windows Subsystem for Linux | Solarian Programmer
+<a href="https://solarianprogrammer.com/2017/05/04/building-gcc-wsl-windows-subsystem-linux/">https://solarianprogrammer.com/2017/05/04/building-gcc-wsl-windows-subsystem-linux/</a></p>
+<p>wsl disable windows defender - Google Search
+<a href="https://www.google.com/search?q=wsl+disable+windows+defender&amp;rlz=1C1CHBF_enUS811US811&amp;oq=wsl+disable+windows+defender&amp;aqs=chrome..69i57.6624j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=wsl+disable+windows+defender&amp;rlz=1C1CHBF_enUS811US811&amp;oq=wsl+disable+windows+defender&amp;aqs=chrome..69i57.6624j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>antivirus - How unwise is it to exclude WSL from Windows Defender? - Information Security Stack Exchange
+<a href="https://security.stackexchange.com/questions/219553/how-unwise-is-it-to-exclude-wsl-from-windows-defender">https://security.stackexchange.com/questions/219553/how-unwise-is-it-to-exclude-wsl-from-windows-defender</a></p>
+<p>Optimizing WSL | Matthew Carew
+<a href="https://matthewcarew.com/optimizing-wsl/">https://matthewcarew.com/optimizing-wsl/</a></p>
+<p>WSL and Windows Defender � Issue #3435 � microsoft/WSL
+<a href="https://github.com/microsoft/WSL/issues/3435">https://github.com/microsoft/WSL/issues/3435</a></p>
+<p>Windows Defender/Anti-malware Causing Performance Issues after CU update � Issue #1932 � microsoft/WSL
+<a href="https://github.com/microsoft/WSL/issues/1932">https://github.com/microsoft/WSL/issues/1932</a></p>
+<p>Microsoft Developer: You Still Should Have Anti-Virus With Windows Subsystem For Linux - Phoronix
+<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Windows-Defender-WSL-Needed">https://www.phoronix.com/scan.php?page=news_item&amp;px=Windows-Defender-WSL-Needed</a></p>
+<p>Improving Windows Subsystem for Linux WSL by 500% - Minutes to Seconds
+<a href="https://www.cicoria.com/improving-windows-subsystem-for-linux-wsl-by-500-minutes-to-seconds/">https://www.cicoria.com/improving-windows-subsystem-for-linux-wsl-by-500-minutes-to-seconds/</a></p>
+<p>Very slow performance - is this normal for WSL? : bashonubuntuonwindows
+<a href="https://www.reddit.com/r/bashonubuntuonwindows/comments/a23nul/very_slow_performance_is_this_normal_for_wsl/">https://www.reddit.com/r/bashonubuntuonwindows/comments/a23nul/very_slow_performance_is_this_normal_for_wsl/</a></p>
+<p>Speedup WSL by disabling Windows Real-time protection
+<a href="https://leandrw.com.br/speedup-wsl-by-disabling-windows-real-time-protection/#:~:text=Click%20Policies%20then%20Administrative%20templates,Click%20OK">https://leandrw.com.br/speedup-wsl-by-disabling-windows-real-time-protection/#:~:text=Click%20Policies%20then%20Administrative%20templates,Click%20OK</a></p>
+<p>Enable and configure Microsoft Defender Antivirus protection capabilities - Windows security | Microsoft Docs
+<a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/configure-real-time-protection-microsoft-defender-antivirus">https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/configure-real-time-protection-microsoft-defender-antivirus</a></p>
+<p>Epic Development Environment using Windows Subsystem for Linux | by John Woodruff | Medium
+<a href="https://medium.com/@johnbwoodruff/epic-dev-environment-with-wsl-dc81e234ae61">https://medium.com/@johnbwoodruff/epic-dev-environment-with-wsl-dc81e234ae61</a></p>
+<p>Slow compilation and file I/O : bashonubuntuonwindows
+<a href="https://www.reddit.com/r/bashonubuntuonwindows/comments/8adfbm/slow_compilation_and_file_io/dwz6sn8/">https://www.reddit.com/r/bashonubuntuonwindows/comments/8adfbm/slow_compilation_and_file_io/dwz6sn8/</a></p>
+<p>Building GCC 10 on Windows Subsystem for Linux | Solarian Programmer
+<a href="https://solarianprogrammer.com/2017/05/04/building-gcc-wsl-windows-subsystem-linux/">https://solarianprogrammer.com/2017/05/04/building-gcc-wsl-windows-subsystem-linux/</a></p>
+<p>Speeding up WSL I/O up than 5x fast + saving a lot of battery life &amp; CPU usage | by Leandro Cavalcante (@leandrocrs) | Medium
+<a href="https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74">https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74</a></p>
+<p>Speedup WSL by disabling Windows Real-time protection
+<a href="https://leandrw.com.br/speedup-wsl-by-disabling-windows-real-time-protection/#:~:text=Click%20Policies%20then%20Administrative%20templates,Click%20OK">https://leandrw.com.br/speedup-wsl-by-disabling-windows-real-time-protection/#:~:text=Click%20Policies%20then%20Administrative%20templates,Click%20OK</a>.</p>
+<p>Working with Group Policy Objects | Microsoft Docs
+<a href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc731212(v=ws.11)?redirectedfrom=MSDN">https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc731212(v=ws.11)?redirectedfrom=MSDN</a></p>
+<p>wsl disable windows defender - Google Search
+<a href="https://www.google.com/search?q=wsl+disable+windows+defender&amp;rlz=1C1CHBF_enUS811US811&amp;oq=wsl+disable+windows+defender&amp;aqs=chrome..69i57.6624j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=wsl+disable+windows+defender&amp;rlz=1C1CHBF_enUS811US811&amp;oq=wsl+disable+windows+defender&amp;aqs=chrome..69i57.6624j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>Exclude WSL installations from Windows Defender realtime protection
+<a href="https://gist.github.com/frankieliu/3ca0e35f3d5f3e4b67bbb046ba85c4a2">https://gist.github.com/frankieliu/3ca0e35f3d5f3e4b67bbb046ba85c4a2</a></p>
+<h1 id="jupyter">jupyter</h1>
+<p>Jupyter Notebook auto launch browser from WSL
+<a href="https://www.cicoria.com/jupyter-notebook-launch-browser-from-wsl/">https://www.cicoria.com/jupyter-notebook-launch-browser-from-wsl/</a></p>
+<h1 id="issues">issues</h1>
+<p>Issues � microsoft/WSL
+<a href="https://github.com/microsoft/WSL/issues">https://github.com/microsoft/WSL/issues</a></p>
+<h1 id="web-server-localhost-problem">web server localhost problem</h1>
+<p>How to access to the web server which running on WSL(Windows Subsystem for Linux) from local network - Stack Overflow
+<a href="https://stackoverflow.com/questions/49835559/how-to-access-to-the-web-server-which-running-on-wslwindows-subsystem-for-linux">https://stackoverflow.com/questions/49835559/how-to-access-to-the-web-server-which-running-on-wslwindows-subsystem-for-linux</a></p>
+<p>Cannot use localhost to access a react-app running in WSL2 � Issue #4885 � microsoft/WSL
+<a href="https://github.com/microsoft/WSL/issues/4885">https://github.com/microsoft/WSL/issues/4885</a></p>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/easyhugo/tags/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif"></a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/discord/">Discord</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/git/">Git</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/rcs/">RCS</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/alias-arecord/">Alias Arecord</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/vpn-stanford/">VPN Stanford</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/ik/">Ik</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/netlify/">Netlify</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/chinese-club-moss/">Chinese Club Moss</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/hub/">Hub</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/low-code/">Low Code</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/namecheap/">Namecheap</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/lua/">Lua</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/helpful-resources/">Helpful Resources</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.frankliu.org/easyhugo/" >
+    &copy;  My New Hugo Site 2020 
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/easyhugo/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>

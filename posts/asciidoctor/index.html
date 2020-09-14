@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Asciidoctor | My New Hugo Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.74.3" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+    
+      <link href="/easyhugo/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/easyhugo/css/custom.css">
+    
+
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Asciidoctor" />
+<meta property="og:description" content="asciidoctor syntax AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+Asciidoctor User Manual https://asciidoctor.org/docs/user-manual/#user-toc
+hugo asciidoctor cheat Hugo &amp; Asciidoctor cheat sheet | https://zipproth.de/cheat-sheets/hugo-asciidoctor/
+equation reference requires :stem: latexmath :eqnnums: AMS
+:stem: latexmath :eqnums: AMS [stem] &#43;&#43;&#43;&#43; \begin{equation} \mu&#43;\lambda \label{toto} \end{equation} &#43;&#43;&#43;&#43; Refer to stem:[\eqref{toto}]. asciidoctor/asciidoctor - Gitter https://gitter.im/asciidoctor/asciidoctor?at=56fc1c6be4a8384a1bbd58e3
+asciidoctor -&gt; hugo There seems to be only one file: convert
+how does hugo take output from asciidoctor - Google Search https://www." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/asciidoctor/" />
+<meta property="article:published_time" content="2020-09-09T17:12:42-07:00" />
+<meta property="article:modified_time" content="2020-09-09T17:12:42-07:00" />
+<meta itemprop="name" content="Asciidoctor">
+<meta itemprop="description" content="asciidoctor syntax AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+Asciidoctor User Manual https://asciidoctor.org/docs/user-manual/#user-toc
+hugo asciidoctor cheat Hugo &amp; Asciidoctor cheat sheet | https://zipproth.de/cheat-sheets/hugo-asciidoctor/
+equation reference requires :stem: latexmath :eqnnums: AMS
+:stem: latexmath :eqnums: AMS [stem] &#43;&#43;&#43;&#43; \begin{equation} \mu&#43;\lambda \label{toto} \end{equation} &#43;&#43;&#43;&#43; Refer to stem:[\eqref{toto}]. asciidoctor/asciidoctor - Gitter https://gitter.im/asciidoctor/asciidoctor?at=56fc1c6be4a8384a1bbd58e3
+asciidoctor -&gt; hugo There seems to be only one file: convert
+how does hugo take output from asciidoctor - Google Search https://www.">
+<meta itemprop="datePublished" content="2020-09-09T17:12:42-07:00" />
+<meta itemprop="dateModified" content="2020-09-09T17:12:42-07:00" />
+<meta itemprop="wordCount" content="1962">
+
+
+
+<meta itemprop="keywords" content="," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Asciidoctor"/>
+<meta name="twitter:description" content="asciidoctor syntax AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+Asciidoctor User Manual https://asciidoctor.org/docs/user-manual/#user-toc
+hugo asciidoctor cheat Hugo &amp; Asciidoctor cheat sheet | https://zipproth.de/cheat-sheets/hugo-asciidoctor/
+equation reference requires :stem: latexmath :eqnnums: AMS
+:stem: latexmath :eqnums: AMS [stem] &#43;&#43;&#43;&#43; \begin{equation} \mu&#43;\lambda \label{toto} \end{equation} &#43;&#43;&#43;&#43; Refer to stem:[\eqref{toto}]. asciidoctor/asciidoctor - Gitter https://gitter.im/asciidoctor/asciidoctor?at=56fc1c6be4a8384a1bbd58e3
+asciidoctor -&gt; hugo There seems to be only one file: convert
+how does hugo take output from asciidoctor - Google Search https://www."/>
+
+	
+    <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/easyhugo/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        My New Hugo Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://www.frankliu.org/easyhugo/posts/asciidoctor/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://www.frankliu.org/easyhugo/posts/asciidoctor/&amp;text=Asciidoctor" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.frankliu.org/easyhugo/posts/asciidoctor/&amp;title=Asciidoctor" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Asciidoctor</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-09-09T17:12:42-07:00">September 9, 2020</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h1 id="asciidoctor-syntax">asciidoctor syntax</h1>
+<p>AsciiDoc Syntax Quick Reference | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/">https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/</a></p>
+<p>AsciiDoc Syntax Quick Reference | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/">https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/</a></p>
+<p>Asciidoctor User Manual
+<a href="https://asciidoctor.org/docs/user-manual/#user-toc">https://asciidoctor.org/docs/user-manual/#user-toc</a></p>
+<h1 id="hugo-asciidoctor-cheat">hugo asciidoctor cheat</h1>
+<p>Hugo &amp; Asciidoctor cheat sheet |
+<a href="https://zipproth.de/cheat-sheets/hugo-asciidoctor/">https://zipproth.de/cheat-sheets/hugo-asciidoctor/</a></p>
+<h1 id="equation-reference-requires">equation reference requires</h1>
+<p>:stem: latexmath
+:eqnnums: AMS</p>
+<pre><code class="language-adoc" data-lang="adoc">:stem: latexmath
+:eqnums: AMS
+
+[stem]
+++++
+\begin{equation}
+\mu+\lambda
+\label{toto}
+\end{equation}
+++++
+
+Refer to stem:[\eqref{toto}].
+</code></pre><p>asciidoctor/asciidoctor - Gitter
+<a href="https://gitter.im/asciidoctor/asciidoctor?at=56fc1c6be4a8384a1bbd58e3">https://gitter.im/asciidoctor/asciidoctor?at=56fc1c6be4a8384a1bbd58e3</a></p>
+<h1 id="asciidoctor---hugo">asciidoctor -&gt; hugo</h1>
+<p>There seems to be only one file: convert</p>
+<p>how does hugo take output from asciidoctor - Google Search
+<a href="https://www.google.com/search?q=how+does+hugo+take+output+from+asciidoctor&amp;rlz=1C1CHBF_enUS811US811&amp;oq=how+does+hugo+take+output+from+asciidoctor&amp;aqs=chrome..69i57.10777j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=how+does+hugo+take+output+from+asciidoctor&amp;rlz=1C1CHBF_enUS811US811&amp;oq=how+does+hugo+take+output+from+asciidoctor&amp;aqs=chrome..69i57.10777j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>gohugoio/hugo: The world?s fastest framework for building websites.
+<a href="https://github.com/gohugoio/hugo">https://github.com/gohugoio/hugo</a></p>
+<p>jrutheiser/hugo-lithium-theme: Lithium - A simple responsive Hugo theme
+<a href="https://github.com/jrutheiser/hugo-lithium-theme">https://github.com/jrutheiser/hugo-lithium-theme</a></p>
+<p>STMA: AsciiDoc Support in the Hugo-Base Theme</p>
+<p><a href="https://stma.is/stick/2020-04-08-hugo-base-asciidoc-support/">https://stma.is/stick/2020-04-08-hugo-base-asciidoc-support/</a></p>
+<h1 id="blog">blog</h1>
+<p>Better Hugo/AsciiDoc HTML - ratfactor
+<a href="http://ratfactor.com/hugo-adoc-html5s">http://ratfactor.com/hugo-adoc-html5s</a></p>
+<p>Them&rsquo;s Good Broth! | Hugo and AsciiDoc
+<a href="https://stiobhart.net/2020-04-18-hugo-asciidoctor/">https://stiobhart.net/2020-04-18-hugo-asciidoctor/</a></p>
+<p>Creating a Blog with Hugo and AsciiDoctor � rgielen.net
+<a href="https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/">https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/</a></p>
+<p>Adventures of a software engineer/architect | Andreas&rsquo; Blog
+<a href="https://blog.anoff.io/">https://blog.anoff.io/</a></p>
+<p>Hello World! This is the most epic subtitle ever. | My cool new Blog
+<a href="https://lednerb.github.io/bilberry-hugo-theme/">https://lednerb.github.io/bilberry-hugo-theme/</a></p>
+<h1 id="rogue">rogue</h1>
+<p>There is an error in rouge using old ** expansion, or handling of positional arguments.</p>
+<p>Decided to not use rouge.  One alternative is just using the
+rouge css or one could also use pygmentize, but need to have python 2</p>
+<p>jirutka/asciidoctor-rouge: Rouge code highlighter support for Asciidoctor
+<a href="https://github.com/jirutka/asciidoctor-rouge">https://github.com/jirutka/asciidoctor-rouge</a></p>
+<p>Solved: Warning: Using the last argument as keyword parameters is deprecated
+<a href="https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/">https://piechowski.io/post/last-arg-keyword-deprecated-ruby-2-7/</a></p>
+<p>How to fix Ruby 2.7 warning: Using the last argument as keyword parameters is deprecated ? kinopyo ? Bloggie
+<a href="https://bloggie.io/@kinopyo/how-to-fix-ruby-2-7-warning-using-the-last-argument-as-keyword-parameters-is-deprecated">https://bloggie.io/@kinopyo/how-to-fix-ruby-2-7-warning-using-the-last-argument-as-keyword-parameters-is-deprecated</a></p>
+<h1 id="the-best-site-to-preview-style-for-asciidoctor">The best site to preview style for asciidoctor</h1>
+<p>AsciiDoc Writer?s Guide
+<a href="http://themes.asciidoctor.org/preview/#converting-the-document-to-pdf">http://themes.asciidoctor.org/preview/#converting-the-document-to-pdf</a></p>
+<p>AsciiDoc Writer?s Guide
+<a href="http://themes.asciidoctor.org/preview/">http://themes.asciidoctor.org/preview/</a></p>
+<p>Asciidoctor :: Discussion - How to assign a specific font to a word or line of text?
+<a href="https://discuss.asciidoctor.org/How-to-assign-a-specific-font-to-a-word-or-line-of-text-td5986.html">https://discuss.asciidoctor.org/How-to-assign-a-specific-font-to-a-word-or-line-of-text-td5986.html</a></p>
+<p>Asciidoctor :: Discussion - Can I get asciidoctor&rsquo;s default styling stylesheet?
+<a href="https://discuss.asciidoctor.org/Can-I-get-asciidoctor-s-default-styling-stylesheet-td940.html">https://discuss.asciidoctor.org/Can-I-get-asciidoctor-s-default-styling-stylesheet-td940.html</a></p>
+<p>Produce Custom Themes Using the Asciidoctor Stylesheet Factory | Asciidoctor
+<a href="https://asciidoctor.org/docs/produce-custom-themes-using-asciidoctor-stylesheet-factory/">https://asciidoctor.org/docs/produce-custom-themes-using-asciidoctor-stylesheet-factory/</a></p>
+<p>Produce Custom Themes Using the Asciidoctor Stylesheet Factory | Asciidoctor
+<a href="https://asciidoctor.org/docs/produce-custom-themes-using-asciidoctor-stylesheet-factory/">https://asciidoctor.org/docs/produce-custom-themes-using-asciidoctor-stylesheet-factory/</a></p>
+<p>asciidoctor/asciidoctor-stylesheet-factory: A factory for producting the default stylesheet for the HTML converter in Asciidoctor. Assembled using Compass, Sass and Foundation.
+<a href="https://github.com/asciidoctor/asciidoctor-stylesheet-factory">https://github.com/asciidoctor/asciidoctor-stylesheet-factory</a></p>
+<p>bundler | RubyGems.org | your community gem host
+<a href="https://rubygems.org/gems/bundler">https://rubygems.org/gems/bundler</a></p>
+<p>hugo how to get asciidoctor styling - Google Search
+<a href="https://www.google.com/search?q=hugo+how+to+get+asciidoctor+styling&amp;rlz=1C1CHBF_enUS811US811&amp;oq=hugo+how+to+get+asciidoctor+styling&amp;aqs=chrome..69i57.17463j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=hugo+how+to+get+asciidoctor+styling&amp;rlz=1C1CHBF_enUS811US811&amp;oq=hugo+how+to+get+asciidoctor+styling&amp;aqs=chrome..69i57.17463j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>bric3.github.io/_asciidoctor.scss at 48a572d2c7778219984e2678664cb435788a2915 � bric3/bric3.github.io
+<a href="https://github.com/bric3/bric3.github.io/blob/48a572d2c7778219984e2678664cb435788a2915/assets/scss/hyde-hyde/_asciidoctor.scss">https://github.com/bric3/bric3.github.io/blob/48a572d2c7778219984e2678664cb435788a2915/assets/scss/hyde-hyde/_asciidoctor.scss</a></p>
+<p>Asciidoctor :: Discussion - Search for &lsquo;css&rsquo;
+<a href="https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=search_page&amp;node=1&amp;query=css&amp;i=48">https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=search_page&amp;node=1&amp;query=css&amp;i=48</a></p>
+<h1 id="toc-placement-in-ananke-and-asciidoctor">toc placement in ananke and asciidoctor</h1>
+<p>toc positioning wrt to content in default css � Issue #3751 � asciidoctor/asciidoctor
+<a href="https://github.com/asciidoctor/asciidoctor/issues/3751">https://github.com/asciidoctor/asciidoctor/issues/3751</a></p>
+<p>toc placement and style � Issue #340 � theNewDynamic/gohugo-theme-ananke
+<a href="https://github.com/theNewDynamic/gohugo-theme-ananke/issues/340">https://github.com/theNewDynamic/gohugo-theme-ananke/issues/340</a></p>
+<p>toc placement and style � Issue #340 � theNewDynamic/gohugo-theme-ananke
+<a href="https://github.com/theNewDynamic/gohugo-theme-ananke/issues/340">https://github.com/theNewDynamic/gohugo-theme-ananke/issues/340</a></p>
+<p>Asciidoctor :: Discussion - asciidoctor html table of contents in sidebar with volnitsky ?
+<a href="https://discuss.asciidoctor.org/asciidoctor-html-table-of-contents-in-sidebar-with-volnitsky-td5220.html">https://discuss.asciidoctor.org/asciidoctor-html-table-of-contents-in-sidebar-with-volnitsky-td5220.html</a></p>
+<p>Asciidoctor :: Discussion - TOC positioning wrt to content in default css
+<a href="https://discuss.asciidoctor.org/TOC-positioning-wrt-to-content-in-default-css-td8235.html">https://discuss.asciidoctor.org/TOC-positioning-wrt-to-content-in-default-css-td8235.html</a></p>
+<h1 id="convert-documents">convert documents</h1>
+<p>How do I convert a document? | Asciidoctor
+<a href="https://asciidoctor.org/docs/convert-documents/">https://asciidoctor.org/docs/convert-documents/</a></p>
+<h1 id="diagram">diagram</h1>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/#:~:text=Asciidoctor%20Diagram%20is%20a%20RubyGem,gem%20install%20in%20the%20CLI.&amp;text=by%20first%20adding%20the%20following%20entry%20to%20your%20project's%20Gemfile.&amp;text=Then%20execute%20bundle%20in%20the%20CLI">https://asciidoctor.org/docs/asciidoctor-diagram/#:~:text=Asciidoctor%20Diagram%20is%20a%20RubyGem,gem%20install%20in%20the%20CLI.&amp;text=by%20first%20adding%20the%20following%20entry%20to%20your%20project's%20Gemfile.&amp;text=Then%20execute%20bundle%20in%20the%20CLI</a>.</p>
+<p>This contains more examples</p>
+<p>Plain-text diagrams take shape in Asciidoctor! | Asciidoctor
+<a href="https://asciidoctor.org/news/2014/02/18/plain-text-diagrams-in-asciidoctor/">https://asciidoctor.org/news/2014/02/18/plain-text-diagrams-in-asciidoctor/</a></p>
+<p>File: README ? Documentation for asciidoctor-diagram (1.4.0)
+<a href="https://www.rubydoc.info/gems/asciidoctor-diagram/1.4.0">https://www.rubydoc.info/gems/asciidoctor-diagram/1.4.0</a></p>
+<p>asciidoctor/asciidoctor-diagram: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom.
+<a href="https://github.com/asciidoctor/asciidoctor-diagram">https://github.com/asciidoctor/asciidoctor-diagram</a></p>
+<p><a href="https://raw.githubusercontent.com/asciidoctor/asciidoctor-diagram/master/README.adoc">https://raw.githubusercontent.com/asciidoctor/asciidoctor-diagram/master/README.adoc</a>
+<a href="https://raw.githubusercontent.com/asciidoctor/asciidoctor-diagram/master/README.adoc">https://raw.githubusercontent.com/asciidoctor/asciidoctor-diagram/master/README.adoc</a></p>
+<p>Plain-text diagrams take shape in Asciidoctor! | Asciidoctor
+<a href="https://asciidoctor.org/news/2014/02/18/plain-text-diagrams-in-asciidoctor/">https://asciidoctor.org/news/2014/02/18/plain-text-diagrams-in-asciidoctor/</a></p>
+<h2 id="a2s">a2s</h2>
+<p>asciitosvg/asciitosvg: Create beautiful SVG renderings of ASCII diagrams.
+<a href="https://github.com/asciitosvg/asciitosvg">https://github.com/asciitosvg/asciitosvg</a></p>
+<h2 id="block_macro">block_macro</h2>
+<p>name-of-diagram::filename{target=&quot;output-name-wo-extension&rdquo;,format=svg,alt=&quot;alternatename&rdquo;,width=,height=}</p>
+<p>[plantuml,diagram-output-name,svg]</p>
+<p>diagram block_macro asciidoctor format alt - Google Search
+<a href="https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk02P5QuFWFsyrr7zdlUmSzNw-0ArDg%3A1599673672419&amp;ei=SBVZX9mTGdHa-gTw2qzYDg&amp;q=diagram+block_macro+asciidoctor+format+alt&amp;oq=diagram+block_macro+asciidoctor+format+alt&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQR1CKmgFYwqQBYK-oAWgAcAF4AIABmAGIAfEGkgEDNC40mAEAoAEBqgEHZ3dzLXdpesABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjZ14Do0NzrAhVRrZ4KHXAtC-sQ4dUDCA0&amp;uact=5">https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk02P5QuFWFsyrr7zdlUmSzNw-0ArDg%3A1599673672419&amp;ei=SBVZX9mTGdHa-gTw2qzYDg&amp;q=diagram+block_macro+asciidoctor+format+alt&amp;oq=diagram+block_macro+asciidoctor+format+alt&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQR1CKmgFYwqQBYK-oAWgAcAF4AIABmAGIAfEGkgEDNC40mAEAoAEBqgEHZ3dzLXdpesABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjZ14Do0NzrAhVRrZ4KHXAtC-sQ4dUDCA0&amp;uact=5</a></p>
+<h2 id="bpmn">bpmn</h2>
+<p>You can just run this example on the browser:
+use python -m http.server</p>
+<p>You can drag a bpmn file to edit in the moduler
+Make modifications
+And save it again to a bpmn file</p>
+<p>This is great!</p>
+<p>bpmn-js-examples/modeler at master � bpmn-io/bpmn-js-examples
+<a href="https://github.com/bpmn-io/bpmn-js-examples/tree/master/modeler">https://github.com/bpmn-io/bpmn-js-examples/tree/master/modeler</a></p>
+<p>BPMN editor | demo.bpmn.io
+<a href="https://demo.bpmn.io/s/start">https://demo.bpmn.io/s/start</a></p>
+<p>How to import bpmn file from a directory in the page html? � Issue #86 � bpmn-io/bpmn-js-examples
+<a href="https://github.com/bpmn-io/bpmn-js-examples/issues/86">https://github.com/bpmn-io/bpmn-js-examples/issues/86</a></p>
+<p>diagramUrl dont load from local url � Issue #941 � bpmn-io/bpmn-js
+<a href="https://github.com/bpmn-io/bpmn-js/issues/941">https://github.com/bpmn-io/bpmn-js/issues/941</a></p>
+<p>gtudan/bpmn-js-cmd: A command line tool for rendering BPMN-Diagrams with <a href="https://bpmn.io/toolkit/bpmn-js/">https://bpmn.io/toolkit/bpmn-js/</a>
+<a href="https://github.com/gtudan/bpmn-js-cmd">https://github.com/gtudan/bpmn-js-cmd</a></p>
+<p>gtudan/bpmn-js-cmd: A command line tool for rendering BPMN-Diagrams with <a href="https://bpmn.io/toolkit/bpmn-js/">https://bpmn.io/toolkit/bpmn-js/</a>
+<a href="https://github.com/gtudan/bpmn-js-cmd">https://github.com/gtudan/bpmn-js-cmd</a></p>
+<p>Web-based tooling for BPMN, DMN and CMMN | bpmn.io
+<a href="https://bpmn.io/">https://bpmn.io/</a></p>
+<p>BPMN editor | demo.bpmn.io
+<a href="https://demo.bpmn.io/s/start">https://demo.bpmn.io/s/start</a></p>
+<p>BPMN editor | demo.bpmn.io
+<a href="https://demo.bpmn.io/s/start">https://demo.bpmn.io/s/start</a></p>
+<p>bpmn-js-examples/bundling at master � bpmn-io/bpmn-js-examples
+<a href="https://github.com/bpmn-io/bpmn-js-examples/tree/master/bundling">https://github.com/bpmn-io/bpmn-js-examples/tree/master/bundling</a></p>
+<h2 id="ditaa">ditaa</h2>
+<p>ditaa output as svg - Google Search
+<a href="https://www.google.com/search?q=ditaa+output+as+svg&amp;rlz=1C1CHBF_enUS811US811&amp;oq=ditaa+output+as+svg&amp;aqs=chrome..69i57.5503j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=ditaa+output+as+svg&amp;rlz=1C1CHBF_enUS811US811&amp;oq=ditaa+output+as+svg&amp;aqs=chrome..69i57.5503j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<h2 id="erd">erd</h2>
+<p>BurntSushi/erd: Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
+<a href="https://github.com/BurntSushi/erd">https://github.com/BurntSushi/erd</a></p>
+<h2 id="meme">meme</h2>
+<p>ddrscott/convert_meme
+<a href="https://github.com/ddrscott/convert_meme">https://github.com/ddrscott/convert_meme</a></p>
+<p>Using Image Magick convert tool, to make a meme. | Weasy Tech- Look What I can do!
+<a href="http://www.weasy.net/2015/04/using-image-magick-convert-to-make-meme.html">http://www.weasy.net/2015/04/using-image-magick-convert-to-make-meme.html</a></p>
+<p>Add a meme generator extension � Issue #93 � asciidoctor/asciidoctor-diagram
+<a href="https://github.com/asciidoctor/asciidoctor-diagram/issues/93">https://github.com/asciidoctor/asciidoctor-diagram/issues/93</a></p>
+<h2 id="mermaid">mermaid</h2>
+<p>Mermaid Export - Visual Studio Marketplace
+<a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.mermaid-export">https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.mermaid-export</a></p>
+<h2 id="nomnoml">nomnoml</h2>
+<p>nomnoml
+<a href="http://nomnoml.com/">http://nomnoml.com/</a></p>
+<p>skanaar/nomnoml: The sassy UML diagram renderer
+<a href="https://github.com/skanaar/nomnoml">https://github.com/skanaar/nomnoml</a></p>
+<h2 id="plantuml">plantuml</h2>
+<p>call it from your script using command line
+<a href="https://plantuml.com/command-line">https://plantuml.com/command-line</a></p>
+<h2 id="shaape">shaape</h2>
+<p>christiangoltz/shaape: Shaape is an ascii art to image converter designed to be used with asciidoc.
+<a href="https://github.com/christiangoltz/shaape">https://github.com/christiangoltz/shaape</a></p>
+<h2 id="state-machine-cat">state machine cat</h2>
+<p>sverweij/state-machine-cat: write beautiful state charts
+<a href="https://github.com/sverweij/state-machine-cat">https://github.com/sverweij/state-machine-cat</a></p>
+<h2 id="svgbob-rust">svgbob (rust)</h2>
+<p>What is the best way to use this on a system with node install but not rust � Issue #35 � ivanceras/svgbob
+<a href="https://github.com/ivanceras/svgbob/issues/35">https://github.com/ivanceras/svgbob/issues/35</a></p>
+<p>ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+<a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob</a></p>
+<p>ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+<a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob</a></p>
+<p>ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+<a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob</a></p>
+<p>Installation - The Cargo Book
+<a href="https://doc.rust-lang.org/cargo/getting-started/installation.html#:~:text=Install%20Rust%20and%20Cargo,rustup%20will%20also%20install%20cargo%20.&amp;text=It%20will%20download%20a%20script%2C%20and%20start%20the%20installation">https://doc.rust-lang.org/cargo/getting-started/installation.html#:~:text=Install%20Rust%20and%20Cargo,rustup%20will%20also%20install%20cargo%20.&amp;text=It%20will%20download%20a%20script%2C%20and%20start%20the%20installation</a>.</p>
+<p>Installation - The Cargo Book
+<a href="https://doc.rust-lang.org/cargo/getting-started/installation.html#:~:text=Install%20Rust%20and%20Cargo,rustup%20will%20also%20install%20cargo%20.&amp;text=It%20will%20download%20a%20script%2C%20and%20start%20the%20installation">https://doc.rust-lang.org/cargo/getting-started/installation.html#:~:text=Install%20Rust%20and%20Cargo,rustup%20will%20also%20install%20cargo%20.&amp;text=It%20will%20download%20a%20script%2C%20and%20start%20the%20installation</a>.</p>
+<h2 id="symbolator">symbolator</h2>
+<p>kevinpt/symbolator: HDL symbol generator
+<a href="https://github.com/kevinpt/symbolator">https://github.com/kevinpt/symbolator</a></p>
+<h2 id="syntrax">syntrax</h2>
+<p>Syntrax ? Syntrax 1.0 documentation
+<a href="https://kevinpt.github.io/syntrax/">https://kevinpt.github.io/syntrax/</a></p>
+<h2 id="umlet">umlet</h2>
+<p>UMLet - Free UML Tools for fast UML diagrams
+<a href="https://www.umlet.com/">https://www.umlet.com/</a></p>
+<p>UMLetino - Free Online UML Tool for Fast UML Diagrams
+<a href="http://www.umletino.com/">http://www.umletino.com/</a></p>
+<p>UMLetino - Free Online UML Tool for Fast UML Diagrams
+<a href="http://www.umletino.com/umletino.html">http://www.umletino.com/umletino.html</a></p>
+<h2 id="vega">vega</h2>
+<p><a href="https://vega.github.io/vega/data/flare.json">https://vega.github.io/vega/data/flare.json</a>
+<a href="https://vega.github.io/vega/data/flare.json">https://vega.github.io/vega/data/flare.json</a></p>
+<h2 id="wavedrom">wavedrom</h2>
+<p>wavedrom/cli: CLI for WaveDrom
+<a href="https://github.com/wavedrom/cli">https://github.com/wavedrom/cli</a></p>
+<p>PhantomJS - Scriptable Headless Browser
+<a href="https://phantomjs.org/">https://phantomjs.org/</a></p>
+<p>Wavedrom support � Issue #89 � asciidoctor/asciidoctor-diagram
+<a href="https://github.com/asciidoctor/asciidoctor-diagram/issues/89">https://github.com/asciidoctor/asciidoctor-diagram/issues/89</a></p>
+<p>wavedrom-cli - npm
+<a href="https://www.npmjs.com/package/wavedrom-cli">https://www.npmjs.com/package/wavedrom-cli</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<p>mermaidjs/mermaid.cli: Development has been moved to <a href="https://github.com/mermaid-js/mermaid-cli">https://github.com/mermaid-js/mermaid-cli</a>
+<a href="https://github.com/mermaidjs/mermaid.cli">https://github.com/mermaidjs/mermaid.cli</a></p>
+<p>christiangoltz/shaape: Shaape is an ascii art to image converter designed to be used with asciidoc.
+<a href="https://github.com/christiangoltz/shaape">https://github.com/christiangoltz/shaape</a></p>
+<p>frankieliu/svgbob: Convert your ascii diagram scribbles into happy little SVG
+<a href="https://github.com/frankieliu/svgbob">https://github.com/frankieliu/svgbob</a></p>
+<p>Syntrax ? Syntrax 1.0 documentation
+<a href="https://kevinpt.github.io/syntrax/">https://kevinpt.github.io/syntrax/</a></p>
+<p>UMLet.com - Screenshots
+<a href="https://www.umlet.com/screenshots.htm">https://www.umlet.com/screenshots.htm</a></p>
+<p>A Visualization Grammar | Vega
+<a href="https://vega.github.io/vega/">https://vega.github.io/vega/</a></p>
+<p>How Vega Works / Vega / Observable
+<a href="https://observablehq.com/@vega/how-vega-works">https://observablehq.com/@vega/how-vega-works</a></p>
+<p>Streaming Data | Vega-Lite
+<a href="https://vega.github.io/vega-lite/tutorials/streaming.html">https://vega.github.io/vega-lite/tutorials/streaming.html</a></p>
+<p>WaveDrom - Digital timing diagram everywhere
+<a href="https://wavedrom.com/">https://wavedrom.com/</a></p>
+<p>Chart (e.g. Vega, vegalite) support in preview � Issue #242 � asciidoctor/asciidoctor-vscode
+<a href="https://github.com/asciidoctor/asciidoctor-vscode/issues/242">https://github.com/asciidoctor/asciidoctor-vscode/issues/242</a></p>
+<p>Kroki!
+<a href="https://kroki.io/">https://kroki.io/</a></p>
+<p>Kroki!
+<a href="https://kroki.io/#install">https://kroki.io/#install</a></p>
+<p>Install Kroki :: Kroki Documentation
+<a href="https://docs.kroki.io/kroki/setup/install/">https://docs.kroki.io/kroki/setup/install/</a></p>
+<p>AsciiDoc - Visual Studio Marketplace
+<a href="https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode">https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode</a></p>
+<p>Mogztter/asciidoctor-kroki: Asciidoctor.js extension to convert diagrams to images using Kroki!
+<a href="https://github.com/Mogztter/asciidoctor-kroki">https://github.com/Mogztter/asciidoctor-kroki</a></p>
+<p>asciidoctor/asciidoctor.js: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
+<a href="https://github.com/asciidoctor/asciidoctor.js">https://github.com/asciidoctor/asciidoctor.js</a></p>
+<p>Using kroki.io to support additional diagram types. � Issue #287 � asciidoctor/asciidoctor-intellij-plugin
+<a href="https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/287">https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/287</a></p>
+<p>asciidoctor kroki plugin - Google Search
+<a href="https://www.google.com/search?q=asciidoctor+kroki+plugin&amp;rlz=1C1CHBF_enUS811US811&amp;oq=asciidoctor+kroki+plugin&amp;aqs=chrome..69i57j69i60.6093j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=asciidoctor+kroki+plugin&amp;rlz=1C1CHBF_enUS811US811&amp;oq=asciidoctor+kroki+plugin&amp;aqs=chrome..69i57j69i60.6093j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>Asciidoctor.js Live Preview - Chrome Web Store
+<a href="https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia?hl=en">https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia?hl=en</a></p>
+<p>List of Asciidoctor Extensions | Asciidoctor
+<a href="https://asciidoctor.org/docs/extensions/">https://asciidoctor.org/docs/extensions/</a></p>
+<p>Editing AsciiDoc with Live Preview | Asciidoctor
+<a href="https://asciidoctor.org/docs/editing-asciidoc-with-live-preview/">https://asciidoctor.org/docs/editing-asciidoc-with-live-preview/</a></p>
+<p>Asciidoctor :: Discussion - Can asciidoctor-diagram be used with asciidoctor-pdf.js?
+<a href="https://discuss.asciidoctor.org/Can-asciidoctor-diagram-be-used-with-asciidoctor-pdf-js-td7571.html">https://discuss.asciidoctor.org/Can-asciidoctor-diagram-be-used-with-asciidoctor-pdf-js-td7571.html</a></p>
+<p>Kroki Plugin - Gridsome Asciidoc starter
+<a href="https://gridsome-starter-asciidoc.netlify.app/kroki-plugin/">https://gridsome-starter-asciidoc.netlify.app/kroki-plugin/</a></p>
+<p>Let?s Make A Bar Chart Tutorial | Vega
+<a href="https://vega.github.io/vega/tutorials/bar-chart/">https://vega.github.io/vega/tutorials/bar-chart/</a></p>
+<p>Usage | Vega
+<a href="https://vega.github.io/vega/usage/#cli">https://vega.github.io/vega/usage/#cli</a></p>
+<p>Vega Lite Cli :: Anaconda Cloud
+<a href="https://anaconda.org/conda-forge/vega-lite-cli">https://anaconda.org/conda-forge/vega-lite-cli</a></p>
+<p>Compiling Vega-Lite to Vega | Vega-Lite
+<a href="https://vega.github.io/vega-lite/usage/compile.html#cli">https://vega.github.io/vega-lite/usage/compile.html#cli</a></p>
+<p><a href="https://vega.github.io/vega-lite/examples/data/movies.json">https://vega.github.io/vega-lite/examples/data/movies.json</a>
+<a href="https://vega.github.io/vega-lite/examples/data/movies.json">https://vega.github.io/vega-lite/examples/data/movies.json</a></p>
+<p>asciidoctor/asciidoctor-diagram: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom.
+<a href="https://github.com/asciidoctor/asciidoctor-diagram">https://github.com/asciidoctor/asciidoctor-diagram</a></p>
+<p>gtudan/bpmn-js-cmd: A command line tool for rendering BPMN-Diagrams with <a href="https://bpmn.io/toolkit/bpmn-js/">https://bpmn.io/toolkit/bpmn-js/</a>
+<a href="https://github.com/gtudan/bpmn-js-cmd">https://github.com/gtudan/bpmn-js-cmd</a></p>
+<p>JavaScript Developer, Graphical Modeling (m/f/d) - Camunda
+<a href="https://apply.workable.com/camunda/j/5ED6D67BC6/apply/">https://apply.workable.com/camunda/j/5ED6D67BC6/apply/</a></p>
+<p>ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+<a href="https://github.com/ivanceras/svgbob">https://github.com/ivanceras/svgbob</a></p>
+<p>wavedrom/cli: CLI for WaveDrom
+<a href="https://github.com/wavedrom/cli">https://github.com/wavedrom/cli</a></p>
+<p>gnuplot homepage
+<a href="http://gnuplot.info/">http://gnuplot.info/</a></p>
+<p>mermaid-js/mermaid-cli: Command line tool for the Mermaid library
+<a href="https://github.com/mermaid-js/mermaid-cli">https://github.com/mermaid-js/mermaid-cli</a></p>
+<p>nomnoml
+<a href="https://nomnoml.com/">https://nomnoml.com/</a></p>
+<p>frankieliu/nomnoml: The sassy UML diagram renderer
+<a href="https://github.com/frankieliu/nomnoml">https://github.com/frankieliu/nomnoml</a></p>
+<p>sverweij/state-machine-cat: write beautiful state charts
+<a href="https://github.com/sverweij/state-machine-cat">https://github.com/sverweij/state-machine-cat</a></p>
+<p>kevinpt/symbolator: HDL symbol generator
+<a href="https://github.com/kevinpt/symbolator">https://github.com/kevinpt/symbolator</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<p>graphic modeling m/f/d - Google Search
+<a href="https://www.google.com/search?q=graphic+modeling+m%2Ff%2Fd&amp;rlz=1C1CHBF_enUS811US811&amp;oq=graphic+modeling+m%2Ff%2Fd&amp;aqs=chrome..69i57j69i61l3.3779j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=graphic+modeling+m%2Ff%2Fd&amp;rlz=1C1CHBF_enUS811US811&amp;oq=graphic+modeling+m%2Ff%2Fd&amp;aqs=chrome..69i57j69i61l3.3779j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>What is WebAssembly? How WebAssembly Works (with Examples)
+<a href="https://blog.stackpath.com/webassembly/#:~:text=WebAssembly%20runs%20in%20all%20major,can%20also%20run%20in%20servers">https://blog.stackpath.com/webassembly/#:~:text=WebAssembly%20runs%20in%20all%20major,can%20also%20run%20in%20servers</a>.</p>
+<p>Content Formats | Hugo
+<a href="https://gohugo.io/content-management/formats/">https://gohugo.io/content-management/formats/</a></p>
+<p>hugo asciidoctor &ndash;destination - Google Search
+<a href="https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01dnTYlrU5307OZ2Blp2eDBQwhHEA%3A1599604312394&amp;ei=WAZYX-3DF9XOtQazmInYDQ&amp;q=hugo+asciidoctor+--destination&amp;oq=hugo+asciidoctor+--destination&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoHCCEQChCgAToECCEQCjoECCMQJzoFCAAQkQI6CwguELEDEMcBEKMCOgUILhCxAzoICC4QsQMQgwE6BQgAELEDOgIIADoCCC46BggAEBYQHjoICAAQFhAKEB46CAgAEAgQDRAeOgYIABANEB46BwgjELACECc6BAgAEA06CAgAEA0QBRAeUMhMWIubAWDrnQFoB3ABeACAAfECiAH3SJIBCDAuNy4zMy4xmAEAoAEBqgEHZ3dzLXdpesABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjtz8i2ztrrAhVVZ80KHTNMAtsQ4dUDCA0&amp;uact=5">https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01dnTYlrU5307OZ2Blp2eDBQwhHEA%3A1599604312394&amp;ei=WAZYX-3DF9XOtQazmInYDQ&amp;q=hugo+asciidoctor+--destination&amp;oq=hugo+asciidoctor+--destination&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoHCCEQChCgAToECCEQCjoECCMQJzoFCAAQkQI6CwguELEDEMcBEKMCOgUILhCxAzoICC4QsQMQgwE6BQgAELEDOgIIADoCCC46BggAEBYQHjoICAAQFhAKEB46CAgAEAgQDRAeOgYIABANEB46BwgjELACECc6BAgAEA06CAgAEA0QBRAeUMhMWIubAWDrnQFoB3ABeACAAfECiAH3SJIBCDAuNy4zMy4xmAEAoAEBqgEHZ3dzLXdpesABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwjtz8i2ztrrAhVVZ80KHTNMAtsQ4dUDCA0&amp;uact=5</a></p>
+<p>Blogging with Asciidoctor and Hugo :: A Hack&rsquo;s Code ? Computer Engineering Student
+<a href="https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/">https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/</a></p>
+<p>feat(asciidoc): set working dir to current content by muenchhausen � Pull Request #6561 � gohugoio/hugo
+<a href="https://github.com/gohugoio/hugo/pull/6561">https://github.com/gohugoio/hugo/pull/6561</a></p>
+<p>Asciidoc | My New Hugo Site
+<a href="https://www.frankliu.org/hugo2/posts/asciidoc/">https://www.frankliu.org/hugo2/posts/asciidoc/</a></p>
+<p>asciidoctor hugo syntax highlighting - Google Search
+<a href="https://www.google.com/search?q=asciidoctor+hugo+syntax+highlighting&amp;rlz=1C1CHBF_enUS811US811&amp;oq=asciidoctor+hugo+syntax+highlighting&amp;aqs=chrome..69i57.14749j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=asciidoctor+hugo+syntax+highlighting&amp;rlz=1C1CHBF_enUS811US811&amp;oq=asciidoctor+hugo+syntax+highlighting&amp;aqs=chrome..69i57.14749j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>AsciiDoc support doesn&rsquo;t include syntax highlighting � Issue #6 � oktadeveloper/okta-blog-hugo
+<a href="https://github.com/oktadeveloper/okta-blog-hugo/issues/6">https://github.com/oktadeveloper/okta-blog-hugo/issues/6</a></p>
+<p>How to get syntax highlighter&rsquo;s CSS? � Issue #856 � asciidoctor/asciidoctor
+<a href="https://github.com/asciidoctor/asciidoctor/issues/856#issuecomment-32670660">https://github.com/asciidoctor/asciidoctor/issues/856#issuecomment-32670660</a></p>
+<p>Creating a Blog with Hugo and AsciiDoctor � rgielen.net
+<a href="https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/">https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/</a></p>
+<p>rouge-ruby/rouge: A pure Ruby code highlighter that is compatible with Pygments
+<a href="https://github.com/rouge-ruby/rouge">https://github.com/rouge-ruby/rouge</a></p>
+<p>rouge/lib/rouge/themes at master � rouge-ruby/rouge
+<a href="https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes">https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes</a></p>
+<p>hugo2/asciidoc.adoc at master � frankieliu/hugo2
+<a href="https://github.com/frankieliu/hugo2/blob/master/content/posts/asciidoc.adoc">https://github.com/frankieliu/hugo2/blob/master/content/posts/asciidoc.adoc</a></p>
+<p>Preview of themes for Rouge syntax highlighter
+<a href="https://spsarolkar.github.io/rouge/themes/syntax-highlighter/2018/08/05/Rouge-themes-preview.html">https://spsarolkar.github.io/rouge/themes/syntax-highlighter/2018/08/05/Rouge-themes-preview.html</a></p>
+<p>spsarolkar/rouge-theme-preview at gh-pages
+<a href="https://github.com/spsarolkar/rouge-theme-preview/tree/gh-pages">https://github.com/spsarolkar/rouge-theme-preview/tree/gh-pages</a></p>
+<p>How to set the program defaults in Gnome Shell
+<a href="https://www.addictivetips.com/ubuntu-linux-tips/set-program-defaults-in-gnome-shell/">https://www.addictivetips.com/ubuntu-linux-tips/set-program-defaults-in-gnome-shell/</a></p>
+<p>Code Block Syntax Highlighting-syntax ,vim-asciidoctor[habamax]-???/?/???
+<a href="https://www.qdxingtu.com/key/Code%20Block%20Syntax%20Highlighting.html">https://www.qdxingtu.com/key/Code%20Block%20Syntax%20Highlighting.html</a></p>
+<p>habamax/vim-asciidoctor: Asciidoctor plugin for Vim
+<a href="https://github.com/habamax/vim-asciidoctor">https://github.com/habamax/vim-asciidoctor</a></p>
+<p>Resume: Jorge Aguilera
+<a href="https://jorge-aguilera.gitlab.io/">https://jorge-aguilera.gitlab.io/</a></p>
+<p>Package - asciidoctor-pdf
+<a href="https://developer.aliyun.com/mirror/npm/package/asciidoctor-pdf">https://developer.aliyun.com/mirror/npm/package/asciidoctor-pdf</a></p>
+<p>asciidoctor-web-pdf/resume.pdf at master � Mogztter/asciidoctor-web-pdf
+<a href="https://github.com/Mogztter/asciidoctor-web-pdf/blob/master/examples/resume/resume.pdf?spm=a2c6h.14275010.0.0.362f14f4Hr4Vqy&amp;file=resume.pdf">https://github.com/Mogztter/asciidoctor-web-pdf/blob/master/examples/resume/resume.pdf?spm=a2c6h.14275010.0.0.362f14f4Hr4Vqy&amp;file=resume.pdf</a></p>
+<p>Consider Using Asciidoctor for Your Next Presentation
+<a href="https://matklad.github.io/2019/05/19/consider-using-asciidoctor-for-your-next-presentation.html">https://matklad.github.io/2019/05/19/consider-using-asciidoctor-for-your-next-presentation.html</a></p>
+<p>resume.md: a Markdown resume | Lobsters
+<a href="https://lobste.rs/s/aweif8/resume_md_markdown_resume">https://lobste.rs/s/aweif8/resume_md_markdown_resume</a></p>
+<p>Markdeep
+<a href="https://casual-effects.com/markdeep/#templates">https://casual-effects.com/markdeep/#templates</a></p>
+<p>DanilaFe/resume: My resume, written with HTML+SCSS - resume - Daniel&rsquo;s Tiny Cup Of Tea
+<a href="https://dev.danilafe.com/DanilaFe/resume/src/branch/master/scss">https://dev.danilafe.com/DanilaFe/resume/src/branch/master/scss</a></p>
+<p>Come To The Dark Side - We Have AsciiDoc
+<a href="http://people.apache.org/~sgoeschl/presentations/2019/wehaveasciidoc/index.html">http://people.apache.org/~sgoeschl/presentations/2019/wehaveasciidoc/index.html</a></p>
+<p>SirToffski/Asciidoctor-Resume-Template: A minimalistic adoc resume template
+<a href="https://github.com/SirToffski/Asciidoctor-Resume-Template">https://github.com/SirToffski/Asciidoctor-Resume-Template</a></p>
+<p>Codewriting Glossary � Codewriting
+<a href="https://www.codewriting.org/docops-glossary">https://www.codewriting.org/docops-glossary</a></p>
+<p><a href="https://paulojeronimo.com/cv/en/cv.txt">https://paulojeronimo.com/cv/en/cv.txt</a>
+<a href="https://paulojeronimo.com/cv/en/cv.txt">https://paulojeronimo.com/cv/en/cv.txt</a></p>
+<p>Asciidoctor-Resume-Template/cv_exported.pdf at master � SirToffski/Asciidoctor-Resume-Template
+<a href="https://github.com/SirToffski/Asciidoctor-Resume-Template/blob/master/cv_exported.pdf">https://github.com/SirToffski/Asciidoctor-Resume-Template/blob/master/cv_exported.pdf</a></p>
+<p>Blogging with Asciidoctor and Hugo :: A Hack&rsquo;s Code ? Computer Engineering Student
+<a href="https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/">https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/</a></p>
+<p>Prism
+<a href="https://prismjs.com/">https://prismjs.com/</a></p>
+<p>Blogging with Asciidoctor and Hugo :: A Hack&rsquo;s Code ? Computer Engineering Student
+<a href="https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/">https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<p>ditaa
+<a href="http://ditaa.sourceforge.net/#download">http://ditaa.sourceforge.net/#download</a></p>
+<p>How to Install Java on Ubuntu 20.04 | Linuxize
+<a href="https://linuxize.com/post/install-java-on-ubuntu-20-04/">https://linuxize.com/post/install-java-on-ubuntu-20-04/</a></p>
+<p>how to install graphviz dot ubuntu - Google Search
+<a href="https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk00_h7utzllviQIee8HrTDnQLtH-4g%3A1599459397716&amp;ei=RdBVX5SfK8m90PEPmbGV8Ao&amp;q=how+to+install+graphviz+dot+ubuntu&amp;oq=how+to+install+graphviz+dot+ubuntu&amp;gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjoECAAQRzoGCAAQFhAeOgcIIRAKEKABUJEsWJs5YLo6aAFwAXgAgAF5iAHABZIBAzcuMZgBAKABAaoBB2d3cy13aXrAAQE&amp;sclient=psy-ab&amp;ved=0ahUKEwjU1e7JstbrAhXJHjQIHZlYBa4Q4dUDCA0&amp;uact=5">https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk00_h7utzllviQIee8HrTDnQLtH-4g%3A1599459397716&amp;ei=RdBVX5SfK8m90PEPmbGV8Ao&amp;q=how+to+install+graphviz+dot+ubuntu&amp;oq=how+to+install+graphviz+dot+ubuntu&amp;gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjoECAAQRzoGCAAQFhAeOgcIIRAKEKABUJEsWJs5YLo6aAFwAXgAgAF5iAHABZIBAzcuMZgBAKABAaoBB2d3cy13aXrAAQE&amp;sclient=psy-ab&amp;ved=0ahUKEwjU1e7JstbrAhXJHjQIHZlYBa4Q4dUDCA0&amp;uact=5</a></p>
+<p>PlantUML not working because graphviz not installed � Issue #47 � de-jcup/eclipse-asciidoctor-editor
+<a href="https://github.com/de-jcup/eclipse-asciidoctor-editor/issues/47">https://github.com/de-jcup/eclipse-asciidoctor-editor/issues/47</a></p>
+<p>Change path for Graphviz? - PlantUML Q&amp;A
+<a href="https://forum.plantuml.net/7656/change-path-for-graphviz">https://forum.plantuml.net/7656/change-path-for-graphviz</a></p>
+<p>plantuml download | SourceForge.net
+<a href="https://sourceforge.net/projects/plantuml/">https://sourceforge.net/projects/plantuml/</a></p>
+<p>plantuml asciidoc image looks squished - Google Search
+<a href="https://www.google.com/search?q=plantuml+asciidoc+image+looks+squished&amp;rlz=1C1CHBF_enUS811US811&amp;oq=plantuml+asciidoc+image+looks+squished&amp;aqs=chrome..69i57.10178j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=plantuml+asciidoc+image+looks+squished&amp;rlz=1C1CHBF_enUS811US811&amp;oq=plantuml+asciidoc+image+looks+squished&amp;aqs=chrome..69i57.10178j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>How do I convert a document? | Asciidoctor
+<a href="https://asciidoctor.org/docs/convert-documents/">https://asciidoctor.org/docs/convert-documents/</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<h1 id="solving-the-image-problem">solving the image problem</h1>
+<p>Basically had to redo the tachyon css so that height was on auto</p>
+<ol>
+<li>how to figure out</li>
+<li>chrome dev</li>
+<li>console</li>
+<li>inspect image</li>
+<li>look at the style</li>
+<li>sometimes the answer is also on the computed</li>
+<li>it should also say the line in the css file</li>
+</ol>
+<p>Image Processing | Hugo
+<a href="https://gohugo.io/content-management/image-processing/">https://gohugo.io/content-management/image-processing/</a></p>
+<p>Handling images (size, aligning,&hellip;) - support - HUGO
+<a href="https://discourse.gohugo.io/t/handling-images-size-aligning/1940/6">https://discourse.gohugo.io/t/handling-images-size-aligning/1940/6</a></p>
+<p>theNewDynamic/gohugo-theme-ananke: Ananke: A theme for Hugo Sites
+<a href="https://github.com/theNewDynamic/gohugo-theme-ananke">https://github.com/theNewDynamic/gohugo-theme-ananke</a></p>
+<p>html - Maintain the aspect ratio of a div with CSS - Stack Overflow
+<a href="https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css">https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css</a></p>
+<p>AsciiDoc Image Size - Docs-as-Code
+<a href="https://docs-as-co.de/news/asciidoc-image-size/">https://docs-as-co.de/news/asciidoc-image-size/</a></p>
+<p>Scaling the generated images � Issue #58 � asciidoctor/asciidoctor-diagram
+<a href="https://github.com/asciidoctor/asciidoctor-diagram/issues/58">https://github.com/asciidoctor/asciidoctor-diagram/issues/58</a></p>
+<p>Add support for diagram scaling � asciidoctor/asciidoctor-diagram@69efda5
+<a href="https://github.com/asciidoctor/asciidoctor-diagram/commit/69efda565940a1bc2ed040cd6ca83e112133f982">https://github.com/asciidoctor/asciidoctor-diagram/commit/69efda565940a1bc2ed040cd6ca83e112133f982</a></p>
+<p>How to Center an Image Using Text Align: Center
+<a href="https://www.freecodecamp.org/news/how-to-center-an-image-using-text-align/#:~:text=To%20center%20an%20image%20using%20text%2Dalign%3A%20center%3B%20you,a%20horizontally%20centered%20">https://www.freecodecamp.org/news/how-to-center-an-image-using-text-align/#:~:text=To%20center%20an%20image%20using%20text%2Dalign%3A%20center%3B%20you,a%20horizontally%20centered%20</a>.</p>
+<p>How To Create Responsive Images
+<a href="https://www.w3schools.com/howto/howto_css_image_responsive.asp">https://www.w3schools.com/howto/howto_css_image_responsive.asp</a></p>
+<p>AsciiDoc Syntax Quick Reference | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code">https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code</a></p>
+<p>AsciiDoc Syntax Quick Reference | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/">https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/</a></p>
+<h1 id="syntax-highlighting">syntax highlighting</h1>
+<p>Pygments :: The Docs @ Asciidoctor
+<a href="https://asciidoctor-docs.netlify.app/asciidoc/1.5/source/pygments/">https://asciidoctor-docs.netlify.app/asciidoc/1.5/source/pygments/</a></p>
+<p>Awesome Asciidoctor: Highlight Lines In Source Code Listings - Messages from mrhaki
+<a href="https://mrhaki.blogspot.com/2016/10/awesome-asciidoctor-highlight-lines-in.html">https://mrhaki.blogspot.com/2016/10/awesome-asciidoctor-highlight-lines-in.html</a></p>
+<h1 id="asciidoctor-javascript">asciidoctor javascript</h1>
+<p>Asciidoctor.js | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor.js/">https://asciidoctor.org/docs/asciidoctor.js/</a></p>
+<h1 id="c4-plantuml">c4-plantuml</h1>
+<p>RicardoNiepel/C4-PlantUML: C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+<a href="https://github.com/RicardoNiepel/C4-PlantUML">https://github.com/RicardoNiepel/C4-PlantUML</a></p>
+<p>Real World PlantUML
+<a href="https://real-world-plantuml.com/?cursor=Ci8SKWoVc35yZWFsLXdvcmxkLXBsYW50dW1schALEgNVbWwYgICAgKCOwQgMGAAgAA">https://real-world-plantuml.com/?cursor=Ci8SKWoVc35yZWFsLXdvcmxkLXBsYW50dW1schALEgNVbWwYgICAgKCOwQgMGAAgAA</a></p>
+<p>Visualising and documenting software architecture cheat sheets - Coding the Architecture
+<a href="http://www.codingthearchitecture.com/2017/04/27/visualising_and_documenting_software_architecture_cheat_sheets.html">http://www.codingthearchitecture.com/2017/04/27/visualising_and_documenting_software_architecture_cheat_sheets.html</a></p>
+<p>PlantUML and Structurizr - Coding the Architecture
+<a href="http://www.codingthearchitecture.com/2016/12/08/plantuml_and_structurizr.html">http://www.codingthearchitecture.com/2016/12/08/plantuml_and_structurizr.html</a></p>
+<p>stathissideris/ditaa: ditaa is a small command-line utility that can convert diagrams drawn using ascii art (&lsquo;drawings&rsquo; that contain characters that resemble lines like | / - ), into proper bitmap graphics.
+<a href="https://github.com/stathissideris/ditaa">https://github.com/stathissideris/ditaa</a></p>
+<h1 id="asciio">asciio</h1>
+<p>asciitosvg/asciitosvg: Create beautiful SVG renderings of ASCII diagrams.
+<a href="https://github.com/asciitosvg/asciitosvg">https://github.com/asciitosvg/asciitosvg</a></p>
+<p>App::Asciio - Plain ASCII diagram - metacpan.org
+<a href="https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm">https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm</a></p>
+<p>Asciidoctor Diagram | Asciidoctor
+<a href="https://asciidoctor.org/docs/asciidoctor-diagram/">https://asciidoctor.org/docs/asciidoctor-diagram/</a></p>
+<p>App::Asciio - Plain ASCII diagram - metacpan.org
+<a href="https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm">https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm</a></p>
+<p>actdiag - simple activity-diagram image generator ? blockdiag 1.0 documentation
+<a href="http://blockdiag.com/en/actdiag/index.html">http://blockdiag.com/en/actdiag/index.html</a></p>
+<p>dhobsd/asciitosvg: DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
+<a href="https://github.com/dhobsd/asciitosvg">https://github.com/dhobsd/asciitosvg</a></p>
+<h1 id="discussion">discussion</h1>
+<p>asciidoctor/asciidoctor - Gitter
+<a href="https://gitter.im/asciidoctor/asciidoctor">https://gitter.im/asciidoctor/asciidoctor</a></p>
+<p>Asciidoctor :: Discussion - Registering&hellip;
+<a href="https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page">https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page</a>
+Asciidoctor :: Discussion - Registering&hellip;
+<a href="https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page">https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page</a></p>
+<h1 id="asciidoctor-javascript-1">asciidoctor javascript</h1>
+<p>asciidoctor-pdf - npm
+<a href="https://www.npmjs.com/package/asciidoctor-pdf">https://www.npmjs.com/package/asciidoctor-pdf</a></p>
+<p>asciidoctor-pdf - npm
+<a href="https://www.npmjs.com/package/asciidoctor-pdf">https://www.npmjs.com/package/asciidoctor-pdf</a></p>
+<p>FIGlet Fonts Library
+<a href="http://www.jave.de/figlet/fonts.html">http://www.jave.de/figlet/fonts.html</a></p>
+<p>asciidoctor/asciidoctor - Gitter
+<a href="https://gitter.im/asciidoctor/asciidoctor">https://gitter.im/asciidoctor/asciidoctor</a></p>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/easyhugo/tags/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif"></a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/css/">Css</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/family/">Family</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/vnc/">Vnc</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/math/">Math</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/algorithms/">Algorithms</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/machine-learning/">Machine Learning</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/design-patterns/">Design Patterns</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/windows/">Windows</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/vlc/">Vlc</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/chrome-extensions/">Chrome Extensions</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/hardware/">Hardware</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/programming/">Programming</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/unix/">Unix</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/full-stack/">Full Stack</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/video-conferencing/">Video Conferencing</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.frankliu.org/easyhugo/" >
+    &copy;  My New Hugo Site 2020 
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/easyhugo/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>

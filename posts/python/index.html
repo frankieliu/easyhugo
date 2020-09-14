@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Python | My New Hugo Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.74.3" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+    
+      <link href="/easyhugo/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/easyhugo/css/custom.css">
+    
+
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Python" />
+<meta property="og:description" content="environment Easy Install 18.04 - easy_install: command not found - Ask Ubuntu https://askubuntu.com/questions/1040392/easy-install-command-not-found
+Editable install Codumentary: Tech Tips and Tricks: Python Tip of the Year: pip install &ndash;editable . http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=When%20developing%20an%20application%20you,run%20pip%20install%20%2D%2Deditable%20.
+conda save environment Managing environments ? conda 4.8.4.post47&#43;4cccb93e documentation https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment
+Managing environments ? conda 4.8.4.post47&#43;4cccb93e documentation https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+source python/cpython: The Python programming language https://github.com/python/cpython
+base types Built-in Types — Python 3.8.5 documentation https://docs.python.org/3/library/stdtypes.html#dict
+lists Iterating over two elements at a time python - Iterating over every two elements in a list - Stack Overflow https://stackoverflow." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/python/" />
+<meta property="article:published_time" content="2020-08-21T16:33:41-07:00" />
+<meta property="article:modified_time" content="2020-08-21T16:33:41-07:00" />
+<meta itemprop="name" content="Python">
+<meta itemprop="description" content="environment Easy Install 18.04 - easy_install: command not found - Ask Ubuntu https://askubuntu.com/questions/1040392/easy-install-command-not-found
+Editable install Codumentary: Tech Tips and Tricks: Python Tip of the Year: pip install &ndash;editable . http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=When%20developing%20an%20application%20you,run%20pip%20install%20%2D%2Deditable%20.
+conda save environment Managing environments ? conda 4.8.4.post47&#43;4cccb93e documentation https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment
+Managing environments ? conda 4.8.4.post47&#43;4cccb93e documentation https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+source python/cpython: The Python programming language https://github.com/python/cpython
+base types Built-in Types — Python 3.8.5 documentation https://docs.python.org/3/library/stdtypes.html#dict
+lists Iterating over two elements at a time python - Iterating over every two elements in a list - Stack Overflow https://stackoverflow.">
+<meta itemprop="datePublished" content="2020-08-21T16:33:41-07:00" />
+<meta itemprop="dateModified" content="2020-08-21T16:33:41-07:00" />
+<meta itemprop="wordCount" content="1534">
+
+
+
+<meta itemprop="keywords" content="," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Python"/>
+<meta name="twitter:description" content="environment Easy Install 18.04 - easy_install: command not found - Ask Ubuntu https://askubuntu.com/questions/1040392/easy-install-command-not-found
+Editable install Codumentary: Tech Tips and Tricks: Python Tip of the Year: pip install &ndash;editable . http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=When%20developing%20an%20application%20you,run%20pip%20install%20%2D%2Deditable%20.
+conda save environment Managing environments ? conda 4.8.4.post47&#43;4cccb93e documentation https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment
+Managing environments ? conda 4.8.4.post47&#43;4cccb93e documentation https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+source python/cpython: The Python programming language https://github.com/python/cpython
+base types Built-in Types — Python 3.8.5 documentation https://docs.python.org/3/library/stdtypes.html#dict
+lists Iterating over two elements at a time python - Iterating over every two elements in a list - Stack Overflow https://stackoverflow."/>
+
+	
+    <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/easyhugo/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        My New Hugo Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://www.frankliu.org/easyhugo/posts/python/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://www.frankliu.org/easyhugo/posts/python/&amp;text=Python" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.frankliu.org/easyhugo/posts/python/&amp;title=Python" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Python</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-08-21T16:33:41-07:00">August 21, 2020</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h1 id="environment">environment</h1>
+<h2 id="easy-install">Easy Install</h2>
+<p>18.04 - easy_install: command not found - Ask Ubuntu
+<a href="https://askubuntu.com/questions/1040392/easy-install-command-not-found">https://askubuntu.com/questions/1040392/easy-install-command-not-found</a></p>
+<h2 id="editable-install">Editable install</h2>
+<p>Codumentary: Tech Tips and Tricks: Python Tip of the Year: pip install &ndash;editable .
+<a href="http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=When%20developing%20an%20application%20you,run%20pip%20install%20%2D%2Deditable%20">http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=When%20developing%20an%20application%20you,run%20pip%20install%20%2D%2Deditable%20</a>.</p>
+<h2 id="conda-save-environment">conda save environment</h2>
+<p>Managing environments ? conda 4.8.4.post47+4cccb93e documentation
+<a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment">https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment</a></p>
+<p>Managing environments ? conda 4.8.4.post47+4cccb93e documentation
+<a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html">https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html</a></p>
+<h1 id="source">source</h1>
+<p>python/cpython: The Python programming language
+<a href="https://github.com/python/cpython">https://github.com/python/cpython</a></p>
+<h1 id="base-types">base types</h1>
+<p>Built-in Types — Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/stdtypes.html#dict">https://docs.python.org/3/library/stdtypes.html#dict</a></p>
+<h1 id="lists">lists</h1>
+<h2 id="iterating-over-two-elements-at-a-time">Iterating over two elements at a time</h2>
+<p>python - Iterating over every two elements in a list - Stack Overflow
+<a href="https://stackoverflow.com/questions/5389507/iterating-over-every-two-elements-in-a-list">https://stackoverflow.com/questions/5389507/iterating-over-every-two-elements-in-a-list</a></p>
+<p>itertools — Functions creating iterators for efficient looping — Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/itertools.html">https://docs.python.org/3/library/itertools.html</a></p>
+<p>python - Speeding up itertools combinations with cython - Stack Overflow
+<a href="https://stackoverflow.com/questions/50198393/speeding-up-itertools-combinations-with-cython">https://stackoverflow.com/questions/50198393/speeding-up-itertools-combinations-with-cython</a></p>
+<h2 id="pretty-printing-2d-array">pretty printing 2d array</h2>
+<p>matrix - Pretty print 2D Python list - Stack Overflow
+<a href="https://stackoverflow.com/questions/13214809/pretty-print-2d-python-list">https://stackoverflow.com/questions/13214809/pretty-print-2d-python-list</a></p>
+<h2 id="nparray123">np.array()[[1,2,3]]</h2>
+<p>Python List Slicing with Arbitrary Indices - Stack Overflow
+<a href="https://stackoverflow.com/questions/9106065/python-list-slicing-with-arbitrary-indices">https://stackoverflow.com/questions/9106065/python-list-slicing-with-arbitrary-indices</a></p>
+<h1 id="dict">dict</h1>
+<h2 id="trie">trie</h2>
+<p>python trie reduce lambda defaultdict - Google Search
+<a href="https://www.google.com/search?q=python+trie+reduce+lambda+defaultdict&amp;oq=python+trie+reduce+lambda+defaultdict+&amp;aqs=chrome..69i57.9128j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=python+trie+reduce+lambda+defaultdict&amp;oq=python+trie+reduce+lambda+defaultdict+&amp;aqs=chrome..69i57.9128j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<h2 id="how-to-print-defaultdict">how to print defaultdict</h2>
+<p>Use json.dumps(indent=2)</p>
+<p>Python and default dict, how to pprint - Stack Overflow
+<a href="https://stackoverflow.com/questions/12925052/python-and-default-dict-how-to-pprint">https://stackoverflow.com/questions/12925052/python-and-default-dict-how-to-pprint</a></p>
+<h1 id="string">string</h1>
+<h2 id="re">re</h2>
+<p>re ? Regular expression operations ? Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/re.html#search-vs-match">https://docs.python.org/3/library/re.html#search-vs-match</a></p>
+<h2 id="stringio">stringio</h2>
+<p>from io import StringIO as StringIO</p>
+<p>How do I install petl and StringIO in anaconda prompt (Jupyter 5.0.0 and Python 3.6)? - Quora
+<a href="https://www.quora.com/How-do-I-install-petl-and-StringIO-in-anaconda-prompt-Jupyter-5-0-0-and-Python-3-6">https://www.quora.com/How-do-I-install-petl-and-StringIO-in-anaconda-prompt-Jupyter-5-0-0-and-Python-3-6</a></p>
+<h2 id="encoding">encoding</h2>
+<p>Changing default encoding of Python? - Stack Overflow
+<a href="https://stackoverflow.com/questions/2276200/changing-default-encoding-of-python/7892892#7892892">https://stackoverflow.com/questions/2276200/changing-default-encoding-of-python/7892892#7892892</a></p>
+<p>python - Why should we NOT use sys.setdefaultencoding(&ldquo;utf-8&rdquo;) in a py script? - Stack Overflow
+<a href="https://stackoverflow.com/questions/3828723/why-should-we-not-use-sys-setdefaultencodingutf-8-in-a-py-script">https://stackoverflow.com/questions/3828723/why-should-we-not-use-sys-setdefaultencodingutf-8-in-a-py-script</a></p>
+<h2 id="f-string">f-string</h2>
+<p>PyFormat: Using % and .format() for great good!
+<a href="https://pyformat.info/">https://pyformat.info/</a></p>
+<p>Python f-string tutorial - formatting strings in Python with f-string
+<a href="http://zetcode.com/python/fstring/">http://zetcode.com/python/fstring/</a></p>
+<h1 id="enum">enum</h1>
+<p>enum — Support for enumerations — Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/enum.html">https://docs.python.org/3/library/enum.html</a></p>
+<p>python - How to define enum values that are functions? - Stack Overflow
+<a href="https://stackoverflow.com/questions/40338652/how-to-define-enum-values-that-are-functions">https://stackoverflow.com/questions/40338652/how-to-define-enum-values-that-are-functions</a></p>
+<h1 id="class">class</h1>
+<h2 id="abstract-base-classes">abstract base classes</h2>
+<p>collections.abc — Abstract Base Classes for Containers — Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/collections.abc.html#collections.abc.Sequence">https://docs.python.org/3/library/collections.abc.html#collections.abc.Sequence</a></p>
+<p>dictionary - How would I implement a dict with Abstract Base Classes in Python? - Stack Overflow
+<a href="https://stackoverflow.com/questions/21361106/how-would-i-implement-a-dict-with-abstract-base-classes-in-python">https://stackoverflow.com/questions/21361106/how-would-i-implement-a-dict-with-abstract-base-classes-in-python</a></p>
+<h2 id="super">super</h2>
+<p>Supercharge Your Classes With Python super() – Real Python
+<a href="https://realpython.com/python-super/">https://realpython.com/python-super/</a></p>
+<h1 id="collections">collections</h1>
+<h2 id="counter">Counter</h2>
+<p>python - Intersection of two Counters - Stack Overflow
+<a href="https://stackoverflow.com/questions/44012479/intersection-of-two-counters">https://stackoverflow.com/questions/44012479/intersection-of-two-counters</a></p>
+<p>Sum all values of a counter in Python 2 - Stack Overflow
+<a href="https://stackoverflow.com/questions/32511444/sum-all-values-of-a-counter-in-python-2/32511486#32511486">https://stackoverflow.com/questions/32511444/sum-all-values-of-a-counter-in-python-2/32511486#32511486</a></p>
+<h1 id="itertools">itertools</h1>
+<p>9.7. itertools ? Functions creating iterators for efficient looping ? Python v3.1.5 documentation
+<a href="https://docs.python.org/3.1/library/itertools.html?highlight=combinations">https://docs.python.org/3.1/library/itertools.html?highlight=combinations</a></p>
+<h1 id="algorithms">algorithms</h1>
+<h2 id="bisect">bisect</h2>
+<p>python - How to use bisect.insort_left with a key? - Stack Overflow
+<a href="https://stackoverflow.com/questions/27672494/how-to-use-bisect-insort-left-with-a-key">https://stackoverflow.com/questions/27672494/how-to-use-bisect-insort-left-with-a-key</a></p>
+<h1 id="shell">shell</h1>
+<h2 id="threading">threading</h2>
+<p>An Intro to Threading in Python ? Real Python
+<a href="https://realpython.com/intro-to-python-threading/">https://realpython.com/intro-to-python-threading/</a></p>
+<h2 id="shell-command">shell command</h2>
+<h3 id="ossystem">os.system</h3>
+<p>How to Execute Shell Commands with Python - Parametric Thoughts
+<a href="https://janakiev.com/blog/python-shell-commands/">https://janakiev.com/blog/python-shell-commands/</a></p>
+<h3 id="subprocessrun">subprocess.run</h3>
+<p>python - What is the difference between subprocess.popen and subprocess.run - Stack Overflow
+<a href="https://stackoverflow.com/questions/39187886/what-is-the-difference-between-subprocess-popen-and-subprocess-run#:~:text=The%20main%20difference%20is%20that,receive%20data%20to%20your%20process">https://stackoverflow.com/questions/39187886/what-is-the-difference-between-subprocess-popen-and-subprocess-run#:~:text=The%20main%20difference%20is%20that,receive%20data%20to%20your%20process</a>.</p>
+<p>How to use sys.argv in Python - PythonForBeginners.com
+<a href="https://www.pythonforbeginners.com/system/python-sys-argv">https://www.pythonforbeginners.com/system/python-sys-argv</a></p>
+<h2 id="subprocess">subprocess</h2>
+<h3 id="run-and-capture_outputtrue">run and capture_output=True</h3>
+<p>python - Assign output of os.system to a variable and prevent it from being displayed on the screen - Stack Overflow
+<a href="https://stackoverflow.com/questions/3503879/assign-output-of-os-system-to-a-variable-and-prevent-it-from-being-displayed-on">https://stackoverflow.com/questions/3503879/assign-output-of-os-system-to-a-variable-and-prevent-it-from-being-displayed-on</a></p>
+<p>How to hide output of subprocess in Python 2.7 - Stack Overflow
+<a href="https://stackoverflow.com/questions/11269575/how-to-hide-output-of-subprocess-in-python-2-7">https://stackoverflow.com/questions/11269575/how-to-hide-output-of-subprocess-in-python-2-7</a></p>
+<p>python - How to suppress or capture the output of subprocess.run()? - Stack Overflow
+<a href="https://stackoverflow.com/questions/41171791/how-to-suppress-or-capture-the-output-of-subprocess-run">https://stackoverflow.com/questions/41171791/how-to-suppress-or-capture-the-output-of-subprocess-run</a></p>
+<h3 id="subprocessrun-1">subprocess.run</h3>
+<p>subprocess ? Subprocess management ? Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/subprocess.html">https://docs.python.org/3/library/subprocess.html</a></p>
+<p>Take input from stdin in Python - GeeksforGeeks
+<a href="https://www.geeksforgeeks.org/take-input-from-stdin-in-python/">https://www.geeksforgeeks.org/take-input-from-stdin-in-python/</a></p>
+<p>16.4. argparse ? Parser for command-line options, arguments and sub-commands ? Python 3.3.7 documentation
+<a href="https://docs.python.org/3.3/library/argparse.html">https://docs.python.org/3.3/library/argparse.html</a></p>
+<p>Python Argparse Cookbook ? mkaz.blog
+<a href="https://mkaz.blog/code/python-argparse-cookbook/">https://mkaz.blog/code/python-argparse-cookbook/</a></p>
+<p>Reading and Writing JSON to a File in Python
+<a href="https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/">https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/</a></p>
+<h3 id="subprocesspopen-pcommunicate">subprocess.Popen p.communicate()</h3>
+<p>python - Constantly print Subprocess output while process is running - Stack Overflow
+<a href="https://stackoverflow.com/questions/4417546/constantly-print-subprocess-output-while-process-is-running">https://stackoverflow.com/questions/4417546/constantly-print-subprocess-output-while-process-is-running</a></p>
+<h3 id="subprocess-glob-popensingle_string-shelltrue">subprocess glob Popen(&ldquo;single_string&rdquo;, shell=True)</h3>
+<p>Globbing and Python&rsquo;s &ldquo;subprocess&rdquo; module ? Reuven Lerner
+<a href="https://lerner.co.il/2017/07/20/globbing-pythons-subprocess-module/">https://lerner.co.il/2017/07/20/globbing-pythons-subprocess-module/</a></p>
+<h3 id="redirect-stderr-to-stdout">redirect stderr to STDOUT</h3>
+<p>python - Redirect subprocess stderr to stdout - Stack Overflow
+<a href="https://stackoverflow.com/questions/11495783/redirect-subprocess-stderr-to-stdout">https://stackoverflow.com/questions/11495783/redirect-subprocess-stderr-to-stdout</a></p>
+<h3 id="changing-directory">changing directory</h3>
+<p>python - Subprocess changing directory - Stack Overflow
+<a href="https://stackoverflow.com/questions/21406887/subprocess-changing-directory">https://stackoverflow.com/questions/21406887/subprocess-changing-directory</a></p>
+<h2 id="arguments">arguments</h2>
+<p>Take input from stdin in Python - GeeksforGeeks
+<a href="https://www.geeksforgeeks.org/take-input-from-stdin-in-python/">https://www.geeksforgeeks.org/take-input-from-stdin-in-python/</a></p>
+<p>16.4. argparse ? Parser for command-line options, arguments and sub-commands ? Python 3.3.7 documentation
+<a href="https://docs.python.org/3.3/library/argparse.html">https://docs.python.org/3.3/library/argparse.html</a></p>
+<p>Python Argparse Cookbook ? mkaz.blog
+<a href="https://mkaz.blog/code/python-argparse-cookbook/">https://mkaz.blog/code/python-argparse-cookbook/</a></p>
+<p>argparse ? Parser for command-line options, arguments and sub-commands ? Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/argparse.html">https://docs.python.org/3/library/argparse.html</a></p>
+<h2 id="shlex">shlex</h2>
+<p>shlex ? Simple lexical analysis ? Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/shlex.html">https://docs.python.org/3/library/shlex.html</a></p>
+<h1 id="closure">closure</h1>
+<h2 id="closure-1">closure</h2>
+<p>functional programming - Modify bound variables of a closure in Python - Stack Overflow
+<a href="https://stackoverflow.com/questions/392349/modify-bound-variables-of-a-closure-in-python">https://stackoverflow.com/questions/392349/modify-bound-variables-of-a-closure-in-python</a></p>
+<h2 id="global-local-nonlocal">global local nonlocal</h2>
+<p>Python Global, Local and Nonlocal variables (With Examples)
+<a href="https://www.programiz.com/python-programming/global-local-nonlocal-variables">https://www.programiz.com/python-programming/global-local-nonlocal-variables</a></p>
+<h1 id="math">math</h1>
+<p>Python large-integer computation speed - a comparison : Python
+<a href="https://www.reddit.com/r/Python/comments/7h62ul/python_largeinteger_computation_speed_a_comparison/">https://www.reddit.com/r/Python/comments/7h62ul/python_largeinteger_computation_speed_a_comparison/</a></p>
+<p>python - numpy matrix vector multiplication - Stack Overflow
+<a href="https://stackoverflow.com/questions/21562986/numpy-matrix-vector-multiplication">https://stackoverflow.com/questions/21562986/numpy-matrix-vector-multiplication</a></p>
+<h1 id="file-system">file system</h1>
+<h2 id="creating-a-directory">creating a directory</h2>
+<p>Create a directory in Python - GeeksforGeeks
+<a href="https://www.geeksforgeeks.org/create-a-directory-in-python/">https://www.geeksforgeeks.org/create-a-directory-in-python/</a></p>
+<h3 id="make-it-idempotent">make it idempotent</h3>
+<p>How to create a directory idempotently with makedirs() | Computational Methods in the Civic Sphere at Stanford University
+<a href="http://www.compciv.org/practicum/shakefiles/a-creating-a-directory-idempotently/">http://www.compciv.org/practicum/shakefiles/a-creating-a-directory-idempotently/</a></p>
+<h2 id="osgetcwd">os.getcwd</h2>
+<p>Python 3 Notes: File Path and CWD
+<a href="https://www.pitt.edu/~naraehan/python3/file_path_cwd.html">https://www.pitt.edu/~naraehan/python3/file_path_cwd.html</a></p>
+<h2 id="ospathexists">os.path.exists()</h2>
+<p>Python Check If File or Directory Exists
+<a href="https://www.guru99.com/python-check-if-file-exists.html">https://www.guru99.com/python-check-if-file-exists.html</a></p>
+<h2 id="remove-files">remove files</h2>
+<p>Python Delete File: A Step-By-Step Guide | Career Karma
+<a href="https://careerkarma.com/blog/python-delete-file/#:~:text=In%20Python%2C%20you%20can%20use,you%20can%20use%20the%20shutil">https://careerkarma.com/blog/python-delete-file/#:~:text=In%20Python%2C%20you%20can%20use,you%20can%20use%20the%20shutil</a>.</p>
+<h2 id="files-in-a-directory">files in a directory</h2>
+<p>python - How do I list all files of a directory? - Stack Overflow
+<a href="https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory">https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory</a></p>
+<h1 id="graphics">graphics</h1>
+<h2 id="pygtk--pygobject">pygtk  pygobject</h2>
+<p>Currently install only on python 3.7
+conda install -m conda-forge gtk3 pygobject</p>
+<p>Pygtk :: Anaconda Cloud
+<a href="https://anaconda.org/ska/pygtk">https://anaconda.org/ska/pygtk</a></p>
+<p>How do i import gtk module to my application? python - Stack Overflow
+<a href="https://stackoverflow.com/questions/22095537/how-do-i-import-gtk-module-to-my-application-python">https://stackoverflow.com/questions/22095537/how-do-i-import-gtk-module-to-my-application-python</a></p>
+<p>Getting Started ? PyGObject
+<a href="https://pygobject.readthedocs.io/en/latest/getting_started.html#ubuntu-getting-started">https://pygobject.readthedocs.io/en/latest/getting_started.html#ubuntu-getting-started</a></p>
+<p>Search :: Anaconda Cloud
+<a href="https://anaconda.org/search?q=pygtk">https://anaconda.org/search?q=pygtk</a></p>
+<p>Projects/PyGObject - GNOME Wiki!
+<a href="https://wiki.gnome.org/action/show/Projects/PyGObject">https://wiki.gnome.org/action/show/Projects/PyGObject</a></p>
+<p>Pygobject :: Anaconda Cloud
+<a href="https://anaconda.org/conda-forge/pygobject">https://anaconda.org/conda-forge/pygobject</a></p>
+<p>Gtk3 :: Anaconda Cloud
+<a href="https://anaconda.org/conda-forge/gtk3">https://anaconda.org/conda-forge/gtk3</a></p>
+<p>fails to install on windows � Issue #5 � koehlma/pygtkspellcheck
+<a href="https://github.com/koehlma/pygtkspellcheck/issues/5">https://github.com/koehlma/pygtkspellcheck/issues/5</a></p>
+<p>ScrolledWindow (Python)
+<a href="https://developer.gnome.org/gnome-devel-demos/stable/scrolledwindow.py.html.en#:~:text=Policy.-,ALWAYS%2C%20Gtk.,and%20NEVER%20are%20self%2Dexplanatory.&amp;text=TOP_LEFT%20(default%3A%20the%20scrollbars%20are,of%20the%20window)%2C%20Gtk">https://developer.gnome.org/gnome-devel-demos/stable/scrolledwindow.py.html.en#:~:text=Policy.-,ALWAYS%2C%20Gtk.,and%20NEVER%20are%20self%2Dexplanatory.&amp;text=TOP_LEFT%20(default%3A%20the%20scrollbars%20are,of%20the%20window)%2C%20Gtk</a>.</p>
+<p>Gtk.ListStore - Classes - Gtk 3.0
+<a href="https://lazka.github.io/pgi-docs/#Gtk-3.0/classes/ListStore.html#Gtk.ListStore">https://lazka.github.io/pgi-docs/#Gtk-3.0/classes/ListStore.html#Gtk.ListStore</a></p>
+<p>Projects/PyGObject/InitializerDeprecations - GNOME Wiki!
+<a href="https://wiki.gnome.org/action/show/Projects/PyGObject/InitializerDeprecations?action=show&amp;redirect=PyGObject%2FInitializerDeprecations">https://wiki.gnome.org/action/show/Projects/PyGObject/InitializerDeprecations?action=show&amp;redirect=PyGObject%2FInitializerDeprecations</a></p>
+<p>Search ? PyGObject
+<a href="https://pygobject.readthedocs.io/en/latest/search.html?q=ListStore&amp;check_keywords=yes&amp;area=default">https://pygobject.readthedocs.io/en/latest/search.html?q=ListStore&amp;check_keywords=yes&amp;area=default</a></p>
+<p>Bug 687522 ? Objects returned from vfuncs should maintain floating reference
+<a href="https://bugzilla.gnome.org/show_bug.cgi?id=687522">https://bugzilla.gnome.org/show_bug.cgi?id=687522</a></p>
+<p>pygobject self.view create_view - Google Search
+<a href="https://www.google.com/search?q=pygobject+self.view+create_view&amp;rlz=1C1CHBF_enUS811US811&amp;oq=pygobject+self.view+create_view&amp;aqs=chrome..69i57.12805j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=pygobject+self.view+create_view&amp;rlz=1C1CHBF_enUS811US811&amp;oq=pygobject+self.view+create_view&amp;aqs=chrome..69i57.12805j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<ol start="12">
+<li>Tree and List Widgets ? Python GTK+ 3 Tutorial 3.4 documentation
+<a href="https://python-gtk-3-tutorial.readthedocs.io/en/latest/treeview.html">https://python-gtk-3-tutorial.readthedocs.io/en/latest/treeview.html</a></li>
+</ol>
+<p>gtk POLICY_NEVER - Google Search
+<a href="https://www.google.com/search?q=gtk+POLICY_NEVER&amp;rlz=1C1CHBF_enUS811US811&amp;oq=gtk+POLICY_NEVER&amp;aqs=chrome..69i57.5748j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=gtk+POLICY_NEVER&amp;rlz=1C1CHBF_enUS811US811&amp;oq=gtk+POLICY_NEVER&amp;aqs=chrome..69i57.5748j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<h2 id="term-color">term color</h2>
+<p>termcolor � PyPI
+<a href="https://pypi.org/project/termcolor/">https://pypi.org/project/termcolor/</a></p>
+<p>termcolors python light green - Google Search
+<a href="https://www.google.com/search?q=termcolors+python+light+green&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01EqvDJqevO8RvZKw1w5Ns3dLQwtQ:1599335800134&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=Wmg_R9ejx9V0WM%252CXjJQruZZP_HWNM%252C_&amp;vet=1&amp;usg=AI4_-kQUM8JEPFztNKMy_P_jSYWptlcSHQ&amp;sa=X&amp;ved=2ahUKEwje4fiR5tLrAhVjJzQIHYY3DMAQ9QF6BAgMEAo&amp;cshid=1599335910625084#imgrc=Wmg_R9ejx9V0WM">https://www.google.com/search?q=termcolors+python+light+green&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01EqvDJqevO8RvZKw1w5Ns3dLQwtQ:1599335800134&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=Wmg_R9ejx9V0WM%252CXjJQruZZP_HWNM%252C_&amp;vet=1&amp;usg=AI4_-kQUM8JEPFztNKMy_P_jSYWptlcSHQ&amp;sa=X&amp;ved=2ahUKEwje4fiR5tLrAhVjJzQIHYY3DMAQ9QF6BAgMEAo&amp;cshid=1599335910625084#imgrc=Wmg_R9ejx9V0WM</a></p>
+<p>colorama � PyPI
+<a href="https://pypi.org/project/colorama/">https://pypi.org/project/colorama/</a></p>
+<p>termcolor � PyPI
+<a href="https://pypi.org/project/termcolor/">https://pypi.org/project/termcolor/</a></p>
+<h2 id="progress-bar-te-quiero-desmaciado">progress bar te quiero desmaciado</h2>
+<p>tqdm/tqdm: A Fast, Extensible Progress Bar for Python and CLI
+<a href="https://github.com/tqdm/tqdm">https://github.com/tqdm/tqdm</a></p>
+<p>python enumerate tqdm bar when reading a file? - Stack Overflow
+<a href="https://stackoverflow.com/questions/48437189/python-enumerate-tqdm-bar-when-reading-a-file">https://stackoverflow.com/questions/48437189/python-enumerate-tqdm-bar-when-reading-a-file</a></p>
+<h1 id="web">web</h1>
+<h2 id="beautiful-soup">beautiful soup</h2>
+<p>Tutorial: Python Web Scraping Using BeautifulSoup ?
+<a href="https://www.dataquest.io/blog/web-scraping-tutorial-python/">https://www.dataquest.io/blog/web-scraping-tutorial-python/</a></p>
+<p>Python BeautifulSoup tutorial - parse HTML, XML documents in Python
+<a href="http://zetcode.com/python/beautifulsoup/">http://zetcode.com/python/beautifulsoup/</a></p>
+<p>python - bs4.FeatureNotFound: Couldn&rsquo;t find a tree builder with the features you requested: lxml. Do you need to install a parser library? - Stack Overflow
+<a href="https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste">https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste</a></p>
+<h2 id="cookies">cookies</h2>
+<p>python - How to set session cookie while extracting contents from URLs using beautiful soup? - Stack Overflow
+<a href="https://stackoverflow.com/questions/30450014/how-to-set-session-cookie-while-extracting-contents-from-urls-using-beautiful-so">https://stackoverflow.com/questions/30450014/how-to-set-session-cookie-while-extracting-contents-from-urls-using-beautiful-so</a></p>
+<p>requests.cookies ? Requests 2.24.0 documentation
+<a href="https://requests.readthedocs.io/en/master/_modules/requests/cookies/">https://requests.readthedocs.io/en/master/_modules/requests/cookies/</a></p>
+<p>How to send cookies in a post request with the Python Requests library? - Stack Overflow
+<a href="https://stackoverflow.com/questions/7164679/how-to-send-cookies-in-a-post-request-with-the-python-requests-library">https://stackoverflow.com/questions/7164679/how-to-send-cookies-in-a-post-request-with-the-python-requests-library</a></p>
+<p>Using cookies.txt file with Python Requests - Stack Overflow
+<a href="https://stackoverflow.com/questions/14742899/using-cookies-txt-file-with-python-requests">https://stackoverflow.com/questions/14742899/using-cookies-txt-file-with-python-requests</a></p>
+<h2 id="requests">requests</h2>
+<p>Python Requests and Beautiful Soup - Playing with HTTP Requests, HTML Parsing and APIs ? Fernando Medina Corey
+<a href="https://www.fernandomc.com/posts/using-requests-to-get-and-post/">https://www.fernandomc.com/posts/using-requests-to-get-and-post/</a></p>
+<h2 id="json">json</h2>
+<p>Reading and Writing JSON to a File in Python
+<a href="https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/">https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/</a></p>
+<h2 id="wget">wget</h2>
+<p>python3-wget � PyPI
+<a href="https://pypi.org/project/python3-wget/">https://pypi.org/project/python3-wget/</a></p>
+<h2 id="http">http</h2>
+<p>http.server ? HTTP servers ? Python 3.8.6rc1 documentation
+<a href="https://docs.python.org/3/library/http.server.html">https://docs.python.org/3/library/http.server.html</a></p>
+<p>BaseHttpServer - Python Wiki
+<a href="https://wiki.python.org/moin/BaseHttpServer">https://wiki.python.org/moin/BaseHttpServer</a></p>
+<p><a href="https://gist.githubusercontent.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7/raw/a6a1d090ac8549dac8f2bd607bd64925de997d40/server.py">https://gist.githubusercontent.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7/raw/a6a1d090ac8549dac8f2bd607bd64925de997d40/server.py</a>
+<a href="https://gist.githubusercontent.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7/raw/a6a1d090ac8549dac8f2bd607bd64925de997d40/server.py">https://gist.githubusercontent.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7/raw/a6a1d090ac8549dac8f2bd607bd64925de997d40/server.py</a></p>
+<h2 id="encoding-1">encoding</h2>
+<p>Best way to convert string to bytes in Python 3? - Stack Overflow
+<a href="https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3">https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3</a></p>
+<h2 id="socket">socket</h2>
+<p>socketserver ? A framework for network servers ? Python 3.8.6rc1 documentation
+<a href="https://docs.python.org/3/library/socketserver.html#socketserver.BaseServer.server_bind">https://docs.python.org/3/library/socketserver.html#socketserver.BaseServer.server_bind</a></p>
+<h2 id="http-server-host-address">http server host address</h2>
+<ul>
+<li>
+<p>Host server needs an IP adress to be able to listen to one of the
+NICs.</p>
+</li>
+<li>
+<p>Use 0.0.0.0 to listen to all NICs</p>
+</li>
+</ul>
+<p>python - I have get really confused in IP types with sockets (empty string, &lsquo;local host&rsquo;, etc&hellip;) - Stack Overflow
+<a href="https://stackoverflow.com/questions/39815633/i-have-get-really-confused-in-ip-types-with-sockets-empty-string-local-host">https://stackoverflow.com/questions/39815633/i-have-get-really-confused-in-ip-types-with-sockets-empty-string-local-host</a></p>
+<p>python - Why host http server needs to specify the IP on which it is hosting? - Stack Overflow
+<a href="https://stackoverflow.com/questions/32110965/why-host-http-server-needs-to-specify-the-ip-on-which-it-is-hosting">https://stackoverflow.com/questions/32110965/why-host-http-server-needs-to-specify-the-ip-on-which-it-is-hosting</a></p>
+<h1 id="testdebug">test/debug</h1>
+<h2 id="testing">testing</h2>
+<p>Skip and xfail: dealing with tests that cannot succeed — pytest documentation
+<a href="https://docs.pytest.org/en/latest/skipping.html">https://docs.pytest.org/en/latest/skipping.html</a></p>
+<p>(475) Mocking Strategies in Python - YouTube
+<a href="https://www.youtube.com/watch?v=zW0f4ZRYF5M">https://www.youtube.com/watch?v=zW0f4ZRYF5M</a></p>
+<h2 id="debugging">debugging</h2>
+<p>pdb — The Python Debugger — Python 3.8.5 documentation
+<a href="https://docs.python.org/3/library/pdb.html">https://docs.python.org/3/library/pdb.html</a></p>
+<h1 id="documentation">documentation</h1>
+<h2 id="sphinx">sphinx</h2>
+<h3 id="docs">docs</h3>
+<p>Configure Sphinx ? docs-python2readthedocs 0.1.0 documentation
+<a href="https://docs-python2readthedocs.readthedocs.io/en/master/configure-sphinx.html">https://docs-python2readthedocs.readthedocs.io/en/master/configure-sphinx.html</a></p>
+<p>Getting Started with Sphinx ? Read the Docs 5.4.1 documentation
+<a href="https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html">https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html</a></p>
+<p>Getting Started ? Sphinx 4.0.0+ documentation
+<a href="https://www.sphinx-doc.org/en/master/usage/quickstart.html">https://www.sphinx-doc.org/en/master/usage/quickstart.html</a></p>
+<h3 id="theme">theme</h3>
+<p>Sphinx Quickstart ? Sphinx-RTD-Tutorial documentation
+<a href="https://sphinx-rtd-tutorial.readthedocs.io/en/latest/sphinx-quickstart.html">https://sphinx-rtd-tutorial.readthedocs.io/en/latest/sphinx-quickstart.html</a></p>
+<h3 id="napoleon">napoleon</h3>
+<p>Setting up Sphinx for generating documentation from DocStrings, leveraging the Napoleon extension.
+<a href="https://gist.github.com/GLMeece/222624fc495caf6f3c010a8e26577d31">https://gist.github.com/GLMeece/222624fc495caf6f3c010a8e26577d31</a></p>
+<p>sphinx.ext.napoleon ? Support for NumPy and Google style docstrings ? Sphinx 4.0.0+ documentation
+<a href="https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html#module-sphinx.ext.napoleon">https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html#module-sphinx.ext.napoleon</a></p>
+<h3 id="autodoc">autodoc</h3>
+<p>sphinx.ext.autodoc ? Include documentation from docstrings ? Sphinx 4.0.0+ documentation
+<a href="https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#module-sphinx.ext.autodoc">https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#module-sphinx.ext.autodoc</a></p>
+<h2 id="mkdocs">mkdocs</h2>
+<p>Writing Your Docs - MkDocs
+<a href="https://www.mkdocs.org/user-guide/writing-your-docs/">https://www.mkdocs.org/user-guide/writing-your-docs/</a></p>
+<p>Getting Started with MkDocs ? Read the Docs 5.4.1 documentation
+<a href="https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html">https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html</a></p>
+<h2 id="numpy-docstrings">numpy docstrings</h2>
+<p>numpydoc docstring guide ? numpydoc v1.2.dev0 Manual
+<a href="https://numpydoc.readthedocs.io/en/latest/format.html">https://numpydoc.readthedocs.io/en/latest/format.html</a></p>
+<h1 id="install">install</h1>
+<h2 id="pip">pip</h2>
+<p>pip install ? pip 20.2.3 documentation
+<a href="https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs">https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs</a></p>
+<p>uninstallation - How to uninstall editable packages with pip (installed with -e) - Stack Overflow
+<a href="https://stackoverflow.com/questions/17346619/how-to-uninstall-editable-packages-with-pip-installed-with-e#comment103350606_17346619">https://stackoverflow.com/questions/17346619/how-to-uninstall-editable-packages-with-pip-installed-with-e#comment103350606_17346619</a></p>
+<h2 id="pip-install-from-directory">pip install from directory</h2>
+<p>pip install .</p>
+<p>python pip - install from local dir - Stack Overflow
+<a href="https://stackoverflow.com/questions/41535915/python-pip-install-from-local-dir">https://stackoverflow.com/questions/41535915/python-pip-install-from-local-dir</a></p>
+<h2 id="pip-install---editable-or--e">pip install &ndash;editable or -e</h2>
+<p>Codumentary: Tech Tips and Tricks: Python Tip of the Year: pip install &ndash;editable .
+<a href="http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=Python%20Tip%20of%20the%20Year%3A%20pip%20install%20%2D%2Deditable%20.,-Let's%20say%20you&amp;text=At%20the%20same%20time%20you,install%20%2D%2Deditable%20">http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=Python%20Tip%20of%20the%20Year%3A%20pip%20install%20%2D%2Deditable%20.,-Let's%20say%20you&amp;text=At%20the%20same%20time%20you,install%20%2D%2Deditable%20</a>.</p>
+<h2 id="editable-not-found">editable not found</h2>
+<p>mypy cannot find module installed as editable by pip � Issue #7508 � python/mypy
+<a href="https://github.com/python/mypy/issues/7508">https://github.com/python/mypy/issues/7508</a></p>
+<p>python - pip editing mode &ldquo;Module not found&rdquo; - Stack Overflow
+<a href="https://stackoverflow.com/questions/50487626/pip-editing-mode-module-not-found">https://stackoverflow.com/questions/50487626/pip-editing-mode-module-not-found</a></p>
+<h2 id="uninstall">uninstall</h2>
+<p>python setup.py uninstall - Stack Overflow
+<a href="https://stackoverflow.com/questions/1550226/python-setup-py-uninstall">https://stackoverflow.com/questions/1550226/python-setup-py-uninstall</a></p>
+<h1 id="algorithms-and-data-structures">algorithms and data structures</h1>
+<p>bt3gl/Book_on_Python_Algorithms_and_Data_Structure: 🪐 Book on Python, Algorithms, and Data Structures. 🪐
+<a href="https://github.com/bt3gl/Book_on_Python_Algorithms_and_Data_Structure">https://github.com/bt3gl/Book_on_Python_Algorithms_and_Data_Structure</a></p>
+<p>keon/algorithms: Minimal examples of data structures and algorithms in Python
+<a href="https://github.com/keon/algorithms">https://github.com/keon/algorithms</a></p>
+<p>OmkarPathak/Data-Structures-using-Python: This is my repository for Data Structures using Python
+<a href="https://github.com/OmkarPathak/Data-Structures-using-Python">https://github.com/OmkarPathak/Data-Structures-using-Python</a></p>
+<p>TheAlgorithms/Python: All Algorithms implemented in Python
+<a href="https://github.com/TheAlgorithms/Python">https://github.com/TheAlgorithms/Python</a></p>
+<p>The Algorithms
+<a href="https://github.com/TheAlgorithms">https://github.com/TheAlgorithms</a></p>
+<p>jmportilla/Python-for-Algorithms&ndash;Data-Structures&ndash;and-Interviews: Files for Udemy Course on Algorithms and Data Structures
+<a href="https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews">https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews</a></p>
+<p>PacktPublishing/Python-Data-Structures-and-Algorithms: Python Data Structures and Algorithms, published by Packt
+<a href="https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms">https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms</a></p>
+<p>prabhupant/python-ds: Repository for data structure and algorithms in Python for coding interviews
+<a href="https://github.com/prabhupant/python-ds">https://github.com/prabhupant/python-ds</a></p>
+<p>anujdutt9/Python-Data-Structures-and-Algorithms: Data Structures &amp; Algorithms Implementation in Python
+<a href="https://github.com/anujdutt9/Python-Data-Structures-and-Algorithms">https://github.com/anujdutt9/Python-Data-Structures-and-Algorithms</a></p>
+<p>tirthajyoti/Algorithm-Data-Structures-Python: Various useful data structures in Python
+<a href="https://github.com/tirthajyoti/Algorithm-Data-Structures-Python">https://github.com/tirthajyoti/Algorithm-Data-Structures-Python</a></p>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/easyhugo/tags/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif"></a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/game-dev/">Game Dev</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/cheatsheets/">Cheatsheets</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/key-display/">Key Display</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/mermaid/">Mermaid</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/markdown/">Markdown</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/keymap/">Keymap</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/bootstrap/">Bootstrap</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/json/">Json</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/facebook/">Facebook</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/jobs/">Jobs</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/thunderbird/">Thunderbird</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/screen-capture/">Screen Capture</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/screen-annotate/">Annotate Screen</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/screen-record/">Screen Record</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/easyhugo/posts/apps/">Apps</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.frankliu.org/easyhugo/" >
+    &copy;  My New Hugo Site 2020 
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/easyhugo/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>

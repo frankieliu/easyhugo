@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>My New Hugo Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.74.3" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+    
+      <link href="/easyhugo/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/easyhugo/css/custom.css">
+    
+
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="" />
+<meta property="og:description" content="New Tab chrome://newtab/
+https://piazza.com/verify_account https://piazza.com/verify_account
+Syllabus for Machine Learning https://canvas.stanford.edu/courses/121703/assignments/syllabus
+CS 229 (131 unread) https://piazza.com/class/ka764abpkd62w?cid=689
+mnist | Powered by Box https://stanford.app.box.com/folder/119469048360
+Untitled Note 2020-09-05 14.40.08 https://stanford.app.box.com/notes/715923474584
+CS229: Machine Learning http://cs229.stanford.edu/
+CS229: Machine Learning http://cs229.stanford.edu/syllabus-summer2020.html
+L02: Review of Matrix Calculus, Probability https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5
+Summer 2020 - Machine Learning : Panopto https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
+windows how to screen shot selected window - Google Search https://www.google.com/search?q=windows&#43;how&#43;to&#43;screen&#43;shot&#43;selected&#43;window&amp;rlz=1C1CHBF_enUS811US811&amp;oq=windows&#43;how&#43;to&#43;screen&#43;shot&#43;selected&#43;window&amp;aqs=chrome..69i57.12823j0j7&amp;sourceid=chrome&amp;ie=UTF-8
+vnc server - Open Google Chrome in another display - Stack Overflow https://stackoverflow." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.frankliu.org/easyhugo/posts/todo1/" />
+
+<meta itemprop="name" content="">
+<meta itemprop="description" content="New Tab chrome://newtab/
+https://piazza.com/verify_account https://piazza.com/verify_account
+Syllabus for Machine Learning https://canvas.stanford.edu/courses/121703/assignments/syllabus
+CS 229 (131 unread) https://piazza.com/class/ka764abpkd62w?cid=689
+mnist | Powered by Box https://stanford.app.box.com/folder/119469048360
+Untitled Note 2020-09-05 14.40.08 https://stanford.app.box.com/notes/715923474584
+CS229: Machine Learning http://cs229.stanford.edu/
+CS229: Machine Learning http://cs229.stanford.edu/syllabus-summer2020.html
+L02: Review of Matrix Calculus, Probability https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5
+Summer 2020 - Machine Learning : Panopto https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
+windows how to screen shot selected window - Google Search https://www.google.com/search?q=windows&#43;how&#43;to&#43;screen&#43;shot&#43;selected&#43;window&amp;rlz=1C1CHBF_enUS811US811&amp;oq=windows&#43;how&#43;to&#43;screen&#43;shot&#43;selected&#43;window&amp;aqs=chrome..69i57.12823j0j7&amp;sourceid=chrome&amp;ie=UTF-8
+vnc server - Open Google Chrome in another display - Stack Overflow https://stackoverflow.">
+
+<meta itemprop="wordCount" content="891">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="New Tab chrome://newtab/
+https://piazza.com/verify_account https://piazza.com/verify_account
+Syllabus for Machine Learning https://canvas.stanford.edu/courses/121703/assignments/syllabus
+CS 229 (131 unread) https://piazza.com/class/ka764abpkd62w?cid=689
+mnist | Powered by Box https://stanford.app.box.com/folder/119469048360
+Untitled Note 2020-09-05 14.40.08 https://stanford.app.box.com/notes/715923474584
+CS229: Machine Learning http://cs229.stanford.edu/
+CS229: Machine Learning http://cs229.stanford.edu/syllabus-summer2020.html
+L02: Review of Matrix Calculus, Probability https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5
+Summer 2020 - Machine Learning : Panopto https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
+windows how to screen shot selected window - Google Search https://www.google.com/search?q=windows&#43;how&#43;to&#43;screen&#43;shot&#43;selected&#43;window&amp;rlz=1C1CHBF_enUS811US811&amp;oq=windows&#43;how&#43;to&#43;screen&#43;shot&#43;selected&#43;window&amp;aqs=chrome..69i57.12823j0j7&amp;sourceid=chrome&amp;ie=UTF-8
+vnc server - Open Google Chrome in another display - Stack Overflow https://stackoverflow."/>
+
+	
+    <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/easyhugo/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        My New Hugo Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://www.frankliu.org/easyhugo/posts/todo1/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://www.frankliu.org/easyhugo/posts/todo1/&amp;text=" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.frankliu.org/easyhugo/posts/todo1/&amp;title=" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1"></h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="0001-01-01T00:00:00Z">January 1, 0001</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>New Tab
+chrome://newtab/</p>
+<p><a href="https://piazza.com/verify_account">https://piazza.com/verify_account</a>
+<a href="https://piazza.com/verify_account">https://piazza.com/verify_account</a></p>
+<p>Syllabus for Machine Learning
+<a href="https://canvas.stanford.edu/courses/121703/assignments/syllabus">https://canvas.stanford.edu/courses/121703/assignments/syllabus</a></p>
+<p>CS 229 (131 unread)
+<a href="https://piazza.com/class/ka764abpkd62w?cid=689">https://piazza.com/class/ka764abpkd62w?cid=689</a></p>
+<p>mnist | Powered by Box
+<a href="https://stanford.app.box.com/folder/119469048360">https://stanford.app.box.com/folder/119469048360</a></p>
+<p>Untitled Note 2020-09-05 14.40.08
+<a href="https://stanford.app.box.com/notes/715923474584">https://stanford.app.box.com/notes/715923474584</a></p>
+<p>CS229: Machine Learning
+<a href="http://cs229.stanford.edu/">http://cs229.stanford.edu/</a></p>
+<p>CS229: Machine Learning
+<a href="http://cs229.stanford.edu/syllabus-summer2020.html">http://cs229.stanford.edu/syllabus-summer2020.html</a></p>
+<p>L02: Review of Matrix Calculus, Probability
+<a href="https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5">https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5</a></p>
+<p>Summer 2020 - Machine Learning : Panopto
+<a href="https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22">https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22</a></p>
+<p>windows how to screen shot selected window - Google Search
+<a href="https://www.google.com/search?q=windows+how+to+screen+shot+selected+window&amp;rlz=1C1CHBF_enUS811US811&amp;oq=windows+how+to+screen+shot+selected+window&amp;aqs=chrome..69i57.12823j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=windows+how+to+screen+shot+selected+window&amp;rlz=1C1CHBF_enUS811US811&amp;oq=windows+how+to+screen+shot+selected+window&amp;aqs=chrome..69i57.12823j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>vnc server - Open Google Chrome in another display - Stack Overflow
+<a href="https://stackoverflow.com/questions/24203189/open-google-chrome-in-another-display">https://stackoverflow.com/questions/24203189/open-google-chrome-in-another-display</a></p>
+<p>Google Chrome can not start under VNC (Ubuntu 18.04) - Ask Ubuntu
+<a href="https://askubuntu.com/questions/1048723/google-chrome-can-not-start-under-vnc-ubuntu-18-04">https://askubuntu.com/questions/1048723/google-chrome-can-not-start-under-vnc-ubuntu-18-04</a></p>
+<p>linux - How to VNC into an existing X session? - Server Fault
+<a href="https://serverfault.com/questions/27044/how-to-vnc-into-an-existing-x-session">https://serverfault.com/questions/27044/how-to-vnc-into-an-existing-x-session</a></p>
+<p>How to start a vnc server for the actual display (scraping) with TigerVNC
+<a href="https://www.howtoforge.com/tutorial/how-to-start-a-vnc-server-for-the-actual-display-scraping-with-tigervnc/">https://www.howtoforge.com/tutorial/how-to-start-a-vnc-server-for-the-actual-display-scraping-with-tigervnc/</a></p>
+<p>(34) Store - LeetCode
+<a href="https://leetcode.com/store/">https://leetcode.com/store/</a></p>
+<p>LANEY - Google Search
+<a href="https://www.google.com/search?q=LANEY&amp;rlz=1C1CHBF_enUS811US811&amp;oq=LANEY&amp;aqs=chrome..69i57.6923j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=LANEY&amp;rlz=1C1CHBF_enUS811US811&amp;oq=LANEY&amp;aqs=chrome..69i57.6923j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>(5) Notifications | LinkedIn
+<a href="https://www.linkedin.com/notifications/">https://www.linkedin.com/notifications/</a></p>
+<p>Where do &ldquo;print screen&rdquo; pictures get stored? - Microsoft Community
+<a href="https://answers.microsoft.com/en-us/windows/forum/windows_vista-pictures/where-do-print-screen-pictures-get-stored/4b81a498-c370-e011-8dfc-68b599b31bf5">https://answers.microsoft.com/en-us/windows/forum/windows_vista-pictures/where-do-print-screen-pictures-get-stored/4b81a498-c370-e011-8dfc-68b599b31bf5</a></p>
+<p>Check Out The 10 Best Snipping Tools in 2020
+<a href="https://launchberg.com/10-best-snipping-tools/#snagit">https://launchberg.com/10-best-snipping-tools/#snagit</a></p>
+<p>windows 10 - How to snip same part of screen as last time? - Super User
+<a href="https://superuser.com/questions/1490126/how-to-snip-same-part-of-screen-as-last-time">https://superuser.com/questions/1490126/how-to-snip-same-part-of-screen-as-last-time</a></p>
+<p>ShareX - Screen capture, file sharing and productivity tool
+<a href="https://getsharex.com/">https://getsharex.com/</a></p>
+<p>Downloads
+<a href="https://getgreenshot.org/downloads/">https://getgreenshot.org/downloads/</a></p>
+<p>How can I disable the screenshot preview? : sharex
+<a href="https://www.reddit.com/r/sharex/comments/3yby8h/how_can_i_disable_the_screenshot_preview/">https://www.reddit.com/r/sharex/comments/3yby8h/how_can_i_disable_the_screenshot_preview/</a></p>
+<p>Main Page - Competitive Programming Algorithms
+<a href="https://cp-algorithms.com/">https://cp-algorithms.com/</a></p>
+<p>Inverse of a Matrix using Minors, Cofactors and Adjugate
+<a href="https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html">https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html</a></p>
+<p>Graham scan - Wikipedia
+<a href="https://en.wikipedia.org/wiki/Graham_scan">https://en.wikipedia.org/wiki/Graham_scan</a></p>
+<p>(34) Contest - LeetCode
+<a href="https://leetcode.com/contest/weekly-contest-205/ranking">https://leetcode.com/contest/weekly-contest-205/ranking</a></p>
+<p>Concurrency with Python: Actor Models &gt; Ying Wang
+<a href="https://bytes.yingw787.com/posts/2019/02/02/concurrency_with_python_actor_models/">https://bytes.yingw787.com/posts/2019/02/02/concurrency_with_python_actor_models/</a></p>
+<p>Thespian In-Depth Introduction
+<a href="https://thespianpy.com/doc/in_depth">https://thespianpy.com/doc/in_depth</a></p>
+<p>Peterlog
+<a href="https://sabaini.at/peterlog/posts/2020/Feb/16/thespian-a-python-actor-system/">https://sabaini.at/peterlog/posts/2020/Feb/16/thespian-a-python-actor-system/</a></p>
+<p>Mininet Walkthrough - Mininet
+<a href="http://mininet.org/walkthrough/#test-connectivity-between-hosts">http://mininet.org/walkthrough/#test-connectivity-between-hosts</a></p>
+<p>Thespian Actors User&rsquo;s Guide
+<a href="https://thespianpy.com/doc/using.html">https://thespianpy.com/doc/using.html</a></p>
+<p>computer science through puzzles - Google Search
+<a href="https://www.google.com/search?q=computer+science+through+puzzles&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01gloTgH_SfL_CVzpFRAvVzny1d7Q:1599416870400&amp;ei=JipVX6aFGJXI-gT3qpX4DQ&amp;start=20&amp;sa=N&amp;ved=2ahUKEwimsKGTlNXrAhUVpJ4KHXdVBd84ChDw0wN6BAgMEF8&amp;biw=1375&amp;bih=745">https://www.google.com/search?q=computer+science+through+puzzles&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01gloTgH_SfL_CVzpFRAvVzny1d7Q:1599416870400&amp;ei=JipVX6aFGJXI-gT3qpX4DQ&amp;start=20&amp;sa=N&amp;ved=2ahUKEwimsKGTlNXrAhUVpJ4KHXdVBd84ChDw0wN6BAgMEF8&amp;biw=1375&amp;bih=745</a></p>
+<p>Current Session - Session Buddy
+chrome-extension://edacconmaakjimmfgnblocblbcdcpbko/main.html</p>
+<p>combinatorics - Coloring dots in a circle with no two consecutive dots being the same color - Mathematics Stack Exchange
+<a href="https://math.stackexchange.com/questions/405109/coloring-dots-in-a-circle-with-no-two-consecutive-dots-being-the-same-color">https://math.stackexchange.com/questions/405109/coloring-dots-in-a-circle-with-no-two-consecutive-dots-being-the-same-color</a></p>
+<p>Proofs that Really Count: The Art of Combinatorial Proof (Dolciani Mathematical Expositions): Arthur T. Benjamin, Jennifer Quinn: 9780883853337: Amazon.com: Books
+<a href="https://www.amazon.com/dp/0883853337">https://www.amazon.com/dp/0883853337</a></p>
+<p>discrete mathematics - Bounds on rate $r$ for finishing $n$ jobs: $[w_1,w_2,\cdots, w_n]$ to be completed by time $H$ - Mathematics Stack Exchange
+<a href="https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-n-jobs-w-1-w-2-cdots-w-n-to-be-complet">https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-n-jobs-w-1-w-2-cdots-w-n-to-be-complet</a></p>
+<p>repository of computer science puzzles problems learning - Google Search
+<a href="https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;biw=1375&amp;bih=745&amp;sxsrf=ALeKk01Sa9niH0PGdOEXlXCSPvjitDHcWw%3A1599417641101&amp;ei=KS1VX4XXBY3t-gSx-YiYBw&amp;q=repository+of+computer+science+puzzles+problems+learning&amp;oq=repository+of+computer+science+puzzles+problems+learning&amp;gs_lcp=CgZwc3ktYWIQAzIFCCEQoAE6BAgAEEc6BAgjECc6BAguECc6BAgAEEM6BQgAEJECOgIIADoLCC4QsQMQxwEQowI6BwgAELEDEEM6CAgAELEDEIMBOgcIABAUEIcCOgoIABCxAxAUEIcCOgsILhCxAxDHARCvAToFCAAQsQM6AgguOgQIABAKOgQILhAKOgYIABAWEB46BAgAEA06BAguEA06CAgAEBYQChAeOggIIRAWEB0QHjoFCCEQqwI6BwghEAoQoAE6BAghEApQ3W9Y3skBYPTKAWgIcAh4AIABYogBwSOSAQI2MpgBAKABAaoBB2d3cy13aXrAAQE&amp;sclient=psy-ab&amp;ved=0ahUKEwjFj-GCl9XrAhWNtp4KHbE8AnMQ4dUDCA0&amp;uact=5">https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;biw=1375&amp;bih=745&amp;sxsrf=ALeKk01Sa9niH0PGdOEXlXCSPvjitDHcWw%3A1599417641101&amp;ei=KS1VX4XXBY3t-gSx-YiYBw&amp;q=repository+of+computer+science+puzzles+problems+learning&amp;oq=repository+of+computer+science+puzzles+problems+learning&amp;gs_lcp=CgZwc3ktYWIQAzIFCCEQoAE6BAgAEEc6BAgjECc6BAguECc6BAgAEEM6BQgAEJECOgIIADoLCC4QsQMQxwEQowI6BwgAELEDEEM6CAgAELEDEIMBOgcIABAUEIcCOgoIABCxAxAUEIcCOgsILhCxAxDHARCvAToFCAAQsQM6AgguOgQIABAKOgQILhAKOgYIABAWEB46BAgAEA06BAguEA06CAgAEBYQChAeOggIIRAWEB0QHjoFCCEQqwI6BwghEAoQoAE6BAghEApQ3W9Y3skBYPTKAWgIcAh4AIABYogBwSOSAQI2MpgBAKABAaoBB2d3cy13aXrAAQE&amp;sclient=psy-ab&amp;ved=0ahUKEwjFj-GCl9XrAhWNtp4KHbE8AnMQ4dUDCA0&amp;uact=5</a></p>
+<p>Anany Levitin - Google Search
+<a href="https://www.google.com/search?q=Anany+Levitin&amp;rlz=1C1CHBF_enUS811US811&amp;oq=Anany+Levitin&amp;aqs=chrome..69i57.685j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=Anany+Levitin&amp;rlz=1C1CHBF_enUS811US811&amp;oq=Anany+Levitin&amp;aqs=chrome..69i57.685j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>Mary-Angela Papalaskari&rsquo;s Home Page
+<a href="http://www.csc.villanova.edu/~map/">http://www.csc.villanova.edu/~map/</a></p>
+<p>Two Colors - Three Points on Circle
+<a href="https://www.cut-the-knot.org/pigeonhole/even_spaced.shtml#solution">https://www.cut-the-knot.org/pigeonhole/even_spaced.shtml#solution</a></p>
+<p>Universal Coloring (an Interactive gizmo)
+<a href="https://www.cut-the-knot.org/Curriculum/Combinatorics/UniversalColoring.shtml">https://www.cut-the-knot.org/Curriculum/Combinatorics/UniversalColoring.shtml</a></p>
+<p>Light Bulbs in a Circle (an Interactive Gizmo)
+<a href="https://www.cut-the-knot.org/Curriculum/Combinatorics/LightBulbs.shtml">https://www.cut-the-knot.org/Curriculum/Combinatorics/LightBulbs.shtml</a></p>
+<p>Puzzles and Computational Thinking | Teaching London Computing: A RESOURCE HUB from CAS LONDON &amp; CS4FN
+<a href="https://teachinglondoncomputing.org/puzzles/">https://teachinglondoncomputing.org/puzzles/</a></p>
+<p>Computer Science for Fun - cs4fn: Computational Thinking Puzzles
+<a href="http://www.cs4fn.org/puzzles/">http://www.cs4fn.org/puzzles/</a></p>
+<p><a href="http://www.beaver-comp.org.uk">www.beaver-comp.org.uk</a>
+<a href="http://www.beaver-comp.org.uk/">http://www.beaver-comp.org.uk/</a></p>
+<p>PUZZLES AND COMPUTATIONAL THINKING Free unplugged Ressources
+<a href="https://teacherswebresources.com/2017/05/09/puzzles-and-computational-thinking-free-unplugged-ressources/">https://teacherswebresources.com/2017/05/09/puzzles-and-computational-thinking-free-unplugged-ressources/</a></p>
+<p>De Bruijn sequence - Wikipedia
+<a href="https://en.wikipedia.org/wiki/De_Bruijn_sequence">https://en.wikipedia.org/wiki/De_Bruijn_sequence</a></p>
+<p>How many different Eulerian circuits are there in this graph? - Mathematics Stack Exchange
+<a href="https://math.stackexchange.com/questions/2057570/how-many-different-eulerian-circuits-are-there-in-this-graph">https://math.stackexchange.com/questions/2057570/how-many-different-eulerian-circuits-are-there-in-this-graph</a></p>
+<p>[PDF] Exact counting of Euler tours for generalized series-parallel graphs | Semantic Scholar
+<a href="https://www.semanticscholar.org/paper/Exact-counting-of-Euler-tours-for-generalized-Chebolu-Cryan/d8d3c13f0e3b16cd44c9500bffbadf79e2ca6fd7">https://www.semanticscholar.org/paper/Exact-counting-of-Euler-tours-for-generalized-Chebolu-Cryan/d8d3c13f0e3b16cd44c9500bffbadf79e2ca6fd7</a></p>
+<p>count the number of euler circuits - Google Search
+<a href="https://www.google.com/search?q=count+the+number+of+euler+circuits&amp;rlz=1C1CHBF_enUS811US811&amp;oq=count+the+number+of+euler+circuits&amp;aqs=chrome..69i57.8199j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=count+the+number+of+euler+circuits&amp;rlz=1C1CHBF_enUS811US811&amp;oq=count+the+number+of+euler+circuits&amp;aqs=chrome..69i57.8199j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>spanning tree count eulerian tour directed graph - Google Search
+<a href="https://www.google.com/search?q=spanning+tree+count+eulerian+tour+directed+graph&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk010WTHv7lvgR2mzUZzdKK51tntcAQ:1599421520538&amp;ei=UDxVX4u_INT4-gTvibiICw&amp;start=10&amp;sa=N&amp;ved=2ahUKEwiLp8-8pdXrAhVUvJ4KHe8EDrEQ8NMDegQIDRBA&amp;biw=1375&amp;bih=700">https://www.google.com/search?q=spanning+tree+count+eulerian+tour+directed+graph&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk010WTHv7lvgR2mzUZzdKK51tntcAQ:1599421520538&amp;ei=UDxVX4u_INT4-gTvibiICw&amp;start=10&amp;sa=N&amp;ved=2ahUKEwiLp8-8pdXrAhVUvJ4KHe8EDrEQ8NMDegQIDRBA&amp;biw=1375&amp;bih=700</a></p>
+<p>Euler and Hamiltonian Paths and Circuits | Mathematics for the Liberal Arts
+<a href="https://courses.lumenlearning.com/wmopen-mathforliberalarts/chapter/introduction-euler-paths/">https://courses.lumenlearning.com/wmopen-mathforliberalarts/chapter/introduction-euler-paths/</a></p>
+<p>web site - <a href="mailto:frankie.y.liu@gmail.com">frankie.y.liu@gmail.com</a> - Gmail
+<a href="https://mail.google.com/mail/u/0/#search/fonts/QgrcJHrntPgqQZCDPCDDhLTFWpFSlVMsFxb">https://mail.google.com/mail/u/0/#search/fonts/QgrcJHrntPgqQZCDPCDDhLTFWpFSlVMsFxb</a></p>
+<p>Webinar: PPP Loan/Grant Issues &amp; Tips for Small Businesses and Self-Employed | IEEE-CNSV
+<a href="https://californiaconsultants.org/event/ppp-loan-grant-issues-tips-small-businesses-self-employed/">https://californiaconsultants.org/event/ppp-loan-grant-issues-tips-small-businesses-self-employed/</a></p>
+<p>Instructor Slides Sep 2019 Berkeley - Google Drive
+<a href="https://drive.google.com/drive/folders/1r9El8bscwZNkicFUCIYmW2wwDzASY6on">https://drive.google.com/drive/folders/1r9El8bscwZNkicFUCIYmW2wwDzASY6on</a></p>
+<p>Tuesday Sept 3 - Google Drive
+<a href="https://drive.google.com/drive/folders/1Zar85SMUMnSztvGhoFZQ5KNELPluL2c2">https://drive.google.com/drive/folders/1Zar85SMUMnSztvGhoFZQ5KNELPluL2c2</a></p>
+<p>Coinbase
+<a href="https://www.coinbase.com/rewards">https://www.coinbase.com/rewards</a></p>
+<p>Post Attendee - Zoom
+<a href="https://us02web.zoom.us/postattendee?id=6">https://us02web.zoom.us/postattendee?id=6</a></p>
+<p>Car break in ? Nextdoor
+<a href="https://nextdoor.com/news_feed/">https://nextdoor.com/news_feed/</a></p>
+<p>Coinbase
+<a href="https://www.coinbase.com/dashboard">https://www.coinbase.com/dashboard</a></p>
+<p>Coinbase | Earn Celo
+<a href="https://www.coinbase.com/earn/celo?utm_medium=email&amp;utm_source=invited&amp;utm_campaign=celo_launch">https://www.coinbase.com/earn/celo?utm_medium=email&amp;utm_source=invited&amp;utm_campaign=celo_launch</a></p>
+<p>Coinbase
+<a href="https://www.coinbase.com/dashboard">https://www.coinbase.com/dashboard</a></p>
+<p>Sign In with Auth0
+<a href="https://pathrise.auth0.com/login?state=g6Fo2SBielVMQm1TLXdJaGhlTmJreWFrTDFNbURFbGY5WVdvUqN0aWTZIE83YXBUSVpqQXluN2tBajl0WE42ZmNlNndOMXNkaFhao2NpZNkgNkxIa3dMUXo5eGsyVUtSdzZiT1g4WVJsbEpGdjBrMTE&amp;client=6LHkwLQz9xk2UKRw6bOX8YRllJFv0k11&amp;protocol=oauth2&amp;connection=&amp;prompt=&amp;redirect_uri=https%3A%2F%2Ffellows.pathrise.com%2Fauth%2Fauth0%2Fcallback%3Fredirect_url%3Dhttps%3A%2F%2Ffellows.pathrise.com%2Fknowledge%2Fworkshops%2Funionfind&amp;response_type=code&amp;scope=openid%20email">https://pathrise.auth0.com/login?state=g6Fo2SBielVMQm1TLXdJaGhlTmJreWFrTDFNbURFbGY5WVdvUqN0aWTZIE83YXBUSVpqQXluN2tBajl0WE42ZmNlNndOMXNkaFhao2NpZNkgNkxIa3dMUXo5eGsyVUtSdzZiT1g4WVJsbEpGdjBrMTE&amp;client=6LHkwLQz9xk2UKRw6bOX8YRllJFv0k11&amp;protocol=oauth2&amp;connection=&amp;prompt=&amp;redirect_uri=https%3A%2F%2Ffellows.pathrise.com%2Fauth%2Fauth0%2Fcallback%3Fredirect_url%3Dhttps%3A%2F%2Ffellows.pathrise.com%2Fknowledge%2Fworkshops%2Funionfind&amp;response_type=code&amp;scope=openid%20email</a></p>
+<p>How Applying Rigor in Your Bid Decision Process Will Improve Your Win Rate
+<a href="https://www.proposalreflections.com/2020/06/how-applying-rigor-in-your-bid-decision.html">https://www.proposalreflections.com/2020/06/how-applying-rigor-in-your-bid-decision.html</a></p>
+<p>rfp - Google Search
+<a href="https://www.google.com/search?q=rfp&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01sFNQxn0vItOEVJvR-7xAQPYefQg:1599425487969&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=Q8KxHgxl6q8VFM%252CpTCn7LkcKe-TLM%252C_&amp;vet=1&amp;usg=AI4_-kTMTj3D7rTmkQPpcDyhQnN2fdXWmg&amp;sa=X&amp;ved=2ahUKEwizjbigtNXrAhUDt54KHVEPA-EQ_h16BAgNEAc#imgrc=Q8KxHgxl6q8VFM">https://www.google.com/search?q=rfp&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk01sFNQxn0vItOEVJvR-7xAQPYefQg:1599425487969&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=Q8KxHgxl6q8VFM%252CpTCn7LkcKe-TLM%252C_&amp;vet=1&amp;usg=AI4_-kTMTj3D7rTmkQPpcDyhQnN2fdXWmg&amp;sa=X&amp;ved=2ahUKEwizjbigtNXrAhUDt54KHVEPA-EQ_h16BAgNEAc#imgrc=Q8KxHgxl6q8VFM</a></p>
+<p>Master Your Company?s RFP Process | Smartsheet
+<a href="https://www.smartsheet.com/request-for-proposal">https://www.smartsheet.com/request-for-proposal</a></p>
+<p>successful governmet proposals - Google Search
+<a href="https://www.google.com/search?q=successful+governmet+proposals&amp;rlz=1C1CHBF_enUS811US811&amp;oq=successful+governmet+proposals&amp;aqs=chrome..69i57.10654j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=successful+governmet+proposals&amp;rlz=1C1CHBF_enUS811US811&amp;oq=successful+governmet+proposals&amp;aqs=chrome..69i57.10654j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>Government Contractors: Top 10 Rules of Winning Proposals
+<a href="https://www.salesartillery.com/fs/government-contractors-top-10-rules-winning-proposals">https://www.salesartillery.com/fs/government-contractors-top-10-rules-winning-proposals</a></p>
+<p>Amazon.com: Lean for Business Organizations: A Practical Guide eBook: Dumitrascu, Sorin: Kindle Store
+<a href="https://www.amazon.com/Lean-Business-Organizations-Practical-Guide-ebook/dp/B071R62RBD/ref=msx_wsirn_v1_1/145-4256977-3208364?_encoding=UTF8&amp;pd_rd_i=B071R62RBD&amp;pd_rd_r=a9dafd8b-1f05-4d9e-bdae-e6bdc2e6b959&amp;pd_rd_w=hRamu&amp;pd_rd_wg=nGSPm&amp;pf_rd_p=3187ad9b-122f-43f5-9fd5-75b35f775d85&amp;pf_rd_r=EYFQW5KF10HJ2PQHVKXZ&amp;psc=1&amp;refRID=EYFQW5KF10HJ2PQHVKXZ">https://www.amazon.com/Lean-Business-Organizations-Practical-Guide-ebook/dp/B071R62RBD/ref=msx_wsirn_v1_1/145-4256977-3208364?_encoding=UTF8&amp;pd_rd_i=B071R62RBD&amp;pd_rd_r=a9dafd8b-1f05-4d9e-bdae-e6bdc2e6b959&amp;pd_rd_w=hRamu&amp;pd_rd_wg=nGSPm&amp;pf_rd_p=3187ad9b-122f-43f5-9fd5-75b35f775d85&amp;pf_rd_r=EYFQW5KF10HJ2PQHVKXZ&amp;psc=1&amp;refRID=EYFQW5KF10HJ2PQHVKXZ</a></p>
+<p>Amazon.com: Workplace Genie: An Unorthodox Toolkit to Help Transform Your Work Relationships and Get the Most from Your Career eBook: Canavor, Natalie, Dowell, Susan: Kindle Store
+<a href="https://www.amazon.com/Natalie-Canavor-ebook/dp/B06XSPJCBC/ref=msx_wsirn_v1_4/145-4256977-3208364?_encoding=UTF8&amp;pd_rd_i=B06XSPJCBC&amp;pd_rd_r=943d8b50-3b87-435f-a3ae-e5c40f04acfe&amp;pd_rd_w=BHqoc&amp;pd_rd_wg=C4Lh0&amp;pf_rd_p=3187ad9b-122f-43f5-9fd5-75b35f775d85&amp;pf_rd_r=GXZ13M07PZGWCVMT7YXK&amp;psc=1&amp;refRID=GXZ13M07PZGWCVMT7YXK">https://www.amazon.com/Natalie-Canavor-ebook/dp/B06XSPJCBC/ref=msx_wsirn_v1_4/145-4256977-3208364?_encoding=UTF8&amp;pd_rd_i=B06XSPJCBC&amp;pd_rd_r=943d8b50-3b87-435f-a3ae-e5c40f04acfe&amp;pd_rd_w=BHqoc&amp;pd_rd_wg=C4Lh0&amp;pf_rd_p=3187ad9b-122f-43f5-9fd5-75b35f775d85&amp;pf_rd_r=GXZ13M07PZGWCVMT7YXK&amp;psc=1&amp;refRID=GXZ13M07PZGWCVMT7YXK</a></p>
+<p>Amazon.com: Body Language: How to Read Others, Detect Deceit, and Convey the Right Message eBook: Borg, James: Kindle Store
+<a href="https://www.amazon.com/Body-Language-Others-Detect-Message-ebook/dp/B00USBMFP4/ref=msx_wsirn_v1_8?_encoding=UTF8&amp;pd_rd_i=B00USBMFP4&amp;pd_rd_r=943d8b50-3b87-435f-a3ae-e5c40f04acfe&amp;pd_rd_w=BHqoc&amp;pd_rd_wg=C4Lh0&amp;pf_rd_p=3187ad9b-122f-43f5-9fd5-75b35f775d85&amp;pf_rd_r=GXZ13M07PZGWCVMT7YXK&amp;psc=1&amp;refRID=GXZ13M07PZGWCVMT7YXK">https://www.amazon.com/Body-Language-Others-Detect-Message-ebook/dp/B00USBMFP4/ref=msx_wsirn_v1_8?_encoding=UTF8&amp;pd_rd_i=B00USBMFP4&amp;pd_rd_r=943d8b50-3b87-435f-a3ae-e5c40f04acfe&amp;pd_rd_w=BHqoc&amp;pd_rd_wg=C4Lh0&amp;pf_rd_p=3187ad9b-122f-43f5-9fd5-75b35f775d85&amp;pf_rd_r=GXZ13M07PZGWCVMT7YXK&amp;psc=1&amp;refRID=GXZ13M07PZGWCVMT7YXK</a></p>
+<p>Amazon.com: How to Read People Like a Book: A Guide to Speed-Reading People, Understand Body Language and Emotions, Decode Intentions, and Connect Effortlessly (Practical Emotional Intelligence Book 6) eBook: Williams, James W.: Kindle Store
+<a href="https://www.amazon.com/dp/B085ZG44P5/ref=sspa_dk_detail_5?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQzlJUkU5NDNBNlEzJmVuY3J5cHRlZElkPUExMDE1Mzk4OUI3TURTUTRSOFg1JmVuY3J5cHRlZEFkSWQ9QTAwNTk2ODUyUjdNV0ZNTEpRUTJGJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">https://www.amazon.com/dp/B085ZG44P5/ref=sspa_dk_detail_5?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQzlJUkU5NDNBNlEzJmVuY3J5cHRlZElkPUExMDE1Mzk4OUI3TURTUTRSOFg1JmVuY3J5cHRlZEFkSWQ9QTAwNTk2ODUyUjdNV0ZNTEpRUTJGJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=</a></p>
+<p>The Art of Witty Banter: Be Clever, Be Quick, Be Interesting - Create Captivating Conversation (How to be More Likable and Charismatic Book 3) - Kindle edition by King, Patrick. Religion &amp; Spirituality Kindle eBooks @ Amazon.com.
+<a href="https://www.amazon.com/dp/B01N54NM0Y/ref=sspa_dk_detail_8?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQzlJUkU5NDNBNlEzJmVuY3J5cHRlZElkPUExMDE1Mzk4OUI3TURTUTRSOFg1JmVuY3J5cHRlZEFkSWQ9QTA1ODE1NjMxUEY2V0pLMEVCNjYxJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">https://www.amazon.com/dp/B01N54NM0Y/ref=sspa_dk_detail_8?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQzlJUkU5NDNBNlEzJmVuY3J5cHRlZElkPUExMDE1Mzk4OUI3TURTUTRSOFg1JmVuY3J5cHRlZEFkSWQ9QTA1ODE1NjMxUEY2V0pLMEVCNjYxJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=</a></p>
+<p>Magnetic Charisma: How to Build Instant Rapport, Be More Likable, and Make a Memorable Impression ? Gain the It Factor (How to be More Likable and Charismatic Book 5) - Kindle edition by King, Patrick, Green, Jonathan. Religion &amp; Spirituality Kindle eBooks @ Amazon.com.
+<a href="https://www.amazon.com/dp/B072MSTGG2/ref=sspa_dk_detail_0?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVjdMNzBNSlBBQjdRJmVuY3J5cHRlZElkPUEwMjg0MTkzMkNGVVRFWjNDRU5PQSZlbmNyeXB0ZWRBZElkPUEwNjkxMzMzMUM5NlhRMkQ3SFZISiZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl">https://www.amazon.com/dp/B072MSTGG2/ref=sspa_dk_detail_0?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVjdMNzBNSlBBQjdRJmVuY3J5cHRlZElkPUEwMjg0MTkzMkNGVVRFWjNDRU5PQSZlbmNyeXB0ZWRBZElkPUEwNjkxMzMzMUM5NlhRMkQ3SFZISiZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl</a></p>
+<p>Amazon.com: Improve Your People Skills: How to Connect With Anyone, Communicate Effectively, Develop Deep Relationships, and Become a People Person (How to be More Likable and Charismatic Book 2) eBook: King, Patrick: Kindle Store
+<a href="https://www.amazon.com/dp/B07XK7WBW2/ref=sspa_dk_detail_1?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVjdMNzBNSlBBQjdRJmVuY3J5cHRlZElkPUEwMjg0MTkzMkNGVVRFWjNDRU5PQSZlbmNyeXB0ZWRBZElkPUEwMjQxNjQ1MkEwSDNLUTBKQUU0RSZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl">https://www.amazon.com/dp/B07XK7WBW2/ref=sspa_dk_detail_1?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVjdMNzBNSlBBQjdRJmVuY3J5cHRlZElkPUEwMjg0MTkzMkNGVVRFWjNDRU5PQSZlbmNyeXB0ZWRBZElkPUEwMjQxNjQ1MkEwSDNLUTBKQUU0RSZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl</a></p>
+<p>Amazon.com: How To Cope With Difficult People: Making human relations harmonious and effective eBook: Houel, Alain, Godefroy, Christian H.: Kindle Store
+<a href="https://www.amazon.com/dp/B01G67TOK2/ref=sspa_dk_detail_3?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNVVCNlFTRjdKVjcwJmVuY3J5cHRlZElkPUEwODg0Njk2RkZKVUNSNDZVT1FLJmVuY3J5cHRlZEFkSWQ9QTAwNTgxNDcyQ0RaSlUxRFlIRlNPJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">https://www.amazon.com/dp/B01G67TOK2/ref=sspa_dk_detail_3?psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNVVCNlFTRjdKVjcwJmVuY3J5cHRlZElkPUEwODg0Njk2RkZKVUNSNDZVT1FLJmVuY3J5cHRlZEFkSWQ9QTAwNTgxNDcyQ0RaSlUxRFlIRlNPJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=</a></p>
+<p>Taking notes
+<a href="https://wozniak.ca/blog/2013/10/15/1/index.html">https://wozniak.ca/blog/2013/10/15/1/index.html</a></p>
+<p>Software Engineering for Data Scientists
+<a href="https://pythonspeed.com/datascience/">https://pythonspeed.com/datascience/</a></p>
+<p>New Tab
+chrome://newtab/</p>
+<p>facetime - Google Search
+<a href="https://www.google.com/search?q=facetime&amp;rlz=1C1CHBF_enUS811US811&amp;oq=facetime&amp;aqs=chrome..69i57.3072j0j7&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=facetime&amp;rlz=1C1CHBF_enUS811US811&amp;oq=facetime&amp;aqs=chrome..69i57.3072j0j7&amp;sourceid=chrome&amp;ie=UTF-8</a></p>
+<p>(528) Top 30 Interview Questions - From a Recruiters Hiring Playbook - YouTube
+<a href="https://www.youtube.com/watch?v=B_LmCruLjis">https://www.youtube.com/watch?v=B_LmCruLjis</a></p>
+<p>Dream Career Blueprint
+<a href="https://dreamcareerworkshop.com/register-now-yt40642474?gclid=CjwKCAjwkdL6BRAREiwA-kiczOral0FDUMx1hP7ApPjyB3vl3BECHaskq_WG9Ja0tKcJGqwvh2Rg3hoCmGYQAvD_BwE">https://dreamcareerworkshop.com/register-now-yt40642474?gclid=CjwKCAjwkdL6BRAREiwA-kiczOral0FDUMx1hP7ApPjyB3vl3BECHaskq_WG9Ja0tKcJGqwvh2Rg3hoCmGYQAvD_BwE</a></p>
+<p>james whitaker dream career lab worth it? - Google Search
+<a href="https://www.google.com/search?q=james+whitaker+dream+career+lab+worth+it%3F&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk00gmwvUqBqcSYEcDuByhbI3Agg8WQ:1599432443235&amp;ei=-2ZVX_bzDZLk-gTZlK8o&amp;start=30&amp;sa=N&amp;ved=2ahUKEwi23fuUztXrAhUSsp4KHVnKCwU4FBDw0wN6BAgMEEA&amp;biw=1375&amp;bih=700">https://www.google.com/search?q=james+whitaker+dream+career+lab+worth+it%3F&amp;rlz=1C1CHBF_enUS811US811&amp;sxsrf=ALeKk00gmwvUqBqcSYEcDuByhbI3Agg8WQ:1599432443235&amp;ei=-2ZVX_bzDZLk-gTZlK8o&amp;start=30&amp;sa=N&amp;ved=2ahUKEwi23fuUztXrAhUSsp4KHVnKCwU4FBDw0wN6BAgMEEA&amp;biw=1375&amp;bih=700</a></p>
+<p>(528) James Whittaker - Career Superpowers (Full 4-Hour Version) - YouTube
+<a href="https://www.youtube.com/watch?v=8Ia6FX-tqcE">https://www.youtube.com/watch?v=8Ia6FX-tqcE</a></p>
+<p>New Tab
+chrome://newtab/</p>
+<p>New Tab
+chrome://newtab/</p>
+<p>Google Calendar - Week of September 6, 2020
+<a href="https://calendar.google.com/calendar/u/0/r">https://calendar.google.com/calendar/u/0/r</a></p>
+<p>(5) MightyText
+<a href="https://mightytext.net/web8/?exp=1">https://mightytext.net/web8/?exp=1</a></p>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.frankliu.org/easyhugo/" >
+    &copy;  My New Hugo Site 2020 
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/easyhugo/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>
