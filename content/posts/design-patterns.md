@@ -24,3 +24,13 @@ https://beginnersbook.com/2014/07/override-annotation-in-java/#:~:text=%40Overri
 Class Diagram syntax and features
 https://plantuml.com/class-diagram
 
+# links for meetup
+
+java-design-patterns/chain at master � iluwatar/java-design-patterns
+https://github.com/iluwatar/java-design-patterns/tree/master/chain
+
+Software design pattern - Wikipedia
+https://en.wikipedia.org/wiki/Software_design_pattern
+
+Class Diagram syntax and features
+https://plantuml.com/class-diagram

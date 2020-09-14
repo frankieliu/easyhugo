@@ -39,3 +39,5 @@ https://github.com/jtratner/vim-flavored-markdown
 BookMarkDown
 https://jerrysievert.github.io/bookmarkdown/#configuration
 
+Mastering Markdown � GitHub Guides
+https://guides.github.com/features/mastering-markdown/

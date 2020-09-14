@@ -180,3 +180,19 @@ https://www.pygame.org/project/121/156
 
 Simple Game Tutorials for LÖVE
 https://simplegametutorials.github.io/
+
+# links for finn
+
+OSMstudios \ Your First Love2d Game in 200 Lines - Part 3 of 3
+http://www.osmstudios.com/page/your-first-love2d-game-in-200-lines-part-3-of-3
+
+OSMstudios \ Your First Love2d Game in 200 Lines - Exercises
+http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-exercises
+
+Love2d Mirror/Flip Drawn Image. - L�VE
+https://love2d.org/forums/viewtopic.php?t=9511
+
+
+how to make enemy movements down the screen for a shooter - Google Search
+https://www.google.com/search?q=how+to+make+enemy+movements+down+the+screen+for+a+shooter&rlz=1C1CHBF_enUS811US811&oq=how+to+make+enemy+movements+down+the+screen+for+a+shooter&aqs=chrome..69i57.25886j0j7&sourceid=chrome&ie=UTF-8
+

@@ -23,3 +23,7 @@ https://workera.ai/resources/preparing-for-the-machine-learning-test/
 
 AI Notes - deeplearning.ai
 https://www.deeplearning.ai/ai-notes/
+
+Software Engineering for Data Scientists
+https://pythonspeed.com/datascience/
+

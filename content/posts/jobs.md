@@ -39,6 +39,9 @@ https://www.levels.fyi/
 Principal (Remote) - $400,000/year USD | Crossover for Work | LinkedIn
 https://www.linkedin.com/jobs/view/1989853533/?lgTemp=jobs_jymbii_digest&eBP=NotAvailableFromMidTier&lgCta=eml-jymbii-organic-job-card&recommendedFlavor=HIDDEN_GEM&refId=7c333a6b-c37a-4ca5-8f55-5337e1c6fc92&midToken=AQEFUDtoXUxhfA&trk=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow&trkEmail=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow-null-9ojgw%7Eke520b5i%7E2f-null-jobs%7Eview
 
+UserLeap - UserLeap is changing the way companies solve complex business problems
+https://userleap.com/company.html
+
 # blind
 
 Most embarrassing responses to technical interview questions - Blind
@@ -122,6 +125,48 @@ https://www.indeed.com/hire/interview-questions/manager?aceid=&gclid=CjwKCAjwqML
 (524) 5 Things You Should Never Say In a Job Interview - YouTube
 https://www.youtube.com/watch?v=wIjK-6Do6lg
 
+(528) Top 30 Interview Questions - From a Recruiters Hiring Playbook - YouTube
+https://www.youtube.com/watch?v=B_LmCruLjis
+
+Retrolog.io
+https://retrolog.io/
+
+Retrolog.io | A Pragmatic Approach to Roadmapping
+https://retrolog.io/blog/a-pragmatic-approach-to-roadmapping/
+
+Retrolog.io | Twilio Hackathon - COVID-19 Peak Detector
+https://retrolog.io/blog/twilio-hackathon-covid-19-peak-detector/
+
+Retrolog.io | Mastering Pair Programming in 5 Minutes
+https://retrolog.io/blog/mastering-pair-programming-in-5-minutes/
+
+Retrolog.io | Managing High Performers
+https://retrolog.io/blog/managing-high-performers/
+
+Retrolog.io | Managing Low Performers
+https://retrolog.io/blog/managing-low-performers/
+
+Retrolog.io | A Pragmatic Approach to System Design
+https://retrolog.io/blog/a-pragmatic-approach-to-system-design/
+
+Retrolog.io | Developing Your Critical Thinking
+https://retrolog.io/blog/developing-your-critical-thinking/
+
+Retrolog.io | Improving Your Conversational Skills
+https://retrolog.io/blog/improving-your-conversational-skills/
+
+Retrolog.io | Avoiding Burnout at Work
+https://retrolog.io/blog/avoiding-burnout-at-work/
+
+Retrolog.io | Building Self-Awareness as a Manager
+https://retrolog.io/blog/building-self-awareness-as-a-manager/
+
+Retrolog.io | My 7 Management Principles
+https://retrolog.io/blog/my-7-management-principles/
+
+Pedro Lopez | LinkedIn
+https://www.linkedin.com/in/plopcas/
+
 # linkedin
 
 10 Best Templates for LinkedIn Connection Requests | The Muse
@@ -132,4 +177,35 @@ https://www.fastcompany.com/90393447/this-is-the-right-way-to-reply-to-a-recruit
 
 7 changes for your LinkedIn profile if you've been laid off
 https://www.fastcompany.com/90508311/7-changes-to-make-your-linkedin-profile-if-youve-been-laid-off
+
+# ad
+
+Dream Career Blueprint
+https://dreamcareerworkshop.com/register-now-yt40642474?gclid=CjwKCAjwkdL6BRAREiwA-kiczOral0FDUMx1hP7ApPjyB3vl3BECHaskq_WG9Ja0tKcJGqwvh2Rg3hoCmGYQAvD_BwE
+
+james whitaker dream career lab worth it? - Google Search
+https://www.google.com/search?q=james+whitaker+dream+career+lab+worth+it%3F&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk00gmwvUqBqcSYEcDuByhbI3Agg8WQ:1599432443235&ei=-2ZVX_bzDZLk-gTZlK8o&start=30&sa=N&ved=2ahUKEwi23fuUztXrAhUSsp4KHVnKCwU4FBDw0wN6BAgMEEA&biw=1375&bih=700
+
+(528) James Whittaker - Career Superpowers (Full 4-Hour Version) - YouTube
+https://www.youtube.com/watch?v=8Ia6FX-tqcE
+
+# okr
+
+OKRs - Google Search
+https://www.google.com/search?q=OKRs&rlz=1C1CHBF_enUS811US811&oq=OKRs&aqs=chrome..69i57.1252j0j7&sourceid=chrome&ie=UTF-8
+
+OKR: Objectives and Key Results - The Ultimate OKR Resource
+https://weekdone.com/resources/objectives-key-results/#:~:text=Objectives%20and%20Key%20Results%20(OKR,commonly%2C%20with%20an%20OKR%20software.
+
+OKR - Wikipedia
+https://en.wikipedia.org/wiki/OKR
+
+OKR: Learn Google's Goal System with Examples and Templates
+https://felipecastro.com/en/okr/what-is-okr/
+
+re:Work - Guide: Set goals with OKRs
+https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
+
+(6) 25 Metrics to Track in a Product-Led SaaS Company | LinkedIn
+https://www.linkedin.com/pulse/25-metrics-track-product-led-saas-company-allan-wille/
 

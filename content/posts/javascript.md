@@ -72,6 +72,12 @@ https://github.com/nvm-sh/nvm
 nvm essential - Google Search
 https://www.google.com/search?q=nvm+essential&rlz=1C1CHBF_enUS811US811&oq=nvm+essential&aqs=chrome..69i57.3583j0j7&sourceid=chrome&ie=UTF-8
 
+javascript - SyntaxError: Unexpected token function - Async Await Nodejs - Stack Overflow
+https://stackoverflow.com/questions/37815790/syntaxerror-unexpected-token-function-async-await-nodejs
+
+nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+https://github.com/nvm-sh/nvm
+
 ## nvm default
 
 npm alias default node
@@ -173,4 +179,5 @@ https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/Overview/jQuery/
 
 Pricing, Compare Subscriptions: DevExtreme - HTML5 JavaScript UI Widgets for Angular, React, Vue and jQuery by DevExpress
 https://js.devexpress.com/Buy/
+
 

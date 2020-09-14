@@ -65,3 +65,8 @@ update-alternatives --config x-www-browser
 I have tried to change all of these to point wslview but firefox still gets picked up somehow.
 In the end resorted to removing firefox.
 
+# scroll discord
+
+Allow autoscrolling with the mouse wheel in the Linux client ? Discord
+https://support.discord.com/hc/en-us/community/posts/360040900831-Allow-autoscrolling-with-the-mouse-wheel-in-the-Linux-client
+

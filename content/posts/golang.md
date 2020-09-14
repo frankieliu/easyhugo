@@ -14,6 +14,12 @@ https://golang.org/dl/
 How to Install Go on Ubuntu | Linode
 https://www.linode.com/docs/development/go/install-go-on-ubuntu/
 
+Download and install - The Go Programming Language
+https://golang.org/doc/install
+
+What does go install do? - Stack Overflow
+https://stackoverflow.com/questions/24069664/what-does-go-install-do
+
 # language
 
 ## intro

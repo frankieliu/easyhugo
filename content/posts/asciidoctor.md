@@ -53,6 +53,12 @@ https://www.google.com/search?q=how+does+hugo+take+output+from+asciidoctor&rlz=1
 gohugoio/hugo: The world?s fastest framework for building websites.
 https://github.com/gohugoio/hugo
 
+jrutheiser/hugo-lithium-theme: Lithium - A simple responsive Hugo theme
+https://github.com/jrutheiser/hugo-lithium-theme
+
+STMA: AsciiDoc Support in the Hugo-Base Theme
+
+https://stma.is/stick/2020-04-08-hugo-base-asciidoc-support/
 # blog
 
 Better Hugo/AsciiDoc HTML - ratfactor
@@ -118,6 +124,9 @@ https://www.google.com/search?q=hugo+how+to+get+asciidoctor+styling&rlz=1C1CHBF_
 bric3.github.io/_asciidoctor.scss at 48a572d2c7778219984e2678664cb435788a2915 � bric3/bric3.github.io
 https://github.com/bric3/bric3.github.io/blob/48a572d2c7778219984e2678664cb435788a2915/assets/scss/hyde-hyde/_asciidoctor.scss
 
+Asciidoctor :: Discussion - Search for 'css'
+https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=search_page&node=1&query=css&i=48
+
 # toc placement in ananke and asciidoctor
 
 toc positioning wrt to content in default css � Issue #3751 � asciidoctor/asciidoctor
@@ -131,6 +140,9 @@ https://github.com/theNewDynamic/gohugo-theme-ananke/issues/340
 
 Asciidoctor :: Discussion - asciidoctor html table of contents in sidebar with volnitsky ?
 https://discuss.asciidoctor.org/asciidoctor-html-table-of-contents-in-sidebar-with-volnitsky-td5220.html
+
+Asciidoctor :: Discussion - TOC positioning wrt to content in default css
+https://discuss.asciidoctor.org/TOC-positioning-wrt-to-content-in-default-css-td8235.html
 
 # convert documents
 How do I convert a document? | Asciidoctor
@@ -271,6 +283,18 @@ https://github.com/ivanceras/svgbob/issues/35
 ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
 https://github.com/ivanceras/svgbob
 
+ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+https://github.com/ivanceras/svgbob
+
+ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+https://github.com/ivanceras/svgbob
+
+Installation - The Cargo Book
+https://doc.rust-lang.org/cargo/getting-started/installation.html#:~:text=Install%20Rust%20and%20Cargo,rustup%20will%20also%20install%20cargo%20.&text=It%20will%20download%20a%20script%2C%20and%20start%20the%20installation.
+
+Installation - The Cargo Book
+https://doc.rust-lang.org/cargo/getting-started/installation.html#:~:text=Install%20Rust%20and%20Cargo,rustup%20will%20also%20install%20cargo%20.&text=It%20will%20download%20a%20script%2C%20and%20start%20the%20installation.
+
 ## symbolator
 kevinpt/symbolator: HDL symbol generator
 https://github.com/kevinpt/symbolator
@@ -379,4 +403,308 @@ https://discuss.asciidoctor.org/Can-asciidoctor-diagram-be-used-with-asciidoctor
 
 Kroki Plugin - Gridsome Asciidoc starter
 https://gridsome-starter-asciidoc.netlify.app/kroki-plugin/
+
+Let?s Make A Bar Chart Tutorial | Vega
+https://vega.github.io/vega/tutorials/bar-chart/
+
+Usage | Vega
+https://vega.github.io/vega/usage/#cli
+
+Vega Lite Cli :: Anaconda Cloud
+https://anaconda.org/conda-forge/vega-lite-cli
+
+Compiling Vega-Lite to Vega | Vega-Lite
+https://vega.github.io/vega-lite/usage/compile.html#cli
+
+https://vega.github.io/vega-lite/examples/data/movies.json
+https://vega.github.io/vega-lite/examples/data/movies.json
+
+asciidoctor/asciidoctor-diagram: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom.
+https://github.com/asciidoctor/asciidoctor-diagram
+
+gtudan/bpmn-js-cmd: A command line tool for rendering BPMN-Diagrams with https://bpmn.io/toolkit/bpmn-js/
+https://github.com/gtudan/bpmn-js-cmd
+
+JavaScript Developer, Graphical Modeling (m/f/d) - Camunda
+https://apply.workable.com/camunda/j/5ED6D67BC6/apply/
+
+ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+https://github.com/ivanceras/svgbob
+
+wavedrom/cli: CLI for WaveDrom
+https://github.com/wavedrom/cli
+
+gnuplot homepage
+http://gnuplot.info/
+
+mermaid-js/mermaid-cli: Command line tool for the Mermaid library
+https://github.com/mermaid-js/mermaid-cli
+
+nomnoml
+https://nomnoml.com/
+
+frankieliu/nomnoml: The sassy UML diagram renderer
+https://github.com/frankieliu/nomnoml
+
+sverweij/state-machine-cat: write beautiful state charts
+https://github.com/sverweij/state-machine-cat
+
+kevinpt/symbolator: HDL symbol generator
+https://github.com/kevinpt/symbolator
+
+Asciidoctor Diagram | Asciidoctor
+https://asciidoctor.org/docs/asciidoctor-diagram/
+
+graphic modeling m/f/d - Google Search
+https://www.google.com/search?q=graphic+modeling+m%2Ff%2Fd&rlz=1C1CHBF_enUS811US811&oq=graphic+modeling+m%2Ff%2Fd&aqs=chrome..69i57j69i61l3.3779j0j7&sourceid=chrome&ie=UTF-8
+
+What is WebAssembly? How WebAssembly Works (with Examples)
+https://blog.stackpath.com/webassembly/#:~:text=WebAssembly%20runs%20in%20all%20major,can%20also%20run%20in%20servers.
+
+Content Formats | Hugo
+https://gohugo.io/content-management/formats/
+
+hugo asciidoctor --destination - Google Search
+https://www.google.com/search?rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk01dnTYlrU5307OZ2Blp2eDBQwhHEA%3A1599604312394&ei=WAZYX-3DF9XOtQazmInYDQ&q=hugo+asciidoctor+--destination&oq=hugo+asciidoctor+--destination&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoHCCEQChCgAToECCEQCjoECCMQJzoFCAAQkQI6CwguELEDEMcBEKMCOgUILhCxAzoICC4QsQMQgwE6BQgAELEDOgIIADoCCC46BggAEBYQHjoICAAQFhAKEB46CAgAEAgQDRAeOgYIABANEB46BwgjELACECc6BAgAEA06CAgAEA0QBRAeUMhMWIubAWDrnQFoB3ABeACAAfECiAH3SJIBCDAuNy4zMy4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjtz8i2ztrrAhVVZ80KHTNMAtsQ4dUDCA0&uact=5
+
+Blogging with Asciidoctor and Hugo :: A Hack's Code ? Computer Engineering Student
+https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/
+
+feat(asciidoc): set working dir to current content by muenchhausen � Pull Request #6561 � gohugoio/hugo
+https://github.com/gohugoio/hugo/pull/6561
+
+Asciidoc | My New Hugo Site
+https://www.frankliu.org/hugo2/posts/asciidoc/
+
+asciidoctor hugo syntax highlighting - Google Search
+https://www.google.com/search?q=asciidoctor+hugo+syntax+highlighting&rlz=1C1CHBF_enUS811US811&oq=asciidoctor+hugo+syntax+highlighting&aqs=chrome..69i57.14749j0j7&sourceid=chrome&ie=UTF-8
+
+AsciiDoc support doesn't include syntax highlighting � Issue #6 � oktadeveloper/okta-blog-hugo
+https://github.com/oktadeveloper/okta-blog-hugo/issues/6
+
+How to get syntax highlighter's CSS? � Issue #856 � asciidoctor/asciidoctor
+https://github.com/asciidoctor/asciidoctor/issues/856#issuecomment-32670660
+
+Creating a Blog with Hugo and AsciiDoctor � rgielen.net
+https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/
+
+rouge-ruby/rouge: A pure Ruby code highlighter that is compatible with Pygments
+https://github.com/rouge-ruby/rouge
+
+rouge/lib/rouge/themes at master � rouge-ruby/rouge
+https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
+
+hugo2/asciidoc.adoc at master � frankieliu/hugo2
+https://github.com/frankieliu/hugo2/blob/master/content/posts/asciidoc.adoc
+
+Preview of themes for Rouge syntax highlighter
+https://spsarolkar.github.io/rouge/themes/syntax-highlighter/2018/08/05/Rouge-themes-preview.html
+
+spsarolkar/rouge-theme-preview at gh-pages
+https://github.com/spsarolkar/rouge-theme-preview/tree/gh-pages
+
+How to set the program defaults in Gnome Shell
+https://www.addictivetips.com/ubuntu-linux-tips/set-program-defaults-in-gnome-shell/
+
+Code Block Syntax Highlighting-syntax ,vim-asciidoctor[habamax]-???/?/???
+https://www.qdxingtu.com/key/Code%20Block%20Syntax%20Highlighting.html
+
+habamax/vim-asciidoctor: Asciidoctor plugin for Vim
+https://github.com/habamax/vim-asciidoctor
+
+Resume: Jorge Aguilera
+https://jorge-aguilera.gitlab.io/
+
+Package - asciidoctor-pdf
+https://developer.aliyun.com/mirror/npm/package/asciidoctor-pdf
+
+asciidoctor-web-pdf/resume.pdf at master � Mogztter/asciidoctor-web-pdf
+https://github.com/Mogztter/asciidoctor-web-pdf/blob/master/examples/resume/resume.pdf?spm=a2c6h.14275010.0.0.362f14f4Hr4Vqy&file=resume.pdf
+
+Consider Using Asciidoctor for Your Next Presentation
+https://matklad.github.io/2019/05/19/consider-using-asciidoctor-for-your-next-presentation.html
+
+resume.md: a Markdown resume | Lobsters
+https://lobste.rs/s/aweif8/resume_md_markdown_resume
+
+Markdeep
+https://casual-effects.com/markdeep/#templates
+
+DanilaFe/resume: My resume, written with HTML+SCSS - resume - Daniel's Tiny Cup Of Tea
+https://dev.danilafe.com/DanilaFe/resume/src/branch/master/scss
+
+Come To The Dark Side - We Have AsciiDoc
+http://people.apache.org/~sgoeschl/presentations/2019/wehaveasciidoc/index.html
+
+SirToffski/Asciidoctor-Resume-Template: A minimalistic adoc resume template
+https://github.com/SirToffski/Asciidoctor-Resume-Template
+
+Codewriting Glossary � Codewriting
+https://www.codewriting.org/docops-glossary
+
+https://paulojeronimo.com/cv/en/cv.txt
+https://paulojeronimo.com/cv/en/cv.txt
+
+Asciidoctor-Resume-Template/cv_exported.pdf at master � SirToffski/Asciidoctor-Resume-Template
+https://github.com/SirToffski/Asciidoctor-Resume-Template/blob/master/cv_exported.pdf
+
+
+Blogging with Asciidoctor and Hugo :: A Hack's Code ? Computer Engineering Student
+https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/
+
+Prism
+https://prismjs.com/
+
+Blogging with Asciidoctor and Hugo :: A Hack's Code ? Computer Engineering Student
+https://foo-dogsquared.github.io/blog/posts/blogging-with-asciidoctor-and-hugo/
+
+Asciidoctor Diagram | Asciidoctor
+https://asciidoctor.org/docs/asciidoctor-diagram/
+
+Asciidoctor Diagram | Asciidoctor
+https://asciidoctor.org/docs/asciidoctor-diagram/
+
+ditaa
+http://ditaa.sourceforge.net/#download
+
+How to Install Java on Ubuntu 20.04 | Linuxize
+https://linuxize.com/post/install-java-on-ubuntu-20-04/
+
+how to install graphviz dot ubuntu - Google Search
+https://www.google.com/search?rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk00_h7utzllviQIee8HrTDnQLtH-4g%3A1599459397716&ei=RdBVX5SfK8m90PEPmbGV8Ao&q=how+to+install+graphviz+dot+ubuntu&oq=how+to+install+graphviz+dot+ubuntu&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjoECAAQRzoGCAAQFhAeOgcIIRAKEKABUJEsWJs5YLo6aAFwAXgAgAF5iAHABZIBAzcuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjU1e7JstbrAhXJHjQIHZlYBa4Q4dUDCA0&uact=5
+
+PlantUML not working because graphviz not installed � Issue #47 � de-jcup/eclipse-asciidoctor-editor
+https://github.com/de-jcup/eclipse-asciidoctor-editor/issues/47
+
+Change path for Graphviz? - PlantUML Q&A
+https://forum.plantuml.net/7656/change-path-for-graphviz
+
+plantuml download | SourceForge.net
+https://sourceforge.net/projects/plantuml/
+
+plantuml asciidoc image looks squished - Google Search
+https://www.google.com/search?q=plantuml+asciidoc+image+looks+squished&rlz=1C1CHBF_enUS811US811&oq=plantuml+asciidoc+image+looks+squished&aqs=chrome..69i57.10178j0j7&sourceid=chrome&ie=UTF-8
+
+How do I convert a document? | Asciidoctor
+https://asciidoctor.org/docs/convert-documents/
+
+Asciidoctor Diagram | Asciidoctor
+https://asciidoctor.org/docs/asciidoctor-diagram/
+
+
+# solving the image problem
+
+Basically had to redo the tachyon css so that height was on auto
+
+1. how to figure out
+1. chrome dev
+1. console
+1. inspect image
+1. look at the style
+1. sometimes the answer is also on the computed
+1. it should also say the line in the css file
+
+Image Processing | Hugo
+https://gohugo.io/content-management/image-processing/
+
+Handling images (size, aligning,...) - support - HUGO
+https://discourse.gohugo.io/t/handling-images-size-aligning/1940/6
+
+theNewDynamic/gohugo-theme-ananke: Ananke: A theme for Hugo Sites
+https://github.com/theNewDynamic/gohugo-theme-ananke
+
+html - Maintain the aspect ratio of a div with CSS - Stack Overflow
+https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css
+
+AsciiDoc Image Size - Docs-as-Code
+https://docs-as-co.de/news/asciidoc-image-size/
+
+Scaling the generated images � Issue #58 � asciidoctor/asciidoctor-diagram
+https://github.com/asciidoctor/asciidoctor-diagram/issues/58
+
+Add support for diagram scaling � asciidoctor/asciidoctor-diagram@69efda5
+https://github.com/asciidoctor/asciidoctor-diagram/commit/69efda565940a1bc2ed040cd6ca83e112133f982
+
+How to Center an Image Using Text Align: Center
+https://www.freecodecamp.org/news/how-to-center-an-image-using-text-align/#:~:text=To%20center%20an%20image%20using%20text%2Dalign%3A%20center%3B%20you,a%20horizontally%20centered%20.
+
+How To Create Responsive Images
+https://www.w3schools.com/howto/howto_css_image_responsive.asp
+
+AsciiDoc Syntax Quick Reference | Asciidoctor
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code
+
+AsciiDoc Syntax Quick Reference | Asciidoctor
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+# syntax highlighting
+
+Pygments :: The Docs @ Asciidoctor
+https://asciidoctor-docs.netlify.app/asciidoc/1.5/source/pygments/
+
+Awesome Asciidoctor: Highlight Lines In Source Code Listings - Messages from mrhaki
+https://mrhaki.blogspot.com/2016/10/awesome-asciidoctor-highlight-lines-in.html
+
+# asciidoctor javascript
+
+Asciidoctor.js | Asciidoctor
+https://asciidoctor.org/docs/asciidoctor.js/
+
+# c4-plantuml
+
+RicardoNiepel/C4-PlantUML: C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+https://github.com/RicardoNiepel/C4-PlantUML
+
+Real World PlantUML
+https://real-world-plantuml.com/?cursor=Ci8SKWoVc35yZWFsLXdvcmxkLXBsYW50dW1schALEgNVbWwYgICAgKCOwQgMGAAgAA
+
+Visualising and documenting software architecture cheat sheets - Coding the Architecture
+http://www.codingthearchitecture.com/2017/04/27/visualising_and_documenting_software_architecture_cheat_sheets.html
+
+PlantUML and Structurizr - Coding the Architecture
+http://www.codingthearchitecture.com/2016/12/08/plantuml_and_structurizr.html
+
+stathissideris/ditaa: ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
+https://github.com/stathissideris/ditaa
+
+# asciio
+
+asciitosvg/asciitosvg: Create beautiful SVG renderings of ASCII diagrams.
+https://github.com/asciitosvg/asciitosvg
+
+App::Asciio - Plain ASCII diagram - metacpan.org
+https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm
+
+Asciidoctor Diagram | Asciidoctor
+https://asciidoctor.org/docs/asciidoctor-diagram/
+
+App::Asciio - Plain ASCII diagram - metacpan.org
+https://metacpan.org/pod/distribution/App-Asciio/lib/App/Asciio.pm
+
+actdiag - simple activity-diagram image generator ? blockdiag 1.0 documentation
+http://blockdiag.com/en/actdiag/index.html
+
+dhobsd/asciitosvg: DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
+https://github.com/dhobsd/asciitosvg
+
+# discussion
+asciidoctor/asciidoctor - Gitter
+https://gitter.im/asciidoctor/asciidoctor
+
+Asciidoctor :: Discussion - Registering...
+https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page
+Asciidoctor :: Discussion - Registering...
+https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page
+# asciidoctor javascript 
+asciidoctor-pdf - npm
+https://www.npmjs.com/package/asciidoctor-pdf
+
+asciidoctor-pdf - npm
+https://www.npmjs.com/package/asciidoctor-pdf
+
+FIGlet Fonts Library
+http://www.jave.de/figlet/fonts.html
+
+asciidoctor/asciidoctor - Gitter
+https://gitter.im/asciidoctor/asciidoctor
 

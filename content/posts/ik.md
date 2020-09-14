@@ -16,6 +16,7 @@ https://oj.interviewkickstart.com/view_test_mcq/3976/196
 Slides scalable systems
 https://docs.google.com/presentation/d/1rymarbMaaX-Hs0YV7eTLv5h8IHpzg3ZzpKW0alcZ9lY/edit#slide=id.p
 
+
 Microservices
 https://www.youtube.com/channel/UCyn-xUvGpRqp5dyHSOVhLvg
 
@@ -43,6 +44,11 @@ https://uplevel.interviewkickstart.com/resource/resourcecollection-5939-155
 
 SmartRecruiters
 https://my.smartrecruiters.com/home
+
+# sorting
+
+Intro to the Sorting Problem
+https://uplevel.interviewkickstart.com/resource/rc-video-6436-35864-8-100-216664
 
 # videos
 

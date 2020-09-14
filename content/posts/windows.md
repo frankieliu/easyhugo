@@ -67,3 +67,10 @@ https://www.crypticbutter.com/4-taskbar-customisation-tricks/
 windows how to screen shot selected window - Google Search
 https://www.google.com/search?q=windows+how+to+screen+shot+selected+window&rlz=1C1CHBF_enUS811US811&oq=windows+how+to+screen+shot+selected+window&aqs=chrome..69i57.12823j0j7&sourceid=chrome&ie=UTF-8
 
+# windows10 iso
+
+Pro tip: Sock away a clean copy of Windows 10 (2004) | Computerworld
+https://www-computerworld-com.cdn.ampproject.org/v/s/www.computerworld.com/article/3575089/pro-tip-sock-away-a-clean-copy-of-windows-10-2004.amp.html?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3575089%2Fpro-tip-sock-away-a-clean-copy-of-windows-10-2004.html
+
+Download Windows 10
+https://www.microsoft.com/en-us/software-download/windows10

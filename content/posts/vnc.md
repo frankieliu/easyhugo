@@ -22,3 +22,19 @@ https://stackoverflow.com/questions/24203189/open-google-chrome-in-another-displ
 Google Chrome can not start under VNC (Ubuntu 18.04) - Ask Ubuntu
 https://askubuntu.com/questions/1048723/google-chrome-can-not-start-under-vnc-ubuntu-18-04
 
+# openbox
+
+[SOLVED] Proper way to start bmpanel / tint2 at startup. / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=100474
+
+Ubuntu Manpage: unclutter - remove idle cursor image from screen
+http://manpages.ubuntu.com/manpages/trusty/man1/unclutter.1.html#:~:text=unclutter%20removes%20the%20cursor%20image,have%20a%20mouse%20that%20twitches.
+
+~/.config/openbox/autostart.sh / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=60552
+
+# graphics
+
+GPU Accel on Remote Desktop - Thedro Neely
+https://www.thedroneely.com/posts/headless-gpu-remote-acceleration/
+

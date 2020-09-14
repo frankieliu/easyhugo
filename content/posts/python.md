@@ -121,7 +121,31 @@ https://stackoverflow.com/questions/21361106/how-would-i-implement-a-dict-with-a
 Supercharge Your Classes With Python super() – Real Python
 https://realpython.com/python-super/
 
+# collections
+
+## Counter
+
+python - Intersection of two Counters - Stack Overflow
+https://stackoverflow.com/questions/44012479/intersection-of-two-counters
+
+Sum all values of a counter in Python 2 - Stack Overflow
+https://stackoverflow.com/questions/32511444/sum-all-values-of-a-counter-in-python-2/32511486#32511486
+
+# itertools
+
+9.7. itertools ? Functions creating iterators for efficient looping ? Python v3.1.5 documentation
+https://docs.python.org/3.1/library/itertools.html?highlight=combinations
+
+# algorithms
+## bisect
+python - How to use bisect.insort_left with a key? - Stack Overflow
+https://stackoverflow.com/questions/27672494/how-to-use-bisect-insort-left-with-a-key
+
 # shell
+## threading
+
+An Intro to Threading in Python ? Real Python
+https://realpython.com/intro-to-python-threading/
 
 ## shell command
 
@@ -206,6 +230,7 @@ https://docs.python.org/3/library/argparse.html
 shlex ? Simple lexical analysis ? Python 3.8.5 documentation
 https://docs.python.org/3/library/shlex.html
 
+
 # closure
 
 ## closure
@@ -217,6 +242,14 @@ https://stackoverflow.com/questions/392349/modify-bound-variables-of-a-closure-i
 
 Python Global, Local and Nonlocal variables (With Examples)
 https://www.programiz.com/python-programming/global-local-nonlocal-variables
+
+# math
+
+Python large-integer computation speed - a comparison : Python
+https://www.reddit.com/r/Python/comments/7h62ul/python_largeinteger_computation_speed_a_comparison/
+
+python - numpy matrix vector multiplication - Stack Overflow
+https://stackoverflow.com/questions/21562986/numpy-matrix-vector-multiplication
 
 # file system
 
@@ -365,6 +398,40 @@ https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
 python3-wget � PyPI
 https://pypi.org/project/python3-wget/
 
+## http
+
+http.server ? HTTP servers ? Python 3.8.6rc1 documentation
+https://docs.python.org/3/library/http.server.html
+
+BaseHttpServer - Python Wiki
+https://wiki.python.org/moin/BaseHttpServer
+
+https://gist.githubusercontent.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7/raw/a6a1d090ac8549dac8f2bd607bd64925de997d40/server.py
+https://gist.githubusercontent.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7/raw/a6a1d090ac8549dac8f2bd607bd64925de997d40/server.py
+
+## encoding
+
+Best way to convert string to bytes in Python 3? - Stack Overflow
+https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3
+
+## socket
+
+socketserver ? A framework for network servers ? Python 3.8.6rc1 documentation
+https://docs.python.org/3/library/socketserver.html#socketserver.BaseServer.server_bind
+
+## http server host address
+
+- Host server needs an IP adress to be able to listen to one of the
+NICs.
+
+- Use 0.0.0.0 to listen to all NICs
+
+python - I have get really confused in IP types with sockets (empty string, 'local host', etc...) - Stack Overflow
+https://stackoverflow.com/questions/39815633/i-have-get-really-confused-in-ip-types-with-sockets-empty-string-local-host
+
+python - Why host http server needs to specify the IP on which it is hosting? - Stack Overflow
+https://stackoverflow.com/questions/32110965/why-host-http-server-needs-to-specify-the-ip-on-which-it-is-hosting
+
 # test/debug
 ## testing
 
@@ -424,6 +491,37 @@ https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html
 numpydoc docstring guide ? numpydoc v1.2.dev0 Manual
 https://numpydoc.readthedocs.io/en/latest/format.html
 
+# install
+## pip
+
+pip install ? pip 20.2.3 documentation
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs
+
+uninstallation - How to uninstall editable packages with pip (installed with -e) - Stack Overflow
+https://stackoverflow.com/questions/17346619/how-to-uninstall-editable-packages-with-pip-installed-with-e#comment103350606_17346619
+
+## pip install from directory
+pip install .
+
+python pip - install from local dir - Stack Overflow
+https://stackoverflow.com/questions/41535915/python-pip-install-from-local-dir
+
+## pip install --editable or -e
+Codumentary: Tech Tips and Tricks: Python Tip of the Year: pip install --editable .
+http://codumentary.blogspot.com/2014/11/python-tip-of-year-pip-install-editable.html#:~:text=Python%20Tip%20of%20the%20Year%3A%20pip%20install%20%2D%2Deditable%20.,-Let's%20say%20you&text=At%20the%20same%20time%20you,install%20%2D%2Deditable%20.
+
+## editable not found
+mypy cannot find module installed as editable by pip � Issue #7508 � python/mypy
+https://github.com/python/mypy/issues/7508
+
+python - pip editing mode "Module not found" - Stack Overflow
+https://stackoverflow.com/questions/50487626/pip-editing-mode-module-not-found
+
+## uninstall
+
+python setup.py uninstall - Stack Overflow
+https://stackoverflow.com/questions/1550226/python-setup-py-uninstall
+
 # algorithms and data structures
 
 bt3gl/Book_on_Python_Algorithms_and_Data_Structure: 🪐 Book on Python, Algorithms, and Data Structures. 🪐
@@ -455,3 +553,6 @@ https://github.com/anujdutt9/Python-Data-Structures-and-Algorithms
 
 tirthajyoti/Algorithm-Data-Structures-Python: Various useful data structures in Python
 https://github.com/tirthajyoti/Algorithm-Data-Structures-Python
+
+
+

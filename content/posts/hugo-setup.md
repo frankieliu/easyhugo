@@ -1071,3 +1071,72 @@ https://gohugo.io/templates/menu-templates/
 
 masasam/emacs-easy-hugo: Emacs major mode for managing hugo
 https://github.com/masasam/emacs-easy-hugo
+
+# port 1313
+Port 1313 already in use (no its not) - support - HUGO
+https://discourse.gohugo.io/t/port-1313-already-in-use-no-its-not/11785
+
+# hugo and wsl
+Hugo on BashOnWindows (Windows Subsystem for Linux) - support - HUGO
+https://discourse.gohugo.io/t/hugo-on-bashonwindows-windows-subsystem-for-linux/3976
+
+Hugo development environment in WSL 2 - Sysadmins of the North
+https://www.saotn.org/hugo-development-environment-in-wsl-2/
+
+# content management
+Content Formats | Hugo
+https://gohugo.io/content-management/formats/
+
+# releases
+Releases � gohugoio/hugo
+https://github.com/gohugoio/hugo/releases
+
+# hugo extended
+
+Should I use Hugo extended for a new Hugo Project? - HUGO
+https://discourse.gohugo.io/t/should-i-use-hugo-extended-for-a-new-hugo-project/13954/9
+
+# baseurl -> use relativeUrl and you are set
+
+absURL | Hugo
+https://gohugo.io/functions/absurl/
+
+baseURL messes up link to static files when using hugo as user page (#7) � Issues � GitLab Pages examples / hugo � GitLab
+https://gitlab.com/pages/hugo/-/issues/7
+
+# ananke
+
+
+Gohugo Theme Ananke | Hugo Themes
+https://themes.gohugo.io/gohugo-theme-ananke/
+
+# even theme
+
+olOwOlo/hugo-theme-even: ? A super concise theme for Hugo https://hugo-theme-even.netlify.app
+https://github.com/olOwOlo/hugo-theme-even
+
+favicon generator - Google Search
+https://www.google.com/search?q=favicon+generator
+
+404 page not found - olOwOlo
+https://olowolo.com/example-site/post/shortcodes/
+
+# themes
+
+Develop a Theme for Hugo
+https://www.zeolearn.com/magazine/develop-a-theme-for-hugo
+
+# netlify
+how to deploy github web pages on netlify - Google Search
+https://www.google.com/search?q=how+to+deploy+github+web+pages+on+netlify&rlz=1C1CHBF_enUS811US811&oq=how+to+deploy+github+web+pages+on+netlify&aqs=chrome..69i57.11083j0j4&sourceid=chrome&ie=UTF-8
+
+Migrating from GitHub Pages to Netlify: how and why?
+http://www.rebeccabarter.com/blog/2017-06-29-website/
+
+# blogdown
+1.2 A quick example | blogdown: Creating Websites with R Markdown
+https://bookdown.org/yihui/blogdown/a-quick-example.html
+
+Editing blogdown/02-hugo.Rmd at master � rstudio/blogdown
+https://github.com/rstudio/blogdown/edit/master/docs/02-hugo.Rmd
+

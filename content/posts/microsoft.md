@@ -21,3 +21,5 @@ https://careers.microsoft.com/professionals/us/en/job/844347/Software-Engineer
 Silicon CAD Engineer in Sunnyvale, California, United States | Hardware Engineering at Microsoft
 https://careers.microsoft.com/professionals/us/en/job/804835/Silicon-CAD-Engineer
 
+App registration in the Azure portal
+https://apps.dev.microsoft.com/?referrer=https:%2f%2fdocs.microsoft.com%2fen-us%2fonedrive%2fdeveloper%2frest-api%2fgetting-started%2fapp-registration%3fview%3dodsp-graph-online#

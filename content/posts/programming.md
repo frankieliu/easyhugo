@@ -16,3 +16,9 @@ http://www.paulgraham.com/pfaq.html
 
 Teach Yourself Programming in Ten Years
 https://norvig.com/21-days.html
+
+# blogs
+
+Drew DeVault's blog
+https://drewdevault.com/
+

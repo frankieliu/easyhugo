@@ -87,5 +87,33 @@ Basically units of font
 em measurement unit - Google Search
 https://www.google.com/search?rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk01hoRq4luXUEvXnIGfE2J39liL-og%3A1599691987697&ei=01xZX8qFKs3b-wSNibe4Cg&q=em+measurement+unit&oq=em+measurement+unit&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECAAQRzoECCMQJzoECAAQCjoFCAAQkQI6CAgAELEDEIMBOggILhDHARCvAToFCC4QsQM6AgguOgUIABCxAzoHCCMQ6gIQJzoHCAAQFBCHAjoICC4QsQMQgwE6CggAELEDEBQQhwI6CggAELEDEEYQ-QE6CAgAEBYQChAeULWiAVjw2QFg5NoBaAVwAngAgAHFAYgB5Q6SAQQxOC40mAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab&ved=0ahUKEwiKu7SFld3rAhXN7Z4KHY3EDacQ4dUDCA0&uact=5
 
+# adding a font
 
+papaya/style.css at master � plopcas/papaya
+https://github.com/plopcas/papaya/blob/master/static/css/style.css
 
+# media queries
+
+CSS3 Media Queries - Examples
+https://www.w3schools.com/css/css3_mediaqueries_ex.asp
+
+# css variables
+CSS Variables - var() Function
+https://www.w3schools.com/css/css3_variables.asp#:~:text=Variables%20in%20CSS%20should%20be,%2D)%20and%20is%20case%20sensitive!
+
+# scss
+css - What's the difference between SCSS and Sass? - Stack Overflow
+https://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass
+
+Is Sass Worth Learning In 2020? - Scalable CSS
+https://scalablecss.com/sass-in-2020/
+
+# side by side div
+
+html - Two divs scrolling independently - Stack Overflow
+https://stackoverflow.com/questions/31647945/two-divs-scrolling-independently/31648405
+
+# viewable region
+
+height 100vh - Google Search
+https://www.google.com/search?q=height+100vh&rlz=1C1CHBF_enUS811US811&oq=height+100vh&aqs=chrome..69i57.3558j0j7&sourceid=chrome&ie=UTF-8
