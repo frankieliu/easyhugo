@@ -1,5 +1,10 @@
-+++ categories = [""] tags = [""] title = "Onedrive" date =
-"2020-09-13T20:56:46-07:00" draft = false +++
++++
+categories = [""]
+tags = [""]
+title = "Onedrive"
+date = "2020-09-13T20:56:46-07:00"
+draft = false
++++
 
 # How to do obtain a hash from onedrive
 
