@@ -70,3 +70,7 @@ In the end resorted to removing firefox.
 Allow autoscrolling with the mouse wheel in the Linux client ? Discord
 https://support.discord.com/hc/en-us/community/posts/360040900831-Allow-autoscrolling-with-the-mouse-wheel-in-the-Linux-client
 
+# microsoft fonts
+
+How to Install Microsoft Fonts on Ubuntu Linux [Easy Way]
+https://itsfoss.com/install-microsoft-fonts-ubuntu/

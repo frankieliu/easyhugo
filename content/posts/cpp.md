@@ -44,3 +44,8 @@ http://www.paulgraham.com/pfaq.html
 Teach Yourself Programming in Ten Years
 https://norvig.com/21-days.html
 
+# library path
+
+c++ - How to specify preference of library path? - Stack Overflow
+https://stackoverflow.com/questions/2726993/how-to-specify-preference-of-library-path
+

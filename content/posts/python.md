@@ -122,6 +122,12 @@ Supercharge Your Classes With Python super() – Real Python
 https://realpython.com/python-super/
 
 # collections
+## defaultdict
+
+Use print(json.dumps(some_dict,indent=2))
+
+Python and default dict, how to pprint - Stack Overflow
+https://stackoverflow.com/questions/12925052/python-and-default-dict-how-to-pprint
 
 ## Counter
 
@@ -281,8 +287,15 @@ https://careerkarma.com/blog/python-delete-file/#:~:text=In%20Python%2C%20you%20
 python - How do I list all files of a directory? - Stack Overflow
 https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
 
-# graphics
-## pygtk  pygobject
+# output
+
+## pretty print
+pprint ? Data pretty printer ? Python 3.8.6rc1 documentation
+https://docs.python.org/3/library/pprint.html
+
+## graphics
+
+### pygtk  pygobject
 
 Currently install only on python 3.7
 conda install -m conda-forge gtk3 pygobject
@@ -335,7 +348,7 @@ https://python-gtk-3-tutorial.readthedocs.io/en/latest/treeview.html
 gtk POLICY_NEVER - Google Search
 https://www.google.com/search?q=gtk+POLICY_NEVER&rlz=1C1CHBF_enUS811US811&oq=gtk+POLICY_NEVER&aqs=chrome..69i57.5748j0j7&sourceid=chrome&ie=UTF-8
 
-## term color
+### term color
 
 termcolor � PyPI
 https://pypi.org/project/termcolor/
@@ -349,7 +362,7 @@ https://pypi.org/project/colorama/
 termcolor � PyPI
 https://pypi.org/project/termcolor/
 
-## progress bar te quiero desmaciado
+### progress bar te quiero desmaciado
 
 tqdm/tqdm: A Fast, Extensible Progress Bar for Python and CLI
 https://github.com/tqdm/tqdm
@@ -431,6 +444,11 @@ https://stackoverflow.com/questions/39815633/i-have-get-really-confused-in-ip-ty
 
 python - Why host http server needs to specify the IP on which it is hosting? - Stack Overflow
 https://stackoverflow.com/questions/32110965/why-host-http-server-needs-to-specify-the-ip-on-which-it-is-hosting
+
+## jupyter
+
+How do I comment out multiple lines in Jupyter Ipython notebook? - Stack Overflow
+https://stackoverflow.com/questions/29885371/how-do-i-comment-out-multiple-lines-in-jupyter-ipython-notebook
 
 # test/debug
 ## testing

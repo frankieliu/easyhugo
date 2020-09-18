@@ -234,6 +234,45 @@ https://explorecourses.stanford.edu/instructor/younes
 President?s update on autumn 2020 undergraduate education - COVID-19
 https://healthalerts.stanford.edu/covid-19/2020/08/13/autumn-update/
 
+Inbox
+https://canvas.stanford.edu/conversations#filter=type=inbox
+
+Making it easier for students to shop a course from off-campus | Canvas - a Learning Technologies & Spaces resource
+https://gocanvas.stanford.edu/announcements/making-it-easier-for-students-to-shop-a-course-from-off-campus/#:~:text=How%20can%20students%20find%20courses,you%20to%20the%20Canvas%20course.
+
+Syllabus
+https://syllabus.stanford.edu/syllabus/#/mainSyllabus
+
 How to Enroll in Classes | Registrar's Office
 https://registrar.stanford.edu/resources-and-help/axess-students/how-enroll-classes
+
+Introduction to Computer Networking
+https://canvas.stanford.edu/courses/125023
+
+Computer Vision: Foundations and Applications
+https://canvas.stanford.edu/courses/122334
+
+Parallel Computing
+https://canvas.stanford.edu/courses/124273
+
+Video Game Development in C++ and Unreal Engine
+https://canvas.stanford.edu/courses/123162
+
+Android Programming Workshop
+https://canvas.stanford.edu/courses/124047
+
+Deep Learning in Genomics and Biomedicine
+https://canvas.stanford.edu/courses/126082
+
+Randomized Algorithms and Probabilistic Analysis
+https://canvas.stanford.edu/courses/123782
+
+Cryptocurrencies and blockchain technologies
+https://canvas.stanford.edu/courses/124344
+
+Introduction to Game Design
+https://canvas.stanford.edu/courses/123250
+
+YOUNES BENSOUDA MOURRI
+https://explorecourses.stanford.edu/instructor/younes
 

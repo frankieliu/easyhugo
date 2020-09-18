@@ -25,8 +25,7 @@ Ctrl-I : newer location
 vim -- How to read range of lines from a file into current buffer - Stack Overflow
 https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer
 
-
-## cmdline editing
+## cmdline
 
 If you need to do a lot of editing in the command line, it is best to use 
 
@@ -36,6 +35,9 @@ q:
 
 bash - In VIM, how do you delete to end of line while in command mode :? - Super User
 https://superuser.com/questions/846854/in-vim-how-do-you-delete-to-end-of-line-while-in-command-mode
+
+Vim documentation: cmdline
+http://vimdoc.sourceforge.net/htmldoc/cmdline.html
 
 ## ascii
 
@@ -65,6 +67,7 @@ http://www.jave.de/download/download.html
 
 Linux Tips: Fun With the Figlet And Toilet Commands - Linux.com
 https://www.linux.com/training-tutorials/linux-tips-fun-figlet-and-toilet-commands/
+
 
 ## closing panes
 
@@ -139,6 +142,21 @@ https://askubuntu.com/questions/33260/difference-between-vim-gtk-and-vim-gnome
 virtual machine - How can I get vim yank to clipboard ("*y) working? - Stack Overflow
 https://stackoverflow.com/questions/40709985/how-can-i-get-vim-yank-to-clipboard-y-working
 
+How to copy to clipboard in Vim? - Stack Overflow
+https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim
+
+Vim - ArchWiki
+https://wiki.archlinux.org/index.php/Vim#Clipboard
+
+## registers
+
+@" is the unnamed register where a yank goes to
+
+Vim registers: The basics and beyond
+https://www.brianstorti.com/vim-registers/
+
+Vim registers: The basics and beyond
+https://www.brianstorti.com/vim-registers/
 ## stay in visual mode
 
 Vim: how to stay in visual mode after executing a command - Stack Overflow
@@ -168,16 +186,56 @@ https://vim.fandom.com/wiki/Syntax_folding_of_Vim_scripts
 Vim Markdown Folding? - Stack Overflow
 https://stackoverflow.com/questions/3828606/vim-markdown-folding
 
+Folding | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Folding
+
+Vim tips: Folding fun - Linux.com
+https://www.linux.com/training-tutorials/vim-tips-folding-fun/
+
 ## macro
 
 vim how to record a macro - Google Search
 https://www.google.com/search?q=vim+how+to+record+a+macro&rlz=1C1CHBF_enUS811US811&oq=vim+how+to+record+a+macro&aqs=chrome..69i57.4996j0j7&sourceid=chrome&ie=UTF-8
+
+## shell command
+
+It defaults to executing in directory where you started vim.
+
+If you want it to follow the current buffer, then use
+
+```vim
+set autochdir
+```
+Executing a shell command in the parent directory - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/13612/executing-a-shell-command-in-the-parent-directory
+
+curl - Replace vim selection with output of shell command - Stack Overflow
+https://stackoverflow.com/questions/6932382/replace-vim-selection-with-output-of-shell-command
+
+## open link/file
+
+netrw's "gx" functionality doesn't open URLs anymore in macOS · Issue #4738 · vim/vim
+https://github.com/vim/vim/issues/4738
+
+Vim - General - cygwin vim doesn't know app bindings to file exensions?
+http://vim.1045645.n5.nabble.com/cygwin-vim-doesn-t-know-app-bindings-to-file-exensions-td5723131.html
+
+Newest 'vim' Questions - Stack Overflow
+https://stackoverflow.com/questions/tagged/vim
+
+## insert in command line
+
+vim CTRL_R CTRL_A - Google Search
+https://www.google.com/search?q=vim+CTRL_R+CTRL_A&rlz=1C1CHBF_enUS811US811&oq=vim+CTRL_R+CTRL_A&aqs=chrome..69i57.6313j0j7&sourceid=chrome&ie=UTF-8
 
 # Modes
 ## syntax highlight
 
 Turn on syntax highlighting for vim on Mac OS | Codexpedia
 https://www.codexpedia.com/text-editor/turn-on-syntax-highlighting-for-vim-on-mac-os/#:~:text=By%20default%2C%20Mac%20OS%20doesn,it%20doesn't%20already%20exist.
+
+Vim clear last search highlighting - Stack Overflow
+https://stackoverflow.com/questions/657447/vim-clear-last-search-highlighting/25569434#25569434
 
 ## hugo
 
@@ -217,11 +275,41 @@ https://stackoverflow.com/questions/7406949/vim-faster-way-to-select-blocks-of-t
 Vim expand selection by a paragraph - Stack Overflow
 https://stackoverflow.com/questions/57498501/vim-expand-selection-by-a-paragraph
 
+## opening browser
+
+Open a URL from Vim - Today I Learned
+https://til.hashrocket.com/posts/69e7479ab9-open-a-url-from-vim#:~:text=If%20you%20have%20Vim%20and,file%20handler%3B%20open%20for%20OSX.
+
+How do I "open with Vim" using windows subsystem for linux? - Stack Overflow
+https://stackoverflow.com/questions/49888546/how-do-i-open-with-vim-using-windows-subsystem-for-linux
+
+vim - Setting netrw like NERDTree - Stack Overflow
+https://stackoverflow.com/questions/5006950/setting-netrw-like-nerdtree
+
+how to configure netrw wslview - Google Search
+https://www.google.com/search?q=how+to+configure+netrw+wslview&rlz=1C1CHBF_enUS811US811&oq=how+to+configure+netrw+wslview&aqs=chrome..69i57.8010j0j4&sourceid=chrome&ie=UTF-8
+
+setting netrw did not work
+
+However Ctrl_R Ctrl_A does work
+
 # plugins
 ## install
 
 Installing Vim(8) plugins with the native pack system | by Paulo Diovani | Medium
 https://medium.com/@paulodiovani/installing-vim-8-plugins-with-the-native-pack-system-39b71c351fea#:~:text=vim%2Fpack%20is%20considered%20a,user%20with%20the%20command%20%3Apackadd.
+
+Release NVIM 0.5.0 � neovim/neovim
+https://github.com/neovim/neovim/releases/tag/nightly
+
+What's the difference between installing 32bit or 64bit apps on a 64bit Windows? - Stack Overflow
+https://stackoverflow.com/questions/4077885/whats-the-difference-between-installing-32bit-or-64bit-apps-on-a-64bit-windows#:~:text=32bit%20operating%20systems%20can%20allocate,you%20have%20more%20than%204GB.
+
+Is there vim plugin for notepad++? - Stack Overflow
+https://stackoverflow.com/questions/12817027/is-there-vim-plugin-for-notepad
+
+FAQ � neovim/neovim Wiki
+https://github.com/neovim/neovim/wiki/FAQ#how-to-use-the-windows-clipboard-from-wsl
 
 ## alternatives
 
@@ -272,6 +360,7 @@ https://github.com/iamcco/markdown-preview.nvim/blob/master/test/test.md
 
 # keymappings
 ## summary
+
 Use ~.vim/ftplugin/org.vim~ and add any mappings there
 
 ```vim
@@ -281,6 +370,12 @@ nnoremap <buffer> <localleader>np q:i! cd ../..; hugo new content/posts/.org<Esc
 Understand Vim Mappings and Create Your Own Shortcuts! | by Jonas B. Rossi |
 vim drops | Medium
 https://medium.com/vim-drops/understand-vim-mappings-and-create-your-own-shortcuts-f52ee4a6b8ed
+
+Vim documentation: map
+http://vimdoc.sourceforge.net/htmldoc/map.html#{lhs}
+
+Mapping keys in Vim - Tutorial (Part 2) | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_2)
 
 ## conditional mapping
 
@@ -293,20 +388,7 @@ https://vi.stackexchange.com/questions/10664/file-type-dependent-key-mapping
 How to set conditional mappings in VIM (ie: depending on the extension of a file)? - Stack Overflow
 https://stackoverflow.com/questions/13673424/how-to-set-conditional-mappings-in-vim-ie-depending-on-the-extension-of-a-file
 
-# shell command
-
-It defaults to executing in directory where you started vim.
-
-If you want it to follow the current buffer, then use
-
-```vim
-set autochdir
-```
-
-Executing a shell command in the parent directory - Vi and Vim Stack Exchange
-https://vi.stackexchange.com/questions/13612/executing-a-shell-command-in-the-parent-directory
-
-# leader
+## leader
 
 ```vim
 set Leader='\'
@@ -321,7 +403,15 @@ https://learnvimscriptthehardway.stevelosh.com/chapters/06.html
 vim - What is the <leader> in a .vimrc file? - Stack Overflow
 https://stackoverflow.com/questions/1764263/what-is-the-leader-in-a-vimrc-file
 
+## recursive
+
+Recursive mappings | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Recursive_mappings
+
 # vimscript
+
+## tutorial
+
 Autoloading / Learn Vimscript the Hard Way
 https://learnvimscriptthehardway.stevelosh.com/chapters/53.html
 
@@ -330,6 +420,27 @@ https://learnvimscriptthehardway.stevelosh.com/preface.html
 
 https://stevelosh.com
 https://stevelosh.com/
+
+## conditionals
+
+Conditionals / Learn Vimscript the Hard Way
+https://learnvimscriptthehardway.stevelosh.com/chapters/21.html
+
+vimscript - Why am I getting a "E488: Trailing characters" error on this custom command? - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/4689/why-am-i-getting-a-e488-trailing-characters-error-on-this-custom-command
+
+## echo messages
+
+Echoing Messages / Learn Vimscript the Hard Way
+https://learnvimscriptthehardway.stevelosh.com/chapters/01.html
+
+## open url
+Open URL under cursor in Vim with browser - Stack Overflow
+https://stackoverflow.com/questions/9458294/open-url-under-cursor-in-vim-with-browser
+
+## silent disable enter
+How do I disable the "Press ENTER or type command to continue" prompt in Vim? - Stack Overflow
+https://stackoverflow.com/questions/890802/how-do-i-disable-the-press-enter-or-type-command-to-continue-prompt-in-vim
 
 # filetype
 
@@ -359,5 +470,12 @@ How to save as a new file and keep working on the original one in Vim? - Stack O
 https://stackoverflow.com/questions/4980168/how-to-save-as-a-new-file-and-keep-working-on-the-original-one-in-vim
 
 
+vim what does a ! mean in front of function - Google Search
+https://www.google.com/search?q=vim+what+does+a+!+mean+in+front+of+function&rlz=1C1CHBF_enUS811US811&oq=vim+what+does+a+!+mean+in+front+of+function&aqs=chrome..69i57.9362j0j4&sourceid=chrome&ie=UTF-8
 
+Potion Section Movement / Learn Vimscript the Hard Way
+https://learnvimscriptthehardway.stevelosh.com/chapters/51.html
+
+Set options or named registers with let | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Set_options_or_named_registers_with_let
 

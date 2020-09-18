@@ -54,11 +54,15 @@ https://github.com/vouill/jq-cheatsheet
 shell - How to get key names from JSON using jq - Stack Overflow
 https://stackoverflow.com/questions/23118341/how-to-get-key-names-from-json-using-jq
 
+# jq
+
 jq 1.4 Manual
 https://stedolan.github.io/jq/manual/v1.4/#Builtinoperatorsandfunctions
 
 jq Manual (development version)
 https://stedolan.github.io/jq/manual/
+
+# filter
 
 json - How to filter an array of objects based on values in an inner array with jq? - Stack Overflow
 https://stackoverflow.com/questions/26701538/how-to-filter-an-array-of-objects-based-on-values-in-an-inner-array-with-jq
@@ -73,5 +77,36 @@ json - Pattern matching field names with jq - Stack Overflow
 https://stackoverflow.com/questions/42051601/pattern-matching-field-names-with-jq
 
 # counting elements | length
+
 Count JSON Array Elements with jq - Big Datums
 http://bigdatums.net/2017/05/13/count-json-array-elements-with-jq/
+
+# combine json files
+
+```
+jq -s '.' *.json > combined.json
+```
+
+Combine JSON files from a directory using jq - Tutorial Shares
+http://tutorialshares.com/combine-json-files-from-a-directory-using-jq/#:~:text=How%20to%20merge%202%20or,and%20run%20this%20jq%20command.&text=Using%20the%20%2Ds%20option%20will,your%20case%2C%20are%20also%20arrays.
+
+# formatting json
+
+python - Reformat JSON file? - Stack Overflow
+https://stackoverflow.com/questions/40139200/reformat-json-file
+
+Free Online JSON Formatter - FreeFormatter.com
+https://www.freeformatter.com/json-formatter.html#ad-output
+
+JSON editing in Visual Studio Code
+https://code.visualstudio.com/docs/languages/json#:~:text=You%20can%20format%20your%20JSON,Document%20from%20the%20context%20menu.
+
+Combine JSON files from a directory using jq - Tutorial Shares
+http://tutorialshares.com/combine-json-files-from-a-directory-using-jq/#:~:text=How%20to%20merge%202%20or,and%20run%20this%20jq%20command.&text=Using%20the%20%2Ds%20option%20will,your%20case%2C%20are%20also%20arrays.
+
+# Loading
+
+## R
+
+R - JSON Files - Tutorialspoint
+https://www.tutorialspoint.com/r/r_json_files.htm

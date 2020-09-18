@@ -41,3 +41,8 @@ https://jerrysievert.github.io/bookmarkdown/#configuration
 
 Mastering Markdown � GitHub Guides
 https://guides.github.com/features/mastering-markdown/
+
+# editing
+
+Markdown syntax - Vim Awesome
+https://vimawesome.com/plugin/markdown-syntax

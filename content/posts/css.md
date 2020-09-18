@@ -117,3 +117,11 @@ https://stackoverflow.com/questions/31647945/two-divs-scrolling-independently/31
 
 height 100vh - Google Search
 https://www.google.com/search?q=height+100vh&rlz=1C1CHBF_enUS811US811&oq=height+100vh&aqs=chrome..69i57.3558j0j7&sourceid=chrome&ie=UTF-8
+
+# display
+
+This sets whether it is inline, block, grid, flex, table, etc
+
+CSS display property
+https://www.w3schools.com/cssref/pr_class_display.asp
+

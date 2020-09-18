@@ -27,3 +27,7 @@ https://www.deeplearning.ai/ai-notes/
 Software Engineering for Data Scientists
 https://pythonspeed.com/datascience/
 
+# bootcamp
+
+Applied Data Science Bootcamp
+https://www.mygreatlearning.com/mit-applied-data-science-bootcamp-program-launch?ambassador_code=mgl_live_sep23&utm_source=mit-adsb&utm_campaign=fbgrp&fbclid=IwAR20nl4Hy0QvkUEap7u9tbh1mcirNyj2u1tcWIQdolLz3wq0Ap4UVZaLFwY

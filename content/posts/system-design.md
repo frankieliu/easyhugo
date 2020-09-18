@@ -101,3 +101,25 @@ https://bowenli86.github.io/2016/02/16/distributed%20system/algorithems/Merkle-T
 Using Gossip Protocols for Failure Detection, Monitoring, Messaging and Other Good�Things - High Scalability -
 http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-detection-monitoring-mess.html
 
+# kafka
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/
+
+Control Center
+http://fliu:ksqlr0ck$@controlcenter.fliu.west2020.gcp.confluent-demo.io/clusters
+
+ksqlDB Syntax Reference
+https://docs.ksqldb.io/en/0.7.1-ksqldb/developer-guide/syntax-reference/
+
+WeTTy - The Web Terminal Emulator
+http://console.fliu.west2020.gcp.confluent-demo.io/
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/

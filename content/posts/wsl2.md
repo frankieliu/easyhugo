@@ -300,3 +300,6 @@ https://stackoverflow.com/questions/49835559/how-to-access-to-the-web-server-whi
 Cannot use localhost to access a react-app running in WSL2 � Issue #4885 � microsoft/WSL
 https://github.com/microsoft/WSL/issues/4885
 
+# windows terminal scrolling
+
+scroll up with Ctrl-Shift-PageUp
