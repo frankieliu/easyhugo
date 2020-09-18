@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2020 12:10:34 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 15:44:48 -0700</lastBuildDate>
     
 	<atom:link href="https://www.frankliu.org/easyhugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://www.frankliu.org/easyhugo/posts/android/</link>
+      <pubDate>Thu, 17 Sep 2020 15:44:48 -0700</pubDate>
+      
+      <guid>https://www.frankliu.org/easyhugo/posts/android/</guid>
+      <description>Alarm Calendar Plus - Apps on Google Play https://play.google.com/store/apps/details?id=com.moyou.acplus&amp;amp;hl=en_US</description>
+    </item>
     
     <item>
       <title>Web</title>
@@ -32,15 +41,18 @@ A Pen by Ladislav Tomsa https://codepen.io/blizqery/pen/QbZzRN</description>
       <pubDate>Mon, 14 Sep 2020 10:37:06 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/hugo/</guid>
-      <description>theme creation Retrolog.io | Creating a Hugo Theme From Scratch https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/
-Download � Bootstrap v4.5 https://getbootstrap.com/docs/4.5/getting-started/download/
-Hugo - Creating a New Theme https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/creating-a-new-theme/
-Creating a new Hugo theme | Michael Heap https://michaelheap.com/creating-a-new-hugo-theme/
-yihui/hugo-lithium: Lithium - A simple responsive Hugo theme https://github.com/yihui/hugo-lithium
-how to add subcategories � Issue #15 � yihui/hugo-xmin https://github.com/yihui/hugo-xmin/issues/15
-themes nested sections hugo - Google Search https://www.google.com/search?rlz=1C1CHBF_enUS811US811&amp;amp;sxsrf=ALeKk02zN9PDXXRGoB7DtvfPx9Gnx2NRrw%3A1600101959184&amp;amp;ei=R55fX4nJCrmS0PEP_uqQ4Aw&amp;amp;q=themes+nested+sections+hugo&amp;amp;oq=themes+nested+sections+hugo&amp;amp;gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46BAgAEEc6BQghEKABOgUIIRCrAlC-LVjPPGCERGgBcAJ4AIABbogBpQSSAQM1LjGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&amp;amp;sclient=psy-ab&amp;amp;ved=0ahUKEwjJiIanjOnrAhU5CTQIHX41BMwQ4dUDCA0&amp;amp;uact=5
-frankieliu/simpleit-hugo-theme: Responsive Hugo theme for hierarchical content websites https://github.com/frankieliu/simpleit-hugo-theme
-SimpleIT Theme | SimpleIT Demo Website https://marcanuy.</description>
+      <description>getting started How to create multiple pages - support - HUGO https://discourse.gohugo.io/t/how-to-create-multiple-pages/4213
+Get Started | Hugo https://gohugo.io/getting-started/
+programming help Greetings! - HUGO https://discourse.gohugo.io/t/greetings/27643
+Understanding Discourse Trust Levels https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/
+long-hugo-doc/README.md at master � hamoid/long-hugo-doc https://github.com/hamoid/long-hugo-doc/blob/master/README.md
+templates Introduction to Hugo Templating | Hugo https://gohugo.io/templates/introduction/
+Templates | Hugo https://gohugo.io/templates/
+Single Page Templates | Hugo https://gohugo.io/templates/single-page-templates/
+Partial Templates | Hugo https://gohugo.io/templates/partials/
+Menu Templates | Hugo https://gohugo.io/templates/menu-templates/
+Taxonomy Templates | Hugo https://gohugo.io/templates/taxonomy-templates/
+Base Templates and Blocks | Hugo https://gohugo.</description>
     </item>
     
     <item>
@@ -89,7 +101,8 @@ Verification Onedrive provides three types of hashes for a file.</description>
       <pubDate>Thu, 10 Sep 2020 16:12:49 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/ascii/</guid>
-      <description>FIGlet Fonts Library http://www.jave.de/figlet/fonts.html</description>
+      <description>FIGlet Fonts Library http://www.jave.de/figlet/fonts.html
+Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion http://www.asciitable.com/</description>
     </item>
     
     <item>
@@ -150,14 +163,16 @@ Amazon.com: Workplace Genie: An Unorthodox Toolkit to Help Transform Your Work R
       <pubDate>Wed, 09 Sep 2020 17:12:42 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/asciidoctor/</guid>
-      <description>asciidoctor syntax AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+      <description>Syntax AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 Asciidoctor User Manual https://asciidoctor.org/docs/user-manual/#user-toc
-hugo asciidoctor cheat Hugo &amp;amp; Asciidoctor cheat sheet | https://zipproth.de/cheat-sheets/hugo-asciidoctor/
-equation reference requires :stem: latexmath :eqnnums: AMS
-:stem: latexmath :eqnums: AMS [stem] ++++ \begin{equation} \mu+\lambda \label{toto} \end{equation} ++++ Refer to stem:[\eqref{toto}]. asciidoctor/asciidoctor - Gitter https://gitter.im/asciidoctor/asciidoctor?at=56fc1c6be4a8384a1bbd58e3
-asciidoctor -&amp;gt; hugo There seems to be only one file: convert
-how does hugo take output from asciidoctor - Google Search https://www.</description>
+AsciiDoc Syntax Quick Reference | Asciidoctor https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+discussion asciidoctor/asciidoctor - Gitter https://gitter.im/asciidoctor/asciidoctor
+Better Hugo/AsciiDoc HTML - ratfactor http://ratfactor.com/hugo-adoc-html5s
+Them&amp;rsquo;s Good Broth! | Hugo and AsciiDoc https://stiobhart.net/2020-04-18-hugo-asciidoctor/
+Creating a Blog with Hugo and AsciiDoctor � rgielen.net https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/
+Adventures of a software engineer/architect | Andreas&amp;rsquo; Blog https://blog.anoff.io/
+Hello World! This is the most epic subtitle ever.</description>
     </item>
     
     <item>
@@ -184,11 +199,11 @@ mt3 mb1 f1 css - Google Search https://www.</description>
       
       <guid>https://www.frankliu.org/easyhugo/posts/family/</guid>
       <description>Laney.edu - largest community college in Oakland Ian 13 Middle 8th Ollie 11 Elememtary 6th
-plants rue Rue Herb Ruta Benefits https://www.anniesremedy.com/ruta-graveolens-rue.php#Prep
-cherimoya CHERIMOYA Fruit Facts https://www.crfg.org/pubs/ff/cherimoya.html
-Moringa (562) 6 Reasons To Grow A Moringa Tree In Your Backyard! - YouTube https://www.youtube.com/watch?v=Ac0Gjo0E8yI
-buy moringa trees - Google Search https://www.google.com/search?q=buy+moringa+trees&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=buy+moringa+trees&amp;amp;aqs=chrome..69i57.2964j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
-Amazon.com : Organic Moringa Seeds | 1000 Seeds Approx.| Premium Quality | PKM1 Variety | Edible | Planting | Moringa Oleifera| Malunggay | Semillas De Moringa | Drumstick Tree | Non-GMO | Product from India : Garden &amp;amp; Outdoor https://www.</description>
+social security KA-01981�� Customer Self-Service https://faq.ssa.gov/en-US/Topic/article/KA-01981#:~:text=If%20you%20legally%20change%20your,This%20service%20is%20free.
+Learn what documents you will need to get a Social Security Card | SSA https://www.ssa.gov/ssnumber/ss5doc.htm
+Social Security Office Locator, SSA Office Locator Social Security Office Locator, Social Security https://secure.ssa.gov/ICON/ic001.action#officeResults
+mountain view social security office - Google Search https://www.google.com/search?q=mountain+view+social+security+office&amp;amp;rlz=1C1CHBF_enUS811US811&amp;amp;oq=mountain+vi&amp;amp;aqs=chrome.0.69i59j69i57j69i60.2022j0j4&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8
+plants herbs Chinese Traditional Medicinal Herbs Hand Drawn Stock Vector (Royalty Free) 762419704 https://www.</description>
     </item>
     
     <item>
@@ -226,11 +241,11 @@ probability - Expected time for both people to finish a job - Mathematics Stack 
       <guid>https://www.frankliu.org/easyhugo/posts/algorithms/</guid>
       <description>general Main Page - Competitive Programming Algorithms https://cp-algorithms.com/
 blog boundary – Huahua&amp;rsquo;s Tech Road https://zxi.mytechroad.com/blog/tag/boundary/
-probability Reservoir sampling - Wikipedia https://en.wikipedia.org/wiki/Reservoir_sampling
+Taking notes https://wozniak.ca/blog/2013/10/15/1/index.html
+Masterminds of Programming: Conversations with the Creators of Major &amp;hellip; - Federico Biancuzzi, Chromatic - Google Books https://books.google.com/books?id=yB1WwURwBUQC&amp;amp;pg=PA116&amp;amp;lpg=PA116&amp;amp;dq=margaret+corasick&amp;amp;source=bl&amp;amp;ots=-FOE5AqegF&amp;amp;sig=ACfU3U2P65vTsKkLTNrjzZ1AzMaJMOCHJA&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=2ahUKEwiiv__o_-zrAhVRtZ4KHZgXCy44ChDoATAJegQIBxAB#v=onepage&amp;amp;q=margaret%20corasick&amp;amp;f=false
+Masterminds of Programming: Conversations with the Creators of Major Programming Languages | Federico Biancuzzi, Chromatic | download https://bookos-z1.org/book/782326/aa68fc
 complexity Master theorem (analysis of algorithms) - Wikipedia https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
-math inverse Inverse of a Matrix using Minors, Cofactors and Adjugate https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html
-Geometry convex hull Graham scan - Wikipedia https://en.wikipedia.org/wiki/Graham_scan
-circle dots combinatorics - Coloring dots in a circle with no two consecutive dots being the same color - Mathematics Stack Exchange https://math.</description>
+math probability Reservoir sampling - Wikipedia https://en.wikipedia.org/wiki/Reservoir_sampling</description>
     </item>
     
     <item>
@@ -245,7 +260,8 @@ AICamp https://learn.xnextcon.com/
 Workera | Test https://workera.ai/candidates/candidate-test
 Preparing for the machine learning test https://workera.ai/resources/preparing-for-the-machine-learning-test/
 AI Notes - deeplearning.ai https://www.deeplearning.ai/ai-notes/
-Software Engineering for Data Scientists https://pythonspeed.com/datascience/</description>
+Software Engineering for Data Scientists https://pythonspeed.com/datascience/
+bootcamp Applied Data Science Bootcamp https://www.mygreatlearning.com/mit-applied-data-science-bootcamp-program-launch?ambassador_code=mgl_live_sep23&amp;amp;utm_source=mit-adsb&amp;amp;utm_campaign=fbgrp&amp;amp;fbclid=IwAR20nl4Hy0QvkUEap7u9tbh1mcirNyj2u1tcWIQdolLz3wq0Ap4UVZaLFwY</description>
     </item>
     
     <item>
@@ -573,7 +589,9 @@ David Heinemeier Hansson (DHH) https://dhh.dk/</description>
       
       <guid>https://www.frankliu.org/easyhugo/posts/html/</guid>
       <description>JavaScript DOM HTML https://www.w3schools.com/js/js_htmldom_html.asp
-HTML DOM getElementsByClassName() Method https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp#:~:text=The%20getElementsByClassName()%20method%20returns,The%20index%20starts%20at%200.</description>
+HTML DOM getElementsByClassName() Method https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp#:~:text=The%20getElementsByClassName()%20method%20returns,The%20index%20starts%20at%200.
+header HTML header Tag https://www.w3schools.com/tags/tag_header.asp
+main  - HTML: Hypertext Markup Language | MDN https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main#:~:text=The%20HTML%20element%20represents,central%20functionality%20of%20an%20application. </description>
     </item>
     
     <item>
@@ -1176,7 +1194,12 @@ RFC 3022 - Traditional IP Network Address Translator (Traditional NAT) https://t
       <guid>https://www.frankliu.org/easyhugo/posts/health/</guid>
       <description>Constipation and cheerios Fiber in Cheerios | Livestrong.com https://www.livestrong.com/article/346587-fiber-in-cheerios/
 posture UPRIGHT GO 2? Posture Corrector | Results in 2 weeks | Upright Pose ? Upright Tech https://store.uprightpose.com/products/upright-go2?utm_source=Facebook-PRT&amp;amp;utm_medium=ppc&amp;amp;utm_campaign=23845379180820389&amp;amp;utm_term=GEO%3AUS%5EGol%3APurchase%5EDvc%3AAll%5EPct%3AAll%5ETgt%3ABroad%5EGnd%3AALL%5EAge%3AAll&amp;amp;ad_id=23845379180790389&amp;amp;fbclid=IwAR0eJUZ-priqBKFbasPbLw4MEu69Q19D26w0KXq_ARseprYVrsb2Sg48wts&amp;amp;utm_expid=.nwh8UiX9QSORaKc3O8farg.1&amp;amp;utm_referrer=https%3A%2F%2Fl.facebook.com%2F
-Contact Us - UPRIGHT Posture Training Device https://www.uprightpose.com/contact-us/</description>
+Contact Us - UPRIGHT Posture Training Device https://www.uprightpose.com/contact-us/
+Cold-And-Flu | My Doctor Online https://mydoctor.kaiserpermanente.org/ncal/cold-and-flu/prevention
+kaiser Santa Clara Release of Medical Information - Kaiser Permanente https://thrive.kaiserpermanente.org/care-near-you/northern-california/santaclara/departments/release-of-medical-information/
+Request records, forms &amp;amp; certifications https://healthy.kaiserpermanente.org/northern-california/support/medical-requests#releaseofinformationunitlocations
+Santa Clara Release of Medical Information - Kaiser Permanente https://thrive.kaiserpermanente.org/care-near-you/northern-california/santaclara/departments/release-of-medical-information/#nco
+kaiser permanente pediatrics phone number lawrence expressway - Google Search https://www.</description>
     </item>
     
     <item>
@@ -1395,7 +1418,7 @@ Amazon.com: Rode NT-USB Versatile Studio-Quality USB Cardioid Condenser Micropho
       <guid>https://www.frankliu.org/easyhugo/posts/vim/</guid>
       <description>Editing follow links Ctrl-] : follow link Ctrl-T : previous topic Ctrl-O : older location Ctrl-I : newer location
 add files from file :r tail -5 file.txt:r head -5 file.txtvim &amp;ndash; How to read range of lines from a file into current buffer - Stack Overflow https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer
-cmdline editing If you need to do a lot of editing in the command line, it is best to use
+cmdline If you need to do a lot of editing in the command line, it is best to use
 q:bash - In VIM, how do you delete to end of line while in command mode :?</description>
     </item>
     
@@ -1469,12 +1492,11 @@ Currently trash-cli always trashes files moving they in a trash directory of the
       <pubDate>Tue, 18 Aug 2020 15:16:24 -0700</pubDate>
       
       <guid>https://www.frankliu.org/easyhugo/posts/bash/</guid>
-      <description>mkdir bash - Only mkdir if it does not exist - Stack Overflow https://stackoverflow.com/questions/18622907/only-mkdir-if-it-does-not-exist
-aliases Bash aliases you can?t live without | Opensource.com https://opensource.com/article/19/7/bash-aliases
-sort sort -n -t &amp;lsquo;-&amp;rsquo; -k2
-linux - Sort files numerically in bash - Stack Overflow https://stackoverflow.com/questions/13360925/sort-files-numerically-in-bash
-What does the k parameter do in the sort function (Linux Bash Scripting)? - Stack Overflow https://stackoverflow.com/questions/17478511/what-does-the-k-parameter-do-in-the-sort-function-linux-bash-scripting
-sorting - How to loop all files in sorted order in Bash? - Stack Overflow https://stackoverflow.</description>
+      <description>files mkdir bash - Only mkdir if it does not exist - Stack Overflow https://stackoverflow.com/questions/18622907/only-mkdir-if-it-does-not-exist
+stat -c Shell Scripting: Check File Size ( Find File Size ) - nixCraft https://www.cyberciti.biz/faq/bash-csh-sh-check-and-file-file-size/
+test -e for symlinks bash - Create symlink - overwrite if one exists - Unix &amp;amp; Linux Stack Exchange https://unix.stackexchange.com/questions/207294/create-symlink-overwrite-if-one-exists/207296
+How to Check if a File or Directory Exists in Bash | Linuxize https://linuxize.com/post/bash-check-if-file-exists/
+commands aliases Bash aliases you can?t live without | Opensource.</description>
     </item>
     
     <item>

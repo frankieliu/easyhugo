@@ -48,7 +48,7 @@ This:
 reduce path(.[]?[]?[]?) as $path (.; setpath($path; {})) works for me with code from master. If you&rsquo;re using 1.3 you&rsquo;ll need to drop the ?s and ignore the errors or write something more like:">
 <meta itemprop="datePublished" content="2020-08-21T14:24:11-07:00" />
 <meta itemprop="dateModified" content="2020-08-21T14:24:11-07:00" />
-<meta itemprop="wordCount" content="339">
+<meta itemprop="wordCount" content="408">
 
 
 
@@ -207,10 +207,12 @@ bit more effort we could have a built-in truncate tree function (instead of
 <a href="https://github.com/vouill/jq-cheatsheet">https://github.com/vouill/jq-cheatsheet</a></p>
 <p>shell - How to get key names from JSON using jq - Stack Overflow
 <a href="https://stackoverflow.com/questions/23118341/how-to-get-key-names-from-json-using-jq">https://stackoverflow.com/questions/23118341/how-to-get-key-names-from-json-using-jq</a></p>
+<h1 id="jq">jq</h1>
 <p>jq 1.4 Manual
 <a href="https://stedolan.github.io/jq/manual/v1.4/#Builtinoperatorsandfunctions">https://stedolan.github.io/jq/manual/v1.4/#Builtinoperatorsandfunctions</a></p>
 <p>jq Manual (development version)
 <a href="https://stedolan.github.io/jq/manual/">https://stedolan.github.io/jq/manual/</a></p>
+<h1 id="filter">filter</h1>
 <p>json - How to filter an array of objects based on values in an inner array with jq? - Stack Overflow
 <a href="https://stackoverflow.com/questions/26701538/how-to-filter-an-array-of-objects-based-on-values-in-an-inner-array-with-jq">https://stackoverflow.com/questions/26701538/how-to-filter-an-array-of-objects-based-on-values-in-an-inner-array-with-jq</a></p>
 <p>json - JQ: Select multiple conditions - Stack Overflow
@@ -222,6 +224,23 @@ bit more effort we could have a built-in truncate tree function (instead of
 <h1 id="counting-elements--length">counting elements | length</h1>
 <p>Count JSON Array Elements with jq - Big Datums
 <a href="http://bigdatums.net/2017/05/13/count-json-array-elements-with-jq/">http://bigdatums.net/2017/05/13/count-json-array-elements-with-jq/</a></p>
+<h1 id="combine-json-files">combine json files</h1>
+<pre><code>jq -s '.' *.json &gt; combined.json
+</code></pre><p>Combine JSON files from a directory using jq - Tutorial Shares
+<a href="http://tutorialshares.com/combine-json-files-from-a-directory-using-jq/#:~:text=How%20to%20merge%202%20or,and%20run%20this%20jq%20command.&amp;text=Using%20the%20%2Ds%20option%20will,your%20case%2C%20are%20also%20arrays">http://tutorialshares.com/combine-json-files-from-a-directory-using-jq/#:~:text=How%20to%20merge%202%20or,and%20run%20this%20jq%20command.&amp;text=Using%20the%20%2Ds%20option%20will,your%20case%2C%20are%20also%20arrays</a>.</p>
+<h1 id="formatting-json">formatting json</h1>
+<p>python - Reformat JSON file? - Stack Overflow
+<a href="https://stackoverflow.com/questions/40139200/reformat-json-file">https://stackoverflow.com/questions/40139200/reformat-json-file</a></p>
+<p>Free Online JSON Formatter - FreeFormatter.com
+<a href="https://www.freeformatter.com/json-formatter.html#ad-output">https://www.freeformatter.com/json-formatter.html#ad-output</a></p>
+<p>JSON editing in Visual Studio Code
+<a href="https://code.visualstudio.com/docs/languages/json#:~:text=You%20can%20format%20your%20JSON,Document%20from%20the%20context%20menu">https://code.visualstudio.com/docs/languages/json#:~:text=You%20can%20format%20your%20JSON,Document%20from%20the%20context%20menu</a>.</p>
+<p>Combine JSON files from a directory using jq - Tutorial Shares
+<a href="http://tutorialshares.com/combine-json-files-from-a-directory-using-jq/#:~:text=How%20to%20merge%202%20or,and%20run%20this%20jq%20command.&amp;text=Using%20the%20%2Ds%20option%20will,your%20case%2C%20are%20also%20arrays">http://tutorialshares.com/combine-json-files-from-a-directory-using-jq/#:~:text=How%20to%20merge%202%20or,and%20run%20this%20jq%20command.&amp;text=Using%20the%20%2Ds%20option%20will,your%20case%2C%20are%20also%20arrays</a>.</p>
+<h1 id="loading">Loading</h1>
+<h2 id="r">R</h2>
+<p>R - JSON Files - Tutorialspoint
+<a href="https://www.tutorialspoint.com/r/r_json_files.htm">https://www.tutorialspoint.com/r/r_json_files.htm</a></p>
 <ul class="pa0">
   
    <li class="list">
