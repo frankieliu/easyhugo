@@ -126,3 +126,117 @@ https://oim.oraclecorp.com/identity/faces/flow?tf=resetpasswd&accountId=8586583&
 
 Oracle Login - Single Sign On
 https://login.oracle.com/mysso/signon.jsp
+
+Leetcode checklist
+https://www.frankliu.org/leet-200/
+
+(56) Explore - LeetCode
+https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/
+
+Find Minimum in Rotated Sorted Array II - LeetCode
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+
+Similar String Groups - LeetCode
+https://leetcode.com/problems/similar-string-groups/
+
+Account Login - LeetCode
+https://leetcode.com/accounts/login/?next=/problems/range-sum-query-2d-mutable/
+
+All O`one Data Structure - LeetCode
+https://leetcode.com/problems/all-oone-data-structure/
+
+Super Egg Drop - LeetCode
+https://leetcode.com/problems/super-egg-drop/
+
+rosen discrete math solutions manual - Google Search
+https://www.google.com/search?q=rosen+discrete+math+solutions+manual&oq=rosen+discrete+math+solutions+manual&aqs=chrome..69i57.6711j0j4&sourceid=chrome&ie=UTF-8
+
+Solutions to Discrete Mathematics and Its Applications (9780073383095), Pg. 245 :: Homework Help and Answers :: Slader
+https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition/245/
+
+gimp - How do I enable pressure for my Wacom Intuos L? - Ask Ubuntu
+https://askubuntu.com/questions/292868/how-do-i-enable-pressure-for-my-wacom-intuos-l
+
+FAQ|XP-PEN
+https://www.xp-pen.com/faq/index.html
+
+Star 03|Download|XP-PEN
+https://www.xp-pen.com/download-42.html
+
+(1) LinkedIn
+https://www.linkedin.com/feed/update/urn:li:activity:6709593160336723968/
+
+Primer | A New State of the Art for Named Entity Recognition
+https://primer.ai/blog/a-new-state-of-the-art-for-named-entity-recognition/
+
+[1903.07785] Cloze-driven Pretraining of Self-attention Networks
+https://arxiv.org/abs/1903.07785
+
+Linguistic Features · spaCy Usage Documentation
+https://spacy.io/usage/linguistic-features#named-entities
+
+[1810.04805] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+https://arxiv.org/abs/1810.04805
+
+[1906.08237] XLNet: Generalized Autoregressive Pretraining for Language Understanding
+https://arxiv.org/abs/1906.08237
+
+Primer Labs
+https://labs.primer.ai/
+
+Primer | Solving Arabic Name Transliteration
+https://primer.ai/blog/solving-arabic-name-transliteration/
+
+Primer | COVID-19 Research Briefing: Focus on Testing
+https://primer.ai/blog/covid-19-research-briefing-focus-on-testing/
+
+Primer | Maverick, Goose begin romantic relationship
+https://primer.ai/blog/maverick-goose-begin-romantic-relationship/
+
+NVIDIA V100 | NVIDIA
+https://www.nvidia.com/en-us/data-center/v100/
+
+Stephanie Niu | LinkedIn
+https://www.linkedin.com/in/slniu/
+
+The 14 Best Free WordPress Themes | Bluehost Blog
+https://www.bluehost.com/blog/the-14-best-free-wordpress-themes/?gclsrc=aw.ds&&utm_source=google&utm_medium=genericsearch&kclickid=12a6fca8-3a45-493d-a42d-47969f3a6e85&kenshoo_ida=Blue%20Host%20IDA&gclid=CjwKCAjwh7H7BRBBEiwAPXjaduaaMItmKfbRQDLkanak8qy8hDkt622HtTKCzf8QlxW-CBCuNlLBHRoCjdEQAvD_BwE
+
+14 NLP Research Breakthroughs You Can Apply To Your Business
+https://www.topbots.com/most-important-ai-nlp-research/
+
+Beginner's Guide To Hiring AI And Machine Learning Engineers
+https://www.topbots.com/guide-hiring-ai-machine-learning-engineers/
+
+Best Research Papers From ICML 2020
+https://www.topbots.com/best-research-papers-icml-2020/
+
+Best Research Papers From ACL 2020
+https://www.topbots.com/best-research-papers-from-acl-2020/
+
+Reformer, Longformer, and ELECTRA: Key Updates To Transformer Architecture In 2020
+https://www.topbots.com/key-updates-to-transformer-architecture-2020/
+
+What Are Major NLP Achievements & Papers From 2019?
+https://www.topbots.com/top-ai-nlp-research-papers-2019/
+
+8 Leading Language Models For NLP In 2020
+https://www.topbots.com/leading-nlp-language-models-2020/
+
+These 10 AI Companies Are Transforming Marketing In 2020
+https://www.topbots.com/ai-companies-transforming-marketing/
+
+Reformer, Longformer, and ELECTRA: Key Updates To Transformer Architecture In 2020
+https://www.topbots.com/key-updates-to-transformer-architecture-2020/
+
+The Best NLP Papers From ICLR 2020
+https://www.topbots.com/best-nlp-papers-from-iclr-2020/
+
+The Dark Secrets Of BERT
+https://www.topbots.com/bert-secrets/
+
+Data Labeling For Natural Language Processing
+https://www.topbots.com/data-labeling-for-natural-language-processing/
+
+Beginner's Guide To Hiring AI And Machine Learning Engineers
+https://www.topbots.com/guide-hiring-ai-machine-learning-engineers/
