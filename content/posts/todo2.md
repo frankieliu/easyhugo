@@ -142,7 +142,7 @@ https://leetcode.com/problems/similar-string-groups/
 Account Login - LeetCode
 https://leetcode.com/accounts/login/?next=/problems/range-sum-query-2d-mutable/
 
-All O`one Data Structure - LeetCode
+All O'one Data Structure - LeetCode
 https://leetcode.com/problems/all-oone-data-structure/
 
 Super Egg Drop - LeetCode
@@ -240,3 +240,144 @@ https://www.topbots.com/data-labeling-for-natural-language-processing/
 
 Beginner's Guide To Hiring AI And Machine Learning Engineers
 https://www.topbots.com/guide-hiring-ai-machine-learning-engineers/
+
+Inbox (27,912) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+online hongkong eyeglasses - Google Search
+https://www.google.com/search?q=online+hongkong+eyeglasses&oq=online+hongkong+eyeglasses&aqs=chrome..69i57.126861j0j4&sourceid=chrome&ie=UTF-8
+
+optically.com.hk - Checkout
+https://www.optically.com.hk/cart/checkout.asp
+
+Contact Us - Optically
+https://www.optically.com.hk/contact-us.htm
+
+Optically.com.hk - cart
+https://www.optically.com.hk/view-cart.htm
+
+Optically (@optically_au) / Twitter
+https://twitter.com/optically_au
+
+Contact Us - Optically
+https://www.optically.com.hk/contact-us.htm
+
+Find a Store- JINS HK -Store information,shop address,business hours.
+https://www.jins.com.hk/en/findastore/
+
+(613) BERT Neural Network - EXPLAINED! - YouTube
+https://www.youtube.com/watch?v=xI0HHN5XKDo
+
+machine learning - What's the difference between feed-forward and recurrent neural networks? - Cross Validated
+https://stats.stackexchange.com/questions/2213/whats-the-difference-between-feed-forward-and-recurrent-neural-networks
+
+(613) Transformer Neural Networks - EXPLAINED! (Attention is all you need) - YouTube
+https://www.youtube.com/watch?v=TQQlZhbC5ps
+
+LinkedIn
+https://www.linkedin.com/mynetwork/
+
+Primer | COVID-19 Research Briefing: Focus on Testing
+https://primer.ai/blog/covid-19-research-briefing-focus-on-testing/
+
+Primer | A New State of the Art for Named Entity Recognition
+https://primer.ai/blog/a-new-state-of-the-art-for-named-entity-recognition/
+
+Precision and recall - Wikipedia
+https://en.wikipedia.org/wiki/Precision_and_recall
+
+Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention
+https://www.kdnuggets.com/2019/03/deconstructing-bert-part-2-visualizing-inner-workings-attention.html
+
+The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.
+http://jalammar.github.io/illustrated-transformer/
+
+The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time.
+http://jalammar.github.io/illustrated-bert/
+
+how are the weights for the query key generate from the word embedding - Google Search
+https://www.google.com/search?q=how+are+the+weights+for+the+query+key+generate+from+the+word+embedding&oq=how+are+the+weights+for+the+query+key+generate+from+the+word+embedding&aqs=chrome..69i57.19912j0j7&sourceid=chrome&ie=UTF-8
+
+[1706.03762] Attention Is All You Need
+https://arxiv.org/abs/1706.03762
+
+orobix/retina-unet: Retina blood vessel segmentation with a convolutional neural network
+https://github.com/orobix/retina-unet
+
+IEEE Xplore Full-Text PDF:
+https://ieeexplore-ieee-org.stanford.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=7161344
+
+UNet. Introducing Symmetry in Segmentation | by Heet Sankesara | Towards Data Science
+https://towardsdatascience.com/u-net-b229b32b4a71
+
+batch normalization - Google Search
+https://www.google.com/search?q=batch+normalization&sxsrf=ALeKk01t_Nyb0hYW0wty988m_poEp7uMkQ:1601069158148&tbm=isch&source=iu&ictx=1&fir=e-3oYnUZ2pE9BM%252CQR_87h8ilXU2pM%252C%252Fg%252F11f5psmcc3&vet=1&usg=AI4_-kQ_22-uk5wqsPL7vKZgQoCuVNFSnw&sa=X&ved=2ahUKEwiWl7qzn4XsAhXOo54KHRXGDsMQ_B16BAgJEAM#imgrc=e-3oYnUZ2pE9BM
+
+(613) Lecture 7.3 — Regularization | Regularized Linear Regression — [ Machine Learning | Andrew Ng] - YouTube
+https://www.youtube.com/watch?v=qbvRdrd0yJ8
+
+Attention and its Different Forms | by Anusha Lihala | Towards Data Science
+https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc#:~:text=Multiple%20Queries&text=Multi%2Dhead%20attention%20takes%20this,which%20gives%20us%20h%20heads.
+
+neural networks - What exactly are keys, queries, and values in attention mechanisms? - Cross Validated
+https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms
+
+Google Calendar - Week of September 20, 2020
+https://calendar.google.com/calendar/u/0/r/week/2020/9/24
+
+Meet - Frankie <> Ethan
+https://meet.google.com/rqh-dxwz-rid?authuser=0
+
+LinkedIn
+https://www.linkedin.com/feed/
+
+Inbox (27,912) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+mgreau.com
+http://mgreau.com/
+
+SF bay area for sale "board game" - craigslist
+https://sfbay.craigslist.org/search/sss?query=board%20game&sort=rel
+
+BoardGameGeek | Gaming Unplugged Since 2000
+https://boardgamegeek.com/
+
+5 Google Docs Resume Templates (and How to Use Them) | The Muse
+https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them
+
+Google Docs Resume Template in Serif—TheMuse.com - Google Docs
+https://docs.google.com/document/d/1ARVyybC5qQEiCzUOLElwAdPpKOK0Qf88srr682eHdCQ/edit
+
+Sign off - Kaiser Permanente
+https://healthy.kaiserpermanente.org/health/care/consumer/dis/signoff
+
+buy eyeglasses online from hongkong - Google Search
+https://www.google.com/search?q=buy+eyeglasses+online+from+hongkong&oq=buy+eyeglasses+online+from+hongkong&aqs=chrome..69i57.5837j0j7&sourceid=chrome&ie=UTF-8
+
+how to call hong kong from united states - Google Search
+https://www.google.com/search?q=how+to+call+hong+kong+from+united+states&oq=how+to+call+hong+kong+from+united+states&aqs=chrome..69i57.8431j0j7&sourceid=chrome&ie=UTF-8
+
+how to make free call to hong kong from united states - Google Search
+https://www.google.com/search?q=how+to+make+free+call+to+hong+kong+from+united+states&oq=how+to+make+free+call+to+hong+kong+from+united+states&aqs=chrome..69i57.8693j0j7&sourceid=chrome&ie=UTF-8
+
+Make A Call | PopTox
+https://www.poptox.com/make-a-call
+
+Make international calls with Google Voice - Google Voice Help
+https://support.google.com/voice/answer/7491761?hl=en
+
+Calling Rates
+https://voice.google.com/u/0/rates
+
+han - Google Search
+https://www.google.com/search?q=han&oq=han&aqs=chrome..69i57j69i59l3j69i61j69i60j69i65j69i61.600j0j7&sourceid=chrome&ie=UTF-8
+
+(1) Facebook Marketplace | Facebook
+https://www.facebook.com/marketplace
+
+5 Google Docs Resume Templates (and How to Use Them) | The Muse
+https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them
+
+Google Docs Resume Template. Simple resume template Google | Etsy
+https://www.etsy.com/listing/601647368/google-docs-resume-template-simple
