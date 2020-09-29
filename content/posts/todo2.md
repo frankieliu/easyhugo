@@ -325,7 +325,7 @@ https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-a
 Google Calendar - Week of September 20, 2020
 https://calendar.google.com/calendar/u/0/r/week/2020/9/24
 
-Meet - Frankie <> Ethan
+Meet - Frankie  Ethan
 https://meet.google.com/rqh-dxwz-rid?authuser=0
 
 LinkedIn
@@ -381,3 +381,90 @@ https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them
 
 Google Docs Resume Template. Simple resume template Google | Etsy
 https://www.etsy.com/listing/601647368/google-docs-resume-template-simple
+
+Nootropic potential of Ashwagandha leaves: Beyond traditional root extracts - ScienceDirect
+https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S0197018615300437
+
+Types of Psoriasis: Pictures, Symptoms, and Treatments
+https://www.healthline.com/health/photos-types-psoriasis#pictures
+
+(60) Explore - LeetCode
+https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/
+
+Lua Programming and Game Development with LÖVE | Udemy
+https://www.udemy.com/course/lua-love/learn/lecture/7606078#overview
+
+Linux: ALSA lib pcm_dmix.c:1108:(snd_pcm_dmix_open) unable to open slave - DEV
+https://dev.to/setevoy/linux-alsa-lib-pcmdmixc1108sndpcmdmixopen-unable-to-open-slave-38on
+
+Creating a complex game - LÖVE
+https://love2d.org/forums/viewtopic.php?t=38305
+
+BYTEPATH tutorial - making a complete game with LÖVE - LÖVE
+https://love2d.org/forums/viewtopic.php?t=84886
+
+a327ex/BYTEPATH: A replayable arcade shooter with a focus on build theorycrafting made using Lua and LÖVE.
+https://github.com/a327ex/BYTEPATH
+
+BYTEPATH #0 - Introduction · Issue #30 · a327ex/blog
+https://github.com/a327ex/blog/issues/30
+
+love2d galaxian - Google Search
+https://www.google.com/search?q=love2d+galaxian&sxsrf=ALeKk021Td4e7aVdLOu2LChKB6lPHJK94g:1601128374549&ei=tkdvX7j9IPW90PEP4O-E6As&start=20&sa=N&ved=2ahUKEwi4sISA_IbsAhX1HjQIHeA3Ab04ChDw0wN6BAgLEEA&biw=1192&bih=569
+
+Top games tagged PICO-8 - itch.io
+https://itch.io/games/tag-pico-8
+
+How to Get Rid of Rocks in Your Yard | Budget Dumpster
+https://www.budgetdumpster.com/blog/how-to-get-rid-of-rocks/
+
+Mantis Tiller Rental - The Home Depot
+https://www.homedepot.com/tool-truck-rental/Mantis-Tiller/7262-00-02/index.html
+
+The Soil Sifter
+http://www.thesoilsifter.com/
+
+SOLID - Wikipedia
+https://en.wikipedia.org/wiki/SOLID
+
+Google Calendar - 4 days, starting Saturday, September 26, 2020
+https://calendar.google.com/calendar/u/0/r
+
+Meme: The Game | Board Game | BoardGameGeek
+https://boardgamegeek.com/boardgame/229902/meme-game
+
+(3) Facebook Marketplace | Facebook
+https://www.facebook.com/marketplace
+
+apache configuration server - Google Search
+https://www.google.com/search?sxsrf=ALeKk01tk1Y6SvB9bVQ35lE2IyuD_UxB8g%3A1601174499098&ei=4_tvX6bBBdbk-gSUwof4BA&q=apache+configuration+server&oq=apache+configuration+server&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEEc6BAgAEEM6CAgAEBYQChAeUPsbWNwpYIAsaABwAXgAgAFUiAGPBJIBATeYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwjmvvfpp4jsAhVWsp4KHRThAU8Q4dUDCA0&uact=5
+
+TOML - Wikipedia
+https://en.wikipedia.org/wiki/TOML
+
+New Tab
+chrome://newtab/
+
+(60) Multiple rejections - LeetCode Discuss
+https://leetcode.com/discuss/career/865139/multiple-rejections
+
+(60) Problems - LeetCode
+https://leetcode.com/problemset/all/
+
+David Lam | LinkedIn
+https://www.linkedin.com/in/dklam/
+
+SUpost: Marketplace for Stanford Students
+https://supost.com/post/index/129921418
+
+(3) Facebook
+https://www.facebook.com/marketplace/104022926303756/search?query=Ashwagandha
+
+(60) LeetCode - The World's Leading Online Programming Learning Platform
+https://leetcode.com/
+
+neochief (Alexander Shvets)
+https://github.com/neochief
+
+Facade
+https://refactoring.guru/design-patterns/facade
