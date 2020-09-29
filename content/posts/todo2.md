@@ -468,3 +468,132 @@ https://github.com/neochief
 
 Facade
 https://refactoring.guru/design-patterns/facade
+
+Bronson: {TAO}: Facebook’s Distributed Data Store... - Google Scholar
+https://scholar.google.com/scholar?cites=12853453264211926595&as_sdt=2005&sciodt=0,5&hl=en&inst=5746887945952177237
+
+Inside the Social Network's (Datacenter) Network | Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2785956.2787472
+
+Navigating the maze of graph analytics frameworks using massive graph datasets | Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2588555.2610518
+
+Existential consistency | Proceedings of the 25th Symposium on Operating Systems Principles
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2815400.2815426
+
+Optimizing Space Amplification in RocksDB - Facebook Research
+https://research.fb.com/publications/optimizing-space-amplification-in-rocksdb/
+
+Cubrick: Indexing Millions of Records per Second for Interactive Analytics - Facebook Research
+https://research.fb.com/publications/cubrick-indexing-millions-of-records-per-second-for-interactive-analytics/
+
+Cubrick: A Scalable Distributed MOLAP Database for Fast Analytics - Facebook Research
+https://research.fb.com/publications/cubrick-a-scalable-distributed-molap-database-for-fast-analytics/
+
+Inbox (27,951) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+CSPB3104-Assignment-6-7.ipynb - Colaboratory
+https://colab.research.google.com/drive/1z3acN5tHTFntFa_yBKCd3f6g18FkyWqN#scrollTo=BXQhLVtfddDt
+
+(11) (PDF) 1000-Solved-Problems-in-Classical-Physics-An-Exercise-Book.pdf | Ace Donato - Academia.edu
+https://www.academia.edu/37292662/1000_Solved_Problems_in_Classical_Physics_An_Exercise_Book_pdf?email_work_card=view-paper
+
+Rocket League (PC Digital Download) + $10 Off $14.99+ Epic Games Store Coupon
+https://slickdeals.net/f/14346032-epic-games-add-rocket-league-free-to-play-to-your-library-between-september-23rd-october-23rd-get-10-off-14-99-coupon?src=frontpage
+
+Summary Cache: A Scalable Wide-Area Web Cache Sharing Protocol
+http://pages.cs.wisc.edu/~cao/papers/summary-cache/share.html
+
+Mail - Frankie Yu-Hang Liu - Outlook
+https://outlook.office.com/mail/inbox/id/AAQkADczMzg1ODY1LTU1ODItNGFlYi1iZTk3LThmMjQyYzVkOTkzMQAQAJkC62r2UtdNk8fEfR5IBnk%3D
+
+CS106M – Discussion
+https://us.edstem.org/courses/2737/discussion/133788
+
+CS106M Meetings
+http://web.stanford.edu/class/cs106m/meetings/all
+
+Programming Pearls, Second Edition
+https://learning.oreilly.com/library/view/programming-pearls-second/9780134498058/
+
+ongoing by Tim Bray · On the Goodness of Binary Search
+https://www.tbray.org/ongoing/When/200x/2003/03/22/Binary
+
+Are you one of the 10% of programmers who can write a binary search? | The Reinvigorated Programmer
+https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/
+
+Beautiful code in SearchWorks catalog
+https://searchworks.stanford.edu/view/9607869
+
+Google AI Blog: Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken
+https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
+
+Piazza Careers
+https://piazza.com/rsvp/citadel/ev2_kfbpx7hagx93ui?uid=j7v7akdn7we4mb#/
+
+Piazza Careers
+https://piazza.com/rsvp/facebook/ev2_keavui2qs7qco?uid=j7v7akdn7we4mb#/
+
+programming pearls github - Google Search
+https://www.google.com/search?q=programming+pearls+github&sxsrf=ALeKk00nXmVWdinEeOcUXVMQWm4oAMRa7g:1601233515551&ei=a-JwX5-YIY6U-gSi0r-wCQ&start=10&sa=N&ved=2ahUKEwjf-ZXXg4rsAhUOip4KHSLpD5YQ8NMDegQIDBBA&biw=1279&bih=632
+
+programming pearls: free download. Ebooks library. On-line books store on Z-Library
+https://bookos-z1.org/s/programming%20pearls
+
+www.cs.bell-labs.com
+http://www.cs.bell-labs.com/cm/cs/pearls/code.html
+
+Rocket League (PC Digital Download) + $10 Off $14.99+ Epic Games Store Coupon
+https://slickdeals.net/f/14346032-epic-games-add-rocket-league-free-to-play-to-your-library-between-september-23rd-october-23rd-get-10-off-14-99-coupon?src=frontpage
+
+A Total War Saga: TROY Amazons DLC (PC Digital Download)
+https://slickdeals.net/f/14279984-free-a-total-war-saga-troy-amazons-dlc-if-you-register-your-total-war-access-epic-accounts-link-now-to-receive-free-dlc-in-september?src=frontpage
+
+Download - Unreal Engine
+https://www.unrealengine.com/en-US/download/ue_non_games
+
+Settings - Passwords
+chrome://settings/passwords
+
+Lua Programming and Game Development with LÖVE | Udemy
+https://www.udemy.com/course/lua-love/learn/lecture/7606082#overview
+
+Google Calendar - 4 days, starting Monday, September 28, 2020
+https://calendar.google.com/calendar/u/0/r/customday
+
+well ordering tournament - Google Search
+https://www.google.com/search?q=well+ordering+tournament&oq=well+ordering+tournament&aqs=chrome..69i57.6533j0j7&sourceid=chrome&ie=UTF-8
+
+discrete mathematics - Prove that players in round-robin tournament can be ordered - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/1937213/prove-that-players-in-round-robin-tournament-can-be-ordered?noredirect=1&lq=1
+
+graph theory - Prove that every tournament contains at least one Hamiltonian path. - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/1682492/prove-that-every-tournament-contains-at-least-one-hamiltonian-path
+
+Google News
+https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en
+
+US-China tensions put Kioxia’s $3.2bn IPO on ice | Financial Times
+https://www-ft-com.stanford.idm.oclc.org/content/a200d2a1-4e06-4148-a879-45de4cbea29f
+
+My Drive - Google Drive
+https://drive.google.com/drive/u/0/my-drive
+
+CSPB3104-Assignment-6-7.ipynb - Colaboratory
+https://colab.research.google.com/drive/1z3acN5tHTFntFa_yBKCd3f6g18FkyWqN#scrollTo=woBlkB-xddDv
+
+Google Calendar - 4 days, starting Monday, September 28, 2020
+https://calendar.google.com/calendar/u/0/r/customday
+
+Account Login | BlueJeans
+https://www.bluejeans.com/login?next=/scheduling/
+
+SF bay area for sale "board game" - craigslist
+https://sfbay.craigslist.org/search/sss?query=board%20game&sort=rel
+
+BoardGameGeek | Gaming Unplugged Since 2000
+https://boardgamegeek.com/
+
+yoga s1 - Google Search
+https://www.google.com/search?q=yoga+s1&oq=yoga+s1&aqs=chrome..69i57.3072j0j7&sourceid=chrome&ie=UTF-8
