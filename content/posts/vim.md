@@ -228,7 +228,24 @@ https://stackoverflow.com/questions/tagged/vim
 vim CTRL_R CTRL_A - Google Search
 https://www.google.com/search?q=vim+CTRL_R+CTRL_A&rlz=1C1CHBF_enUS811US811&oq=vim+CTRL_R+CTRL_A&aqs=chrome..69i57.6313j0j7&sourceid=chrome&ie=UTF-8
 
+## uppercase
+
+Changing case in Vim - Stack Overflow
+https://stackoverflow.com/questions/2946051/changing-case-in-vim#:~:text=2%20Answers&text=Visual%20select%20the%20text%2C%20then,gu%20for%20lowercase.
+
+~    : Changes the case of current character
+guu  : Change current line from upper to lower.
+gUU  : Change current LINE from lower to upper.
+guw  : Change to end of current WORD from upper to lower.
+guaw : Change all of current WORD to lower.
+gUw  : Change to end of current WORD from lower to upper.
+gUaw : Change all of current WORD to upper.
+g~~  : Invert case to entire line
+g~w  : Invert case to current WORD
+guG : Change to lowercase until the end of document.
+
 # Modes
+
 ## syntax highlight
 
 Turn on syntax highlighting for vim on Mac OS | Codexpedia

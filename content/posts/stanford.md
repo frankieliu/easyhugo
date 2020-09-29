@@ -276,3 +276,123 @@ https://canvas.stanford.edu/courses/123250
 YOUNES BENSOUDA MOURRI
 https://explorecourses.stanford.edu/instructor/younes
 
+CS129: Machine Learning
+https://web.stanford.edu/class/cs129/#
+
+CS129: Machine Learning
+https://web.stanford.edu/class/cs129/#
+
+CS 129 (4 unread)
+https://piazza.com/class/kf2okdjoyua3ki?cid=6
+
+Coursera Invites Spreadsheet - Google Sheets
+https://docs.google.com/spreadsheets/d/1CvZOFCc8HxoMUe3AQYlahDiV1sIQk3HRzaMIQbHdnK0/edit#gid=0
+
+Coursera Invites Spreadsheet - Google Sheets
+https://docs.google.com/spreadsheets/d/1CvZOFCc8HxoMUe3AQYlahDiV1sIQk3HRzaMIQbHdnK0/edit#gid=0
+
+Piazza Network
+https://piazza.com/careers/dashboard#/my_profile
+
+Guanzhi Wang
+https://cs.stanford.edu/~guanzhi/
+
+Panopto Course Videos
+https://canvas.stanford.edu/courses/122649/external_tools/3367
+
+CS129: Applied Machine Learning - Office Hours and Lectures
+https://web.stanford.edu/class/cs129/calendar
+
+CS230 Audit Request Form
+https://docs.google.com/forms/u/1/d/e/1FAIpQLSfnnVnE4A7eVTrIaZnlPvADzcbDwnkoy-orOZmRzbI9R-Absw/formResponse
+
+Syllabus
+https://syllabus.stanford.edu/syllabus/#/notAuthorizedtoViewSyllabus/undefined
+
+Randomized Algorithms and Probabilistic Analysis
+https://canvas.stanford.edu/courses/123782
+
+Deep Learning in Genomics and Biomedicine
+https://canvas.stanford.edu/courses/126082
+
+Data Management and Data Systems
+https://canvas.stanford.edu/courses/124278
+
+Cryptocurrencies and blockchain technologies
+https://canvas.stanford.edu/courses/124344
+
+Introduction to Probability for Computer Scientists
+https://canvas.stanford.edu/courses/126015
+
+Panopto Course Videos
+https://canvas.stanford.edu/courses/126082/external_tools/3367
+
+Files
+https://canvas.stanford.edu/courses/125899/files?preview=6488045
+
+Standard C++ Programming Laboratory
+https://canvas.stanford.edu/courses/125019
+
+Ed — Digital Learning Platform
+https://us.edstem.org/join/ap4PnU
+
+cs106m.stanford.edu
+http://cs106m.stanford.edu/
+
+C106M – Discussion
+https://us.edstem.org/courses/2737/discussion/127401
+
+Authentication required! : Stanford University
+https://web.stanford.edu/class/cs106m/restricted/zoom_info
+
+Video Game Development in C++ and Unreal Engine
+https://canvas.stanford.edu/courses/123162
+
+Contact Me – Tom Looman
+https://www.tomlooman.com/contact/
+
+Android Programming Workshop
+https://canvas.stanford.edu/courses/124047
+
+FALL2020 at Stanford University | Piazza
+https://piazza.com/stanford/fall2020
+
+Contact Me – Tom Looman
+https://www.tomlooman.com/contact/?contact-form-id=9&contact-form-sent=6353&contact-form-hash=e131423cf918a7bb1ff0a4ad187ed6b0a4312b4f&_wpnonce=6b92407a12#contact-form-9
+
+Syllabus for Video Game Development in C++ and Unreal Engine
+https://canvas.stanford.edu/courses/123162/assignments/syllabus
+
+Android Programming Workshop
+https://canvas.stanford.edu/courses/124047
+
+CS229: Machine Learning
+http://cs229.stanford.edu/
+
+Decision Making under Uncertainty
+https://canvas.stanford.edu/courses/123890
+
+Contact | AA228/CS238
+https://web.stanford.edu/class/aa228/cgi-bin/wp/contact/
+
+frankieliu/algorithmsbook: Preview of the textbook Algorithms for Decision Making
+https://github.com/frankieliu/algorithmsbook
+
+Stanford University Explore Courses
+https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=cs247a&collapse=
+
+Cryptocurrencies and blockchain technologies
+https://canvas.stanford.edu/courses/124344
+
+CS 251: Cryptocurrencies and blockchain technologies
+https://cs251.stanford.edu/
+
+CS221: Artificial Intelligence: Principles and Techniques
+https://stanford-cs221.github.io/autumn2020/
+
+Julie Zelenski, Senior Lecturer in Computer Science, Stanford University
+https://www-cs-faculty.stanford.edu/~zelenski/
+
+Jay Brian Borenstein
+https://explorecourses.stanford.edu/instructor/gretzky
+

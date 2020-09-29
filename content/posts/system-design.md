@@ -123,3 +123,31 @@ http://fliu.west2020.gcp.confluent-demo.io/
 
 Workshop: Real-time Stream Processing with KSQL
 http://fliu.west2020.gcp.confluent-demo.io/
+
+# Tanenbaum
+
+Distributed Systems: 9781543057386: Computer Science Books @ Amazon.com
+https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/ref=sr_1_3?dchild=1&qid=1600623223&refinements=p_27%3AAndrew+S+Tanenbaum&s=books&sr=1-3&text=Andrew+S+Tanenbaum
+
+# dynamo
+
+What is Amazon DynamoDB - ScyllaDB
+https://www.scylladb.com/resources/introduction-to-dynamodb/
+
+Deconstructing Dynamo
+https://blog.scottlogic.com/2020/09/08/deconstructing-dynamo.html
+
+Our work | Scott Logic
+https://www.scottlogic.com/our-work
+
+# gossip
+
+Heartbeat-style Failure Detector using Gossip // Qiu's Quibble
+https://blog.idempotent.ca/2018/08/21/heartbeat-style-failure-detector-using-gossip/
+
+Kevin Jing Qiu
+http://resume.idempotent.ca/
+
+hashicorp/memberlist: Golang package for gossip based membership and failure detection
+https://github.com/hashicorp/memberlist
+

@@ -8,6 +8,17 @@ draft = false
 
 # x11
 
+## display
+
+Running Graphical Programs on Windows Subsystem on Linux -- Virtualization Review
+https://virtualizationreview.com/articles/2017/02/08/graphical-programs-on-windows-subsystem-on-linux.aspx
+
+windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow
+https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+
+cascadium/wsl-windows-toolbar-launcher: Adds linux GUI application menu to a windows toolbar
+https://github.com/cascadium/wsl-windows-toolbar-launcher#firewall-rules
+
 windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow
 https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
 
@@ -30,6 +41,7 @@ export LIBGL_ALWAYS_INDIRECT=0
 
 Does WSL support openGL? � Issue #2855 � microsoft/WSL
 https://github.com/microsoft/WSL/issues/2855
+
 
 # ubuntu
 
@@ -82,6 +94,20 @@ https://www.raymondcamden.com/2017/09/25/calling-a-powershell-script-from-wsl
 
 Running a command as Administrator using PowerShell? - Stack Overflow
 https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell
+
+## edge
+
+windows 10 - How to open URL in Microsoft Edge from the command line? - Stack Overflow
+https://stackoverflow.com/questions/31164253/how-to-open-url-in-microsoft-edge-from-the-command-line
+
+RunEdge/RunEdge.sln at master · mihula/RunEdge
+https://github.com/mihula/RunEdge/blob/master/RunEdge.sln
+
+Launching Edge browser from WSL? : bashonubuntuonwindows
+https://www.reddit.com/r/bashonubuntuonwindows/comments/79fil2/launching_edge_browser_from_wsl/
+
+windows subsystem for linux - How do I start Edge from WSL2? - Stack Overflow
+https://stackoverflow.com/questions/61686075/how-do-i-start-edge-from-wsl2
 
 
 # ssh
@@ -161,6 +187,11 @@ netsh int portproxy reset all
 Since the connectaddress does change, might want to script it:
 
 ~/bin/powershell-proxy.ps1
+
+## sshfs
+
+filesystems - Getting `sshfs` working on WSL or finding an alternative - Super User
+https://superuser.com/questions/1353169/getting-sshfs-working-on-wsl-or-finding-an-alternative
 
 # connection to outside
 
@@ -303,3 +334,4 @@ https://github.com/microsoft/WSL/issues/4885
 # windows terminal scrolling
 
 scroll up with Ctrl-Shift-PageUp
+

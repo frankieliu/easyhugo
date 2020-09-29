@@ -101,6 +101,13 @@ https://tecadmin.net/tutorial/bash-scripting/bash-if-else-statement/#:~:text=Bas
 bash - What's the difference between eval and exec? - Unix & Linux Stack Exchange
 https://unix.stackexchange.com/questions/296838/whats-the-difference-between-eval-and-exec
 
+## wget
+
+wget -r --no-parent
+
+mirror - Is there a way to disable wget from getting files from parent directories to given depth? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/26890/is-there-a-way-to-disable-wget-from-getting-files-from-parent-directories-to-giv
+
 # view
 
 ## tab in echo
@@ -218,3 +225,7 @@ https://stackoverflow.com/questions/11619500/how-to-cat-multiple-files-from-a-li
 Linux/UNIX: Bash Read a File Line By Line - nixCraft
 https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/
 
+## remove duplicate paragraphs
+
+text processing - How to remove duplicate paragraphs - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/609765/how-to-remove-duplicate-paragraphs/609771?noredirect=1#comment1138742_609771

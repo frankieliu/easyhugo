@@ -31,3 +31,6 @@ https://pythonspeed.com/datascience/
 
 Applied Data Science Bootcamp
 https://www.mygreatlearning.com/mit-applied-data-science-bootcamp-program-launch?ambassador_code=mgl_live_sep23&utm_source=mit-adsb&utm_campaign=fbgrp&fbclid=IwAR20nl4Hy0QvkUEap7u9tbh1mcirNyj2u1tcWIQdolLz3wq0Ap4UVZaLFwY
+
+Using Data Science to fight Corona and How to Start Learning
+https://www.youtube.com/watch?v=w9_hJtYEguU&feature=youtu.be

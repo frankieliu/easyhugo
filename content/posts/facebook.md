@@ -65,3 +65,7 @@ https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-intervie
 
 Python 3 | CoderPad
 https://coderpad.io/2A3PRQH6
+
+GraphQL | A query language for your API
+https://graphql.org/
+

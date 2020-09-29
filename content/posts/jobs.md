@@ -209,3 +209,70 @@ https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
 (6) 25 Metrics to Track in a Product-Led SaaS Company | LinkedIn
 https://www.linkedin.com/pulse/25-metrics-track-product-led-saas-company-allan-wille/
 
+# roblox
+
+ROBLOX Mission, Vision & Values | Comparably
+https://www.comparably.com/companies/roblox/mission
+
+# salary negotiations
+
+Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
+https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
+
+# riot
+Lessons Learned Guiding Riot Games Through a Cultural Crisis | Riot Games
+https://www.riotgames.com/en/news/lessons-learned-guiding-riot-games-through-a-cultural-crisis
+
+# hackerrank
+
+HackerRank
+https://www.hackerrank.com/skills-verification
+
+HackerRank
+https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
+
+HackerRank
+https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest/leaderboard
+
+# robinhood
+
+Robinhood - Careers
+https://careers.robinhood.com/
+
+Robinhood - Careers
+https://careers.robinhood.com/openings?gh_jid=2279703
+
+# hashicorp
+
+HashiCorp
+https://github.com/hashicorp
+
+HashiCorp Named #4 on the Forbes 2020 Cloud 100 List for the Second Year in a Row
+http://www.globenewswire.com/news-release/2020/09/16/2094670/0/en/HashiCorp-Named-4-on-the-Forbes-2020-Cloud-100-List-for-the-Second-Year-in-a-Row.html
+
+# cloud 100 2020 
+
+The Cloud 100 2020
+https://www.forbes.com/cloud100/#382da5d35f94
+
+C3.ai
+https://www.forbes.com/companies/c3ai/?list=cloud100/#1211272460c6
+
+Grammarly
+https://www.forbes.com/companies/grammarly/?list=cloud100/#21116a0f6970
+
+Illumio
+https://www.forbes.com/companies/illumio/?list=cloud100/#2e81b8d07cc3
+
+Webflow
+https://www.forbes.com/companies/webflow/?list=cloud100/#45a2349260e7
+
+Benchling
+https://www.forbes.com/companies/benchling/?list=cloud100/#1872598061fa
+
+Careers - C3.ai
+https://c3.ai/careers/
+
+Software Engineer, Machine Learning - Grammarly | Jobs
+https://www.grammarly.com/jobs/engineering/software-engineer-machine-learning?gh_jid=1688685
+

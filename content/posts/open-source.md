@@ -42,3 +42,9 @@ https://reboost.qoom.io/
 # text editor
 Build Your Own Text Editor
 https://viewsourcecode.org/snaptoken/kilo/
+
+# python
+
+Issue 19217: Calling assertEquals for moderately long list takes too long - Python tracker
+https://bugs.python.org/issue19217
+

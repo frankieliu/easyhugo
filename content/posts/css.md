@@ -125,3 +125,8 @@ This sets whether it is inline, block, grid, flex, table, etc
 CSS display property
 https://www.w3schools.com/cssref/pr_class_display.asp
 
+# media queries
+
+Media Queries Are Not The Answer: Element Query Polyfill — Smashing Magazine
+https://www.smashingmagazine.com/2013/06/media-queries-are-not-the-answer-element-query-polyfill/
+

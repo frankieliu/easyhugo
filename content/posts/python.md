@@ -121,6 +121,9 @@ https://stackoverflow.com/questions/21361106/how-would-i-implement-a-dict-with-a
 Supercharge Your Classes With Python super() – Real Python
 https://realpython.com/python-super/
 
+Property vs. Getters and Setters in Python - DataCamp
+https://www.datacamp.com/community/tutorials/property-getters-setters?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=295208661514&utm_targetid=dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9031937&gclid=CjwKCAjw2Jb7BRBHEiwAXTR4jTGQ1gwAo0ikcWH5fH1y-e75x4KpXzs76kPGCTOSu0MrqxId3hZLCBoCoxYQAvD_BwE
+
 # collections
 ## defaultdict
 
@@ -136,6 +139,7 @@ https://stackoverflow.com/questions/44012479/intersection-of-two-counters
 
 Sum all values of a counter in Python 2 - Stack Overflow
 https://stackoverflow.com/questions/32511444/sum-all-values-of-a-counter-in-python-2/32511486#32511486
+
 
 # itertools
 
@@ -382,6 +386,27 @@ http://zetcode.com/python/beautifulsoup/
 python - bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library? - Stack Overflow
 https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste
 
+Beautiful Soup Documentation — Beautiful Soup 4.9.0 documentation
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Python BeautifulSoup tutorial - parse HTML, XML documents in Python
+http://zetcode.com/python/beautifulsoup/
+
+python - How to find elements by class - Stack Overflow
+https://stackoverflow.com/questions/5041008/how-to-find-elements-by-class
+
+python - How to find children of nodes using BeautifulSoup - Stack Overflow
+https://stackoverflow.com/questions/6287529/how-to-find-children-of-nodes-using-beautifulsoup
+
+python - BeautifulSoup: just get inside of a tag, no matter how many enclosing tags there are - Stack Overflow
+https://stackoverflow.com/questions/2957013/beautifulsoup-just-get-inside-of-a-tag-no-matter-how-many-enclosing-tags-there
+
+python - Using BeautifulSoup to find a HTML tag that contains certain text - Stack Overflow
+https://stackoverflow.com/questions/866000/using-beautifulsoup-to-find-a-html-tag-that-contains-certain-text
+
+python - Extracting an attribute value with beautifulsoup - Stack Overflow
+https://stackoverflow.com/questions/2612548/extracting-an-attribute-value-with-beautifulsoup
+
 ## cookies
 
 python - How to set session cookie while extracting contents from URLs using beautiful soup? - Stack Overflow
@@ -449,6 +474,9 @@ https://stackoverflow.com/questions/32110965/why-host-http-server-needs-to-speci
 
 How do I comment out multiple lines in Jupyter Ipython notebook? - Stack Overflow
 https://stackoverflow.com/questions/29885371/how-do-i-comment-out-multiple-lines-in-jupyter-ipython-notebook
+
+Markdown Cells — Jupyter Notebook 6.1.4 documentation
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
 
 # test/debug
 ## testing
