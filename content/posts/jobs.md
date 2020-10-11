@@ -117,6 +117,11 @@ https://swegrad.wordpress.com/2015/12/21/swe-resume/
 Please help me to improve my resume(SWE) : resumes
 https://www.reddit.com/r/resumes/comments/et81v3/please_help_me_to_improve_my_resumeswe/
 
+Proximity communication - Wikipedia
+https://en.wikipedia.org/wiki/Proximity_communication#:~:text=Proximity%20communication%20is%20a%20Sun,chip%2Dto%2Dchip%20communications.&text=Proximity%20communication%20replaces%20wires%20by,electronic%20system%2C%20among%20other%20benefits.
+
+bag berkeley analog generator - Google Search
+https://www.google.com/search?q=bag+berkeley+analog+generator&rlz=1C1CHBF_enUS811US811&oq=bag+berkeley+analog+generator&aqs=chrome..69i57.10303j0j9&sourceid=chrome&ie=UTF-8
 # manager
 
 7 Manager Interview Questions and Answers
@@ -303,6 +308,26 @@ https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
 HackerRank
 https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest/leaderboard
 
+## career fair
+
+Career Fair Applications | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/application
+
+Hired - Job Search Marketplace. Tech Job Hunting Simplified!
+https://hired.com/join?utm_source=linkedin&utm_medium=cpc&utm_campaign=(b2c)(SF)(r-swe)(da-Senior-Dev-Titles)&utm_content=lida0316202739&utm_term=adid-d
+
+Work With Us | Riot Games
+https://www.riotgames.com/en/work-with-us#job-list
+
+Virtual Career Fair 2020 Schedule | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/schedule
+
+Virtual Career Fair 2020 Exhibitors | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/exhibitors
+
+Airmeet: HackerRank Virtual Career Fair - Track 2
+https://www.airmeet.com/event/e18c3690-f831-11ea-8a9b-83ce701486dd
+
 # robinhood
 
 Robinhood - Careers
@@ -394,11 +419,19 @@ https://boards.greenhouse.io/paige/jobs/4433484002
 Home | Facebook Recruiting
 https://www.facebookrecruiting.com/portal/home
 
+# Dremio
 Join Our Team - Dremio
 https://www.dremio.com/careers/#jobs-list
 
+(4) Kalexin Baoerjiin | LinkedIn
+https://www.linkedin.com/in/kalexin/
+
+# charter
+
 Leadership | Charter
 https://corporate.charter.com/leadership
+
+# spectrum
 
 Working at Spectrum | Jobs and Careers at Spectrum
 https://jobs.spectrum.com/
@@ -413,5 +446,21 @@ https://jobs.lever.co/pathrise
 
 Pathrise Review: How a Pathrise Fellowship Can Launch Your Tech Career
 https://careerkarma.com/blog/pathrise/#:~:text=Pay%20Only%20When%20You%20Succeed%20with%20Pathrise,-Pathrise%20offers%20a&text=After%20a%20fellow%20has%20found,six%20months%20on%20the%20job.
+
+# linkedin
+
+Richard Sanders Jr | LinkedIn
+https://www.linkedin.com/in/richardsandersjr/
+
+Biru Lyu | LinkedIn
+https://www.linkedin.com/in/birulyu/
+
+# snowflake
+
+Snowflake Leadership and Board of Directors | Get to Know the Team
+https://www.snowflake.com/leadership-board/
+
+2020 Data Drivers | Snowflake
+https://www.snowflake.com/webinar/2020-data-drivers/
 
 

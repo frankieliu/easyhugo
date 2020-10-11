@@ -43,3 +43,33 @@ Option Command J
 mac chrome developer console - Google Search
 https://www.google.com/search?q=mac+chrome+developer+console&rlz=1C1CHBF_enUS811US811&oq=mac+chrome+developer+console&aqs=chrome..69i57.8839j0j7&sourceid=chrome&ie=UTF-8
 
+# finn
+
+## love2d
+
+love2d udemy - Google Search
+https://www.google.com/search?q=love2d+udemy&rlz=1C1CHBF_enUS811US811&oq=love2d+udemy&aqs=chrome..69i57.5806j0j7&sourceid=chrome&ie=UTF-8
+
+love2d udemy - Google Search
+https://www.google.com/search?q=love2d+udemy&rlz=1C1CHBF_enUS811US811&oq=love2d+udemy&aqs=chrome.0.69i59j69i60.6375j0j4&sourceid=chrome&ie=UTF-8
+
+Try out my course: Lua Programming and Game Development with LÖVE - LÖVE
+https://love2d.org/forums/viewtopic.php?t=84242
+
+Lua Programming and Game Development with LÖVE | Udemy
+https://www.udemy.com/course/lua-love/
+
+Try out my course: Lua Programming and Game Development with LOVE! (X-post from /r/gamedev) : love2d
+https://www.reddit.com/r/love2d/comments/6t0qby/try_out_my_course_lua_programming_and_game/
+
+Online Courses - Anytime, Anywhere | Udemy
+https://www.udemy.com/courses/search/?q=udemy
+
+[Download] Lua Programming and Game Development with LÖVE Udemy Free Download
+https://www.onlinefreecourse.net/lua-programming-and-game-development-with-love-udemy-free-download/
+
+Lua Programming and Game Development with Love2D in Udemy - Laimoon online courses
+https://courses.laimoon.com/course/lua-programming-and-game-development-with-love2d-udemy/online
+
+Pocket Gems Software Engineer Salaries | Glassdoor
+https://www.glassdoor.com/Salary/Pocket-Gems-Software-Engineer-Salaries-E453434_D_KO12,29.htm

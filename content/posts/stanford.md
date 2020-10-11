@@ -252,6 +252,9 @@ https://canvas.stanford.edu/courses/125023
 Computer Vision: Foundations and Applications
 https://canvas.stanford.edu/courses/122334
 
+Computer Vision: Foundations and Applications
+http://vision.stanford.edu/teaching/cs131_fall2021/index.html
+
 Parallel Computing
 https://canvas.stanford.edu/courses/124273
 
@@ -395,4 +398,66 @@ https://www-cs-faculty.stanford.edu/~zelenski/
 
 Jay Brian Borenstein
 https://explorecourses.stanford.edu/instructor/gretzky
+
+# classes
+
+Syllabus
+https://syllabus.stanford.edu/syllabus/#/mainSyllabus
+
+Computer Vision: Foundations and Applications
+https://canvas.stanford.edu/courses/122334
+
+Computer Vision: Foundations and Applications
+https://canvas.stanford.edu/courses/122334
+
+CS229 at Stanford University | Piazza
+https://piazza.com/stanford/fall2020/cs229
+
+CS230 Audit Request Form
+https://docs.google.com/forms/u/1/d/e/1FAIpQLSfnnVnE4A7eVTrIaZnlPvADzcbDwnkoy-orOZmRzbI9R-Absw/formResponse
+
+CS230 Deep Learning
+https://cs230.stanford.edu/#logistics
+
+CS 229 (170 unread)
+https://piazza.com/class/j7hypc9uyhj577
+
+Office Hours
+https://cs230.stanford.edu/officehours/
+
+Post Attendee - Zoom
+https://stanford.zoom.us/postattendee?id=6
+
+CS 229 (170 unread)
+https://piazza.com/class/j7hypc9uyhj577
+
+CS 230 (43 unread)
+https://piazza.com/class/kf0h64h1gem56g?cid=12
+
+CS 229 (170 unread)
+https://piazza.com/class/j7hypc9uyhj577
+
+CS 229 (170 unread)
+https://piazza.com/class/j7hypc9uyhj577
+
+CS 129 (10 unread)
+https://piazza.com/class/kf2okdjoyua3ki
+
+Piazza Network
+https://piazza.com/careers/dashboard#/messages/reload_1
+
+STATS 200 : Introduction to Statistical Inference - Google Search
+https://www.google.com/search?q=STATS+200+%3A+Introduction+to+Statistical+Inference&rlz=1C1CHBF_enUS811US811&oq=STATS+200+%3A+Introduction+to+Statistical+Inference&aqs=chrome..69i57.1085j0j9&sourceid=chrome&ie=UTF-8
+
+Syllabus — stats202 1.0 documentation
+http://statweb.stanford.edu/~jtaylo/courses/stats202/index.html
+
+Stanford CS193u: Video Game Development in C++ and Unreal Engine – Tom Looman
+https://www.tomlooman.com/stanford-cs193u/
+
+Video Game Development in C++ and Unreal Engine
+https://canvas.stanford.edu/courses/123162
+
+Syllabus for Video Game Development in C++ and Unreal Engine
+https://canvas.stanford.edu/courses/123162/assignments/syllabus
 

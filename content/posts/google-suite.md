@@ -1,7 +1,7 @@
 +++
 categories = [""]
 tags = [""]
-title = "Google Drive"
+title = "Google Suite"
 date = "2020-08-23T18:20:05-07:00"
 draft = false
 +++
@@ -72,4 +72,7 @@ https://webapps.stackexchange.com/questions/43485/how-can-i-compare-my-local-fol
 How can I get diff to show only added and deleted lines? If diff can't do it, what tool can? - Server Fault
 https://serverfault.com/questions/68684/how-can-i-get-diff-to-show-only-added-and-deleted-lines-if-diff-cant-do-it-wh/68717#68717
 
+# account recovery
 
+Account recovery! - Google Account Community
+https://support.google.com/accounts/thread/17998102?hl=en

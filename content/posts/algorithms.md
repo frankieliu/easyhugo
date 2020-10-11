@@ -134,6 +134,9 @@ https://cp-algorithms.com/graph/edmonds_karp.html
 Minimum-cost flow - Successive shortest path algorithm - Competitive Programming Algorithms
 https://cp-algorithms.com/graph/min_cost_flow.html
 
+Minimum-cost flow - Successive shortest path algorithm - Competitive Programming Algorithms
+https://cp-algorithms.com/graph/min_cost_flow.html
+
 ## assignment problem
 
 Hungarian algorithm - Wikipedia
@@ -288,6 +291,12 @@ https://cstheory.stackexchange.com/questions
 Algorithms to find the number of Hamiltonian paths in a graph - Stack Overflow
 https://stackoverflow.com/questions/5333161/algorithms-to-find-the-number-of-hamiltonian-paths-in-a-graph
 
+## dijsktra
+
+Dijkstra's algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
+
+
 # sorting
 
 c# - Bubble sort worst case example is O(n*n), how? - Stack Overflow
@@ -379,4 +388,15 @@ https://bookos-z1.org/book/437779/9a0691
 
 Introduction to the theory of computation. Instructor's manual: solutions to 1ed., 1997 | Ching Law | download
 https://bookos-z1.org/book/437780/931331
+
+# np
+
+NP-completeness - Wikipedia
+https://en.wikipedia.org/wiki/NP-completeness#:~:text=NP%2Dcomplete%20problems%20are%20in,a%20non%2Ddeterministic%20Turing%20machine.
+
+is traveling salesman problem np-complete - Google Search
+https://www.google.com/search?q=is+traveling+salesman+problem+np-complete&rlz=1C1CHBF_enUS811US811&oq=is+traveling+salesman+problem+np-complete&aqs=chrome..69i57.10351j0j4&sourceid=chrome&ie=UTF-8
+
+mininum set cover problem np-hard - Google Search
+https://www.google.com/search?q=mininum+set+cover+problem+np-hard&rlz=1C1CHBF_enUS811US811&oq=mininum+set+cover+problem+np-hard&aqs=chrome..69i57.11456j0j7&sourceid=chrome&ie=UTF-8
 
