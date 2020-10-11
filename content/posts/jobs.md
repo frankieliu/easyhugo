@@ -402,3 +402,16 @@ https://corporate.charter.com/leadership
 
 Working at Spectrum | Jobs and Careers at Spectrum
 https://jobs.spectrum.com/
+
+# pathrise
+
+Pathrise - Apply
+https://www.pathrise.com/apply
+
+Pathrise
+https://jobs.lever.co/pathrise
+
+Pathrise Review: How a Pathrise Fellowship Can Launch Your Tech Career
+https://careerkarma.com/blog/pathrise/#:~:text=Pay%20Only%20When%20You%20Succeed%20with%20Pathrise,-Pathrise%20offers%20a&text=After%20a%20fellow%20has%20found,six%20months%20on%20the%20job.
+
+

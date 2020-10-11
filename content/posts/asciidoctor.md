@@ -8,6 +8,9 @@ draft = false
 
 # Syntax
 
+Asciidoctor User Manual
+https://asciidoctor.org/docs/user-manual/#icons
+
 AsciiDoc Syntax Quick Reference | Asciidoctor
 https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
@@ -42,6 +45,9 @@ https://lednerb.github.io/bilberry-hugo-theme/
 
 Asciidoctor :: Discussion - Registering...
 https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page
+
+Asciidoctor :: Discussion
+https://discuss.asciidoctor.org/
 
 ## images
 
@@ -293,11 +299,27 @@ http://blockdiag.com/en/actdiag/index.html
 dhobsd/asciitosvg: DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
 https://github.com/dhobsd/asciitosvg
 
+# fonts
+
 FIGlet Fonts Library
 http://www.jave.de/figlet/fonts.html
 
-asciidoctor/asciidoctor - Gitter
-https://gitter.im/asciidoctor/asciidoctor
+
+## fontawesome
+
+Asciidoctor :: Discussion - Font Awesome 5
+https://discuss.asciidoctor.org/Font-Awesome-5-td6565.html
+
+asciidoctor fontawesome solid icons - Google Search
+https://www.google.com/search?sxsrf=ALeKk01d8zQu0aKGsUQx3cNdCCXrPpksxw%3A1599659713224&ei=wd5YX9vnDOPX9AOh_JNI&q=asciidoctor+fontawesome+solid+icons&oq=asciidoctor+fontawesome+solid+icons&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46BAgjECc6BwghEAoQoAE6BQghEKsCOgoIIRAWEAoQHRAeOgQIIRAKUIoTWMwbYPQcaABwAHgAgAFsiAH-BJIBAzUuMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwibzN7nnNzrAhXjK30KHSH-BAkQ4dUDCA0&uact=5
+
+# icons
+
+asciidoctor/asciidoctor-pdf - Libraries.io
+https://libraries.io/github/asciidoctor/asciidoctor-pdf#font-based-icons
+
+Icons :: The Docs @ Asciidoctor
+https://asciidoctor-docs.netlify.app/asciidoc/1.5/macros/icon/
 
 # editing
 

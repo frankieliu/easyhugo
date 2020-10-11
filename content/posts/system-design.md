@@ -22,10 +22,15 @@ https://pdos.csail.mit.edu/6.824/schedule.html
 6.824 Lab 2: Raft
 https://pdos.csail.mit.edu/6.824/labs/lab-raft.html
 
-# curator
+# guide to crack system interview
 
-curator zookeeper - Google Search
-https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&ei=6rBCX9XwFdPw9AOYwaL4DQ&q=curator+zookeeper&oq=curator+zookeeper&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab&ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&uact=5
+The complete guide to crack the System Design interview | by Harshith | Towards Data Science
+https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
+
+# Tanenbaum
+
+Distributed Systems: 9781543057386: Computer Science Books @ Amazon.com
+https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/ref=sr_1_3?dchild=1&qid=1600623223&refinements=p_27%3AAndrew+S+Tanenbaum&s=books&sr=1-3&text=Andrew+S+Tanenbaum
 
 # primer
 
@@ -49,6 +54,11 @@ https://www.scaler.com/
 Low Level Design: Designing BookMyShow | Scaler
 https://www.scaler.com/event/low-level-design-designing-bookmyshow?rcy=1&rce=67c1ffdbee4d/
 
+# curator
+
+curator zookeeper - Google Search
+https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&ei=6rBCX9XwFdPw9AOYwaL4DQ&q=curator+zookeeper&oq=curator+zookeeper&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab&ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&uact=5
+
 # crdt
 
 Conflict-free replicated data type - Wikipedia
@@ -57,11 +67,6 @@ https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#G-Counter_(Grow
 # time series db
 Writing a Time Series Database from Scratch | Fabian Reinartz
 https://fabxc.org/tsdb/
-
-# guide to crack system interview
-
-The complete guide to crack the System Design interview | by Harshith | Towards Data Science
-https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
 
 # reverse-proxy load-balancer
 
@@ -124,11 +129,6 @@ http://fliu.west2020.gcp.confluent-demo.io/
 Workshop: Real-time Stream Processing with KSQL
 http://fliu.west2020.gcp.confluent-demo.io/
 
-# Tanenbaum
-
-Distributed Systems: 9781543057386: Computer Science Books @ Amazon.com
-https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/ref=sr_1_3?dchild=1&qid=1600623223&refinements=p_27%3AAndrew+S+Tanenbaum&s=books&sr=1-3&text=Andrew+S+Tanenbaum
-
 # dynamo
 
 What is Amazon DynamoDB - ScyllaDB
@@ -140,6 +140,8 @@ https://blog.scottlogic.com/2020/09/08/deconstructing-dynamo.html
 Our work | Scott Logic
 https://www.scottlogic.com/our-work
 
+Dynamo (storage system) - Wikipedia
+https://en.wikipedia.org/wiki/Dynamo_(storage_system)
 # gossip
 
 Heartbeat-style Failure Detector using Gossip // Qiu's Quibble
@@ -150,4 +152,35 @@ http://resume.idempotent.ca/
 
 hashicorp/memberlist: Golang package for gossip based membership and failure detection
 https://github.com/hashicorp/memberlist
+
+# spanner
+
+Corbett: Spanner: Google’s globally distributed database - Google Scholar
+https://scholar.google.com/scholar?cites=3523173873845838643&as_sdt=2005&sciodt=0,5&hl=en&inst=5746887945952177237
+
+# big table
+
+bigtable a distributed storage system - Google Scholar
+https://scholar.google.com/scholar?as_sdt=0%2C5&btnG=&hl=en&inst=5746887945952177237&oq=bigtable&q=bigtable%20a%20distributed%20storage%20system
+
+# dynamodb
+Amazon DynamoDB | NoSQL Key-Value Database | Amazon Web Services
+https://aws.amazon.com/dynamodb/
+
+Anatomy of an Item | DynamoDB, explained.
+https://www.dynamodbguide.com/anatomy-of-an-item
+
+# cockroach
+CockroachDB in Comparison | CockroachDB Docs
+https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html
+
+# aurora
+
+aurora db paper - Google Search
+https://www.google.com/search?sxsrf=ALeKk02B-i5brzA-qQkBSmwjUdJnfanEiA%3A1599413482689&ei=6hxVX8HMKbmu0PEPipenkAo&q=aurora+db+paper&oq=aurora+db+paper&gs_lcp=CgZwc3ktYWIQAzICCAA6BAgAEEc6BggAEBYQHlDsFFjfHWCIH2gAcAF4AIABW4gB6wOSAQE2mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjB6e_Dh9XrAhU5FzQIHYrLCaIQ4dUDCA0&uact=5
+
+# snowflake
+
+snowflake sigmod - Google Search
+https://www.google.com/search?sxsrf=ALeKk012zZPHvrn2kVdHPNaZrVl-upLBgw%3A1599414421874&ei=lSBVX8brNIPM-gTZ07_4DQ&q=snowflake+sigmod&oq=snowflake+sigmod&gs_lcp=CgZwc3ktYWIQAzIHCAAQFBCHAjoECAAQRzoLCC4QxwEQrwEQkwI6BQgAELEDOgIIADoICAAQsQMQgwE6CAgAEBYQChAeOgYIABAWEB46BQghEKABOggILhDHARCvAVChZ1iCdmDSd2gCcAJ4AIABWogBsQWSAQE5mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiGituDi9XrAhUDpp4KHdnpD98Q4dUDCA0&uact=5
 
