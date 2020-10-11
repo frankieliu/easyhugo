@@ -597,3 +597,249 @@ https://boardgamegeek.com/
 
 yoga s1 - Google Search
 https://www.google.com/search?q=yoga+s1&oq=yoga+s1&aqs=chrome..69i57.3072j0j7&sourceid=chrome&ie=UTF-8
+
+Linux: xmodmap Tutorial
+http://xahlee.info/linux/linux_xmodmap_tutorial.html1
+
+2D BIT
+https://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+
+Leetcode checklist
+https://www.frankliu.org/leet-200/
+
+(2) Maximum Distance in Arrays - LeetCode
+https://leetcode.com/problems/maximum-distance-in-arrays/solution/
+
+(2) Bottom Code - LeetCode
+https://leetcode.com/bugbounty/
+
+(2) Range Sum Query 2D - Mutable - LeetCode
+https://leetcode.com/problems/range-sum-query-2d-mutable/
+
+Two Dimensional Binary Indexed Tree or Fenwick Tree - GeeksforGeeks
+https://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+
+binarysearch | Learn Algorithms Together
+https://binarysearch.com/
+
+Ray Summit | Free Virtual Event | Linux Foundation Events
+https://events.linuxfoundation.org/ray-summit/
+
+Ray Summit 2020
+https://raysummit2020.com/agenda/
+
+Ray Summit 2020
+https://raysummit2020.com/session-virtual/?v26dd132ae80017cdaf764437c30ebe6f10c1b1eeaab01165e44366654b368dfaeab6baf7e386a642ecb238989334530e=CF392D005E76D7CF51F688F95C94853BC6DE4605E06C1C5966907FC82FAAC9EED1B9F96ABBD1FED02C97BB4D5FDB795C
+
+Student Recommendations
+https://docs.google.com/forms/u/1/d/e/1FAIpQLScBtbCa6p7uWSgemUKCj2Iu1gYM2U1xFaTct_0nfMJCx-u_Aw/formResponse
+
+Video Visits
+https://mydoctor.kaiserpermanente.org/videovisit/#/login
+
+Sign off - Kaiser Permanente
+https://healthy.kaiserpermanente.org/health/care/consumer/dis/signoff
+
+Sign off - Kaiser Permanente
+https://healthy.kaiserpermanente.org/health/care/consumer/dis/signoff
+
+LinkedIn
+https://www.linkedin.com/mynetwork/
+
+Google Calendar - 4 days, starting Thursday, October 1, 2020
+https://calendar.google.com/calendar/u/0/r/customday
+
+BoardGameGeek | Gaming Unplugged Since 2000
+https://boardgamegeek.com/
+
+system design interview questions - Google Search
+https://www.google.com/search?q=system+design+interview+questions&oq=system+design+interview+questions&aqs=chrome..69i57.7101j0j4&sourceid=chrome&ie=UTF-8
+
+Behavioral Interview Prep | AlgoExpert
+https://www.algoexpert.io/behavioral-interviews
+
+Grokking the System Design Interview - Learn Interactively
+https://www.educative.io/courses/grokking-the-system-design-interview?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=grokking-manual&gclid=CjwKCAjw2dD7BRASEiwAWCtCb0dG2v_sx1tAGFmb51SHoWtSiJacWEIVoMWDgN8xvPCYdCqe5rR8ghoCvVcQAvD_BwE
+
+25 Software Design Interview Questions to Crack Any Programming and Technical Interviews | by javinpaul | Javarevisited | Medium
+https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
+
+System Design Interview Questions – Concepts You Should Know
+https://www.freecodecamp.org/news/systems-design-for-interviews/
+
+Top 10 System Design Interview Questions and Answers - GeeksforGeeks
+https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
+
+System Design Interview Questions - InterviewBit
+https://www.interviewbit.com/courses/system-design/topics/interview-questions/
+
+How to Succeed in a System Design Interview | by Pramp | Pramp Blog | Coding Interview & Job Search Resources for Developers
+https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26
+
+Top 10 System Design Interview Questions for Software Engineers | Hacker Noon
+https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+
+System Design Interview Questions
+http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+
+FreshBooks
+https://my.freshbooks.com/#/logout
+
+subprocess — Subprocess management — Python 3.8.6 documentation
+https://docs.python.org/3/library/subprocess.html
+
+python - Why is subprocess.run output different from shell output of same command? - Stack Overflow
+https://stackoverflow.com/questions/37734470/why-is-subprocess-run-output-different-from-shell-output-of-same-command
+
+GYRUSS - MAME (MAME) rom download | WoWroms.com | start download
+https://wowroms.com/en/roms/mame/download-gyruss/84470.html
+
+Install MAME on Ubuntu using the Snap Store | Snapcraft
+https://snapcraft.io/install/mame/ubuntu
+
+MAME Flatpak Request - Requests - Flathub Discourse
+https://discourse.flathub.org/t/mame-flatpak-request/343
+
+games - Can't get MAME to work for Ubuntu - Ask Ubuntu
+https://askubuntu.com/questions/398346/cant-get-mame-to-work-for-ubuntu
+
+Marketplace - Sony VAIO laptop 15.6” New battery | Facebook
+https://www.facebook.com/marketplace/item/984539352066686
+
+Track Package
+https://www.amazon.com/progress-tracker/package/ref=pe_386300_449497670_pdc_pt_track?_encoding=UTF8&from=gp&itemId=&orderId=113-3348964-3793819&packageIndex=0&shipmentId=38090322818301
+
+Sign off - Kaiser Permanente
+https://healthy.kaiserpermanente.org/health/care/consumer/dis/signoff
+
+Community - Competitive Programming - Competitive Programming Tutorials - Binary Indexed Trees
+https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/
+
+Slack | ! 1-mix-n-mingle | Ray Summit | 2 new items
+https://app.slack.com/client/T017X0RE12B/C018ABN0F4M
+
+Chat with Amazon Customer Service
+https://www.amazon.com/message-us?origRef=de_poc&muClientName=magus&ref_=de_poc
+
+(4) Explore - LeetCode
+https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/
+
+(4) Explore - LeetCode
+https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/
+
+Fintech Talks Palo Alto (Palo Alto, CA) | Meetup
+https://www.meetup.com/fintech-talks-palo-alto/
+
+My Settings - Zoom
+https://us04web.zoom.us/profile/setting?mid=YH3v3aLnRYSePFlewZjFgA%3D%3D&from=client
+
+python - Syntax behind sorted(key=lambda: ...) - Stack Overflow
+https://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
+
+Computer Blu-ray Drives | Amazon.com
+https://www.amazon.com/External-Blu-ray-Drives/b?ie=UTF8&node=1292123011
+
+game of thrones finished? - Google Search
+https://www.google.com/search?q=game+of+thrones+finished%3F&oq=game+of+thrones+finished%3F+&aqs=chrome..69i57.4847j0j7&sourceid=chrome&ie=UTF-8
+
+Amazon.com: Game of Thrones: Complete Series (Blu-ray + Digital Copy): Various, Various: Movies & TV
+https://www.amazon.com/Game-Thrones-Complete-Digital-Blu-ray/dp/B07QGL9ZT4/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=&sr=
+
+Google Calendar - 4 days, starting Monday, October 5, 2020
+https://calendar.google.com/calendar/u/0/r/customday
+
+(4) MightyText
+https://mightytext.net/web8/?exp=1
+
+StdDraw
+https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html
+
+Standard Libraries
+https://introcs.cs.princeton.edu/java/stdlib/
+
+flag - Google Search
+https://www.google.com/search?q=flag&sxsrf=ALeKk004iVfK3-8GI0YJA8n976YZ55ZsDA:1601824756727&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiNsvecnpvsAhWWqZ4KHZnnDukQ_AUoAXoECCAQAw&biw=1422&bih=517#imgrc=bSOqE1GNdpzhIM
+
+Amazon.com : United Nations 3' x 5' Polyester World Flag SET-194 Polyester 3'x5' Flags, One Flag for Each Country in The UN, Includes The United Nations Flag : Office Products
+https://www.amazon.com/Nations-Polyester-World-SET-194-Flags/dp/B07D5LD7GJ
+
+Lua Programming and Game Development with LÖVE | Udemy
+https://www.udemy.com/course/lua-love/learn/lecture/7606084#content
+
+Python for loop and if else Exercise [10 Exercise Questions]
+https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/
+
+Frankie, start a conversation with your new connection, Lynn - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwJZJZkNwpszRLMfDZcdVrXKnvf
+
+(2) Messaging | LinkedIn
+https://www.linkedin.com/messaging/compose/?connId=lynn-li-139337165&midToken=AQEFUDtoXUxhfA&midSig=3LTMl5TPaAoVs1&trk=eml-email_accept_invite_single_01-hero-0-msg%7Ecta&trkEmail=eml-email_accept_invite_single_01-hero-0-msg%7Ecta-null-9ojgw%7Ekfwtlb15%7Epl-null-neptune%2Fmessaging%2Ecompose
+
+Adobe Sign, an Adobe Document Cloud Solution
+https://secure.na1.echosign.com/public/esign?aid=CBFCIBAA3AAABLblqZhD8cQ37wwZrP2LwLCBT5vit_1lxUDYRu-GjmdQ3nquoDJNZuhRUyJAwDRET2ww47Qw%2A
+
+News Feed — Nextdoor
+https://nextdoor.com/news_feed/?post=163343735&is=tpe&mar=false&ct=wnwckrBEUjoTjT5ED55JzjsfZa9sXdQEx3_sUcXbTGP7TT39wfylj9QvaP5ODB6h&ec=OWKiQRDj9vEHAYwTV6YMARldwuFdgGkeefhwfGYAE0s%3D
+
+Primer Analyze
+https://analyze.primer.ai/queries/21f4c6b1-1ee6-4b99-8569-2c1cb7c02d4a/overview
+
+FAANGPath | Resume Reviews, Mentorship, and more!
+https://faangpath.com/
+
+FAANGPath Community
+https://discord.com/invite/WWbjEaZ
+
+IMG_20201004_100629.jpg (1920×4160)
+https://cdn.discordapp.com/attachments/750262931656278108/762171893671264296/IMG_20201004_100629.jpg
+
+(2) LinkedIn
+https://www.linkedin.com/feed/update/urn:li:activity:6717125159607775232/
+
+(2) Lorry Tang | LinkedIn
+https://www.linkedin.com/in/qiaotang/
+
+Yan messaged you
+https://www.linkedin.com/messaging/thread/6718689051844718592/
+
+(2) Messaging | LinkedIn
+https://www.linkedin.com/messaging/thread/6718689051844718592/
+
+Self-service data and analytics on your cloud data lake - Dremio
+https://www.dremio.com/product/
+
+(1) New Message!
+https://www.snowflake.com/try-the-cloud-data-platform/?_bt=470247374327&_bk=snowflake&_bm=e&_bn=g&_bg=64805047909&utm_medium=search&utm_source=adwords&utm_campaign=NA%20-%20Branded%20-%20Exact&utm_adgroup=NA%20-%20Branded%20-%20Snowflake%20-%20Exact%20RSA&utm_term=snowflake&utm_region=na&gclid=CjwKCAjwiOv7BRBREiwAXHbv3EAmyC7d8c34B0XkOyNpRk5xXmDrF2c6FkocYRWx4Ez3KNbt-nDh-BoCXS8QAvD_BwE
+
+Google Calendar - 4 days, starting Monday, October 5, 2020
+https://calendar.google.com/calendar/u/0/r
+
+SF bay area for sale "board game" - craigslist
+https://sfbay.craigslist.org/search/sss?query=board%20game&sort=rel
+
+Contact Us - Firebolt
+https://www.firebolt.io/contact
+
+(2) LinkedIn
+https://www.linkedin.com/mynetwork/
+
+Slack | * Slackbot | CorpArch-Core-Srv
+https://app.slack.com/client/T6Z090R9S/D72LF5DA9/thread/C74QFK8BU-1600973020.000500
+
+My Drive - Google Drive
+https://drive.google.com/drive/u/0/my-drive
+
+vpn - Google Docs
+https://docs.google.com/document/d/1HLVtKCGKZimEa-XnaV4inhqb2N2_L9jTKJ92EX85okM/edit
+
+When will we see the first wave of AI IPOs? | by Bastiane Huang | Towards Data Science
+https://towardsdatascience.com/when-will-we-see-the-first-wave-of-ai-ipos-8ab4ddda6657
+
+Top 100 Artificial Intelligence Companies 2020
+https://www.datamation.com/artificial-intelligence/top-artificial-intelligence-companies.html
+
+Careers | Narrative Science
+https://narrativescience.com/careers/?p=job%2FoKcrdfwk#jobs
+
+Google Calendar - 4 days, starting Monday, October 5, 2020
+https://calendar.google.com/calendar/u/0/r
