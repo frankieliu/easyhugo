@@ -102,6 +102,14 @@ Light Bulbs in a Circle (an Interactive Gizmo)
 https://www.cut-the-knot.org/Curriculum/Combinatorics/LightBulbs.shtml
 
 # graphs
+## books
+
+Networks, Crowds, and Markets: A Book by David Easley and Jon Kleinberg
+https://www.cs.cornell.edu/home/kleinber/networks-book/
+
+Rafael Pass: free download. Ebooks library. On-line books store on Z-Library
+https://bookos-z1.org/g/Rafael%20Pass
+
 
 ## eulerian
 
@@ -136,6 +144,9 @@ https://cp-algorithms.com/graph/min_cost_flow.html
 
 Minimum-cost flow - Successive shortest path algorithm - Competitive Programming Algorithms
 https://cp-algorithms.com/graph/min_cost_flow.html
+
+Maximum flow - Ford-Fulkerson and Edmonds-Karp - Competitive Programming Algorithms
+https://cp-algorithms.com/graph/edmonds_karp.html
 
 ## assignment problem
 
@@ -217,6 +228,20 @@ http://hungarianalgorithm.com/solve.php
 scipy/_hungarian.py at v0.18.1 · scipy/scipy
 https://github.com/scipy/scipy/blob/v0.18.1/scipy/optimize/_hungarian.py#L13-L107
 
+scipy/optimize.py at master · scipy/scipy
+https://github.com/scipy/scipy/blob/master/scipy/optimize/optimize.py
+
+ENH: C++ extension for linear assignment problem by pmla · Pull Request #10296 · scipy/scipy
+https://github.com/scipy/scipy/pull/10296
+
+linear-assignment-benchmarks/jonkervolgenant.cpp at master · pmla/linear-assignment-benchmarks
+https://github.com/pmla/linear-assignment-benchmarks/blob/master/jonkervolgenant.cpp
+
+On implementing 2D rectangular assignment algorithms - IEEE Journals & Magazine
+https://ieeexplore-ieee-org.stanford.idm.oclc.org/document/7738348
+
+
+
 ## Hamiltonian
 
 Algorithms to find the number of Hamiltonian paths in a graph - Stack Overflow
@@ -295,7 +320,6 @@ https://stackoverflow.com/questions/5333161/algorithms-to-find-the-number-of-ham
 
 Dijkstra's algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
-
 
 # sorting
 

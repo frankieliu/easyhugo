@@ -66,7 +66,246 @@ https://docs.google.com/spreadsheets/d/1HvI7axSIXsQRQH0IJ2GGCyMvffBbWm8J9OUDyop8
 43 Top Fintech Companies & Startups To Know 2020 | Built In
 https://builtin.com/fintech/fintech-companies-startups-to-know
 
+# salary negotiations 
+
+Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
+https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
+
+
+Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
+https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
+
+2-Step Startup Offer Assessment: Is This Offer Competitive? - CrossMinds.ai
+https://crossminds.ai/video/5f0766f8cba62360e3b1629b/
+
+2% can made to series a round
+why 98% fail
+no market need
+- can you explain your business model in depth?
+- who is your target customer
+- how is your product different from (list a few competitors)?
+- how large is your addressable market?
+- what are the barriers to entry in the market?
+
+ran out of casha
+- what is the burn rate
+- how much runaway do you have
+- are you looking to fundraise soon?
+- are you cash-flow positive?
+- how do you balance prioritizing profibility vs growth
+
+not the right team
+- what are some of the cultural challenges you anticipate in the
+  next 6-12 months
+- is the leadership team experienced?
+- how are major business decisions made and communicated?
+
+Other issues
+- over competed
+- cost issue
+- poor product
+- lack business model
+
+Calculate valuation of the stock options
+
+1. Timeline (How long will the company take to exit?
+
+The typical exit time is 5-6 years
+
+1. Dilution (How much dilution/funding will the company take before exit?
+
+Issue new equity for investors to join
+-> current stakeholders owned percentage will decrease
+expect 20% dilution for each round of funding
+Seed -> Series A -> Series B -> Series C -> Series D+
+6 funding rounds
+Last one in Feb 11, 2020 
+Lux Capital Series C - 40M
+Data Collective DCVC - 14M
+
+1. Future Valuation (What is the value at which the company will successfully exit?
+
+Intro: An Analysis of 5 Business Models — For Entrepreneurs
+https://www.forentrepreneurs.com/business-models/
+
+What is the driver for (startup)
+- is it technology innovation
+- business model innovation
+- talk about how apple is losing the war with android
+- leverage the power of the web to acquire customers at low cost
+  - with interesting new ways of monetization
+- acquiring customers
+  - typically entrepreneurs underestimate how hard it is to get a customer
+  - cost of acquiring a customer vs lifetime value of that customer
+  - CAC vs LTV
+
+Essence of a business model
+- can you find a scalable way to acquire customers
+- can you then monetize these customers at a significant higher level than cost
+
+Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
+https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
+
+2-Step Startup Offer Assessment: Is This Offer Competitive? - CrossMinds.ai
+https://crossminds.ai/video/5f0766f8cba62360e3b1629b/
+
+2% can made to series a round
+why 98% fail
+no market need
+- can you explain your business model in depth?
+- who is your target customer
+- how is your product different from (list a few competitors)?
+- how large is your addressable market?
+- what are the barriers to entry in the market?
+
+ran out of casha
+- what is the burn rate
+- how much runaway do you have
+- are you looking to fundraise soon?
+- are you cash-flow positive?
+- how do you balance prioritizing profibility vs growth
+
+not the right team
+- what are some of the cultural challenges you anticipate in the
+  next 6-12 months
+- is the leadership team experienced?
+- how are major business decisions made and communicated?
+
+Other issues
+- over competed
+- cost issue
+- poor product
+- lack business model
+
+Calculate valuation of the stock options
+
+1. Timeline (How long will the company take to exit?
+
+The typical exit time is 5-6 years
+
+1. Dilution (How much dilution/funding will the company take before exit?
+
+Issue new equity for investors to join
+-> current stakeholders owned percentage will decrease
+expect 20% dilution for each round of funding
+Seed -> Series A -> Series B -> Series C -> Series D+
+6 funding rounds
+Last one in Feb 11, 2020 
+Lux Capital Series C - 40M
+Data Collective DCVC - 14M
+1. Future Valuation (What is the value at which the company will successfully exit?
+
+Intro: An Analysis of 5 Business Models — For Entrepreneurs
+https://www.forentrepreneurs.com/business-models/
+
+What is the driver for (startup)
+- is it technology innovation
+- business model innovation
+- talk about how apple is losing the war with android
+- leverage the power of the web to acquire customers at low cost
+  - with interesting new ways of monetization
+- acquiring customers
+  - typically entrepreneurs underestimate how hard it is to get a customer
+  - cost of acquiring a customer vs lifetime value of that customer
+  - CAC vs LTV
+
+Essence of a business model
+- can you find a scalable way to acquire customers
+- can you then monetize these customers at a significant higher level than cost
+
+Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
+https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
+
+2-Step Startup Offer Assessment: Is This Offer Competitive? - CrossMinds.ai
+https://crossminds.ai/video/5f0766f8cba62360e3b1629b/
+
+2% can made to series a round
+why 98% fail
+no market need
+- can you explain your business model in depth?
+- who is your target customer
+- how is your product different from (list a few competitors)?
+- how large is your addressable market?
+- what are the barriers to entry in the market?
+
+ran out of casha
+- what is the burn rate
+- how much runaway do you have
+- are you looking to fundraise soon?
+- are you cash-flow positive?
+- how do you balance prioritizing profibility vs growth
+
+not the right team
+- what are some of the cultural challenges you anticipate in the
+  next 6-12 months
+- is the leadership team experienced?
+- how are major business decisions made and communicated?
+
+Other issues
+- over competed
+- cost issue
+- poor product
+- lack business model
+
+Calculate valuation of the stock options
+
+1. Timeline (How long will the company take to exit?
+
+The typical exit time is 5-6 years
+
+1. Dilution (How much dilution/funding will the company take before exit?
+
+Issue new equity for investors to join
+-> current stakeholders owned percentage will decrease
+expect 20% dilution for each round of funding
+Seed -> Series A -> Series B -> Series C -> Series D+
+6 funding rounds
+Last one in Feb 11, 2020 
+Lux Capital Series C - 40M
+Data Collective DCVC - 14M
+
+1. Future Valuation (What is the value at which the company will successfully exit?
+
+Intro: An Analysis of 5 Business Models — For Entrepreneurs
+https://www.forentrepreneurs.com/business-models/
+
+What is the driver for (startup)
+- is it technology innovation
+- business model innovation
+- talk about how apple is losing the war with android
+- leverage the power of the web to acquire customers at low cost
+  - with interesting new ways of monetization
+- acquiring customers
+  - typically entrepreneurs underestimate how hard it is to get a customer
+  - cost of acquiring a customer vs lifetime value of that customer
+  - CAC vs LTV
+
+Essence of a business model
+- can you find a scalable way to acquire customers
+- can you then monetize these customers at a significant higher level than cost
+
+# startups
+
+2-Step Startup Offer Assessment: Is This Offer Competitive? - CrossMinds.ai
+https://crossminds.ai/video/5f0766f8cba62360e3b1629b/
+
+Intro: An Analysis of 5 Business Models — For Entrepreneurs
+https://www.forentrepreneurs.com/business-models/
+
+vesting cliff on equity - Google Search
+https://www.google.com/search?q=vesting+cliff+on+equity&rlz=1C1CHBF_enUS811US811&oq=vesting+cliff+on+equity&aqs=chrome..69i57.5598j0j7&sourceid=chrome&ie=UTF-8
+
+7 Common Questions About Startup Employee Stock Options
+https://mashable.com/2011/09/29/startup-stock-options/
+
+Dilution 101: A Startup Guide to Equity Dilution with Real-World Statistics
+https://discover.shareworks.com/financial-reporting/dilution-101-a-startup-guide-to-equity-dilution-with-real-world-statistics
+
 # infra
+
+Are infra SWE roles career suicide? - Blind
+https://www.teamblind.com/post/Are-infra-SWE-roles-career-suicide-Lp1UvVPA
+
 Are infra SWE roles career suicide? - Blind
 https://www.teamblind.com/post/Are-infra-SWE-roles-career-suicide-Lp1UvVPA
 
@@ -122,6 +361,41 @@ https://en.wikipedia.org/wiki/Proximity_communication#:~:text=Proximity%20commun
 
 bag berkeley analog generator - Google Search
 https://www.google.com/search?q=bag+berkeley+analog+generator&rlz=1C1CHBF_enUS811US811&oq=bag+berkeley+analog+generator&aqs=chrome..69i57.10303j0j9&sourceid=chrome&ie=UTF-8
+
+Is there any circuitikz gui application : LaTeX
+https://www.reddit.com/r/LaTeX/comments/3mg8ax/is_there_any_circuitikz_gui_application/
+
+Cirkuit
+http://wwwu.uni-klu.ac.at/magostin/cirkuit.html
+
+Circuitikz - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/5f6a7d238943960001a795e4
+
+circuitSymbols - Inkspace the Inkscape Gallery | Inkscape
+https://inkscape.org/~fsmMLK/%E2%98%85circuitsymbols
+
+IEEE Xplore Full-Text PDF:
+https://ieeexplore-ieee-org.stanford.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=6946019
+
+draw.io Diagrams for Confluence | Atlassian Marketplace
+https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview
+
+draw.io Diagrams for Confluence | Atlassian Marketplace
+https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview
+
+My New Hugo Site | 920 Number of music playlists
+https://www.frankliu.org/hugo/posts/920-number-of-music-playlists/
+
+NSF | Berkeley-Haas Entrepreneurship Program
+https://entrepreneurship.berkeley.edu/nsf/
+
+Bay Area NSF I-Corps Blog | Bay Area NSF Innovation Corps
+https://bayicorps.com/bay-area-nsf-i-corps/bay-area-nsf-i-corps-blog/
+NSF | Berkeley-Haas Entrepreneurship Program
+https://entrepreneurship.berkeley.edu/nsf/
+
+Bay Area NSF I-Corps Blog | Bay Area NSF Innovation Corps
+https://bayicorps.com/bay-area-nsf-i-corps/bay-area-nsf-i-corps-blog/
 # manager
 
 7 Manager Interview Questions and Answers
@@ -194,6 +468,38 @@ https://www.google.com/search?q=james+whitaker+dream+career+lab+worth+it%3F&rlz=
 (528) James Whittaker - Career Superpowers (Full 4-Hour Version) - YouTube
 https://www.youtube.com/watch?v=8Ia6FX-tqcE
 
+# AI
+
+forbes best ai companies - Google Search
+https://www.google.com/search?q=forbes+best+ai+companies&rlz=1C1CHBF_enUS811US811&oq=forbes+best+ai+companies&aqs=chrome..69i57.4215j0j7&sourceid=chrome&ie=UTF-8
+
+ServiceNow BrandVoice: No Going Back: COVID And Crisis Innovation (video)
+https://www.forbes.com/sites/servicenow/2020/10/02/no-going-back-covid-and-crisis-innovation-video/#2cc9262717e8
+
+AI 50: America’s Most Promising Artificial Intelligence Companies
+https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#7ff307725c99
+
+Top 25 Machine Learning Startups To Watch In 2020
+https://www.forbes.com/sites/louiscolumbus/2020/04/26/top-25-machine-learning-startups-to-watch-in-2020/#62731f481f52
+
+Top 25 AI Startups Who Raised The Most Money In 2019
+https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/#54133cc6229b
+
+Is Your Company Using Artificial Intelligence To Transform An Industry? Nominations For The Forbes AI 50 List Are Now Open
+https://www.forbes.com/sites/alanohnsman/2020/03/17/is-your-company-using-artificial-intelligence-to-transform-an-industry-nominations-for-the-forbes-2020-ai-50-list-are-now-open/#c933d153bf2b
+
+Forbes Editorial Platforms: AI 50
+https://www.forbes.com/connect/editorial-platforms/franchise/ai-50/
+
+AI 50: America’s Most Promising Artificial Intelligence Companies
+https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#371d5e9f5c99
+
+DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies
+https://www.prnewswire.com/news-releases/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301088597.html
+
+Forbes AI 50 – America’s Most Promising Artificial Intelligence Companies - AEye.ai
+https://www.aeye.ai/award/forbes-ai-50-america-most-promising-artificial-intelligence-companies-2019/
+
 # okr
 
 OKRs - Google Search
@@ -219,83 +525,14 @@ https://www.linkedin.com/pulse/25-metrics-track-product-led-saas-company-allan-w
 ROBLOX Mission, Vision & Values | Comparably
 https://www.comparably.com/companies/roblox/mission
 
-# salary negotiations
-
-Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
-https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
-
-2-Step Startup Offer Assessment: Is This Offer Competitive? - CrossMinds.ai
-https://crossminds.ai/video/5f0766f8cba62360e3b1629b/
-
-2% can made to series a round
-why 98% fail
-no market need
-- can you explain your business model in depth?
-- who is your target customer
-- how is your product different from (list a few competitors)?
-- how large is your addressable market?
-- what are the barriers to entry in the market?
-
-ran out of casha
-- what is the burn rate
-- how much runaway do you have
-- are you looking to fundraise soon?
-- are you cash-flow positive?
-- how do you balance prioritizing profibility vs growth
-
-not the right team
-- what are some of the cultural challenges you anticipate in the
-  next 6-12 months
-- is the leadership team experienced?
-- how are major business decisions made and communicated?
-
-Other issues
-- over competed
-- cost issue
-- poor product
-- lack business model
-
-Calculate valuation of the stock options
-
-1. Timeline (How long will the company take to exit?
-
-The typical exit time is 5-6 years
-
-1. Dilution (How much dilution/funding will the company take before exit?
-
-Issue new equity for investors to join
--> current stakeholders owned percentage will decrease
-expect 20% dilution for each round of funding
-Seed -> Series A -> Series B -> Series C -> Series D+
-6 funding rounds
-Last one in Feb 11, 2020 
-Lux Capital Series C - 40M
-Data Collective DCVC - 14M
-1. Future Valuation (What is the value at which the company will successfully exit?
-
-
-Intro: An Analysis of 5 Business Models — For Entrepreneurs
-https://www.forentrepreneurs.com/business-models/
-
-What is the driver for (startup)
-- is it technology innovation
-- business model innovation
-- talk about how apple is losing the war with android
-- leverage the power of the web to acquire customers at low cost
-  - with interesting new ways of monetization
-- acquiring customers
-  - typically entrepreneurs underestimate how hard it is to get a customer
-  - cost of acquiring a customer vs lifetime value of that customer
-  - CAC vs LTV
-
-Essence of a business model
-- can you find a scalable way to acquire customers
-- can you then monetize these customers at a significant higher level than cost
-
+k
 # riot
 
 Lessons Learned Guiding Riot Games Through a Cultural Crisis | Riot Games
 https://www.riotgames.com/en/news/lessons-learned-guiding-riot-games-through-a-cultural-crisis
+
+Riot Games Salaries | Comparably
+https://www.comparably.com/companies/riotgames/salaries
 
 # hackerrank
 
@@ -426,6 +663,11 @@ https://www.dremio.com/careers/#jobs-list
 (4) Kalexin Baoerjiin | LinkedIn
 https://www.linkedin.com/in/kalexin/
 
+About Us - Dremio
+https://www.dremio.com/about/#leadership
+
+Join Our Team - Dremio
+https://www.dremio.com/careers/job/?gh_jid=4172191003
 # charter
 
 Leadership | Charter
@@ -455,6 +697,23 @@ https://www.linkedin.com/in/richardsandersjr/
 Biru Lyu | LinkedIn
 https://www.linkedin.com/in/birulyu/
 
+(1) Robinhood: People | LinkedIn
+https://www.linkedin.com/company/robinhood/people/
+
+(2) Noosheen Hashemi | LinkedIn
+https://www.linkedin.com/in/noosheen-hashemi-a74686b/
+
+(2) Megan Yee | LinkedIn
+https://www.linkedin.com/in/yeemegan/
+
+(2) Quang HOANG | LinkedIn
+https://www.linkedin.com/in/quanghoang/
+
+(2) Allen Chai | LinkedIn
+https://www.linkedin.com/in/chaiallen/
+
+(2) Margie X. | LinkedIn
+https://www.linkedin.com/in/margiexu/
 # snowflake
 
 Snowflake Leadership and Board of Directors | Get to Know the Team
@@ -463,4 +722,40 @@ https://www.snowflake.com/leadership-board/
 2020 Data Drivers | Snowflake
 https://www.snowflake.com/webinar/2020-data-drivers/
 
+# primer
+
+Primer - Updates, News, Events, Signals & Triggers
+https://www.crunchbase.com/organization/primer-7cbe/signals_and_news
+
+Zavain Dar - Partner @ Lux Capital - Crunchbase Person Profile
+https://www.crunchbase.com/person/zavain-dar
+
+Zavain Dar | LinkedIn
+https://www.linkedin.com/in/zavain-dar-70a6a375/
+
+Paco Nathan - Founder @ Derwen - Crunchbase Person Profile
+https://www.crunchbase.com/person/paco-nathan
+
+Paco Nathan | LinkedIn
+https://www.linkedin.com/in/ceteri/
+
+George Hoyem - Managing Partner @ In-Q-Tel - Crunchbase Person Profile
+https://www.crunchbase.com/person/george-hoyem
+
+George Hoyem | LinkedIn
+https://www.linkedin.com/in/georgehoyem/
+
+Primer | How Machine Learning Impacts National Security
+https://primer.ai/blog/how-machine-learning-impacts-national-security/
+
+Technical blog from Primer's Engineering team
+https://primer.ai/blog
+
+# confluent
+
+Confluent Careers
+https://www.confluent.io/careers/#open-positions
+
+Confluent - Engineering Manager, Stream Processing
+https://jobs.lever.co/confluent/500bbeca-5fe2-4f11-8f46-f3d9ee61a934
 

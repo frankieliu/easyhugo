@@ -197,7 +197,7 @@ https://www.linux.com/training-tutorials/vim-tips-folding-fun/
 vim how to record a macro - Google Search
 https://www.google.com/search?q=vim+how+to+record+a+macro&rlz=1C1CHBF_enUS811US811&oq=vim+how+to+record+a+macro&aqs=chrome..69i57.4996j0j7&sourceid=chrome&ie=UTF-8
 
-## shell command
+## shell
 
 It defaults to executing in directory where you started vim.
 
@@ -211,6 +211,12 @@ https://vi.stackexchange.com/questions/13612/executing-a-shell-command-in-the-pa
 
 curl - Replace vim selection with output of shell command - Stack Overflow
 https://stackoverflow.com/questions/6932382/replace-vim-selection-with-output-of-shell-command
+
+how does vi mode work for bash - Google Search
+https://www.google.com/search?q=how+does+vi+mode+work+for+bash&rlz=1C1CHBF_enUS811US811&oq=how+does+vi+mode+work+for+bash&aqs=chrome..69i57.4967j0j7&sourceid=chrome&ie=UTF-8
+
+Vi mode in Bash | Arabesque
+https://sanctum.geek.nz/arabesque/vi-mode-in-bash/
 
 ## open link/file
 
@@ -228,6 +234,13 @@ https://stackoverflow.com/questions/tagged/vim
 vim CTRL_R CTRL_A - Google Search
 https://www.google.com/search?q=vim+CTRL_R+CTRL_A&rlz=1C1CHBF_enUS811US811&oq=vim+CTRL_R+CTRL_A&aqs=chrome..69i57.6313j0j7&sourceid=chrome&ie=UTF-8
 
+## vim script
+About | Arabesque
+https://sanctum.geek.nz/arabesque/about/
+
+(1) Tom Ryder | LinkedIn
+https://www.linkedin.com/in/tom-ryder-tejrnz/
+
 ## uppercase
 
 Changing case in Vim - Stack Overflow
@@ -240,7 +253,7 @@ guw  : Change to end of current WORD from upper to lower.
 guaw : Change all of current WORD to lower.
 gUw  : Change to end of current WORD from lower to upper.
 gUaw : Change all of current WORD to upper.
-g~~  : Invert case to entire line
+g~ ~  : Invert case to entire line
 g~w  : Invert case to current WORD
 guG : Change to lowercase until the end of document.
 
@@ -495,4 +508,5 @@ https://learnvimscriptthehardway.stevelosh.com/chapters/51.html
 
 Set options or named registers with let | Vim Tips Wiki | Fandom
 https://vim.fandom.com/wiki/Set_options_or_named_registers_with_let
+
 

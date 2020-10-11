@@ -57,3 +57,11 @@ https://create-react-app.dev/docs/folder-structure/
 Introducing JSX – React
 https://reactjs.org/docs/introducing-jsx.html
 
+Conferences – React
+https://reactjs.org/community/conferences.html
+
+React Summit 2020
+https://ti.to/gitnation/react-summit/registrations/prrbUzYcbRnzqiaTP2w5Kew
+
+Frankie Liu Base Camp ticket (free watch-only access to the Base Camp track, Oct 15-16) : React Summit 2020
+https://ti.to/gitnation/react-summit/registrations/prrbUzYcbRnzqiaTP2w5Kew/tickets/pQWTOYCm3VPdmPIdUT4dw6w

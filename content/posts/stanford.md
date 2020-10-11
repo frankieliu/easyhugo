@@ -6,6 +6,11 @@ date = "2020-08-19T15:49:14-07:00"
 draft = false
 +++
 
+# sherlock
+
+Connection - Sherlock
+https://www.sherlock.stanford.edu/docs/advanced-topics/connection/
+
 # ssh
 
 Security | Stanford Computer Science
@@ -20,6 +25,12 @@ https://zoomadmin.com/HowToInstall/UbuntuPackage/kinit
 
 Ubuntu – Details of source package krb5 in focal
 https://packages.ubuntu.com/source/focal/krb5
+
+MIT Kerberos Distribution Page
+https://web.mit.edu/kerberos/dist/#kfw-4.1
+
+Configuring Kerberos For Windows Clients | Pivotal Greenplum Docs
+https://gpdb.docs.pivotal.io/6-7/admin_guide/kerberos-win-client.html#topic_win_kerberos_install
 
 # vpn
 

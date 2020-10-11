@@ -379,7 +379,21 @@ https://stackoverflow.com/questions/49835559/how-to-access-to-the-web-server-whi
 Cannot use localhost to access a react-app running in WSL2 � Issue #4885 � microsoft/WSL
 https://github.com/microsoft/WSL/issues/4885
 
-# windows terminal scrolling
+# windows terminal
+
+## scrolling
 
 scroll up with Ctrl-Shift-PageUp
+
+## ssh
+
+Windows Terminal SSH | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh
+
+Configuring the New Windows Terminal with Secure Shell (SSH) Profiles | InterWorks
+https://interworks.com/blog/2020/06/16/configuring-the-new-windows-terminal-with-secure-shell-ssh-profiles/
+
+windows - Update powershell keyboard bindings to be emacs style like bash shell - Stack Overflow
+https://stackoverflow.com/questions/43295639/update-powershell-keyboard-bindings-to-be-emacs-style-like-bash-shell
+
 

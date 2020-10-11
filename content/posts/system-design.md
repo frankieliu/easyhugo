@@ -184,3 +184,76 @@ https://www.google.com/search?sxsrf=ALeKk02B-i5brzA-qQkBSmwjUdJnfanEiA%3A1599413
 snowflake sigmod - Google Search
 https://www.google.com/search?sxsrf=ALeKk012zZPHvrn2kVdHPNaZrVl-upLBgw%3A1599414421874&ei=lSBVX8brNIPM-gTZ07_4DQ&q=snowflake+sigmod&oq=snowflake+sigmod&gs_lcp=CgZwc3ktYWIQAzIHCAAQFBCHAjoECAAQRzoLCC4QxwEQrwEQkwI6BQgAELEDOgIIADoICAAQsQMQgwE6CAgAEBYQChAeOgYIABAWEB46BQghEKABOggILhDHARCvAVChZ1iCdmDSd2gCcAJ4AIABWogBsQWSAQE5mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiGituDi9XrAhUDpp4KHdnpD98Q4dUDCA0&uact=5
 
+# lucene
+
+lucene search - Google Scholar
+https://scholar.google.com/scholar?as_sdt=0%2C5&btnG=&hl=en&inst=5746887945952177237&q=lucene%20search
+
+Edge n-gram tokenizer | Elasticsearch Reference [7.9] | Elastic
+https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-edgengram-tokenizer.html
+
+How does Lucene work - Stack Overflow
+https://stackoverflow.com/questions/2705670/how-does-lucene-work
+
+# facebook
+
+## chat
+Facebook
+https://www.facebook.com/notes/facebook-engineering/chat-stability-and-scalability/51412338919/
+
+## thrift
+
+Apache Thrift - About
+http://thrift.apache.org/about
+
+Facebook Engineering - Posts | Facebook
+https://www.facebook.com/Engineering/posts/in-our-previous-news-feed-architecture-stories-were-ranked-on-the-server-then-se/10154545526827200/
+
+Publications - Facebook Research
+https://research.fb.com/publications/
+
+## real-time data processing
+Realtime Data Processing at Facebook - Facebook Research
+https://research.fb.com/publications/realtime-data-processing-at-facebook/
+
+## scuba
+
+Scuba: Diving into Data at Facebook - Facebook Research
+https://research.fb.com/publications/scuba-diving-into-data-at-facebook/
+
+# Grammarly
+
+Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/category/front-end/
+
+Under the Hood at Grammarly: Leveraging Transformer Language Models for Grammatical Error Correction | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/under-the-hood-at-grammarly-leveraging-transformer-language-models-for-grammatical-error-correction/
+
+Under the Hood at Grammarly: Understanding Conversational Sequences with AI | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/understanding-conversational-sequences-with-ai/
+
+Building a Versatile Analytics Pipeline on Top of Apache Spark | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/building-a-versatile-analytics-pipeline-on-top-of-apache-spark/
+
+Building ETL Pipelines with Clojure and Transducers | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/building-etl-pipelines-with-clojure-and-transducers/
+
+# Graph databases
+
+What is the internal architecture of graph databases such as Titan or Neo4j? - Quora
+https://www.quora.com/What-is-the-internal-architecture-of-graph-databases-such-as-Titan-or-Neo4j
+
+Quora
+https://www.quora.com/?pa_story=MTI5MDI3ODU4MDc4MTE3NDY5N3wyMTExMDYyMzU0NTU4NjZ8MA**
+
+Graph Databases, published by O'Reilly Media
+https://graphdatabases.com/
+
+Graph Databases for Dummies Thanks - Neo4j Graph Database Platform
+https://neo4j.com/graph-databases-for-dummies-thanks/?aliId=eyJpIjoiaGkyb1FjZzlTS0ZGaVBZZyIsInQiOiJIcWJuTm44ODc4VG9FQ0ZkTlR4RE5BPT0ifQ%253D%253D
+
+# Scala
+
+Speakers | Scale By the Bay
+https://www.scale.bythebay.io/speakers
+

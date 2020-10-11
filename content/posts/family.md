@@ -82,5 +82,27 @@ Xin Xiang Qin Shi Dai
 新相亲大会_荔枝网视频
 http://v.jstv.com/xxqsd/
 
+# foods
 
+## sweeteneers
 
+4 Natural Sweeteners That Are Good for Your Health
+https://www.healthline.com/nutrition/4-healthy-natural-sweeteners
+
+Amazon.com : 100% Pure Yacon Syrup USDA Organic Natural Sweetener Rich in Antioxidants, Vitamins, Prebiotics | Low Glycemic Index, Low Calorie, Boosts Metabolism | 8 Oz. Safe Glass Jar + Free E-Cookbook : Grocery & Gourmet Food
+https://www.amazon.com/100-Pure-Yacon-Syrup-All-Natural/dp/B071VCWMGL
+
+Amazon.com: Organic Yacon Syrup - 100% Pure Paleo-Certified Prebiotic Fiber, Natural Sweetener, Non GMO, Pure Yacon Root Superfood - Natural Diet Aid (8 fl oz): Health & Personal Care
+https://www.amazon.com/Zint-Organic-Yacon-Syrup-Weight/dp/B06X3WRNJG/ref=pd_lpo_325_t_1/140-6332197-9203069?_encoding=UTF8&pd_rd_i=B06X3WRNJG&pd_rd_r=897a4ca0-ff31-495b-b7f2-c4e5f7ddb7e4&pd_rd_w=D4qIT&pd_rd_wg=F74Ww&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=DEHBXM21E59AQ8T7PYA9&psc=1&refRID=DEHBXM21E59AQ8T7PYA9
+
+Amazon.com : Global Family Farms Yacon Syrup 100% Organic, 12 Fl Oz Glass Bottle, Low Calorie, Satisfying Sweetness, Rich in Minerals, Low Glycemic, High in FOS/Prebiotic for Digestive Health : Grocery & Gourmet Food
+https://www.amazon.com/Yacon-Syrup-Satisfying-Sweetness-Prebiotic/dp/B085LV23K8/ref=pd_lpo_325_t_2/140-6332197-9203069?_encoding=UTF8&pd_rd_i=B085LV23K8&pd_rd_r=897a4ca0-ff31-495b-b7f2-c4e5f7ddb7e4&pd_rd_w=D4qIT&pd_rd_wg=F74Ww&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=DEHBXM21E59AQ8T7PYA9&psc=1&refRID=DEHBXM21E59AQ8T7PYA9
+
+Pyure Organic Stevia Sweetener Blend, 2:1 Sugar Substitute, Granular All-Purpose, 1 Pound (16 Ounce): Amazon.com: Grocery & Gourmet Food
+https://www.amazon.com/Pyure-Organic-All-Purpose-Stevia-Sweetener/dp/B078WFLVQ2/ref=sr_1_4_0g_fs?dchild=1&keywords=stevia&qid=1600869894&s=grocery&sr=1-4&th=1
+
+Pyure Organic Stevia Sweetener Blend, 2:1 Sugar Substitute, Granular All-Purpose, 1 Pound (16 Ounce): Amazon.com: Grocery & Gourmet Food
+https://www.amazon.com/Pyure-Organic-All-Purpose-Stevia-Sweetener/dp/B00NI2CTB0/ref=sr_1_4_0g_fs?dchild=1&keywords=stevia&qid=1600869894&s=grocery&sr=1-4
+
+Amazon ‘disruptive’ platform, says Pyure Brands organic stevia
+https://www.foodnavigator-usa.com/Article/2017/09/12/Amazon-disruptive-platform-says-Pyure-Brands-organic-stevia#:~:text=Florida%2Dbased%20Pyure%20Brands%20%E2%80%93%20which,marketing%20Mark%20Eisenacher%20told%20FoodNavigator%2D

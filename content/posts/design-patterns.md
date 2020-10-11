@@ -37,3 +37,12 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 
 Class Diagram syntax and features
 https://plantuml.com/class-diagram
+
+# java design patterns
+iluwatar/java-design-patterns: Design patterns implemented in Java
+https://github.com/iluwatar/java-design-patterns
+
+# books
+Dive Into Design Patterns by Alexander Shvets
+https://www.goodreads.com/en/book/show/43125355-dive-into-design-patterns
+

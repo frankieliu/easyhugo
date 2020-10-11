@@ -21,6 +21,12 @@ https://cims.nyu.edu/~regev/teaching/basic_algorithms_2019/index.html
 Basic Algorithms -- Fall 2007
 https://cs.nyu.edu/spencer/basicalg07/index.html
 
+CSCI-GA.3033-002 Social Networks - Google Search
+https://www.google.com/search?q=CSCI-GA.3033-002+Social+Networks&rlz=1C1CHBF_enUS811US811&oq=CSCI-GA.3033-002+Social+Networks&aqs=chrome..69i57.1127j0j7&sourceid=chrome&ie=UTF-8
+
+Index of /mishra/COURSES/16.uSOCNET
+https://cs.nyu.edu/mishra/COURSES/16.uSOCNET/
+
 # Stephanie
 
 How to add google map to website
@@ -73,3 +79,8 @@ https://courses.laimoon.com/course/lua-programming-and-game-development-with-lov
 
 Pocket Gems Software Engineer Salaries | Glassdoor
 https://www.glassdoor.com/Salary/Pocket-Gems-Software-Engineer-Salaries-E453434_D_KO12,29.htm
+
+## tennis
+
+UTR Power
+https://www.myutr.com/howutrworks
