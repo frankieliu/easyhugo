@@ -21,6 +21,30 @@ https://www.google.com/search?q=github+icon&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk
 Github, mark icon
 https://www.iconfinder.com/icons/298822/github_mark_icon
 
+scanning tunneling microscope silicon 111 surface - Google Search
+https://www.google.com/search?q=scanning+tunneling+microscope+silicon+111+surface&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk00A4tDW3a-5ftqYUMnmmOGEOOBriA:1600820092573&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5793H__3rAhUCnZ4KHRKZCIUQ_AUoAXoECA0QAw&biw=1453&bih=709#imgrc=nn26tNpR3N8jRM
+
+svg of a fork - Google Search
+https://www.google.com/search?q=svg+of+a+fork&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk03aXt6SMzy2BzboNNsdYRuOG0CewA:1600821007382&tbm=isch&source=iu&ictx=1&fir=xYh1Nff55j2geM%252C4EycVInjmdVtLM%252C_&vet=1&usg=AI4_-kRMWOJKYWub3FvZ6_buB9MH5GytNQ&sa=X&ved=2ahUKEwjzu_n7gv7rAhXDsZ4KHa-SA_gQ9QF6BAgKED0#imgrc=-O6cRdjzG9SmjM
+
+philosopher svg - Google Search
+https://www.google.com/search?q=philosopher+svg&tbm=isch&ved=2ahUKEwiWnZPkg_7rAhUEwJcIHU_uCmEQ2-cCegQIABAA&oq=philosopher+svg&gs_lcp=CgNpbWcQAzoECAAQQzoCCABQrw5YwxNglRRoAHAAeACAAV2IAc0CkgEBNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=6ZdqX9aEN4SA3_QPz9yriAY&bih=709&biw=1453&rlz=1C1CHBF_enUS811US811#imgrc=USMGoZTCEuDQoM
+
+Aesop, disciples, listen, philosopher, story, storyteller, telling icon
+https://www.iconfinder.com/icons/2198246/aesop_disciples_listen_philosopher_story_storyteller_telling_icon
+
+Mini-Cultural Traingle - Aaliya Tours
+https://aaliyatours.com/tour/mini-cultural-traingle/
+
+Google
+https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiwtNryhv7rAhXYsZ4KHXwcA_EQPQgI
+
+Distributed Infrastructures
+https://github.com/distributed-infras
+
+Frankie Liu | LinkedIn
+https://www.linkedin.com/in/frankieyliu/
+
 # NSF icorps 2019
 
 Fall SBIR Grantwriting Workshop at Berkeley | QB3

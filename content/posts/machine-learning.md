@@ -34,3 +34,6 @@ https://www.mygreatlearning.com/mit-applied-data-science-bootcamp-program-launch
 
 Using Data Science to fight Corona and How to Start Learning
 https://www.youtube.com/watch?v=w9_hJtYEguU&feature=youtu.be
+
+# stanford
+https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture

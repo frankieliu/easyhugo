@@ -1,155 +1,14 @@
-Solve the assignment problem online - HungarianAlgorithm.com
-http://hungarianalgorithm.com/solve.php
-
-Maximum flow - Ford-Fulkerson and Edmonds-Karp - Competitive Programming Algorithms
-https://cp-algorithms.com/graph/edmonds_karp.html
-
-filesystems - Getting `sshfs` working on WSL or finding an alternative - Super User
-https://superuser.com/questions/1353169/getting-sshfs-working-on-wsl-or-finding-an-alternative
-
-SFTP Drive | Map Remote Servers as Local Drives via SFTP | nsoftware
-https://www.nsoftware.com/sftp/drive/
-
-Mounting Linux FS in Windows 10 using SSHFS. | by Daniel Marino Miralles Taset | Medium
-https://medium.com/@danielmarinomirallestaset/mounting-linux-fs-in-windows-10-using-sshfs-e29c7ca81c87
-
-billziss-gh/winfsp: Windows File System Proxy - FUSE for Windows
-https://github.com/billziss-gh/winfsp
-
-winfsp/WinFsp-Tutorial.asciidoc at master · billziss-gh/winfsp
-https://github.com/billziss-gh/winfsp/blob/master/doc/WinFsp-Tutorial.asciidoc
-
-billziss-gh/sshfs-win: SSHFS For Windows
-https://github.com/billziss-gh/sshfs-win
-
-evsar3/sshfs-win-manager: A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
-https://github.com/evsar3/sshfs-win-manager
-
-Releases · billziss-gh/winfsp
-https://github.com/billziss-gh/winfsp/releases
-
-Release WinFsp 2020.1 · billziss-gh/winfsp
-https://github.com/billziss-gh/winfsp/releases/tag/v1.7
-
-billziss-gh/sshfs-win: SSHFS For Windows
-https://github.com/billziss-gh/sshfs-win
-
-map to root (or other directory) instead of home · Issue #12 · billziss-gh/sshfs-win
-https://github.com/billziss-gh/sshfs-win/issues/12
-
-samba - How to access mounted network drive on Windows Linux Subsystem? - Super User
-https://superuser.com/questions/1128634/how-to-access-mounted-network-drive-on-windows-linux-subsystem/1261563
-
-/n software SFTP Drive V2
-https://www.nsoftware.com/download/getfile.aspx?file=free/NDX2-A/setup.exe&name=SFTP+Drive+V2
-
-SFTP Drive V2 Reference
-file:///C:/Program%20Files/nsoftware/SFTP%20Drive%20V2/help/nsoftware.SFTPDrive.htm
-
-windows 10 - How do I change the DNS settings for WSL2? - Super User
-https://superuser.com/questions/1533291/how-do-i-change-the-dns-settings-for-wsl2
-
-/etc/hosts on Windows
-https://gist.github.com/zenorocha/18b10a14b2deb214dc4ce43a2d2e2992
-
-Minimum-cost flow - Successive shortest path algorithm - Competitive Programming Algorithms
-https://cp-algorithms.com/graph/min_cost_flow.html
-
-Virtual Career Fair 2020 | HackerRank
-https://www.hackerrank.com/career-fair/fall2020
-
-Career Fair Applications | HackerRank
-https://www.hackerrank.com/career-fair/fall2020/application
-
-Career Fair Applications | HackerRank
-https://www.hackerrank.com/career-fair/fall2020/application
-
-HackerRank
-https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
-
-Career Fair Applications | HackerRank
-https://www.hackerrank.com/career-fair/fall2020/application
-
-HackerRank
-https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
-
-HackerRank
-https://www.hackerrank.com/skills-verification/problem_solving_basic
-
-Leetcode checklist
-https://www.frankliu.org/leet-200/
-
-(53) Closest Binary Search Tree Value II - LeetCode
-https://leetcode.com/problems/closest-binary-search-tree-value-ii/
-
-(53) Minimum Number of K Consecutive Bit Flips - LeetCode
-https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
-
-(53) Maximum Sum of 3 Non-Overlapping Subarrays - LeetCode
-https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
-
-(53) Making A Large Island - LeetCode
-https://leetcode.com/problems/making-a-large-island/
-
-scipy/_hungarian.py at v0.18.1 · scipy/scipy
-https://github.com/scipy/scipy/blob/v0.18.1/scipy/optimize/_hungarian.py#L13-L107
-
 Dijkstra's algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
 
 User Frankie Y. Liu - Stack Overflow
 https://stackoverflow.com/users/11912717/frankie-y-liu
 
-Class of 2022: Zoom Link for today's meeting - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXxtFnLlDbcNHJNPlNpRsZBrS
-
-Launch Meeting - Zoom
-https://us02web.zoom.us/j/82147415642#success
-
 Availabilities | Facebook Recruiting
 https://www.facebookrecruiting.com/portal/availabilities/?t=UElFRXZhbHVhdGVBdXRvQ2FuZGlkYXRlQXZhaWxhYmlsaXR5SW52aXRhdGlvbjE2ODg4ODc1NzQ2MTA4MDY6b2VuQnUwSjRCTHBNNTR4QXRQa3pzR1RPOU1jT0tidmdsTkxKWmZMZjljNnJ1MzZLUUR0c013Um9BSzl0Wk9NSA
 
-(4) LinkedIn
-https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6685355325522096128&msgOverlay=true
-
-BoardGameGeek | Gaming Unplugged Since 2000
-https://boardgamegeek.com/
-
 (4) Kalexin Baoerjiin | LinkedIn
 https://www.linkedin.com/in/kalexin/
-
-Join Our Team - Dremio
-https://www.dremio.com/careers/#jobs-list
-
-The Just 100 2020
-https://www.forbes.com/just-companies/#15ae0cf52bf0
-
-Top 25 Machine Learning Startups To Watch In 2020
-https://www.forbes.com/sites/louiscolumbus/2020/04/26/top-25-machine-learning-startups-to-watch-in-2020/#7104679a1f52
-
-Software Engineer – Product Engineering Team - ModelOp
-https://www.modelop.com/company/careers/software-engineer-product-engineering-team/
-
-ThinkDeep | Augmented Intelligence
-https://thinkdeep.ai/#home
-
-Contact Us | Text Data Analytics Company - teX-ai
-https://www.tex-ai.com/contact-us/
-
-PAIGE | Careers
-https://paige.ai/careers
-
-Job Application for Senior Software Engineer, AI at Paige
-https://boards.greenhouse.io/paige/jobs/4433484002
-
-Home | Facebook Recruiting
-https://www.facebookrecruiting.com/portal/home
-
-Sign In - Zoom
-https://us04web.zoom.us/signin?_x_zm_rtaid=7cK95SHET2uPDQsFLT4YVQ.1600783903649.830452f4bcbd110155971c9ae767f90d&_x_zm_rhtaid=326
-
-(15) Kim Chan | Facebook
-https://www.facebook.com/kim.chan.7731
 
 Syllabus
 https://syllabus.stanford.edu/syllabus/#/mainSyllabus
@@ -463,42 +322,6 @@ https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?h
 My New Hugo Site | 920 Number of music playlists
 https://www.frankliu.org/hugo/posts/920-number-of-music-playlists/
 
-scanning tunneling microscope silicon 111 surface - Google Search
-https://www.google.com/search?q=scanning+tunneling+microscope+silicon+111+surface&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk00A4tDW3a-5ftqYUMnmmOGEOOBriA:1600820092573&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5793H__3rAhUCnZ4KHRKZCIUQ_AUoAXoECA0QAw&biw=1453&bih=709#imgrc=nn26tNpR3N8jRM
-
-psychedelic - Google Search
-https://www.google.com/search?q=psychedelic&rlz=1C1CHBF_enUS811US811&oq=psychedelic&aqs=chrome..69i57.2687j0j7&sourceid=chrome&ie=UTF-8
-
-little book of semaphores - Google Search
-https://www.google.com/search?q=little+book+of+semaphores&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk00kqBcSf0QGpxrtHPHIlqfVvWK7gg:1600820960779&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLgd3lgv7rAhWRvJ4KHRFUBd4Q_AUoA3oECBwQBQ&biw=1453&bih=709
-
-svg of a fork - Google Search
-https://www.google.com/search?q=svg+of+a+fork&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk03aXt6SMzy2BzboNNsdYRuOG0CewA:1600821007382&tbm=isch&source=iu&ictx=1&fir=xYh1Nff55j2geM%252C4EycVInjmdVtLM%252C_&vet=1&usg=AI4_-kRMWOJKYWub3FvZ6_buB9MH5GytNQ&sa=X&ved=2ahUKEwjzu_n7gv7rAhXDsZ4KHa-SA_gQ9QF6BAgKED0#imgrc=-O6cRdjzG9SmjM
-
-philosopher svg - Google Search
-https://www.google.com/search?q=philosopher+svg&tbm=isch&ved=2ahUKEwiWnZPkg_7rAhUEwJcIHU_uCmEQ2-cCegQIABAA&oq=philosopher+svg&gs_lcp=CgNpbWcQAzoECAAQQzoCCABQrw5YwxNglRRoAHAAeACAAV2IAc0CkgEBNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=6ZdqX9aEN4SA3_QPz9yriAY&bih=709&biw=1453&rlz=1C1CHBF_enUS811US811#imgrc=USMGoZTCEuDQoM
-
-Aesop, disciples, listen, philosopher, story, storyteller, telling icon
-https://www.iconfinder.com/icons/2198246/aesop_disciples_listen_philosopher_story_storyteller_telling_icon
-
-Mini-Cultural Traingle - Aaliya Tours
-https://aaliyatours.com/tour/mini-cultural-traingle/
-
-Google
-https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiwtNryhv7rAhXYsZ4KHXwcA_EQPQgI
-
-Distributed Infrastructures
-https://github.com/distributed-infras
-
-Frankie Liu | LinkedIn
-https://www.linkedin.com/in/frankieyliu/
-
-Leadership | Charter
-https://corporate.charter.com/leadership
-
-Working at Spectrum | Jobs and Careers at Spectrum
-https://jobs.spectrum.com/
-
 Maximum flow - Ford-Fulkerson and Edmonds-Karp - Competitive Programming Algorithms
 https://cp-algorithms.com/graph/edmonds_karp.html
 
@@ -507,30 +330,6 @@ https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/w
 
 picture for bellman ford - Google Search
 https://www.google.com/search?q=picture+for+bellman+ford&rlz=1C1CHBF_enUS811US811&oq=picture+for+bellman+ford&aqs=chrome..69i57.4263j0j7&sourceid=chrome&ie=UTF-8
-
-Leetcode checklist
-https://www.frankliu.org/leet-200/
-
-(55) Minimum Number of K Consecutive Bit Flips - LeetCode
-https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
-
-(55) Maximum Sum of 3 Non-Overlapping Subarrays - LeetCode
-https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
-
-(55) Making A Large Island - LeetCode
-https://leetcode.com/problems/making-a-large-island/
-
-(55) Concatenated Words - LeetCode
-https://leetcode.com/problems/concatenated-words/
-
-(55) Number of Ways to Stay in the Same Place After Some Steps - LeetCode
-https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
-
-(55) Stamping The Sequence - LeetCode
-https://leetcode.com/problems/stamping-the-sequence/
-
-(55) Find Minimum in Rotated Sorted Array II - LeetCode
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 
 iluwatar/java-design-patterns: Design patterns implemented in Java
 https://github.com/iluwatar/java-design-patterns
@@ -567,15 +366,6 @@ https://calendar.google.com/calendar/u/0/r
 
 Windows Terminal SSH | Microsoft Docs
 https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh
-
-Search results - Google Drive
-https://drive.google.com/drive/u/0/search?q=stanford
-
-Search results - Google Drive
-https://drive.google.com/drive/u/0/search?q=VPN
-
-vpn - Google Docs
-https://docs.google.com/document/d/1HLVtKCGKZimEa-XnaV4inhqb2N2_L9jTKJ92EX85okM/edit
 
 Github two factor - Google Sheets
 https://docs.google.com/spreadsheets/d/1jDOsCXe5tP13b7A5MuUGFpdCciaVZdAnsaVio4ckdsI/edit#gid=0
@@ -708,3 +498,228 @@ https://www.youtube.com/watch?v=4LGiZf_M9Pc
 
 (3) Facebook Marketplace | Facebook
 https://www.facebook.com/marketplace
+
+ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG
+https://github.com/ivanceras/svgbob
+
+c - Should I check if malloc() was successful? - Stack Overflow
+https://stackoverflow.com/questions/26831981/should-i-check-if-malloc-was-successful
+
+(61) Explore - LeetCode
+https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3476/
+
+Inbox (28,131) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+What is the internal architecture of graph databases such as Titan or Neo4j? - Quora
+https://www.quora.com/What-is-the-internal-architecture-of-graph-databases-such-as-Titan-or-Neo4j
+
+Quora
+https://www.quora.com/?pa_story=MTI5MDI3ODU4MDc4MTE3NDY5N3wyMTExMDYyMzU0NTU4NjZ8MA**
+
+Graph Databases, published by O'Reilly Media
+https://graphdatabases.com/
+
+Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/
+
+Building a Versatile Analytics Pipeline on Top of Apache Spark | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/building-a-versatile-analytics-pipeline-on-top-of-apache-spark/
+
+Building a Versatile Analytics Pipeline on Top of Apache Spark with M…
+https://www.slideshare.net/databricks/building-a-versatile-analytics-pipeline-on-top-of-apache-spark-with-mikhail-chernetsov?ref=https://www.grammarly.com/
+
+Building ETL Pipelines with Clojure and Transducers | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/building-etl-pipelines-with-clojure-and-transducers/
+
+Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/category/front-end/
+
+Under the Hood at Grammarly: Leveraging Transformer Language Models for Grammatical Error Correction | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/under-the-hood-at-grammarly-leveraging-transformer-language-models-for-grammatical-error-correction/
+
+Under the Hood at Grammarly: Understanding Conversational Sequences with AI | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/understanding-conversational-sequences-with-ai/
+
+Graph Databases for Dummies Thanks - Neo4j Graph Database Platform
+https://neo4j.com/graph-databases-for-dummies-thanks/?aliId=eyJpIjoiaGkyb1FjZzlTS0ZGaVBZZyIsInQiOiJIcWJuTm44ODc4VG9FQ0ZkTlR4RE5BPT0ifQ%253D%253D
+
+Amazon.com - Contact Us
+https://www.amazon.com/gp/help/customer/contact-us/ref=hp_gt_comp_cu?ie=UTF8&nodeId=508510
+
+Notifications | LinkedIn
+https://www.linkedin.com/notifications/
+
+About Us - Dremio
+https://www.dremio.com/about/#leadership
+
+Join Our Team - Dremio
+https://www.dremio.com/careers/job/?gh_jid=4172191003
+
+Congratulations! | Mercado de Lisboa | Crowd Ox
+https://survey.crowdox.com/project/eaglegryphon/mercado-de-lisboa/3643104/review
+
+(1) "hiring" | Search | LinkedIn
+https://www.linkedin.com/search/results/all/?keywords=hiring&origin=GLOBAL_SEARCH_HEADER&page=7
+
+Yan messaged you
+https://www.linkedin.com/in/mohamadafshar/
+
+(1) Robinhood: People | LinkedIn
+https://www.linkedin.com/company/robinhood/people/
+
+(2) Noosheen Hashemi | LinkedIn
+https://www.linkedin.com/in/noosheen-hashemi-a74686b/
+
+(2) Megan Yee | LinkedIn
+https://www.linkedin.com/in/yeemegan/
+
+(2) Quang HOANG | LinkedIn
+https://www.linkedin.com/in/quanghoang/
+
+(2) Allen Chai | LinkedIn
+https://www.linkedin.com/in/chaiallen/
+
+(2) Margie X. | LinkedIn
+https://www.linkedin.com/in/margiexu/
+
+LinkedIn
+https://www.linkedin.com/feed/update/urn:li:activity:6704859329436225536/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6704834758817513472%2C6704859283219193856)
+
+vesting cliff on equity - Google Search
+https://www.google.com/search?q=vesting+cliff+on+equity&rlz=1C1CHBF_enUS811US811&oq=vesting+cliff+on+equity&aqs=chrome..69i57.5598j0j7&sourceid=chrome&ie=UTF-8
+
+7 Common Questions About Startup Employee Stock Options
+https://mashable.com/2011/09/29/startup-stock-options/
+
+Dilution 101: A Startup Guide to Equity Dilution with Real-World Statistics
+https://discover.shareworks.com/financial-reporting/dilution-101-a-startup-guide-to-equity-dilution-with-real-world-statistics
+
+(1) Facebook Marketplace | Facebook
+https://www.facebook.com/marketplace
+
+gmail shortcut to next email - Google Search
+https://www.google.com/search?q=gmail+shortcut+to+next+email&rlz=1C1CHBF_enUS811US811&oq=gmail+shortcut+to+next+email&aqs=chrome..69i57.4927j0j7&sourceid=chrome&ie=UTF-8
+
+Amazon.com: Manage Your Content and Devices
+https://www.amazon.com/hz/mycd/myx#/home/content/booksAll/dateDsc/man
+
+Google Calendar - 4 days, starting Monday, October 5, 2020
+https://calendar.google.com/calendar/u/0/r/customday
+
+forbes best ai companies - Google Search
+https://www.google.com/search?q=forbes+best+ai+companies&rlz=1C1CHBF_enUS811US811&oq=forbes+best+ai+companies&aqs=chrome..69i57.4215j0j7&sourceid=chrome&ie=UTF-8
+
+ServiceNow BrandVoice: No Going Back: COVID And Crisis Innovation (video)
+https://www.forbes.com/sites/servicenow/2020/10/02/no-going-back-covid-and-crisis-innovation-video/#2cc9262717e8
+
+AI 50: America’s Most Promising Artificial Intelligence Companies
+https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#7ff307725c99
+
+Top 25 Machine Learning Startups To Watch In 2020
+https://www.forbes.com/sites/louiscolumbus/2020/04/26/top-25-machine-learning-startups-to-watch-in-2020/#62731f481f52
+
+Top 25 AI Startups Who Raised The Most Money In 2019
+https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/#54133cc6229b
+
+Is Your Company Using Artificial Intelligence To Transform An Industry? Nominations For The Forbes AI 50 List Are Now Open
+https://www.forbes.com/sites/alanohnsman/2020/03/17/is-your-company-using-artificial-intelligence-to-transform-an-industry-nominations-for-the-forbes-2020-ai-50-list-are-now-open/#c933d153bf2b
+
+Forbes Editorial Platforms: AI 50
+https://www.forbes.com/connect/editorial-platforms/franchise/ai-50/
+
+AI 50: America’s Most Promising Artificial Intelligence Companies
+https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#371d5e9f5c99
+
+DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies
+https://www.prnewswire.com/news-releases/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301088597.html
+
+Forbes AI 50 – America’s Most Promising Artificial Intelligence Companies - AEye.ai
+https://www.aeye.ai/award/forbes-ai-50-america-most-promising-artificial-intelligence-companies-2019/
+
+Technical blog from Primer's Engineering team
+https://primer.ai/blog
+
+Primer | How Machine Learning Impacts National Security
+https://primer.ai/blog/how-machine-learning-impacts-national-security/
+
+Facebook Marketplace | Facebook
+https://www.facebook.com/marketplace
+
+Confluent Careers
+https://www.confluent.io/careers/#open-positions
+
+Confluent - Engineering Manager, Stream Processing
+https://jobs.lever.co/confluent/500bbeca-5fe2-4f11-8f46-f3d9ee61a934
+
+New Tab
+chrome://newtab/
+
+User Frankie Y. Liu - Stack Overflow
+https://stackoverflow.com/users/11912717/frankie-y-liu
+
+Are infra SWE roles career suicide? - Blind
+https://www.teamblind.com/post/Are-infra-SWE-roles-career-suicide-Lp1UvVPA
+
+Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
+https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
+
+2-Step Startup Offer Assessment: Is This Offer Competitive? - CrossMinds.ai
+https://crossminds.ai/video/5f0766f8cba62360e3b1629b/
+
+Intro: An Analysis of 5 Business Models — For Entrepreneurs
+https://www.forentrepreneurs.com/business-models/
+
+Primer - Updates, News, Events, Signals & Triggers
+https://www.crunchbase.com/organization/primer-7cbe/signals_and_news
+
+Zavain Dar - Partner @ Lux Capital - Crunchbase Person Profile
+https://www.crunchbase.com/person/zavain-dar
+
+Zavain Dar | LinkedIn
+https://www.linkedin.com/in/zavain-dar-70a6a375/
+
+Paco Nathan - Founder @ Derwen - Crunchbase Person Profile
+https://www.crunchbase.com/person/paco-nathan
+
+Paco Nathan | LinkedIn
+https://www.linkedin.com/in/ceteri/
+
+George Hoyem - Managing Partner @ In-Q-Tel - Crunchbase Person Profile
+https://www.crunchbase.com/person/george-hoyem
+
+George Hoyem | LinkedIn
+https://www.linkedin.com/in/georgehoyem/
+
+Facebook
+https://www.facebook.com/notes/facebook-engineering/chat-stability-and-scalability/51412338919/
+
+Apache Thrift - About
+http://thrift.apache.org/about
+
+Facebook Engineering - Posts | Facebook
+https://www.facebook.com/Engineering/posts/in-our-previous-news-feed-architecture-stories-were-ranked-on-the-server-then-se/10154545526827200/
+
+Publications - Facebook Research
+https://research.fb.com/publications/
+
+Realtime Data Processing at Facebook - Facebook Research
+https://research.fb.com/publications/realtime-data-processing-at-facebook/
+
+Scuba: Diving into Data at Facebook - Facebook Research
+https://research.fb.com/publications/scuba-diving-into-data-at-facebook/
+
+lucene search - Google Scholar
+https://scholar.google.com/scholar?as_sdt=0%2C5&btnG=&hl=en&inst=5746887945952177237&q=lucene%20search
+
+Edge n-gram tokenizer | Elasticsearch Reference [7.9] | Elastic
+https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-edgengram-tokenizer.html
+
+How does Lucene work - Stack Overflow
+https://stackoverflow.com/questions/2705670/how-does-lucene-work
+
+Inbox (28,200) - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+New Tab
+chrome://newtab/

@@ -193,6 +193,48 @@ Since the connectaddress does change, might want to script it:
 filesystems - Getting `sshfs` working on WSL or finding an alternative - Super User
 https://superuser.com/questions/1353169/getting-sshfs-working-on-wsl-or-finding-an-alternative
 
+filesystems - Getting `sshfs` working on WSL or finding an alternative - Super User
+https://superuser.com/questions/1353169/getting-sshfs-working-on-wsl-or-finding-an-alternative
+
+SFTP Drive | Map Remote Servers as Local Drives via SFTP | nsoftware
+https://www.nsoftware.com/sftp/drive/
+
+Mounting Linux FS in Windows 10 using SSHFS. | by Daniel Marino Miralles Taset | Medium
+https://medium.com/@danielmarinomirallestaset/mounting-linux-fs-in-windows-10-using-sshfs-e29c7ca81c87
+
+billziss-gh/winfsp: Windows File System Proxy - FUSE for Windows
+https://github.com/billziss-gh/winfsp
+
+winfsp/WinFsp-Tutorial.asciidoc at master · billziss-gh/winfsp
+https://github.com/billziss-gh/winfsp/blob/master/doc/WinFsp-Tutorial.asciidoc
+
+billziss-gh/sshfs-win: SSHFS For Windows
+https://github.com/billziss-gh/sshfs-win
+
+evsar3/sshfs-win-manager: A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
+https://github.com/evsar3/sshfs-win-manager
+
+Releases · billziss-gh/winfsp
+https://github.com/billziss-gh/winfsp/releases
+
+Release WinFsp 2020.1 · billziss-gh/winfsp
+https://github.com/billziss-gh/winfsp/releases/tag/v1.7
+
+billziss-gh/sshfs-win: SSHFS For Windows
+https://github.com/billziss-gh/sshfs-win
+
+map to root (or other directory) instead of home · Issue #12 · billziss-gh/sshfs-win
+https://github.com/billziss-gh/sshfs-win/issues/12
+
+samba - How to access mounted network drive on Windows Linux Subsystem? - Super User
+https://superuser.com/questions/1128634/how-to-access-mounted-network-drive-on-windows-linux-subsystem/1261563
+
+/n software SFTP Drive V2
+https://www.nsoftware.com/download/getfile.aspx?file=free/NDX2-A/setup.exe&name=SFTP+Drive+V2
+
+SFTP Drive V2 Reference
+file:///C:/Program%20Files/nsoftware/SFTP%20Drive%20V2/help/nsoftware.SFTPDrive.htm
+
 # connection to outside
 
 sudo bash -c 'echo "nameserver 8.8.8.8" > /etc/resolv.conf'
@@ -200,6 +242,12 @@ sudo bash -c 'echo "nameserver 8.8.4.4" >> /etc/resolv.conf'
 
 Can not connect to internet in WSL 2 � Issue #4275 � microsoft/WSL
 https://github.com/microsoft/WSL/issues/4275
+
+windows 10 - How do I change the DNS settings for WSL2? - Super User
+https://superuser.com/questions/1533291/how-do-i-change-the-dns-settings-for-wsl2
+
+/etc/hosts on Windows
+https://gist.github.com/zenorocha/18b10a14b2deb214dc4ce43a2d2e2992
 
 # from windows to wsl
 

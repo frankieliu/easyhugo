@@ -124,6 +124,13 @@ Euler and Hamiltonian Paths and Circuits | Mathematics for the Liberal Arts
 https://courses.lumenlearning.com/wmopen-mathforliberalarts/chapter/introduction-euler-paths/
 
 ## flow
+
+Minimum-cost flow - Successive shortest path algorithm - Competitive Programming Algorithms
+https://cp-algorithms.com/graph/min_cost_flow.html
+
+Maximum flow - Ford-Fulkerson and Edmonds-Karp - Competitive Programming Algorithms
+https://cp-algorithms.com/graph/edmonds_karp.html
+
 Minimum-cost flow - Successive shortest path algorithm - Competitive Programming Algorithms
 https://cp-algorithms.com/graph/min_cost_flow.html
 
@@ -200,6 +207,12 @@ https://en.wikipedia.org/wiki/Hungarian_algorithm
 
 Hungarian algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Hungarian_algorithm#cite_note-JVAlg-6
+
+Solve the assignment problem online - HungarianAlgorithm.com
+http://hungarianalgorithm.com/solve.php
+
+scipy/_hungarian.py at v0.18.1 · scipy/scipy
+https://github.com/scipy/scipy/blob/v0.18.1/scipy/optimize/_hungarian.py#L13-L107
 
 ## Hamiltonian
 

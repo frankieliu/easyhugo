@@ -28,13 +28,13 @@ https://www.levels.fyi/comp.html?track=Data%20Scientist
 Levels.fyi - Add Your Compensation Anonymously
 https://www.levels.fyi/addcomp.html
 
+Compare salaries and career levels across companies | Levels.fyi
+https://www.levels.fyi/
+
 # search jobs
 
 Search | Velvet Jobs
 https://www.velvetjobs.com/search?filter=&query=distinguised+engineer
-
-Compare salaries and career levels across companies | Levels.fyi
-https://www.levels.fyi/
 
 Principal (Remote) - $400,000/year USD | Crossover for Work | LinkedIn
 https://www.linkedin.com/jobs/view/1989853533/?lgTemp=jobs_jymbii_digest&eBP=NotAvailableFromMidTier&lgCta=eml-jymbii-organic-job-card&recommendedFlavor=HIDDEN_GEM&refId=7c333a6b-c37a-4ca5-8f55-5337e1c6fc92&midToken=AQEFUDtoXUxhfA&trk=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow&trkEmail=eml-jobs_jymbii_digest-jymbii-16-job_card_new_flow-null-9ojgw%7Eke520b5i%7E2f-null-jobs%7Eview
@@ -219,7 +219,76 @@ https://www.comparably.com/companies/roblox/mission
 Salary Negotiation: 6 Tips on How to Negotiate a Higher Salary - CrossMinds.ai
 https://crossminds.ai/video/5f340738dc2e0285c898c9fb/
 
+2-Step Startup Offer Assessment: Is This Offer Competitive? - CrossMinds.ai
+https://crossminds.ai/video/5f0766f8cba62360e3b1629b/
+
+2% can made to series a round
+why 98% fail
+no market need
+- can you explain your business model in depth?
+- who is your target customer
+- how is your product different from (list a few competitors)?
+- how large is your addressable market?
+- what are the barriers to entry in the market?
+
+ran out of casha
+- what is the burn rate
+- how much runaway do you have
+- are you looking to fundraise soon?
+- are you cash-flow positive?
+- how do you balance prioritizing profibility vs growth
+
+not the right team
+- what are some of the cultural challenges you anticipate in the
+  next 6-12 months
+- is the leadership team experienced?
+- how are major business decisions made and communicated?
+
+Other issues
+- over competed
+- cost issue
+- poor product
+- lack business model
+
+Calculate valuation of the stock options
+
+1. Timeline (How long will the company take to exit?
+
+The typical exit time is 5-6 years
+
+1. Dilution (How much dilution/funding will the company take before exit?
+
+Issue new equity for investors to join
+-> current stakeholders owned percentage will decrease
+expect 20% dilution for each round of funding
+Seed -> Series A -> Series B -> Series C -> Series D+
+6 funding rounds
+Last one in Feb 11, 2020 
+Lux Capital Series C - 40M
+Data Collective DCVC - 14M
+1. Future Valuation (What is the value at which the company will successfully exit?
+
+
+Intro: An Analysis of 5 Business Models — For Entrepreneurs
+https://www.forentrepreneurs.com/business-models/
+
+What is the driver for (startup)
+- is it technology innovation
+- business model innovation
+- talk about how apple is losing the war with android
+- leverage the power of the web to acquire customers at low cost
+  - with interesting new ways of monetization
+- acquiring customers
+  - typically entrepreneurs underestimate how hard it is to get a customer
+  - cost of acquiring a customer vs lifetime value of that customer
+  - CAC vs LTV
+
+Essence of a business model
+- can you find a scalable way to acquire customers
+- can you then monetize these customers at a significant higher level than cost
+
 # riot
+
 Lessons Learned Guiding Riot Games Through a Cultural Crisis | Riot Games
 https://www.riotgames.com/en/news/lessons-learned-guiding-riot-games-through-a-cultural-crisis
 
@@ -276,3 +345,60 @@ https://c3.ai/careers/
 Software Engineer, Machine Learning - Grammarly | Jobs
 https://www.grammarly.com/jobs/engineering/software-engineer-machine-learning?gh_jid=1688685
 
+# hackerrank
+
+Virtual Career Fair 2020 | HackerRank
+https://www.hackerrank.com/career-fair/fall2020
+
+Career Fair Applications | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/application
+
+Career Fair Applications | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/application
+
+HackerRank
+https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
+
+Career Fair Applications | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/application
+
+HackerRank
+https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
+
+HackerRank
+https://www.hackerrank.com/skills-verification/problem_solving_basic
+
+# forbes
+
+The Just 100 2020
+https://www.forbes.com/just-companies/#15ae0cf52bf0
+
+Top 25 Machine Learning Startups To Watch In 2020
+https://www.forbes.com/sites/louiscolumbus/2020/04/26/top-25-machine-learning-startups-to-watch-in-2020/#7104679a1f52
+
+Software Engineer – Product Engineering Team - ModelOp
+https://www.modelop.com/company/careers/software-engineer-product-engineering-team/
+
+ThinkDeep | Augmented Intelligence
+https://thinkdeep.ai/#home
+
+Contact Us | Text Data Analytics Company - teX-ai
+https://www.tex-ai.com/contact-us/
+
+PAIGE | Careers
+https://paige.ai/careers
+
+Job Application for Senior Software Engineer, AI at Paige
+https://boards.greenhouse.io/paige/jobs/4433484002
+
+Home | Facebook Recruiting
+https://www.facebookrecruiting.com/portal/home
+
+Join Our Team - Dremio
+https://www.dremio.com/careers/#jobs-list
+
+Leadership | Charter
+https://corporate.charter.com/leadership
+
+Working at Spectrum | Jobs and Careers at Spectrum
+https://jobs.spectrum.com/
