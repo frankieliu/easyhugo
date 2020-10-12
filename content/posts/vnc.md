@@ -13,6 +13,12 @@ Use tigervnc xvncserver0
 linux - How to VNC into an existing X session? - Server Fault
 https://serverfault.com/questions/27044/how-to-vnc-into-an-existing-x-session
 
+linux - How to VNC into an existing X session? - Server Fault
+https://serverfault.com/questions/27044/how-to-vnc-into-an-existing-x-session
+
+How to start a vnc server for the actual display (scraping) with TigerVNC
+https://www.howtoforge.com/tutorial/how-to-start-a-vnc-server-for-the-actual-display-scraping-with-tigervnc/
+
 How to start a vnc server for the actual display (scraping) with TigerVNC
 https://www.howtoforge.com/tutorial/how-to-start-a-vnc-server-for-the-actual-display-scraping-with-tigervnc/
 
@@ -38,3 +44,10 @@ https://bbs.archlinux.org/viewtopic.php?id=60552
 GPU Accel on Remote Desktop - Thedro Neely
 https://www.thedroneely.com/posts/headless-gpu-remote-acceleration/
 
+# google chrome
+
+vnc server - Open Google Chrome in another display - Stack Overflow
+https://stackoverflow.com/questions/24203189/open-google-chrome-in-another-display
+
+Google Chrome can not start under VNC (Ubuntu 18.04) - Ask Ubuntu
+https://askubuntu.com/questions/1048723/google-chrome-can-not-start-under-vnc-ubuntu-18-04

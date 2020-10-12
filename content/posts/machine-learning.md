@@ -37,3 +37,8 @@ https://www.youtube.com/watch?v=w9_hJtYEguU&feature=youtu.be
 
 # stanford
 https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture
+
+# swe 
+
+Software Engineering for Data Scientists
+https://pythonspeed.com/datascience/

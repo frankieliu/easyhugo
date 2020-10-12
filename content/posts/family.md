@@ -6,6 +6,11 @@ date = "2020-09-08T17:36:46-07:00"
 draft = false
 +++
 
+# Tory
+
+LANEY - Google Search
+https://www.google.com/search?q=LANEY&rlz=1C1CHBF_enUS811US811&oq=LANEY&aqs=chrome..69i57.6923j0j7&sourceid=chrome&ie=UTF-8
+
 Laney.edu - largest community college in Oakland
 Ian 13 Middle 8th
 Ollie 11 Elememtary 6th

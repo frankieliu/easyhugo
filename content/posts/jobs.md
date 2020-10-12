@@ -6,6 +6,11 @@ date = "2020-08-21T14:22:52-07:00"
 draft = false
 +++
 
+# interview questions
+
+(528) Top 30 Interview Questions - From a Recruiters Hiring Playbook - YouTube
+https://www.youtube.com/watch?v=B_LmCruLjis
+
 # sample resumes
 
 Senior Software Engineer Resume Samples | Velvet Jobs
@@ -396,6 +401,10 @@ https://entrepreneurship.berkeley.edu/nsf/
 
 Bay Area NSF I-Corps Blog | Bay Area NSF Innovation Corps
 https://bayicorps.com/bay-area-nsf-i-corps/bay-area-nsf-i-corps-blog/
+
+Instructor Slides Sep 2019 Berkeley - Google Drive
+https://drive.google.com/drive/folders/1r9El8bscwZNkicFUCIYmW2wwDzASY6on
+
 # manager
 
 7 Manager Interview Questions and Answers
@@ -457,6 +466,30 @@ https://www.fastcompany.com/90393447/this-is-the-right-way-to-reply-to-a-recruit
 7 changes for your LinkedIn profile if you've been laid off
 https://www.fastcompany.com/90508311/7-changes-to-make-your-linkedin-profile-if-youve-been-laid-off
 
+Richard Sanders Jr | LinkedIn
+https://www.linkedin.com/in/richardsandersjr/
+
+Biru Lyu | LinkedIn
+https://www.linkedin.com/in/birulyu/
+
+(1) Robinhood: People | LinkedIn
+https://www.linkedin.com/company/robinhood/people/
+
+(2) Noosheen Hashemi | LinkedIn
+https://www.linkedin.com/in/noosheen-hashemi-a74686b/
+
+(2) Megan Yee | LinkedIn
+https://www.linkedin.com/in/yeemegan/
+
+(2) Quang HOANG | LinkedIn
+https://www.linkedin.com/in/quanghoang/
+
+(2) Allen Chai | LinkedIn
+https://www.linkedin.com/in/chaiallen/
+
+(2) Margie X. | LinkedIn
+https://www.linkedin.com/in/margiexu/
+
 # ad
 
 Dream Career Blueprint
@@ -467,38 +500,6 @@ https://www.google.com/search?q=james+whitaker+dream+career+lab+worth+it%3F&rlz=
 
 (528) James Whittaker - Career Superpowers (Full 4-Hour Version) - YouTube
 https://www.youtube.com/watch?v=8Ia6FX-tqcE
-
-# AI
-
-forbes best ai companies - Google Search
-https://www.google.com/search?q=forbes+best+ai+companies&rlz=1C1CHBF_enUS811US811&oq=forbes+best+ai+companies&aqs=chrome..69i57.4215j0j7&sourceid=chrome&ie=UTF-8
-
-ServiceNow BrandVoice: No Going Back: COVID And Crisis Innovation (video)
-https://www.forbes.com/sites/servicenow/2020/10/02/no-going-back-covid-and-crisis-innovation-video/#2cc9262717e8
-
-AI 50: America’s Most Promising Artificial Intelligence Companies
-https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#7ff307725c99
-
-Top 25 Machine Learning Startups To Watch In 2020
-https://www.forbes.com/sites/louiscolumbus/2020/04/26/top-25-machine-learning-startups-to-watch-in-2020/#62731f481f52
-
-Top 25 AI Startups Who Raised The Most Money In 2019
-https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/#54133cc6229b
-
-Is Your Company Using Artificial Intelligence To Transform An Industry? Nominations For The Forbes AI 50 List Are Now Open
-https://www.forbes.com/sites/alanohnsman/2020/03/17/is-your-company-using-artificial-intelligence-to-transform-an-industry-nominations-for-the-forbes-2020-ai-50-list-are-now-open/#c933d153bf2b
-
-Forbes Editorial Platforms: AI 50
-https://www.forbes.com/connect/editorial-platforms/franchise/ai-50/
-
-AI 50: America’s Most Promising Artificial Intelligence Companies
-https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#371d5e9f5c99
-
-DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies
-https://www.prnewswire.com/news-releases/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301088597.html
-
-Forbes AI 50 – America’s Most Promising Artificial Intelligence Companies - AEye.ai
-https://www.aeye.ai/award/forbes-ai-50-america-most-promising-artificial-intelligence-companies-2019/
 
 # okr
 
@@ -520,19 +521,20 @@ https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
 (6) 25 Metrics to Track in a Product-Led SaaS Company | LinkedIn
 https://www.linkedin.com/pulse/25-metrics-track-product-led-saas-company-allan-wille/
 
-# roblox
+How Applying Rigor in Your Bid Decision Process Will Improve Your Win Rate
+https://www.proposalreflections.com/2020/06/how-applying-rigor-in-your-bid-decision.html
 
-ROBLOX Mission, Vision & Values | Comparably
-https://www.comparably.com/companies/roblox/mission
+rfp - Google Search
+https://www.google.com/search?q=rfp&rlz=1C1CHBF_enUS811US811&sxsrf=ALeKk01sFNQxn0vItOEVJvR-7xAQPYefQg:1599425487969&tbm=isch&source=iu&ictx=1&fir=Q8KxHgxl6q8VFM%252CpTCn7LkcKe-TLM%252C_&vet=1&usg=AI4_-kTMTj3D7rTmkQPpcDyhQnN2fdXWmg&sa=X&ved=2ahUKEwizjbigtNXrAhUDt54KHVEPA-EQ_h16BAgNEAc#imgrc=Q8KxHgxl6q8VFM
 
-k
-# riot
+Master Your Company?s RFP Process | Smartsheet
+https://www.smartsheet.com/request-for-proposal
 
-Lessons Learned Guiding Riot Games Through a Cultural Crisis | Riot Games
-https://www.riotgames.com/en/news/lessons-learned-guiding-riot-games-through-a-cultural-crisis
+successful governmet proposals - Google Search
+https://www.google.com/search?q=successful+governmet+proposals&rlz=1C1CHBF_enUS811US811&oq=successful+governmet+proposals&aqs=chrome..69i57.10654j0j7&sourceid=chrome&ie=UTF-8
 
-Riot Games Salaries | Comparably
-https://www.comparably.com/companies/riotgames/salaries
+Government Contractors: Top 10 Rules of Winning Proposals
+https://www.salesartillery.com/fs/government-contractors-top-10-rules-winning-proposals
 
 # hackerrank
 
@@ -565,21 +567,58 @@ https://www.hackerrank.com/career-fair/fall2020/exhibitors
 Airmeet: HackerRank Virtual Career Fair - Track 2
 https://www.airmeet.com/event/e18c3690-f831-11ea-8a9b-83ce701486dd
 
-# robinhood
+Virtual Career Fair 2020 | HackerRank
+https://www.hackerrank.com/career-fair/fall2020
 
-Robinhood - Careers
-https://careers.robinhood.com/
+Career Fair Applications | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/application
 
-Robinhood - Careers
-https://careers.robinhood.com/openings?gh_jid=2279703
+Career Fair Applications | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/application
 
-# hashicorp
+HackerRank
+https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
 
-HashiCorp
-https://github.com/hashicorp
+Career Fair Applications | HackerRank
+https://www.hackerrank.com/career-fair/fall2020/application
 
-HashiCorp Named #4 on the Forbes 2020 Cloud 100 List for the Second Year in a Row
-http://www.globenewswire.com/news-release/2020/09/16/2094670/0/en/HashiCorp-Named-4-on-the-Forbes-2020-Cloud-100-List-for-the-Second-Year-in-a-Row.html
+HackerRank
+https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
+
+HackerRank
+https://www.hackerrank.com/skills-verification/problem_solving_basic
+
+# ai
+
+forbes best ai companies - Google Search
+https://www.google.com/search?q=forbes+best+ai+companies&rlz=1C1CHBF_enUS811US811&oq=forbes+best+ai+companies&aqs=chrome..69i57.4215j0j7&sourceid=chrome&ie=UTF-8
+
+ServiceNow BrandVoice: No Going Back: COVID And Crisis Innovation (video)
+https://www.forbes.com/sites/servicenow/2020/10/02/no-going-back-covid-and-crisis-innovation-video/#2cc9262717e8
+
+AI 50: America’s Most Promising Artificial Intelligence Companies
+https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#7ff307725c99
+
+Top 25 Machine Learning Startups To Watch In 2020
+https://www.forbes.com/sites/louiscolumbus/2020/04/26/top-25-machine-learning-startups-to-watch-in-2020/#62731f481f52
+
+Top 25 AI Startups Who Raised The Most Money In 2019
+https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/#54133cc6229b
+
+Is Your Company Using Artificial Intelligence To Transform An Industry? Nominations For The Forbes AI 50 List Are Now Open
+https://www.forbes.com/sites/alanohnsman/2020/03/17/is-your-company-using-artificial-intelligence-to-transform-an-industry-nominations-for-the-forbes-2020-ai-50-list-are-now-open/#c933d153bf2b
+
+Forbes Editorial Platforms: AI 50
+https://www.forbes.com/connect/editorial-platforms/franchise/ai-50/
+
+AI 50: America’s Most Promising Artificial Intelligence Companies
+https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#371d5e9f5c99
+
+DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies
+https://www.prnewswire.com/news-releases/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301088597.html
+
+Forbes AI 50 – America’s Most Promising Artificial Intelligence Companies - AEye.ai
+https://www.aeye.ai/award/forbes-ai-50-america-most-promising-artificial-intelligence-companies-2019/
 
 # cloud 100 2020 
 
@@ -607,29 +646,6 @@ https://c3.ai/careers/
 Software Engineer, Machine Learning - Grammarly | Jobs
 https://www.grammarly.com/jobs/engineering/software-engineer-machine-learning?gh_jid=1688685
 
-# hackerrank
-
-Virtual Career Fair 2020 | HackerRank
-https://www.hackerrank.com/career-fair/fall2020
-
-Career Fair Applications | HackerRank
-https://www.hackerrank.com/career-fair/fall2020/application
-
-Career Fair Applications | HackerRank
-https://www.hackerrank.com/career-fair/fall2020/application
-
-HackerRank
-https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
-
-Career Fair Applications | HackerRank
-https://www.hackerrank.com/career-fair/fall2020/application
-
-HackerRank
-https://www.hackerrank.com/competitions/virtual-career-fair-coding-contest
-
-HackerRank
-https://www.hackerrank.com/skills-verification/problem_solving_basic
-
 # forbes
 
 The Just 100 2020
@@ -656,7 +672,37 @@ https://boards.greenhouse.io/paige/jobs/4433484002
 Home | Facebook Recruiting
 https://www.facebookrecruiting.com/portal/home
 
-# Dremio
+# hackerrank
+
+
+# charter
+
+Leadership | Charter
+https://corporate.charter.com/leadership
+
+# coinbase
+
+Coinbase
+https://www.coinbase.com/rewards
+
+Coinbase
+https://www.coinbase.com/dashboard
+
+Coinbase | Earn Celo
+https://www.coinbase.com/earn/celo?utm_medium=email&utm_source=invited&utm_campaign=celo_launch
+
+Coinbase
+https://www.coinbase.com/dashboard
+
+# confluent
+
+Confluent Careers
+https://www.confluent.io/careers/#open-positions
+
+Confluent - Engineering Manager, Stream Processing
+https://jobs.lever.co/confluent/500bbeca-5fe2-4f11-8f46-f3d9ee61a934
+
+# dremio
 Join Our Team - Dremio
 https://www.dremio.com/careers/#jobs-list
 
@@ -668,15 +714,13 @@ https://www.dremio.com/about/#leadership
 
 Join Our Team - Dremio
 https://www.dremio.com/careers/job/?gh_jid=4172191003
-# charter
+# hashicorp
 
-Leadership | Charter
-https://corporate.charter.com/leadership
+HashiCorp
+https://github.com/hashicorp
 
-# spectrum
-
-Working at Spectrum | Jobs and Careers at Spectrum
-https://jobs.spectrum.com/
+HashiCorp Named #4 on the Forbes 2020 Cloud 100 List for the Second Year in a Row
+http://www.globenewswire.com/news-release/2020/09/16/2094670/0/en/HashiCorp-Named-4-on-the-Forbes-2020-Cloud-100-List-for-the-Second-Year-in-a-Row.html
 
 # pathrise
 
@@ -688,39 +732,6 @@ https://jobs.lever.co/pathrise
 
 Pathrise Review: How a Pathrise Fellowship Can Launch Your Tech Career
 https://careerkarma.com/blog/pathrise/#:~:text=Pay%20Only%20When%20You%20Succeed%20with%20Pathrise,-Pathrise%20offers%20a&text=After%20a%20fellow%20has%20found,six%20months%20on%20the%20job.
-
-# linkedin
-
-Richard Sanders Jr | LinkedIn
-https://www.linkedin.com/in/richardsandersjr/
-
-Biru Lyu | LinkedIn
-https://www.linkedin.com/in/birulyu/
-
-(1) Robinhood: People | LinkedIn
-https://www.linkedin.com/company/robinhood/people/
-
-(2) Noosheen Hashemi | LinkedIn
-https://www.linkedin.com/in/noosheen-hashemi-a74686b/
-
-(2) Megan Yee | LinkedIn
-https://www.linkedin.com/in/yeemegan/
-
-(2) Quang HOANG | LinkedIn
-https://www.linkedin.com/in/quanghoang/
-
-(2) Allen Chai | LinkedIn
-https://www.linkedin.com/in/chaiallen/
-
-(2) Margie X. | LinkedIn
-https://www.linkedin.com/in/margiexu/
-# snowflake
-
-Snowflake Leadership and Board of Directors | Get to Know the Team
-https://www.snowflake.com/leadership-board/
-
-2020 Data Drivers | Snowflake
-https://www.snowflake.com/webinar/2020-data-drivers/
 
 # primer
 
@@ -751,11 +762,40 @@ https://primer.ai/blog/how-machine-learning-impacts-national-security/
 Technical blog from Primer's Engineering team
 https://primer.ai/blog
 
-# confluent
+# riot
 
-Confluent Careers
-https://www.confluent.io/careers/#open-positions
+Lessons Learned Guiding Riot Games Through a Cultural Crisis | Riot Games
+https://www.riotgames.com/en/news/lessons-learned-guiding-riot-games-through-a-cultural-crisis
 
-Confluent - Engineering Manager, Stream Processing
-https://jobs.lever.co/confluent/500bbeca-5fe2-4f11-8f46-f3d9ee61a934
+Riot Games Salaries | Comparably
+https://www.comparably.com/companies/riotgames/salaries
 
+# robinhood
+
+Robinhood - Careers
+https://careers.robinhood.com/
+
+Robinhood - Careers
+https://careers.robinhood.com/openings?gh_jid=2279703
+
+
+# roblox
+
+ROBLOX Mission, Vision & Values | Comparably
+https://www.comparably.com/companies/roblox/mission
+
+k
+# snowflake
+
+Snowflake Leadership and Board of Directors | Get to Know the Team
+https://www.snowflake.com/leadership-board/
+
+2020 Data Drivers | Snowflake
+https://www.snowflake.com/webinar/2020-data-drivers/
+
+# spectrum
+
+Working at Spectrum | Jobs and Careers at Spectrum
+https://jobs.spectrum.com/
+
+# linkedin

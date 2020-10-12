@@ -472,3 +472,27 @@ https://canvas.stanford.edu/courses/123162
 Syllabus for Video Game Development in C++ and Unreal Engine
 https://canvas.stanford.edu/courses/123162/assignments/syllabus
 
+Syllabus for Machine Learning
+https://canvas.stanford.edu/courses/121703/assignments/syllabus
+
+CS 229 (131 unread)
+https://piazza.com/class/ka764abpkd62w?cid=689
+
+mnist | Powered by Box
+https://stanford.app.box.com/folder/119469048360
+
+Untitled Note 2020-09-05 14.40.08
+https://stanford.app.box.com/notes/715923474584
+
+CS229: Machine Learning
+http://cs229.stanford.edu/
+
+CS229: Machine Learning
+http://cs229.stanford.edu/syllabus-summer2020.html
+
+L02: Review of Matrix Calculus, Probability
+https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-7a1d-4bb0-ac71-abdb013c40b5
+
+Summer 2020 - Machine Learning : Panopto
+https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
+
