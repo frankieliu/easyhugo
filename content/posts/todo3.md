@@ -4,7 +4,6 @@ https://www.google.com/search?q=rosen+discrete+math+solutions+manual&oq=rosen+di
 Solutions to Discrete Mathematics and Its Applications (9780073383095), Pg. 245 :: Homework Help and Answers :: Slader
 https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition/245/
 
-
 3155 Silver Creek Rd - Google Maps
 https://www.google.com/maps/place/3155+Silver+Creek+Rd,+San+Jose,+CA+95121/@37.3072818,-121.8308871,14z/data=!4m5!3m4!1s0x808e3281a916bbeb:0x751bf377ba285bb!8m2!3d37.3072818!4d-121.8133776
 

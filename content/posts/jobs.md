@@ -22,6 +22,7 @@ https://www.velvetjobs.com/resume/senior-lead-software-engineer-resume-sample
 Principal Software Engineer Lead Resume Samples | Velvet Jobs
 https://www.velvetjobs.com/resume/principal-software-engineer-lead-resume-sample
 
+
 # levels.fyi
 
 Compare salaries and career levels across companies | Levels.fyi
@@ -316,6 +317,18 @@ https://www.teamblind.com/post/Are-infra-SWE-roles-career-suicide-Lp1UvVPA
 
 # resume
 
+5 Google Docs Resume Templates (and How to Use Them) | The Muse
+https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them
+
+Google Docs Resume Template in Serif—TheMuse.com - Google Docs
+https://docs.google.com/document/d/1ARVyybC5qQEiCzUOLElwAdPpKOK0Qf88srr682eHdCQ/edit
+
+5 Google Docs Resume Templates (and How to Use Them) | The Muse
+https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them
+
+Google Docs Resume Template. Simple resume template Google | Etsy
+https://www.etsy.com/listing/601647368/google-docs-resume-template-simple
+
 What does the resume of someone who got a software engineering internship or full time job at Facebook, Dropbox, or Quora look like? - Quora
 https://www.quora.com/What-does-the-resume-of-someone-who-got-a-software-engineering-internship-or-full-time-job-at-Facebook-Dropbox-or-Quora-look-like
 
@@ -490,6 +503,8 @@ https://www.linkedin.com/in/chaiallen/
 (2) Margie X. | LinkedIn
 https://www.linkedin.com/in/margiexu/
 
+Stephanie Niu | LinkedIn
+https://www.linkedin.com/in/slniu/
 # ad
 
 Dream Career Blueprint
@@ -620,6 +635,12 @@ https://www.prnewswire.com/news-releases/deepmap-named-to-forbes-ai-50-list-of-m
 Forbes AI 50 – America’s Most Promising Artificial Intelligence Companies - AEye.ai
 https://www.aeye.ai/award/forbes-ai-50-america-most-promising-artificial-intelligence-companies-2019/
 
+When will we see the first wave of AI IPOs? | by Bastiane Huang | Towards Data Science
+https://towardsdatascience.com/when-will-we-see-the-first-wave-of-ai-ipos-8ab4ddda6657
+
+Top 100 Artificial Intelligence Companies 2020
+https://www.datamation.com/artificial-intelligence/top-artificial-intelligence-companies.html
+
 # cloud 100 2020 
 
 The Cloud 100 2020
@@ -714,6 +735,15 @@ https://www.dremio.com/about/#leadership
 
 Join Our Team - Dremio
 https://www.dremio.com/careers/job/?gh_jid=4172191003
+
+Self-service data and analytics on your cloud data lake - Dremio
+https://www.dremio.com/product/
+
+# firebolt
+
+Contact Us - Firebolt
+https://www.firebolt.io/contact
+
 # hashicorp
 
 HashiCorp
@@ -721,6 +751,7 @@ https://github.com/hashicorp
 
 HashiCorp Named #4 on the Forbes 2020 Cloud 100 List for the Second Year in a Row
 http://www.globenewswire.com/news-release/2020/09/16/2094670/0/en/HashiCorp-Named-4-on-the-Forbes-2020-Cloud-100-List-for-the-Second-Year-in-a-Row.html
+
 
 # pathrise
 
@@ -762,6 +793,44 @@ https://primer.ai/blog/how-machine-learning-impacts-national-security/
 Technical blog from Primer's Engineering team
 https://primer.ai/blog
 
+Primer Labs
+https://labs.primer.ai/
+
+Primer | Solving Arabic Name Transliteration
+https://primer.ai/blog/solving-arabic-name-transliteration/
+
+Primer | COVID-19 Research Briefing: Focus on Testing
+https://primer.ai/blog/covid-19-research-briefing-focus-on-testing/
+
+Primer | Maverick, Goose begin romantic relationship
+https://primer.ai/blog/maverick-goose-begin-romantic-relationship/
+
+NVIDIA V100 | NVIDIA
+https://www.nvidia.com/en-us/data-center/v100/
+
+Primer | COVID-19 Research Briefing: Focus on Testing
+https://primer.ai/blog/covid-19-research-briefing-focus-on-testing/
+
+Primer | A New State of the Art for Named Entity Recognition
+https://primer.ai/blog/a-new-state-of-the-art-for-named-entity-recognition/
+
+Primer Analyze
+https://analyze.primer.ai/queries/21f4c6b1-1ee6-4b99-8569-2c1cb7c02d4a/overview
+
+Careers | Narrative Science
+https://narrativescience.com/careers/?p=job%2FoKcrdfwk#jobs
+
+# ray
+
+Ray Summit | Free Virtual Event | Linux Foundation Events
+https://events.linuxfoundation.org/ray-summit/
+
+Ray Summit 2020
+https://raysummit2020.com/agenda/
+
+Ray Summit 2020
+https://raysummit2020.com/session-virtual/?v26dd132ae80017cdaf764437c30ebe6f10c1b1eeaab01165e44366654b368dfaeab6baf7e386a642ecb238989334530e=CF392D005E76D7CF51F688F95C94853BC6DE4605E06C1C5966907FC82FAAC9EED1B9F96ABBD1FED02C97BB4D5FDB795C
+
 # riot
 
 Lessons Learned Guiding Riot Games Through a Cultural Crisis | Riot Games
@@ -792,6 +861,9 @@ https://www.snowflake.com/leadership-board/
 
 2020 Data Drivers | Snowflake
 https://www.snowflake.com/webinar/2020-data-drivers/
+
+(1) New Message!
+https://www.snowflake.com/try-the-cloud-data-platform/?_bt=470247374327&_bk=snowflake&_bm=e&_bn=g&_bg=64805047909&utm_medium=search&utm_source=adwords&utm_campaign=NA%20-%20Branded%20-%20Exact&utm_adgroup=NA%20-%20Branded%20-%20Snowflake%20-%20Exact%20RSA&utm_term=snowflake&utm_region=na&gclid=CjwKCAjwiOv7BRBREiwAXHbv3EAmyC7d8c34B0XkOyNpRk5xXmDrF2c6FkocYRWx4Ez3KNbt-nDh-BoCXS8QAvD_BwE
 
 # spectrum
 

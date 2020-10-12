@@ -27,6 +27,33 @@ https://pdos.csail.mit.edu/6.824/labs/lab-raft.html
 The complete guide to crack the System Design interview | by Harshith | Towards Data Science
 https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
 
+Behavioral Interview Prep | AlgoExpert
+https://www.algoexpert.io/behavioral-interviews
+
+Grokking the System Design Interview - Learn Interactively
+https://www.educative.io/courses/grokking-the-system-design-interview?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=grokking-manual&gclid=CjwKCAjw2dD7BRASEiwAWCtCb0dG2v_sx1tAGFmb51SHoWtSiJacWEIVoMWDgN8xvPCYdCqe5rR8ghoCvVcQAvD_BwE
+
+25 Software Design Interview Questions to Crack Any Programming and Technical Interviews | by javinpaul | Javarevisited | Medium
+https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
+
+System Design Interview Questions – Concepts You Should Know
+https://www.freecodecamp.org/news/systems-design-for-interviews/
+
+Top 10 System Design Interview Questions and Answers - GeeksforGeeks
+https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
+
+System Design Interview Questions - InterviewBit
+https://www.interviewbit.com/courses/system-design/topics/interview-questions/
+
+How to Succeed in a System Design Interview | by Pramp | Pramp Blog | Coding Interview & Job Search Resources for Developers
+https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26
+
+Top 10 System Design Interview Questions for Software Engineers | Hacker Noon
+https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+
+System Design Interview Questions
+http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+
 # Tanenbaum
 
 Distributed Systems: 9781543057386: Computer Science Books @ Amazon.com
@@ -221,6 +248,35 @@ https://research.fb.com/publications/realtime-data-processing-at-facebook/
 Scuba: Diving into Data at Facebook - Facebook Research
 https://research.fb.com/publications/scuba-diving-into-data-at-facebook/
 
+## tao
+
+Bronson: {TAO}: Facebook’s Distributed Data Store... - Google Scholar
+https://scholar.google.com/scholar?cites=12853453264211926595&as_sdt=2005&sciodt=0,5&hl=en&inst=5746887945952177237
+
+## social network
+
+Inside the Social Network's (Datacenter) Network | Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2785956.2787472
+
+Navigating the maze of graph analytics frameworks using massive graph datasets | Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2588555.2610518
+
+## consistency
+
+Existential consistency | Proceedings of the 25th Symposium on Operating Systems Principles
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2815400.2815426
+
+## rocks db
+
+Optimizing Space Amplification in RocksDB - Facebook Research
+https://research.fb.com/publications/optimizing-space-amplification-in-rocksdb/
+
+Cubrick: Indexing Millions of Records per Second for Interactive Analytics - Facebook Research
+https://research.fb.com/publications/cubrick-indexing-millions-of-records-per-second-for-interactive-analytics/
+
+Cubrick: A Scalable Distributed MOLAP Database for Fast Analytics - Facebook Research
+https://research.fb.com/publications/cubrick-a-scalable-distributed-molap-database-for-fast-analytics/
+
 # Grammarly
 
 Grammarly Engineering Blog
@@ -257,3 +313,7 @@ https://neo4j.com/graph-databases-for-dummies-thanks/?aliId=eyJpIjoiaGkyb1FjZzlT
 Speakers | Scale By the Bay
 https://www.scale.bythebay.io/speakers
 
+# Cache
+
+Summary Cache: A Scalable Wide-Area Web Cache Sharing Protocol
+http://pages.cs.wisc.edu/~cao/papers/summary-cache/share.html

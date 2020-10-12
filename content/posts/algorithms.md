@@ -101,6 +101,46 @@ https://www.cut-the-knot.org/Curriculum/Combinatorics/UniversalColoring.shtml
 Light Bulbs in a Circle (an Interactive Gizmo)
 https://www.cut-the-knot.org/Curriculum/Combinatorics/LightBulbs.shtml
 
+# search
+## binary
+
+Programming Pearls, Second Edition
+https://learning.oreilly.com/library/view/programming-pearls-second/9780134498058/
+
+ongoing by Tim Bray · On the Goodness of Binary Search
+https://www.tbray.org/ongoing/When/200x/2003/03/22/Binary
+
+Are you one of the 10% of programmers who can write a binary search? | The Reinvigorated Programmer
+https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/
+
+Beautiful code in SearchWorks catalog
+https://searchworks.stanford.edu/view/9607869
+
+Google AI Blog: Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken
+https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
+
+programming pearls: free download. Ebooks library. On-line books store on Z-Library
+https://bookos-z1.org/s/programming%20pearls
+
+www.cs.bell-labs.com
+http://www.cs.bell-labs.com/cm/cs/pearls/code.html
+
+binarysearch | Learn Algorithms Together
+https://binarysearch.com/
+
+# trees
+
+## bit
+
+2D BIT
+https://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+
+Two Dimensional Binary Indexed Tree or Fenwick Tree - GeeksforGeeks
+https://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+
+Community - Competitive Programming - Competitive Programming Tutorials - Binary Indexed Trees
+https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/
+
 # graphs
 ## books
 
@@ -320,6 +360,7 @@ https://stackoverflow.com/questions/5333161/algorithms-to-find-the-number-of-ham
 
 Dijkstra's algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
+
 
 
 # sorting

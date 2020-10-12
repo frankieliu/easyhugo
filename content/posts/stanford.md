@@ -496,3 +496,10 @@ https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-
 Summer 2020 - Machine Learning : Panopto
 https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
 
+# CS106M
+
+CS106M – Discussion
+https://us.edstem.org/courses/2737/discussion/133788
+
+CS106M Meetings
+http://web.stanford.edu/class/cs106m/meetings/all

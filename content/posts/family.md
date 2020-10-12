@@ -81,6 +81,25 @@ https://fiddleleaffigplant.com/brown-spots-on-fiddle-leaf-fig-leaves-2/#:~:text=
 Amazon.com : Premium Fiddle Leaf Fig Tree Potting Soil - Perfect for Indoor Plants : Garden & Outdoor
 https://www.amazon.com/gp/product/B07Y72X245/ref=as_li_tl?ie=UTF8&tag=indigomarke0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07Y72X245&linkId=cad06f05330d53b8fbc57c9543f2cf72
 
+## Ashwagandha leaves
+
+Nootropic potential of Ashwagandha leaves: Beyond traditional root extracts - ScienceDirect
+https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S0197018615300437
+
+Types of Psoriasis: Pictures, Symptoms, and Treatments
+https://www.healthline.com/health/photos-types-psoriasis#pictures
+
+## rocks
+
+How to Get Rid of Rocks in Your Yard | Budget Dumpster
+https://www.budgetdumpster.com/blog/how-to-get-rid-of-rocks/
+
+Mantis Tiller Rental - The Home Depot
+https://www.homedepot.com/tool-truck-rental/Mantis-Tiller/7262-00-02/index.html
+
+The Soil Sifter
+http://www.thesoilsifter.com/
+
 # Dating with the Parents
 
 Xin Xiang Qin Shi Dai

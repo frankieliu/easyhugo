@@ -221,6 +221,11 @@ https://stackoverflow.com/questions/11495783/redirect-subprocess-stderr-to-stdou
 python - Subprocess changing directory - Stack Overflow
 https://stackoverflow.com/questions/21406887/subprocess-changing-directory
 
+### shell output vs subprocess output
+
+python - Why is subprocess.run output different from shell output of same command? - Stack Overflow
+https://stackoverflow.com/questions/37734470/why-is-subprocess-run-output-different-from-shell-output-of-same-command
+
 ## arguments
 
 Take input from stdin in Python - GeeksforGeeks
@@ -239,6 +244,7 @@ https://docs.python.org/3/library/argparse.html
 
 shlex ? Simple lexical analysis ? Python 3.8.5 documentation
 https://docs.python.org/3/library/shlex.html
+
 
 
 # closure

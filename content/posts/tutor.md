@@ -27,9 +27,16 @@ https://www.google.com/search?q=CSCI-GA.3033-002+Social+Networks&rlz=1C1CHBF_enU
 Index of /mishra/COURSES/16.uSOCNET
 https://cs.nyu.edu/mishra/COURSES/16.uSOCNET/
 
-# Stephanie
+well ordering tournament - Google Search
+https://www.google.com/search?q=well+ordering+tournament&oq=well+ordering+tournament&aqs=chrome..69i57.6533j0j7&sourceid=chrome&ie=UTF-8
 
-How to add google map to website
+discrete mathematics - Prove that players in round-robin tournament can be ordered - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/1937213/prove-that-players-in-round-robin-tournament-can-be-ordered?noredirect=1&lq=1
+
+graph theory - Prove that every tournament contains at least one Hamiltonian path. - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/1682492/prove-that-every-tournament-contains-at-least-one-hamiltonian-path
+
+# Stephanie
 https://mobirise.com/help/how-to-add-google-map-to-website-781.html
 
 css - Html for put a label in bottom of an image - Stack Overflow
@@ -48,6 +55,14 @@ Option Command J
 
 mac chrome developer console - Google Search
 https://www.google.com/search?q=mac+chrome+developer+console&rlz=1C1CHBF_enUS811US811&oq=mac+chrome+developer+console&aqs=chrome..69i57.8839j0j7&sourceid=chrome&ie=UTF-8
+
+## Sedgewick
+
+Standard Libraries
+https://introcs.cs.princeton.edu/java/stdlib/
+
+StdDraw
+https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html
 
 # finn
 
@@ -80,7 +95,61 @@ https://courses.laimoon.com/course/lua-programming-and-game-development-with-lov
 Pocket Gems Software Engineer Salaries | Glassdoor
 https://www.glassdoor.com/Salary/Pocket-Gems-Software-Engineer-Salaries-E453434_D_KO12,29.htm
 
+Lua Programming and Game Development with LÖVE | Udemy
+https://www.udemy.com/course/lua-love/learn/lecture/7606078#overview
+
+Creating a complex game - LÖVE
+https://love2d.org/forums/viewtopic.php?t=38305
+
+BYTEPATH tutorial - making a complete game with LÖVE - LÖVE
+https://love2d.org/forums/viewtopic.php?t=84886
+
+a327ex/BYTEPATH: A replayable arcade shooter with a focus on build theorycrafting made using Lua and LÖVE.
+https://github.com/a327ex/BYTEPATH
+
+BYTEPATH #0 - Introduction · Issue #30 · a327ex/blog
+https://github.com/a327ex/blog/issues/30
+
+love2d galaxian - Google Search
+https://www.google.com/search?q=love2d+galaxian&sxsrf=ALeKk021Td4e7aVdLOu2LChKB6lPHJK94g:1601128374549&ei=tkdvX7j9IPW90PEP4O-E6As&start=20&sa=N&ved=2ahUKEwi4sISA_IbsAhX1HjQIHeA3Ab04ChDw0wN6BAgLEEA&biw=1192&bih=569
+
+Lua Programming and Game Development with LÖVE | Udemy
+https://www.udemy.com/course/lua-love/learn/lecture/7606082#overview
+
+Lua Programming and Game Development with LÖVE | Udemy
+https://www.udemy.com/course/lua-love/learn/lecture/7606084#content
+
+## games
+
+Linux: ALSA lib pcm_dmix.c:1108:(snd_pcm_dmix_open) unable to open slave - DEV
+https://dev.to/setevoy/linux-alsa-lib-pcmdmixc1108sndpcmdmixopen-unable-to-open-slave-38on
+
+Top games tagged PICO-8 - itch.io
+https://itch.io/games/tag-pico-8
+
+GYRUSS - MAME (MAME) rom download | WoWroms.com | start download
+https://wowroms.com/en/roms/mame/download-gyruss/84470.html
+
+Install MAME on Ubuntu using the Snap Store | Snapcraft
+https://snapcraft.io/install/mame/ubuntu
+
+MAME Flatpak Request - Requests - Flathub Discourse
+https://discourse.flathub.org/t/mame-flatpak-request/343
+
 ## tennis
 
 UTR Power
 https://www.myutr.com/howutrworks
+
+## loop exercise
+
+Python for loop and if else Exercise [10 Exercise Questions]
+https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/
+
+# Mitch
+
+CSPB3104-Assignment-6-7.ipynb - Colaboratory
+https://colab.research.google.com/drive/1z3acN5tHTFntFa_yBKCd3f6g18FkyWqN#scrollTo=woBlkB-xddDv
+
+CSPB3104-Assignment-6-7.ipynb - Colaboratory
+https://colab.research.google.com/drive/1z3acN5tHTFntFa_yBKCd3f6g18FkyWqN#scrollTo=BXQhLVtfddDt

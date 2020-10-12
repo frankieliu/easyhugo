@@ -49,6 +49,8 @@ https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=registering_page
 Asciidoctor :: Discussion
 https://discuss.asciidoctor.org/
 
+mgreau.com
+http://mgreau.com/
 ## images
 
 How to center image caption in ASCIIDoctor ? Code Yarns ???
@@ -166,6 +168,7 @@ https://github.com/bric3/bric3.github.io/blob/48a572d2c7778219984e2678664cb43578
 
 Asciidoctor :: Discussion - Search for 'css'
 https://discuss.asciidoctor.org/template/NamlServlet.jtp?macro=search_page&node=1&query=css&i=48
+
 
 # hugo
 
