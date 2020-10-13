@@ -162,6 +162,32 @@ https://uit.stanford.edu/service/web/centralhosting/howto_group
 Stanford Sites Drupal 8 is Here! | University IT
 https://uit.stanford.edu/blog/stanford-sites-drupal-8-here
 
+# earth / image seg
+
+5 Magic Fixes for the Most Common CSV File reader Problems | ThoughtSpot | ThoughtSpot
+https://www.thoughtspot.com/blog/5-magic-fixes-most-common-csv-file-reader-problems-thoughtspot
+
+[2001.05566] Image Segmentation Using Deep Learning: A Survey
+https://arxiv.org/abs/2001.05566
+
+SegRoot: A high throughput segmentation method for root image analysis - ScienceDirect
+https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S0168169919303874
+
+ScienceDirect.com | Science, health and medical journals, full text articles and books.
+https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S0168169919303874/pdfft?md5=a74541e41c2f30b550c66ba009088eac&pid=1-s2.0-S0168169919303874-main.pdf
+
+[1903.09344] Overcoming Small Minirhizotron Datasets Using Transfer Learning
+https://arxiv.org/abs/1903.09344
+
+retina neural network - Google Scholar
+https://scholar.google.com/scholar?as_sdt=0%2C5&btnG=&hl=en&inst=5746887945952177237&q=retina%20neural%20network
+
+SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation | Papers With Code
+https://paperswithcode.com/paper/sa-unet-spatial-attention-u-net-for-retinal
+
+clguo/SA-UNet: The open source code of SA-UNet, the specific model code will be uploaded soon.
+https://github.com/clguo/SA-UNet
+
 # cs 229
 
 Machine Learning | Stanford Summer Session

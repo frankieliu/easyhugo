@@ -62,6 +62,11 @@ https://stedolan.github.io/jq/manual/v1.4/#Builtinoperatorsandfunctions
 jq Manual (development version)
 https://stedolan.github.io/jq/manual/
 
+# space in key
+
+jq - Syntax when there is a space in the key - Stack Overflow
+https://stackoverflow.com/questions/33700103/syntax-when-there-is-a-space-in-the-key
+
 # filter
 
 json - How to filter an array of objects based on values in an inner array with jq? - Stack Overflow

@@ -31,6 +31,30 @@ Master theorem (analysis of algorithms) - Wikipedia
 https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
 
 # math
+## bits
+
+How do I convert a number to and from Grey Code? - Quora
+https://www.quora.com/How-do-I-convert-a-number-to-and-from-Grey-Code
+
+The Aggregate Magic Algorithms
+http://aggregate.org/MAGIC/#Gray%20Code%20Conversion
+
+swar techniques - Google Search
+https://www.google.com/search?q=swar+techniques&oq=swar+techniques&aqs=chrome..69i57.3015j0j7&sourceid=chrome&ie=UTF-8
+
+Parallel Prefix Algorithms - Chessprogramming wiki
+https://www.chessprogramming.org/Parallel_Prefix_Algorithms
+
+Chessprogramming wiki
+https://www.chessprogramming.org/Main_Page
+
+## discrete
+
+rosen discrete math solutions manual - Google Search
+https://www.google.com/search?q=rosen+discrete+math+solutions+manual&oq=rosen+discrete+math+solutions+manual&aqs=chrome..69i57.6711j0j4&sourceid=chrome&ie=UTF-8
+
+Solutions to Discrete Mathematics and Its Applications (9780073383095), Pg. 245 :: Homework Help and Answers :: Slader
+https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition/245/
 
 ## probability
 
@@ -40,6 +64,7 @@ https://en.wikipedia.org/wiki/Reservoir_sampling
 
 Inverse of a Matrix using Minors, Cofactors and Adjugate
 https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html
+
 
 ## Geometry
 ### convex hull
@@ -51,11 +76,14 @@ https://en.wikipedia.org/wiki/Graham_scan
 discrete mathematics - Bounds on rate $r$ for finishing $n$ jobs: $[w_1,w_2,\cdots, w_n]$ to be completed by time $H$ - Mathematics Stack Exchange
 https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-n-jobs-w-1-w-2-cdots-w-n-to-be-complet
 
+
 ## primes
 ### sieve
 
 Sieve of Eratosthenes - Wikipedia
 https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#:~:text=In%20mathematics%2C%20the%20sieve%20of,up%20to%20any%20given%20limit.&text=The%20multiples%20of%20a%20given,is%20equal%20to%20that%20prime.
+
+
 
 # puzzles
 
@@ -102,6 +130,26 @@ Light Bulbs in a Circle (an Interactive Gizmo)
 https://www.cut-the-knot.org/Curriculum/Combinatorics/LightBulbs.shtml
 
 # search
+## backtracking
+
+permutations and combinations with repeats leetcode - Google Search
+https://www.google.com/search?q=permutations+and+combinations+with+repeats+leetcode&oq=permutations+and+combinations+with+repeats+leetcode&aqs=chrome..69i57.9823j0j1&sourceid=chrome&ie=UTF-8
+
+(6) A general approach to backtracking questions in Java (Subsets, Permutations, Combination Sum, Palindrome Partioning) - LeetCode Discuss
+https://leetcode.com/problems/permutations/discuss/18239/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning
+
+solving leetcode permutations and combinations blog - Google Search
+https://www.google.com/search?q=solving+leetcode+permutations+and+combinations+blog&oq=solving+leetcode+permutations+and+combinations+blog&aqs=chrome..69i57.13071j0j4&sourceid=chrome&ie=UTF-8
+
+In-depth Backtracking with LeetCode Problems — Part 1 | by Li Yin | Algorithms and Coding Interviews | Medium
+https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28
+
+In-depth Backtracking with LeetCode Problems — Part 2 | by Li Yin | Algorithms and Coding Interviews | Medium
+https://medium.com/algorithms-and-leetcode/backtracking-with-leetcode-problems-part-2-705c9cc70e52
+
+Algorithms-and-Coding-Interviews/combinatorial_search.pdf at master · liyin2015/Algorithms-and-Coding-Interviews
+https://github.com/liyin2015/Algorithms-and-Coding-Interviews/blob/master/combinatorial_search.pdf
+
 ## binary
 
 Programming Pearls, Second Edition
@@ -127,6 +175,7 @@ http://www.cs.bell-labs.com/cm/cs/pearls/code.html
 
 binarysearch | Learn Algorithms Together
 https://binarysearch.com/
+
 
 # trees
 
@@ -280,7 +329,35 @@ https://github.com/pmla/linear-assignment-benchmarks/blob/master/jonkervolgenant
 On implementing 2D rectangular assignment algorithms - IEEE Journals & Magazine
 https://ieeexplore-ieee-org.stanford.idm.oclc.org/document/7738348
 
+Hall's marriage theorem - Wikipedia
+https://en.wikipedia.org/wiki/Hall%27s_marriage_theorem#:~:text=Therefore%2C%20there%20is%20also%20no,it%20contains%20no%20Hall%20violators.&text=If%20M%20saturates%20all%20vertices,X%20%5C%20V(M)).
 
+Maximum cardinality matching - Wikipedia
+https://en.wikipedia.org/wiki/Maximum_cardinality_matching
+
+Matching (graph theory) - Wikipedia
+https://en.wikipedia.org/wiki/Matching_(graph_theory)#Maximum-cardinality_matching
+
+Maximum weight matching - Wikipedia
+https://en.wikipedia.org/wiki/Maximum_weight_matching
+
+Assignment problem - Wikipedia
+https://en.wikipedia.org/wiki/Assignment_problem#Unbalanced_assignment
+
+Kőnig's theorem (graph theory) - Wikipedia
+https://en.wikipedia.org/wiki/K%C5%91nig%27s_theorem_(graph_theory)
+
+Posts containing 'unbalanced assignment' - Mathematics Stack Exchange
+https://math.stackexchange.com/search?q=unbalanced+assignment
+
+linear programming - Intuition behind assigning rows or columns of zeros to solve an Unbalanced Assignment Problem - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/2468030/intuition-behind-assigning-rows-or-columns-of-zeros-to-solve-an-unbalanced-assig
+
+NPTEL :: Mathematics - Linear Programming Problems
+https://nptel.ac.in/courses/111/102/111102012/
+
+linear programming - Balancing an Unbalanced Assignment problem using optimization techniques - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/2353890/balancing-an-unbalanced-assignment-problem-using-optimization-techniques
 
 ## Hamiltonian
 
@@ -361,8 +438,6 @@ https://stackoverflow.com/questions/5333161/algorithms-to-find-the-number-of-ham
 Dijkstra's algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
 
-
-
 # sorting
 
 c# - Bubble sort worst case example is O(n*n), how? - Stack Overflow
@@ -387,10 +462,36 @@ https://cp-algorithms.com/string/aho_corasick.html
 Aho-Corasick algorithm - Competitive Programming Algorithms
 https://cp-algorithms.com/string/aho_corasick.html
 
+# dynamic programming
+
+Dynamic Programming on Broken Profile. Problem "Parquet" - Competitive Programming Algorithms
+https://cp-algorithms.com/dynamic_programming/profile-dynamics.html
+
+Broken profile dynamic programming
+https://coderevilbuggy.blogspot.com/2018/05/broken-profile-dynamic-programming.html
+
 # hash
 
 Bloom filter - Wikipedia
 https://en.wikipedia.org/wiki/Bloom_filter
+
+Bloom filter - Wikipedia
+https://en.wikipedia.org/wiki/Bloom_filter#Approximating_the_number_of_items_in_a_Bloom_filter
+
+optimal number of hash functions - Google Search
+https://www.google.com/search?q=optimal+number+of+hash+functions&oq=optimal+number+of+hash+functions&aqs=chrome..69i57.4472j0j1&sourceid=chrome&ie=UTF-8
+
+calculate probability in bloom filter - Google Search
+https://www.google.com/search?q=calculate+probability+in+bloom+filter&oq=calculate+probability+in+bloom+filter&aqs=chrome..69i57.13215j0j4&sourceid=chrome&ie=UTF-8
+
+Meet Top-K: an Awesome Probabilistic Addition to RedisBloom | Redis Labs
+https://redislabs.com/blog/meet-top-k-awesome-probabilistic-addition-redisbloom/
+
+HeavyKeeper: An Accurate Algorithm for Finding Top-k Elephant Flows | USENIX
+https://www.usenix.org/conference/atc18/presentation/gong
+
+pyprobables API — probables 0.3.2 documentation
+https://pyprobables.readthedocs.io/en/latest/code.html#heavyhitters
 
 # reading group
 

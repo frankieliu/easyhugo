@@ -43,3 +43,22 @@ https://fontawesome.com/how-to-use/javascript-api/setup/importing-icons
 Brand Icons | Font Awesome
 https://fontawesome.com/icons?s=brands
 
+# css
+
+CSS Golf
+https://codepen.io/elbrittono/pen/YzWPXKK
+
+CSS Golf
+https://codepen.io/elbrittono/pen/YzWPXKK
+
+CSS Golf
+https://codepen.io/elbrittono/pen/YzWPXKK
+
+CSS Golf
+https://codepen.io/frankieliu/pen/KKMwNoe
+
+CSS Layout - The display Property
+https://www.w3schools.com/css/css_display_visibility.asp
+
+CSS Layout - The display Property
+https://www.w3schools.com/css/css_display_visibility.asp

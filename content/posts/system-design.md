@@ -81,6 +81,11 @@ https://www.scaler.com/
 Low Level Design: Designing BookMyShow | Scaler
 https://www.scaler.com/event/low-level-design-designing-bookmyshow?rcy=1&rce=67c1ffdbee4d/
 
+# latencies
+
+Latency Numbers Every Programmer Should Know
+https://gist.github.com/jboner/2841832
+
 # curator
 
 curator zookeeper - Google Search
@@ -156,6 +161,53 @@ http://fliu.west2020.gcp.confluent-demo.io/
 Workshop: Real-time Stream Processing with KSQL
 http://fliu.west2020.gcp.confluent-demo.io/
 
+# data lakes and data warehouses
+
+## alluxio
+
+Introduction - Alluxio v2.3 (stable) Documentation
+https://docs.alluxio.io/os/user/stable/en/Overview.html
+
+Architecture - Alluxio v2.3 (stable) Documentation
+https://docs.alluxio.io/os/user/stable/en/overview/Architecture.html
+
+# delta lake
+
+Delta Lake - Reliable Data Lakes at Scale
+https://delta.io/
+
+data lake paper databricks - Google Search
+https://www.google.com/search?q=data+lake+paper+databricks&oq=data+lake+paper+databricks&aqs=chrome..69i57.8035j0j7&sourceid=chrome&ie=UTF-8
+
+## dremio
+
+A Git-Like Experience for Data Lakes - Dremio
+https://www.dremio.com/introducing-project-nessie/
+
+nessie/L1.java at main · projectnessie/nessie
+https://github.com/projectnessie/nessie/blob/main/versioned/dynamodb/src/main/java/com/dremio/nessie/versioned/impl/L1.java#L29
+
+jacques nadeau - Google Search
+https://www.google.com/search?q=jacques+nadeau&oq=jacques+nadeau&aqs=chrome..69i57.3216j0j1&sourceid=chrome&ie=UTF-8
+
+5 minutes with Dremio co-founder Jacques Nadeau | by Virginia Backaitis | Digitizing Polaris
+https://digitizingpolaris.com/5-minutes-with-dremio-co-founder-jacques-nadeau-34ac69d7c598
+
+## iceberg
+
+About - Apache Iceberg
+https://iceberg.apache.org/
+
+## redshift
+
+redshift - Google Search
+https://www.google.com/search?q=redshift&oq=redshift&aqs=chrome..69i57.2352j0j7&sourceid=chrome&ie=UTF-8
+
+# cassandra
+
+cassandra book - Google Search
+https://www.google.com/search?q=cassandra+book&oq=cassandra+book&aqs=chrome..69i57j69i60.3607j0j7&sourceid=chrome&ie=UTF-8
+
 # dynamo
 
 What is Amazon DynamoDB - ScyllaDB
@@ -169,6 +221,9 @@ https://www.scottlogic.com/our-work
 
 Dynamo (storage system) - Wikipedia
 https://en.wikipedia.org/wiki/Dynamo_(storage_system)
+Dynamo (storage system) - Wikipedia
+https://en.wikipedia.org/wiki/Dynamo_(storage_system)#:~:text=Amazon%20DynamoDB%20is%20%22built%20on,DynamoDB%20uses%20single%2Dleader%20replication.
+
 # gossip
 
 Heartbeat-style Failure Detector using Gossip // Qiu's Quibble
@@ -211,6 +266,8 @@ https://www.google.com/search?sxsrf=ALeKk02B-i5brzA-qQkBSmwjUdJnfanEiA%3A1599413
 snowflake sigmod - Google Search
 https://www.google.com/search?sxsrf=ALeKk012zZPHvrn2kVdHPNaZrVl-upLBgw%3A1599414421874&ei=lSBVX8brNIPM-gTZ07_4DQ&q=snowflake+sigmod&oq=snowflake+sigmod&gs_lcp=CgZwc3ktYWIQAzIHCAAQFBCHAjoECAAQRzoLCC4QxwEQrwEQkwI6BQgAELEDOgIIADoICAAQsQMQgwE6CAgAEBYQChAeOgYIABAWEB46BQghEKABOggILhDHARCvAVChZ1iCdmDSd2gCcAJ4AIABWogBsQWSAQE5mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiGituDi9XrAhUDpp4KHdnpD98Q4dUDCA0&uact=5
 
+Key Concepts & Architecture — Snowflake Documentation
+https://docs.snowflake.com/en/user-guide/intro-key-concepts.html
 # lucene
 
 lucene search - Google Scholar
@@ -221,6 +278,138 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-edgengr
 
 How does Lucene work - Stack Overflow
 https://stackoverflow.com/questions/2705670/how-does-lucene-work
+
+(651) Apache Lucene: Then & Now - YouTube
+https://www.youtube.com/watch?v=5444z-L2V2A
+
+(651) The Art of Searching - YouTube
+https://www.youtube.com/watch?v=yst6VQ7Lwpo
+
+(651) Keynote: Twitter's search architecture - YouTube
+https://www.youtube.com/watch?v=AguWva8P_DI
+
+(651) How Google searches one document among Billions of documents quickly? - YouTube
+https://www.youtube.com/watch?v=CeGtqouT8eA
+
+algorithm - How does lucene index documents? - Stack Overflow
+https://stackoverflow.com/questions/2602253/how-does-lucene-index-documents
+
+Skip list - Wikipedia
+https://en.wikipedia.org/wiki/Skip_list#Indexable_skiplist
+
+redis/t_zset.c at unstable · redis/redis
+https://github.com/redis/redis/blob/unstable/src/t_zset.c
+
+Changing Bits: Using Finite State Transducers in Lucene
+http://blog.mikemccandless.com/2010/12/using-finite-state-transducers-in.html
+
+algorithm - Skip List vs. Binary Search Tree - Stack Overflow
+https://stackoverflow.com/questions/256511/skip-list-vs-binary-search-tree/28270537#28270537
+
+CiteSeerX — Direct Construction of Minimal Acyclic Subsequential Transducers
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.24.3698
+
+Delve inside the Lucene indexing mechanism
+https://web.archive.org/web/20130904073403/http://www.ibm.com/developerworks/library/wa-lucene/
+
+Apache Lucene - Index File Formats
+https://lucene.apache.org/core/3_6_2/fileformats.html
+
+org.apache.lucene.codecs.lucene410 (Lucene 4.10.2 API)
+https://lucene.apache.org/core/4_10_2/core/org/apache/lucene/codecs/lucene410/package-summary.html#package_description
+
+Porter Stemming Algorithm
+https://tartarus.org/martin/PorterStemmer/
+
+Apache Lucene - Index File Formats
+https://lucene.apache.org/core/3_0_3/fileformats.html#Index%20File%20Formats
+
+algorithm - Skip List vs. Binary Search Tree - Stack Overflow
+https://stackoverflow.com/questions/256511/skip-list-vs-binary-search-tree#260277
+
+how lucene use skip list in inverted index? - Stack Overflow
+https://stackoverflow.com/questions/13677514/how-lucene-use-skip-list-in-inverted-index
+
+(651) Apache Lucene: Then & Now - YouTube
+https://www.youtube.com/watch?v=5444z-L2V2A
+
+(651) The Art of Searching - YouTube
+https://www.youtube.com/watch?v=yst6VQ7Lwpo
+
+(651) Keynote: Twitter's search architecture - YouTube
+https://www.youtube.com/watch?v=AguWva8P_DI
+
+(651) How Google searches one document among Billions of documents quickly? - YouTube
+https://www.youtube.com/watch?v=CeGtqouT8eA
+
+algorithm - How does lucene index documents? - Stack Overflow
+https://stackoverflow.com/questions/2602253/how-does-lucene-index-documents
+
+Skip list - Wikipedia
+https://en.wikipedia.org/wiki/Skip_list#Indexable_skiplist
+
+redis/t_zset.c at unstable · redis/redis
+https://github.com/redis/redis/blob/unstable/src/t_zset.c
+
+Changing Bits: Using Finite State Transducers in Lucene
+http://blog.mikemccandless.com/2010/12/using-finite-state-transducers-in.html
+
+algorithm - Skip List vs. Binary Search Tree - Stack Overflow
+https://stackoverflow.com/questions/256511/skip-list-vs-binary-search-tree/28270537#28270537
+
+CiteSeerX — Direct Construction of Minimal Acyclic Subsequential Transducers
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.24.3698
+
+Delve inside the Lucene indexing mechanism
+https://web.archive.org/web/20130904073403/http://www.ibm.com/developerworks/library/wa-lucene/
+
+Apache Lucene - Index File Formats
+https://lucene.apache.org/core/3_6_2/fileformats.html
+
+org.apache.lucene.codecs.lucene410 (Lucene 4.10.2 API)
+https://lucene.apache.org/core/4_10_2/core/org/apache/lucene/codecs/lucene410/package-summary.html#package_description
+
+Porter Stemming Algorithm
+https://tartarus.org/martin/PorterStemmer/
+
+Apache Lucene - Index File Formats
+https://lucene.apache.org/core/3_0_3/fileformats.html#Index%20File%20Formats
+
+algorithm - Skip List vs. Binary Search Tree - Stack Overflow
+https://stackoverflow.com/questions/256511/skip-list-vs-binary-search-tree#260277
+
+how lucene use skip list in inverted index? - Stack Overflow
+https://stackoverflow.com/questions/13677514/how-lucene-use-skip-list-in-inverted-index
+
+lucene skip list - Google Search
+https://www.google.com/search?q=lucene+skip+list&oq=lucene+skip+list&aqs=chrome..69i57j69i60.2941j0j1&sourceid=chrome&ie=UTF-8
+
+MultiLevelSkipListWriter (Lucene 6.1.0 API)
+https://lucene.apache.org/core/6_1_0/core/org/apache/lucene/codecs/MultiLevelSkipListWriter.html
+
+Exploring Solr Internals : The Lucene Inverted Index - Sease
+https://sease.io/2015/07/exploring-solr-internals-lucene.html
+
+Faster postings list intersection via skip pointers
+https://nlp.stanford.edu/IR-book/html/htmledition/faster-postings-list-intersection-via-skip-pointers-1.html
+
+Introduction to Information Retrieval
+https://nlp.stanford.edu/IR-book/
+
+Exploring Lucene's Indexing Code: Part 2 - Lucidworks
+https://lucidworks.com/post/exploring-lucenes-indexing-code-part-2/
+
+Exploring Lucene's Indexing Code: Part 1 - Lucidworks
+https://lucidworks.com/post/exploring-lucenes-indexing-code-part-1/
+
+Skip list - Wikipedia
+https://en.wikipedia.org/wiki/Skip_list
+
+org.apache.lucene.index.MultiLevelSkipListReader (Java2HTML)
+https://www.cc.gatech.edu/computing/pag/tmp/libanalysis/typestate/lusearch/org/apache/lucene/index/MultiLevelSkipListReader.java.html
+
+Apache Download Mirrors
+https://www.apache.org/dyn/closer.lua/lucene/java/8.6.3/lucene-8.6.3-src.tgz
 
 # facebook
 
@@ -276,6 +465,11 @@ https://research.fb.com/publications/cubrick-indexing-millions-of-records-per-se
 
 Cubrick: A Scalable Distributed MOLAP Database for Fast Analytics - Facebook Research
 https://research.fb.com/publications/cubrick-a-scalable-distributed-molap-database-for-fast-analytics/
+
+## presto
+
+1.2. Presto Concepts — Presto 0.241 Documentation
+https://prestodb.io/docs/current/overview/concepts.html
 
 # Grammarly
 
