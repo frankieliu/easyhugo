@@ -1,5 +1,5 @@
 +++
-categories = [""]
+vategories = [""]
 tags = [""]
 title = "Algorithms"
 date = "2020-09-07T13:20:43-07:00"
@@ -56,6 +56,17 @@ https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-
 
 Sieve of Eratosthenes - Wikipedia
 https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#:~:text=In%20mathematics%2C%20the%20sieve%20of,up%20to%20any%20given%20limit.&text=The%20multiples%20of%20a%20given,is%20equal%20to%20that%20prime.
+
+## grey code
+
+swar techniques - Google Search
+https://www.google.com/search?q=swar+techniques&oq=swar+techniques&aqs=chrome..69i57.3015j0j7&sourceid=chrome&ie=UTF-8
+
+How do I convert a number to and from Grey Code? - Quora
+https://www.quora.com/How-do-I-convert-a-number-to-and-from-Grey-Code
+
+The Aggregate Magic Algorithms
+http://aggregate.org/MAGIC/#Gray%20Code%20Conversion
 
 # puzzles
 

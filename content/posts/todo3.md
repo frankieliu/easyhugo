@@ -1,26 +1,4 @@
-rosen discrete math solutions manual - Google Search
-https://www.google.com/search?q=rosen+discrete+math+solutions+manual&oq=rosen+discrete+math+solutions+manual&aqs=chrome..69i57.6711j0j4&sourceid=chrome&ie=UTF-8
 
-Solutions to Discrete Mathematics and Its Applications (9780073383095), Pg. 245 :: Homework Help and Answers :: Slader
-https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition/245/
-
-3155 Silver Creek Rd - Google Maps
-https://www.google.com/maps/place/3155+Silver+Creek+Rd,+San+Jose,+CA+95121/@37.3072818,-121.8308871,14z/data=!4m5!3m4!1s0x808e3281a916bbeb:0x751bf377ba285bb!8m2!3d37.3072818!4d-121.8133776
-
-2155 Morrill Ave - Google Maps
-https://www.google.com/maps/place/2155+Morrill+Ave,+San+Jose,+CA+95132/@37.41369,-121.878907,17z/data=!3m1!4b1!4m5!3m4!1s0x808fce9643290299:0x25c9f6fbdbe4d4ce!8m2!3d37.41369!4d-121.8767183
-
-Sign off - Kaiser Permanente
-https://healthy.kaiserpermanente.org/health/care/consumer/dis/signoff
-
-How do I convert a number to and from Grey Code? - Quora
-https://www.quora.com/How-do-I-convert-a-number-to-and-from-Grey-Code
-
-The Aggregate Magic Algorithms
-http://aggregate.org/MAGIC/#Gray%20Code%20Conversion
-
-swar techniques - Google Search
-https://www.google.com/search?q=swar+techniques&oq=swar+techniques&aqs=chrome..69i57.3015j0j7&sourceid=chrome&ie=UTF-8
 
 Parallel Prefix Algorithms - Chessprogramming wiki
 https://www.chessprogramming.org/Parallel_Prefix_Algorithms
