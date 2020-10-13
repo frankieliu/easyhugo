@@ -37,6 +37,9 @@ https://www.levels.fyi/addcomp.html
 Compare salaries and career levels across companies | Levels.fyi
 https://www.levels.fyi/
 
+Compare salaries and career levels across companies | Levels.fyi
+https://www.levels.fyi/
+
 # search jobs
 
 Search | Velvet Jobs
@@ -47,6 +50,9 @@ https://www.linkedin.com/jobs/view/1989853533/?lgTemp=jobs_jymbii_digest&eBP=Not
 
 UserLeap - UserLeap is changing the way companies solve complex business problems
 https://userleap.com/company.html
+
+SWE Referral Request Form
+https://docs.google.com/forms/d/e/1FAIpQLSd72eW8gFPIq7HxfCNMyJeMQfFXLV5SAwOqXU8kF_6LmWOylQ/viewform
 
 # blind
 
@@ -723,7 +729,16 @@ https://www.confluent.io/careers/#open-positions
 Confluent - Engineering Manager, Stream Processing
 https://jobs.lever.co/confluent/500bbeca-5fe2-4f11-8f46-f3d9ee61a934
 
+# dascena
+
+Dascena: Overview | LinkedIn
+https://www.linkedin.com/company/dascena/
+
+Careers | Dascena
+https://www.dascena.com/careers
+
 # dremio
+
 Join Our Team - Dremio
 https://www.dremio.com/careers/#jobs-list
 
@@ -739,10 +754,42 @@ https://www.dremio.com/careers/job/?gh_jid=4172191003
 Self-service data and analytics on your cloud data lake - Dremio
 https://www.dremio.com/product/
 
+# facebook
+
+Is it true that you don't have a work-life balance if you work at Google or Facebook, and is it further true that Google employees are publicly shamed if they leave the office at 5:00 pm? - Quora
+https://www.quora.com/Is-it-true-that-you-dont-have-a-work-life-balance-if-you-work-at-Google-or-Facebook-and-is-it-further-true-that-Google-employees-are-publicly-shamed-if-they-leave-the-office-at-5-00-pm
+
+What's the worst thing about working at Facebook? - Quora
+https://www.quora.com/Whats-the-worst-thing-about-working-at-Facebook
+
+Philipsu 2012 08 Ten Things I Hate About Working At Facebook に何も見つかりません
+https://worldofsu.com/philipsu/2012/08/ten-things-i-hate-about-working-at-facebook/
+
+Philipsu 2012 08 Ten Things I Hate About Working At Facebook に何も見つかりません
+https://worldofsu.com/philipsu/2012/08/ten-things-i-hate-about-working-at-facebook/
+
+Do people working at Google or Facebook worry about their job security? - Quora
+https://www.quora.com/Do-people-working-at-Google-or-Facebook-worry-about-their-job-security
+
+Why is it so stressful to work at Facebook? - Quora
+https://www.quora.com/Why-is-it-so-stressful-to-work-at-Facebook
+
+What is the most frustrating thing about working for Facebook? - Quora
+https://www.quora.com/What-is-the-most-frustrating-thing-about-working-for-Facebook
+
+Why do people not like working at Facebook? - Quora
+https://www.quora.com/Why-do-people-not-like-working-at-Facebook
+
+What's it like to start work at Facebook? - Quora
+https://www.quora.com/Whats-it-like-to-start-work-at-Facebook
+
+How Working At Facebook, Google, And Pinterest Made Me A Better Story
+https://www.fastcompany.com/3063133/how-working-at-facebook-google-and-pinterest-made-me-a-powerful-storyteller
 # firebolt
 
 Contact Us - Firebolt
 https://www.firebolt.io/contact
+
 
 # hashicorp
 
@@ -820,6 +867,24 @@ https://analyze.primer.ai/queries/21f4c6b1-1ee6-4b99-8569-2c1cb7c02d4a/overview
 Careers | Narrative Science
 https://narrativescience.com/careers/?p=job%2FoKcrdfwk#jobs
 
+Power law - Wikipedia
+https://en.wikipedia.org/wiki/Power_law
+
+Self-organized criticality - Wikipedia
+https://en.wikipedia.org/wiki/Self-organized_criticality
+
+Power law - Wikipedia
+https://en.wikipedia.org/wiki/Power_law#cite_note-27
+
+Zavain Dar on Twitter: "Lux x @DCVC x @AmplifyPartners backed @Primer_ai has not so quietly 4x'd this year w/ mid 8 figures revenue across Fortune 500, global institutions, &amp; government. Case &amp; point: partnering with SOCOM combatting pervasive online propaganda &amp; disinformation: https://t.co/jjKvOgEFyn" / Twitter
+https://twitter.com/zavaindar/status/1311722636565712896
+
+[2002.09836] Fill in the BLANC: Human-free quality estimation of document summaries
+https://arxiv.org/abs/2002.09836
+
+Primer | Machine Readers Judging Machine Writers
+https://primer.ai/blog/machine-readers-judging-machine-writers/
+
 # ray
 
 Ray Summit | Free Virtual Event | Linux Foundation Events
@@ -847,13 +912,11 @@ https://careers.robinhood.com/
 Robinhood - Careers
 https://careers.robinhood.com/openings?gh_jid=2279703
 
-
 # roblox
 
 ROBLOX Mission, Vision & Values | Comparably
 https://www.comparably.com/companies/roblox/mission
 
-k
 # snowflake
 
 Snowflake Leadership and Board of Directors | Get to Know the Team

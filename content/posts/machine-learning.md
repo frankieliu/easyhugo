@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=w9_hJtYEguU&feature=youtu.be
 # stanford
 https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture
 
+Index of /notes
+http://cs229.stanford.edu/notes/?C=M;O=A
 # swe 
 
 Software Engineering for Data Scientists

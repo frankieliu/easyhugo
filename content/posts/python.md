@@ -36,6 +36,12 @@ https://github.com/python/cpython
 Built-in Types — Python 3.8.5 documentation
 https://docs.python.org/3/library/stdtypes.html#dict
 
+Get / determine the type of an object in Python: type(), isinstance() | note.nkmk.me
+https://note.nkmk.me/en/python-type-isinstance/
+
+What's the canonical way to check for type in Python? - Stack Overflow
+https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python
+
 # lists
 ## Iterating over two elements at a time
 python - Iterating over every two elements in a list - Stack Overflow
@@ -70,6 +76,14 @@ Use json.dumps(indent=2)
 Python and default dict, how to pprint - Stack Overflow
 https://stackoverflow.com/questions/12925052/python-and-default-dict-how-to-pprint
 
+## remove vs discard
+
+remove requires element to be present
+discard works even if element is not present
+
+Python | remove() and discard() in Sets - GeeksforGeeks
+https://www.geeksforgeeks.org/python-remove-discard-sets/
+
 # string
 
 ## re
@@ -99,6 +113,7 @@ https://pyformat.info/
 
 Python f-string tutorial - formatting strings in Python with f-string
 http://zetcode.com/python/fstring/
+
 
 # enum
 
@@ -139,6 +154,7 @@ https://stackoverflow.com/questions/44012479/intersection-of-two-counters
 
 Sum all values of a counter in Python 2 - Stack Overflow
 https://stackoverflow.com/questions/32511444/sum-all-values-of-a-counter-in-python-2/32511486#32511486
+
 
 
 # itertools
