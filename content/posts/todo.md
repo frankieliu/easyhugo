@@ -1,21 +1,8 @@
-
-My Drive - Google Drive
-https://drive.google.com/drive/u/0/my-drive
-
-FrankieYLiu_resume - Google Docs
-https://docs.google.com/document/d/1uOxaqolOzUcM2JCfmCCrckB7pco2ihFAyJwvJmwAT_4/edit
-
-"oliver le bloch" | Search | LinkedIn
-https://www.linkedin.com/search/results/all/?keywords=oliver%20le%20bloch&origin=GLOBAL_SEARCH_HEADER
-
 Writing a reverse proxy/loadbalancer from the ground up in C, part 0: introduction | GilesThomas.com
 http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/
 
 scratch | Search Results | GilesThomas.com
 http://www.gilesthomas.com/?s=scratch
-
-writing a distributed lock from scratch - Google Search
-https://www.google.com/search?sxsrf=ALeKk011XyeGgvtT8Lz0fdPlAcxnwfjZFA%3A1601713913166&ei=-TZ4X8ndCYjI-gS86IvgCQ&q=writing+a+distributed+lock+from+scratch&oq=writing+a+distributed+lock+from+scratch&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoFCAAQkQI6CwguELEDEMcBEKMCOggIABCxAxCDAToOCC4QsQMQgwEQxwEQowI6BQgAELEDOgQIABBDOgUILhCxAzoCCAA6AgguOgQIABANOgYIABANEB46CAgAEAgQDRAeOgYIABAWEB46CAghEBYQHRAeOgUIIRCgAToFCCEQqwI6BwghEAoQoAFQosioCVjhg6kJYJyFqQloBHAEeACAAW2IAfQckgEEMzQuOZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwiJvs2mgZjsAhUIpJ4KHTz0ApwQ4dUDCA0&uact=5
 
 How to do distributed locking — Martin Kleppmann’s blog
 https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
@@ -32,47 +19,8 @@ https://www.alibabacloud.com/help/doc-detail/146758.htm
 Distributed locking with Redis. Using Redis as a distributed locking… | by Rohan Saraf | Medium
 https://medium.com/@rohansaraf/distributed-locking-with-redis-ecb0773e7695
 
-Sign off - Kaiser Permanente
-https://healthy.kaiserpermanente.org/health/care/consumer/dis/signoff
-
-News Feed — Nextdoor
-https://nextdoor.com/news_feed/?post=163280134&is=tpe&mar=false&ct=0rsHXxrgcbkihzVk_qu2dhMPbme5kBXnl9u19mBDeboo6u3UylPZAuB8DT1kjvNF&ec=OWKiQRDj9vEHAYwTV6YMARldwuFdgGkeefhwfGYAE0s%3D
-
-(1) Facebook Marketplace | Facebook
-https://www.facebook.com/marketplace
-
-Diagram syntax intro · mermaid
-https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/n00b-syntaxReference.html
-
-Support for Font Awesome icons · Issue #186 · shd101wyy/markdown-preview-enhanced
-https://github.com/shd101wyy/markdown-preview-enhanced/issues/186
-
-New Issue · iamcco/markdown-preview.nvim
-https://github.com/iamcco/markdown-preview.nvim/issues/new?assignees=&labels=&template=bug_report.md&title=
-
-https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css
-https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css
-
-ubuntu - Yarn install command error No such file or directory: 'install' - Stack Overflow
-https://stackoverflow.com/questions/46013544/yarn-install-command-error-no-such-file-or-directory-install
-
-No matching autocommands · Issue #43 · iamcco/markdown-preview.nvim
-https://github.com/iamcco/markdown-preview.nvim/issues/43
-
 How to update a submodule version to latest ? by manobi · Pull Request #80 · tj/git-extras
 https://github.com/tj/git-extras/pull/80
-
-New Tab
-chrome://newtab/
-
-New Issue · iamcco/markdown-preview.nvim
-https://github.com/iamcco/markdown-preview.nvim/issues/new?assignees=&labels=&template=bug_report.md&title=
-
-New Tab
-chrome://newtab/
-
-throughput bandwidth - Google Search
-https://www.google.com/search?q=throughput+bandwidth&oq=throughput+bandwidth&aqs=chrome..69i57.8215j0j9&sourceid=chrome&ie=UTF-8
 
 Flowchart · mermaid
 https://mermaid-js.github.io/mermaid/diagrams-and-syntax-and-examples/flowchart.html
@@ -1343,56 +1291,6 @@ https://www.google.com/search?q=ntro_to_Algo_Selected_Solutions.pdf&oq=ntro_to_A
 quad tree k-d tree - Google Search
 https://www.google.com/search?tbm=bks&q=quad+tree+k-d+tree
 
-data lake paper databricks - Google Search
-https://www.google.com/search?q=data+lake+paper+databricks&oq=data+lake+paper+databricks&aqs=chrome..69i57.8035j0j7&sourceid=chrome&ie=UTF-8
-
-lecture slides for amortized analysis cormen - Google Search
-https://www.google.com/search?q=lecture+slides+for+amortized+analysis+cormen&oq=lecture+slides+for+amortized+analysis+cormen&aqs=chrome..69i57.7904j0j7&sourceid=chrome&ie=UTF-8
-
-Dynamic Programming on Broken Profile. Problem "Parquet" - Competitive Programming Algorithms
-https://cp-algorithms.com/dynamic_programming/profile-dynamics.html
-
-Broken profile dynamic programming
-https://coderevilbuggy.blogspot.com/2018/05/broken-profile-dynamic-programming.html
-
-FAANGPath 🔥 SDE Skills ~ Building the Best Version of your Resume ~ on 11th Oct, 9 A.M. PDT
-https://docs.google.com/forms/d/1aNAkHV4t7FpinQePpPDH7bO5eSqs5VqXdzOKv0L4UaQ/prefill
-
-redshift - Google Search
-https://www.google.com/search?q=redshift&oq=redshift&aqs=chrome..69i57.2352j0j7&sourceid=chrome&ie=UTF-8
-
-About - Apache Iceberg
-https://iceberg.apache.org/
-
-A Git-Like Experience for Data Lakes - Dremio
-https://www.dremio.com/introducing-project-nessie/
-
-Dynamo (storage system) - Wikipedia
-https://en.wikipedia.org/wiki/Dynamo_(storage_system)#:~:text=Amazon%20DynamoDB%20is%20%22built%20on,DynamoDB%20uses%20single%2Dleader%20replication.
-
-cassandra book - Google Search
-https://www.google.com/search?q=cassandra+book&oq=cassandra+book&aqs=chrome..69i57j69i60.3607j0j7&sourceid=chrome&ie=UTF-8
-
-Inbox (28,310) - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox
-
-新相亲大会_荔枝网视频
-http://v.jstv.com/xxqsd/
-
-Index of /notes
-http://cs229.stanford.edu/notes/?C=M;O=A
-
-BoardGameGeek | Gaming Unplugged Since 2000
-https://boardgamegeek.com/
-
-(Amazon Lightning deal) Zen Garden $34.22 | BoardGameGeek
-https://boardgamegeek.com/thread/2519053/amazon-lightning-deal-zen-garden-3422
-
-Amazon.com: Bits and Pieces –Original Standard Wooden Jigsaw Puzzle Plateau-The Complete Puzzle Storage System: Toys & Games
-https://www.amazon.com/dp/B00C5VMW7G/ref=sspa_dk_detail_8?psc=1&pd_rd_i=B00C5VMW7G&pd_rd_w=2WgFS&pf_rd_p=7d37a48b-2b1a-4373-8c1a-bdcc5da66be9&pd_rd_wg=GgGSz&pf_rd_r=0VP049T9BN3F0A20ETFS&pd_rd_r=8de0a40e-90ec-403d-a772-f9d201aa8fd0&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOFk4VDlVMkkyS082JmVuY3J5cHRlZElkPUEwMTgyNTAxMURaT0I5WTM5NzNUSSZlbmNyeXB0ZWRBZElkPUEwNDQ4NTQ1MUxYR0lOQ0pCN1VOUCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
-
-New Tab
-chrome://newtab/
 
 (3) Marketplace - elephant bush succulent | Facebook
 https://www.facebook.com/marketplace/item/1305525316549901
@@ -1451,7 +1349,7 @@ https://bookos-z1.org/book/2872013/1b3481
 Introduction to the Design and Analysis of Algorithms (2nd Edition) | Anany Levitin | download
 https://bookos-z1.org/book/1104957/833212
 
-ntro_to_Algo_Selected_Solutions.pdf - Google Search
+Intro_to_Algo_Selected_Solutions.pdf - Google Search
 https://www.google.com/search?q=ntro_to_Algo_Selected_Solutions.pdf&oq=ntro_to_Algo_Selected_Solutions.pdf&aqs=chrome..69i57.497j0j4&sourceid=chrome&ie=UTF-8
 
 quad tree k-d tree - Google Search
@@ -1547,35 +1445,6 @@ https://nptel.ac.in/courses/111/102/111102012/
 linear programming - Balancing an Unbalanced Assignment problem using optimization techniques - Mathematics Stack Exchange
 https://math.stackexchange.com/questions/2353890/balancing-an-unbalanced-assignment-problem-using-optimization-techniques
 
-google-100120.html
-file:///home/adam/github/leet-200/google-100120.html
-
-(12) Explore - LeetCode
-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/
-
-(12) Find Positive Integer Solution for a Given Equation - Submission Detail - LeetCode
-https://leetcode.com/submissions/detail/408104857/
-
-(12) Maximum Depth of N-ary Tree - LeetCode
-https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/
-
-(12) Maximum Depth of N-ary Tree - Submission Detail - LeetCode
-https://leetcode.com/submissions/detail/408087582/
-
-(12) Baseball Game - LeetCode
-https://leetcode.com/problems/baseball-game/submissions/
-
-(12) Shortest Word Distance - LeetCode
-https://leetcode.com/problems/shortest-word-distance/submissions/
-
-(12) Rearrange Spaces Between Words - LeetCode
-https://leetcode.com/problems/rearrange-spaces-between-words/submissions/
-
-(12) Rearrange Spaces Between Words - Submission Detail - LeetCode
-https://leetcode.com/submissions/detail/408100312/
-
-(12) Count Primes - LeetCode
-https://leetcode.com/problems/count-primes/
 
 Dynamic Programming on Broken Profile. Problem "Parquet" - Competitive Programming Algorithms
 https://cp-algorithms.com/dynamic_programming/profile-dynamics.html
@@ -1685,15 +1554,6 @@ https://itsfoss.com/record-streaming-audio/
 how to install gstreamer plugins ubuntu - Google Search
 https://www.google.com/search?q=how+to+install+gstreamer+plugins+ubuntu&oq=how+to+install+gstreamer+plugins+ubuntu&aqs=chrome..69i57.7912j0j7&sourceid=chrome&ie=UTF-8
 
-New Tab
-chrome://newtab/
-
-New Tab
-chrome://newtab/
-
-New Tab
-chrome://newtab/
-
 Amazon.com: The Art of Concurrency: A Thread Monkey's Guide to Writing Parallel Applications (9780596521530): Breshears, Clay: Books
 https://www.amazon.com/Art-Concurrency-Monkeys-Parallel-Applications/dp/0596521537
 
@@ -1751,9 +1611,6 @@ https://www.facebook.com/marketplace/item/358959705525308
 Amazon.com: Kingdom Hearts The Story So Far - PlayStation 4: Square Enix LLC: Video Games
 https://www.amazon.com/gp/product/B07J2KVXY3/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1
 
-Kingdom Hearts The Story So Far - Kingdom Hearts Wiki, the Kingdom Hearts encyclopedia
-https://www.khwiki.com/Kingdom_Hearts_The_Story_So_Far
-
 How do I close a single buffer (out of many) in Vim? - Stack Overflow
 https://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim
 
@@ -1768,6 +1625,3 @@ https://www.ziprecruiter.com/blog/how-to-stall-a-job-offer/
 
 vcxsrv help.txt
 https://gist.github.com/ctaggart/68ead4d0d942b240061086f4ba587f5f
-
-New Tab
-chrome://newtab/
