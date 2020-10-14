@@ -11,6 +11,15 @@ draft = false
 Main Page - Competitive Programming Algorithms
 https://cp-algorithms.com/
 
+## book
+### cormen
+
+solutions cormen 3rd edition - Google Search
+https://www.google.com/search?q=solutions+cormen+3rd+edition&oq=solutions+cormen+3rd+edition&aqs=chrome..69i57.670130j0j7&sourceid=chrome&ie=UTF-8
+
+CLRS Solutions
+https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+
 # blog
 
 boundary – Huahua's Tech Road
@@ -82,17 +91,6 @@ https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-
 
 Sieve of Eratosthenes - Wikipedia
 https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#:~:text=In%20mathematics%2C%20the%20sieve%20of,up%20to%20any%20given%20limit.&text=The%20multiples%20of%20a%20given,is%20equal%20to%20that%20prime.
-
-## grey code
-
-swar techniques - Google Search
-https://www.google.com/search?q=swar+techniques&oq=swar+techniques&aqs=chrome..69i57.3015j0j7&sourceid=chrome&ie=UTF-8
-
-How do I convert a number to and from Grey Code? - Quora
-https://www.quora.com/How-do-I-convert-a-number-to-and-from-Grey-Code
-
-The Aggregate Magic Algorithms
-http://aggregate.org/MAGIC/#Gray%20Code%20Conversion
 
 # puzzles
 
@@ -198,6 +196,43 @@ https://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tre
 
 Community - Competitive Programming - Competitive Programming Tutorials - Binary Indexed Trees
 https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/
+
+## kd tree quad tree
+
+(8) Construct Quad Tree - LeetCode
+https://leetcode.com/problems/construct-quad-tree/
+
+kd tree - Google Search
+https://www.google.com/search?q=kd+tree&oq=kd+tree&aqs=chrome..69i57.1231j0j1&sourceid=chrome&ie=UTF-8
+
+## skip list
+
+Skip list - Wikipedia
+https://en.wikipedia.org/wiki/Skip_list
+
+Skip List | Brilliant Math & Science Wiki
+https://brilliant.org/wiki/skip-lists/
+
+jdk7u-jdk/ConcurrentSkipListMap.java at master · openjdk-mirror/jdk7u-jdk
+https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/concurrent/ConcurrentSkipListMap.java
+
+random — Generate pseudo-random numbers — Python 3.9.0 documentation
+https://docs.python.org/3/library/random.html
+
+lazy skip list - Google Search
+https://www.google.com/search?sxsrf=ALeKk03L0MK2CNhz9kTL0RaSvQtndbLeEA%3A1602304429056&ei=rTmBX8-HA82x0PEPscmsuAE&q=lazy+skip+list&oq=lazy+skip+list&gs_lcp=CgZwc3ktYWIQAzIFCCEQqwI6BAgAEEc6BwgjELACECc6BwghEAoQoAE6BwgjEOoCECc6BAgjECc6BAgAEEM6BQgAEJECOggILhCxAxCDAToKCC4QsQMQgwEQQzoICAAQsQMQgwE6AggAOgcIABCxAxBDOg4ILhCxAxCDARDHARCjAjoLCC4QsQMQxwEQowI6DgguELEDEIMBEMcBEK8BOgcIABDJAxBDOgUIABCxAzoFCC4QsQM6DgguEMcBEK8BEMkDEJMCOgUIABDJAzoGCAAQFhAeOggIABAWEAoQHjoJCAAQyQMQFhAeUMuVBljCzgZgsc8GaANwBXgDgAF_iAHpHpIBBTMxLjEymAEAoAEBqgEHZ3dzLXdperABCsgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiPksOSmansAhXNGDQIHbEkCxcQ4dUDCA0&uact=5
+
+Skip Lists Done Right | Hacker News
+https://news.ycombinator.com/item?id=13210687
+
+skiplist not disk friendly - Google Search
+https://www.google.com/search?q=skiplist+not+disk+friendly&sxsrf=ALeKk03V8z4tMScYp4kzYR8QAYtPcTvLUA:1602307468251&ei=jEWBX5bqDpXz-gSMx7CQAw&start=10&sa=N&ved=2ahUKEwiW4Ny7pKnsAhWVuZ4KHYwjDDIQ8NMDegQIDBBC&biw=1349&bih=705
+
+data structures - Why are skip lists not preferred over B+-trees for databases? - Stack Overflow
+https://stackoverflow.com/questions/21828834/why-are-skip-lists-not-preferred-over-b-trees-for-databases
+
+[LUCENE-866] Multi-level skipping on posting lists - ASF JIRA
+https://issues.apache.org/jira/browse/LUCENE-866
 
 # graphs
 ## books
@@ -501,6 +536,7 @@ https://www.usenix.org/conference/atc18/presentation/gong
 
 pyprobables API — probables 0.3.2 documentation
 https://pyprobables.readthedocs.io/en/latest/code.html#heavyhitters
+
 
 # reading group
 

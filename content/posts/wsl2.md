@@ -31,6 +31,54 @@ http://www.straightrunning.com/XmingNotes/fonts.php
 xcfe
 https://www.reddit.com/r/bashonubuntuonwindows/comments/4warx0/xfce4_runs_flawlessly_over_vnc/
 
+
+How to run graphical Linux applications on Windows 10 using the Windows Subsystem for Linux (WSL) - seanthegeek.net
+https://seanthegeek.net/234/graphical-linux-applications-bash-ubuntu-windows/
+
+WSL - Ubuntu Wiki
+https://wiki.ubuntu.com/WSL
+
+iTechno Fahim | Ultimate Free Tips
+https://itechnofahim.blogspot.com/2020/08/kali-linux-on-windows-in-5min-wsl-2-gui.html
+
+Can't use X-Server in WSL 2 · Issue #4106 · microsoft/WSL
+https://github.com/microsoft/WSL/issues/4106
+
+VcXsrv Windows X Server download | SourceForge.net
+https://sourceforge.net/projects/vcxsrv/
+
+DISPLAY from /etc/resolv.conf WSL2 [Windows Version 10.0.19041.508] · Issue #6079 · microsoft/WSL
+https://github.com/microsoft/WSL/issues/6079
+
+paul-reilly/WSL2-Xming-Init: Powershell script to set IP addresses in Window and Linux for Xming and WSL2 to work with WSL2's dynamic IP address
+https://github.com/paul-reilly/WSL2-Xming-Init
+
+cascadium/wsl-windows-toolbar-launcher: Adds linux GUI application menu to a windows toolbar
+https://github.com/cascadium/wsl-windows-toolbar-launcher#firewall-rules
+
+ubuntu - WSL 2: Run Graphical Linux Desktop Applications from Windows 10 Bash Shell "Error E233: cannot open display" - Stack Overflow
+https://stackoverflow.com/questions/61860208/wsl-2-run-graphical-linux-desktop-applications-from-windows-10-bash-shell-erro
+
+Updating the WSL 2 Linux kernel | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel
+
+WSL 2 Frequently Asked Questions | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/wsl/wsl2-faq
+
+Release Notes for Windows Subsystem for Linux | Microsoft Docs
+https://docs.microsoft.com/en-us/windows/wsl/release-notes
+
+Can't use X-Server in WSL 2 · Issue #4106 · microsoft/WSL
+https://github.com/microsoft/WSL/issues/4106
+
+windows 10 - How to set up working X11 forwarding on WSL2 - Stack Overflow
+https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwarding-on-wsl2
+
+Setting up Windows for developers with WSL2 | Kenny on IT
+https://kenny.yeoyou.net/it/2020/09/10/windows-development-environment.html
+
+cascadium/wsl-windows-toolbar-launcher: Adds linux GUI application menu to a windows toolbar
+https://github.com/cascadium/wsl-windows-toolbar-launcher#firewall-rules
 ## opengl
 
 190245 ? OpenGL apps report GLXBadContext X error on x86_64

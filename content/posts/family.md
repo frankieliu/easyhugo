@@ -108,6 +108,10 @@ https://www.facebook.com/marketplace/item/635376757413024
 How to Replant a Tree (with Pictures) - wikiHow
 https://www.wikihow.com/Replant-a-Tree#:~:text=Remove%20the%20tree%20from%20the,and%20out%20of%20the%20ground.
 
+## soil
+
+What Is Cactus Mix: How To Make Cactus Soil For Indoor Plants
+https://www.gardeningknowhow.com/ornamental/cacti-succulents/scgen/cactus-potting-soil.htm
 # Dating with the Parents
 
 Xin Xiang Qin Shi Dai

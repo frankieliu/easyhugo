@@ -6,10 +6,16 @@ date = "2020-09-07T12:59:24-07:00"
 draft = false
 +++
 
+# kaggle
+
+Learn Intro to Deep Learning Tutorials | Kaggle
+https://www.kaggle.com/learn/intro-to-deep-learning
+
 # precision recall
 
 Precision and recall - Wikipedia
 https://en.wikipedia.org/wiki/Precision_and_recall
+
 
 # regularization
 
@@ -159,3 +165,21 @@ https://ieeexplore-ieee-org.stanford.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=7
 
 UNet. Introducing Symmetry in Segmentation | by Heet Sankesara | Towards Data Science
 https://towardsdatascience.com/u-net-b229b32b4a71
+
+# nlp
+
+Stanford CS 224N | Natural Language Processing with Deep Learning
+http://web.stanford.edu/class/cs224n/
+
+Speech and Language Processing
+https://web.stanford.edu/~jurafsky/slp3/
+
+gt-nlp-class/eisenstein-nlp-notes.pdf at master · jacobeisenstein/gt-nlp-class
+https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+
+Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/
+
+Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning | Delip Rao, Brian McMahan | download
+https://bookos-z1.org/book/3711505/debacd
+

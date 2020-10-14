@@ -74,3 +74,29 @@ https://support.discord.com/hc/en-us/community/posts/360040900831-Allow-autoscro
 
 How to Install Microsoft Fonts on Ubuntu Linux [Easy Way]
 https://itsfoss.com/install-microsoft-fonts-ubuntu/
+
+# apt
+
+Find packages installed from a certain repository with aptitude - Super User
+https://superuser.com/questions/132346/find-packages-installed-from-a-certain-repository-with-aptitude
+
+apt - Generating list of manually installed packages and querying individual packages - Ask Ubuntu
+https://askubuntu.com/questions/2389/generating-list-of-manually-installed-packages-and-querying-individual-packages
+
+# snap
+
+Installing snap on Ubuntu | Snapcraft documentation
+https://snapcraft.io/docs/installing-snap-on-ubuntu
+
+software installation - Are Snaps installed system wide, or per user? - Ask Ubuntu
+https://askubuntu.com/questions/1020644/are-snaps-installed-system-wide-or-per-user
+
+How to move 'snap' folder away from home location in Linux - CIALU.NET
+https://cialu.net/how-to-move-snap-folder-away-from-home-location-in-linux/#:~:text=The%20%2Fsnap%20directory%20is%2C%20by,packages%20appear%20on%20your%20system.&text=But%20you%20also%20find%20a,'%20settings%2C%20caches%20and%20more.
+
+Installing snap on Ubuntu | Snapcraft documentation
+https://snapcraft.io/docs/installing-snap-on-ubuntu
+
+software installation - Are Snaps installed system wide, or per user? - Ask Ubuntu
+https://askubuntu.com/questions/1020644/are-snaps-installed-system-wide-or-per-user
+

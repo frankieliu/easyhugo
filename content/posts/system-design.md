@@ -22,6 +22,17 @@ https://pdos.csail.mit.edu/6.824/schedule.html
 6.824 Lab 2: Raft
 https://pdos.csail.mit.edu/6.824/labs/lab-raft.html
 
+# 6.852
+
+6.852: Distributed Algorithms - Massachusetts Institute of Technology - Spring 2008
+http://courses.csail.mit.edu/6.852/08/resources.html
+
+Amazon.com: Distributed Algorithms (The Morgan Kaufmann Series in Data Management Systems) (9781558603486): Lynch, Nancy A.: Books
+https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484
+
+distributed algorithms: free download. Ebooks library. On-line books store on Z-Library
+https://bookos-z1.org/s/distributed%20algorithms
+
 # guide to crack system interview
 
 The complete guide to crack the System Design interview | by Harshith | Towards Data Science
@@ -59,14 +70,6 @@ http://blog.gainlo.co/index.php/category/system-design-interview-questions/
 Distributed Systems: 9781543057386: Computer Science Books @ Amazon.com
 https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/ref=sr_1_3?dchild=1&qid=1600623223&refinements=p_27%3AAndrew+S+Tanenbaum&s=books&sr=1-3&text=Andrew+S+Tanenbaum
 
-# primer
-
-donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-https://github.com/donnemartin/system-design-primer
-
-system-design-primer/MzExP06.png at master · donnemartin/system-design-primer
-https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png
-
 # algoexpert
 
 Design Fundamentals | SystemsExpert
@@ -86,82 +89,40 @@ https://www.scaler.com/event/low-level-design-designing-bookmyshow?rcy=1&rce=67c
 Latency Numbers Every Programmer Should Know
 https://gist.github.com/jboner/2841832
 
-# curator
+# aurora
 
-curator zookeeper - Google Search
-https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&ei=6rBCX9XwFdPw9AOYwaL4DQ&q=curator+zookeeper&oq=curator+zookeeper&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab&ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&uact=5
+aurora db paper - Google Search
+https://www.google.com/search?sxsrf=ALeKk02B-i5brzA-qQkBSmwjUdJnfanEiA%3A1599413482689&ei=6hxVX8HMKbmu0PEPipenkAo&q=aurora+db+paper&oq=aurora+db+paper&gs_lcp=CgZwc3ktYWIQAzICCAA6BAgAEEc6BggAEBYQHlDsFFjfHWCIH2gAcAF4AIABW4gB6wOSAQE2mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjB6e_Dh9XrAhU5FzQIHYrLCaIQ4dUDCA0&uact=5
+
+# big table
+
+bigtable a distributed storage system - Google Scholar
+https://scholar.google.com/scholar?as_sdt=0%2C5&btnG=&hl=en&inst=5746887945952177237&oq=bigtable&q=bigtable%20a%20distributed%20storage%20system
+
+# cache
+
+Summary Cache: A Scalable Wide-Area Web Cache Sharing Protocol
+http://pages.cs.wisc.edu/~cao/papers/summary-cache/share.html
+# cassandra
+
+cassandra book - Google Search
+https://www.google.com/search?q=cassandra+book&oq=cassandra+book&aqs=chrome..69i57j69i60.3607j0j7&sourceid=chrome&ie=UTF-8
+
+# cockroach
+CockroachDB in Comparison | CockroachDB Docs
+https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html
 
 # crdt
 
 Conflict-free replicated data type - Wikipedia
 https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#G-Counter_(Grow-only_Counter)
 
-# time series db
-Writing a Time Series Database from Scratch | Fabian Reinartz
-https://fabxc.org/tsdb/
+# curator
 
-# reverse-proxy load-balancer
+curator zookeeper - Google Search
+https://www.google.com/search?sxsrf=ALeKk005zH-RFKigN_ErxmBcFe_mF5wulg%3A1598206186365&ei=6rBCX9XwFdPw9AOYwaL4DQ&q=curator+zookeeper&oq=curator+zookeeper&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoECCMQJzoECC4QQzoLCC4QsQMQxwEQowI6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoICC4QsQMQgwE6BQguELEDOgIILjoICC4QxwEQowI6BwgAELEDEEM6CAguEMcBEK8BOg0ILhDHARCvARAUEIcCOgcIABAUEIcCOggIABAWEAoQHlCnKViofmCjf2gEcAB4AYAB0QGIAbkMkgEGMTUuMi4xmAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab&ved=0ahUKEwjVjZCA9rHrAhVTOH0KHZigCN8Q4dUDCAw&uact=5
 
-What is a Reverse Proxy vs. Load Balancer? - NGINX
-https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/#:~:text=A%20reverse%20proxy%20accepts%20a,server%20to%20the%20appropriate%20client.
-
-# kafka
-
-Last chance to register for the Confluent ksqlDB Workshop on September 17, 2020 - frankie.y.liu@gmail.com - Gmail
-https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXpQtCsHqnxghkNWcTfXnwKst
-
-KsqlDB Virtual Workshop
-https://events.confluent.io/ksqlvirtualworkshop?mkt_tok=eyJpIjoiWldVNE1XWmtZakZrTW1JMyIsInQiOiJEYkthdHhTU2wzbFwvejhkeEpWR0pYNU94YkY5UjZNVnRyb1M2M1JwcnQwS1M2b1wvQnpSUHZsSTlnaVZBeVV0eW9wdWRjRWpKZGNna3poWm9ZTWNnSnNHdUxJa2k1d3kyVlpqVWRGcnVpYVkxQ2hSYVFcL29NRUpYeGhKQ3prbnJlMSJ9
-
-# sql
-Issues � cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach/labels/good%20first%20issue
-
-# vector clocks
-vector clocks with synchronization - Google Search
-https://www.google.com/search?q=vector+clocks+with+synchronization&rlz=1C1CHBF_enUS811US811&oq=vector+clocks+with+synchronization&aqs=chrome..69i57.16077j0j7&sourceid=chrome&ie=UTF-8
-
-Synchronization in a Distributed System | 8th Light
-https://8thlight.com/blog/rylan-dirksen/2013/10/04/synchronization-in-a-distributed-system.html#:~:text=Vector%20Clocks,-Independently%20developed%20by&text=Instead%20of%20each%20entity%20storing,nodes%20when%20it%20last%20synchronized.
-
-Synchronization between nodes in a distributed system forming a blockchain | by Cosmos Gaming Hub | Cosmos Gaming Hub | Medium
-https://medium.com/cosmosgaminghub/synchronization-609369558ce7
-
-Distributed Systems: Physical, Logical, and Vector Clocks | by Joe Honour | Level Up Coding
-https://levelup.gitconnected.com/distributed-systems-physical-logical-and-vector-clocks-7ca989f5f780
-
-# merkle tree
-Merkle Tree and Anti-Entropy | Bowen's blog
-https://bowenli86.github.io/2016/02/16/distributed%20system/algorithems/Merkle-Tree-and-Anti-Entropy/
-
-# gossip protocol
-Using Gossip Protocols for Failure Detection, Monitoring, Messaging and Other Good�Things - High Scalability -
-http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-detection-monitoring-mess.html
-
-# kafka
-
-Workshop: Real-time Stream Processing with KSQL
-http://fliu.west2020.gcp.confluent-demo.io/
-
-Control Center
-http://fliu:ksqlr0ck$@controlcenter.fliu.west2020.gcp.confluent-demo.io/clusters
-
-ksqlDB Syntax Reference
-https://docs.ksqldb.io/en/0.7.1-ksqldb/developer-guide/syntax-reference/
-
-WeTTy - The Web Terminal Emulator
-http://console.fliu.west2020.gcp.confluent-demo.io/
-
-Workshop: Real-time Stream Processing with KSQL
-http://fliu.west2020.gcp.confluent-demo.io/
-
-Workshop: Real-time Stream Processing with KSQL
-http://fliu.west2020.gcp.confluent-demo.io/
-
-Workshop: Real-time Stream Processing with KSQL
-http://fliu.west2020.gcp.confluent-demo.io/
-
-# data lakes and data warehouses
+# data lakes
 
 ## alluxio
 
@@ -203,10 +164,6 @@ https://iceberg.apache.org/
 redshift - Google Search
 https://www.google.com/search?q=redshift&oq=redshift&aqs=chrome..69i57.2352j0j7&sourceid=chrome&ie=UTF-8
 
-# cassandra
-
-cassandra book - Google Search
-https://www.google.com/search?q=cassandra+book&oq=cassandra+book&aqs=chrome..69i57j69i60.3607j0j7&sourceid=chrome&ie=UTF-8
 
 # dynamo
 
@@ -224,6 +181,73 @@ https://en.wikipedia.org/wiki/Dynamo_(storage_system)
 Dynamo (storage system) - Wikipedia
 https://en.wikipedia.org/wiki/Dynamo_(storage_system)#:~:text=Amazon%20DynamoDB%20is%20%22built%20on,DynamoDB%20uses%20single%2Dleader%20replication.
 
+# dynamodb
+Amazon DynamoDB | NoSQL Key-Value Database | Amazon Web Services
+https://aws.amazon.com/dynamodb/
+
+Anatomy of an Item | DynamoDB, explained.
+https://www.dynamodbguide.com/anatomy-of-an-item
+
+# facebook
+
+## chat
+Facebook
+https://www.facebook.com/notes/facebook-engineering/chat-stability-and-scalability/51412338919/
+
+## thrift
+
+Apache Thrift - About
+http://thrift.apache.org/about
+
+Facebook Engineering - Posts | Facebook
+https://www.facebook.com/Engineering/posts/in-our-previous-news-feed-architecture-stories-were-ranked-on-the-server-then-se/10154545526827200/
+
+Publications - Facebook Research
+https://research.fb.com/publications/
+
+## real-time data processing
+Realtime Data Processing at Facebook - Facebook Research
+https://research.fb.com/publications/realtime-data-processing-at-facebook/
+
+## scuba
+
+Scuba: Diving into Data at Facebook - Facebook Research
+https://research.fb.com/publications/scuba-diving-into-data-at-facebook/
+
+## tao
+
+Bronson: {TAO}: Facebook’s Distributed Data Store... - Google Scholar
+https://scholar.google.com/scholar?cites=12853453264211926595&as_sdt=2005&sciodt=0,5&hl=en&inst=5746887945952177237
+
+## social network
+
+Inside the Social Network's (Datacenter) Network | Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2785956.2787472
+
+Navigating the maze of graph analytics frameworks using massive graph datasets | Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2588555.2610518
+
+## consistency
+
+Existential consistency | Proceedings of the 25th Symposium on Operating Systems Principles
+https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2815400.2815426
+
+## rocks db
+
+Optimizing Space Amplification in RocksDB - Facebook Research
+https://research.fb.com/publications/optimizing-space-amplification-in-rocksdb/
+
+Cubrick: Indexing Millions of Records per Second for Interactive Analytics - Facebook Research
+https://research.fb.com/publications/cubrick-indexing-millions-of-records-per-second-for-interactive-analytics/
+
+Cubrick: A Scalable Distributed MOLAP Database for Fast Analytics - Facebook Research
+https://research.fb.com/publications/cubrick-a-scalable-distributed-molap-database-for-fast-analytics/
+
+## presto
+
+1.2. Presto Concepts — Presto 0.241 Documentation
+https://prestodb.io/docs/current/overview/concepts.html
+
 # gossip
 
 Heartbeat-style Failure Detector using Gossip // Qiu's Quibble
@@ -235,39 +259,69 @@ http://resume.idempotent.ca/
 hashicorp/memberlist: Golang package for gossip based membership and failure detection
 https://github.com/hashicorp/memberlist
 
-# spanner
+Using Gossip Protocols for Failure Detection, Monitoring, Messaging and Other Good�Things - High Scalability -
+http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-detection-monitoring-mess.html
 
-Corbett: Spanner: Google’s globally distributed database - Google Scholar
-https://scholar.google.com/scholar?cites=3523173873845838643&as_sdt=2005&sciodt=0,5&hl=en&inst=5746887945952177237
+# grammarly
 
-# big table
+Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/category/front-end/
 
-bigtable a distributed storage system - Google Scholar
-https://scholar.google.com/scholar?as_sdt=0%2C5&btnG=&hl=en&inst=5746887945952177237&oq=bigtable&q=bigtable%20a%20distributed%20storage%20system
+Under the Hood at Grammarly: Leveraging Transformer Language Models for Grammatical Error Correction | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/under-the-hood-at-grammarly-leveraging-transformer-language-models-for-grammatical-error-correction/
 
-# dynamodb
-Amazon DynamoDB | NoSQL Key-Value Database | Amazon Web Services
-https://aws.amazon.com/dynamodb/
+Under the Hood at Grammarly: Understanding Conversational Sequences with AI | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/understanding-conversational-sequences-with-ai/
 
-Anatomy of an Item | DynamoDB, explained.
-https://www.dynamodbguide.com/anatomy-of-an-item
+Building a Versatile Analytics Pipeline on Top of Apache Spark | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/building-a-versatile-analytics-pipeline-on-top-of-apache-spark/
 
-# cockroach
-CockroachDB in Comparison | CockroachDB Docs
-https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html
+Building ETL Pipelines with Clojure and Transducers | Grammarly Engineering Blog
+https://www.grammarly.com/blog/engineering/building-etl-pipelines-with-clojure-and-transducers/
 
-# aurora
+# graph databases
 
-aurora db paper - Google Search
-https://www.google.com/search?sxsrf=ALeKk02B-i5brzA-qQkBSmwjUdJnfanEiA%3A1599413482689&ei=6hxVX8HMKbmu0PEPipenkAo&q=aurora+db+paper&oq=aurora+db+paper&gs_lcp=CgZwc3ktYWIQAzICCAA6BAgAEEc6BggAEBYQHlDsFFjfHWCIH2gAcAF4AIABW4gB6wOSAQE2mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjB6e_Dh9XrAhU5FzQIHYrLCaIQ4dUDCA0&uact=5
+What is the internal architecture of graph databases such as Titan or Neo4j? - Quora
+https://www.quora.com/What-is-the-internal-architecture-of-graph-databases-such-as-Titan-or-Neo4j
 
-# snowflake
+Quora
+https://www.quora.com/?pa_story=MTI5MDI3ODU4MDc4MTE3NDY5N3wyMTExMDYyMzU0NTU4NjZ8MA**
 
-snowflake sigmod - Google Search
-https://www.google.com/search?sxsrf=ALeKk012zZPHvrn2kVdHPNaZrVl-upLBgw%3A1599414421874&ei=lSBVX8brNIPM-gTZ07_4DQ&q=snowflake+sigmod&oq=snowflake+sigmod&gs_lcp=CgZwc3ktYWIQAzIHCAAQFBCHAjoECAAQRzoLCC4QxwEQrwEQkwI6BQgAELEDOgIIADoICAAQsQMQgwE6CAgAEBYQChAeOgYIABAWEB46BQghEKABOggILhDHARCvAVChZ1iCdmDSd2gCcAJ4AIABWogBsQWSAQE5mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiGituDi9XrAhUDpp4KHdnpD98Q4dUDCA0&uact=5
+Graph Databases, published by O'Reilly Media
+https://graphdatabases.com/
 
-Key Concepts & Architecture — Snowflake Documentation
-https://docs.snowflake.com/en/user-guide/intro-key-concepts.html
+Graph Databases for Dummies Thanks - Neo4j Graph Database Platform
+https://neo4j.com/graph-databases-for-dummies-thanks/?aliId=eyJpIjoiaGkyb1FjZzlTS0ZGaVBZZyIsInQiOiJIcWJuTm44ODc4VG9FQ0ZkTlR4RE5BPT0ifQ%253D%253D
+
+# kafka
+
+Last chance to register for the Confluent ksqlDB Workshop on September 17, 2020 - frankie.y.liu@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXpQtCsHqnxghkNWcTfXnwKst
+
+KsqlDB Virtual Workshop
+https://events.confluent.io/ksqlvirtualworkshop?mkt_tok=eyJpIjoiWldVNE1XWmtZakZrTW1JMyIsInQiOiJEYkthdHhTU2wzbFwvejhkeEpWR0pYNU94YkY5UjZNVnRyb1M2M1JwcnQwS1M2b1wvQnpSUHZsSTlnaVZBeVV0eW9wdWRjRWpKZGNna3poWm9ZTWNnSnNHdUxJa2k1d3kyVlpqVWRGcnVpYVkxQ2hSYVFcL29NRUpYeGhKQ3prbnJlMSJ9
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/
+
+Control Center
+http://fliu:ksqlr0ck$@controlcenter.fliu.west2020.gcp.confluent-demo.io/clusters
+
+ksqlDB Syntax Reference
+https://docs.ksqldb.io/en/0.7.1-ksqldb/developer-guide/syntax-reference/
+
+WeTTy - The Web Terminal Emulator
+http://console.fliu.west2020.gcp.confluent-demo.io/
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/
+
+Workshop: Real-time Stream Processing with KSQL
+http://fliu.west2020.gcp.confluent-demo.io/
+
 # lucene
 
 lucene search - Google Scholar
@@ -411,103 +465,89 @@ https://www.cc.gatech.edu/computing/pag/tmp/libanalysis/typestate/lusearch/org/a
 Apache Download Mirrors
 https://www.apache.org/dyn/closer.lua/lucene/java/8.6.3/lucene-8.6.3-src.tgz
 
-# facebook
+# merkle tree
+Merkle Tree and Anti-Entropy | Bowen's blog
+https://bowenli86.github.io/2016/02/16/distributed%20system/algorithems/Merkle-Tree-and-Anti-Entropy/
 
-## chat
-Facebook
-https://www.facebook.com/notes/facebook-engineering/chat-stability-and-scalability/51412338919/
+# nginx
 
-## thrift
+apache - nginx : Its Multithreaded but uses multiple processes? - Stack Overflow
+https://stackoverflow.com/questions/4764731/nginx-its-multithreaded-but-uses-multiple-processes
 
-Apache Thrift - About
-http://thrift.apache.org/about
+PlanetUnknown: Nginx vs Apache : Is it fast, if yes, why ?
+http://planetunknown.blogspot.com/2011/02/why-nginx-is-faster-than-apache.html
 
-Facebook Engineering - Posts | Facebook
-https://www.facebook.com/Engineering/posts/in-our-previous-news-feed-architecture-stories-were-ranked-on-the-server-then-se/10154545526827200/
+libev
+http://software.schmorp.de/pkg/libev.html
 
-Publications - Facebook Research
-https://research.fb.com/publications/
+Nginx Internals
+https://www.slideshare.net/joshzhu/nginx-internals
+# pinot
 
-## real-time data processing
-Realtime Data Processing at Facebook - Facebook Research
-https://research.fb.com/publications/realtime-data-processing-at-facebook/
+Introducing Apache Pinot 0.3.0 | LinkedIn Engineering
+https://engineering.linkedin.com/blog/2020/apache-pinot-030-update
 
-## scuba
+# primer
 
-Scuba: Diving into Data at Facebook - Facebook Research
-https://research.fb.com/publications/scuba-diving-into-data-at-facebook/
+donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer
 
-## tao
+system-design-primer/MzExP06.png at master · donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png
 
-Bronson: {TAO}: Facebook’s Distributed Data Store... - Google Scholar
-https://scholar.google.com/scholar?cites=12853453264211926595&as_sdt=2005&sciodt=0,5&hl=en&inst=5746887945952177237
+# rate limit
 
-## social network
+Rate-limiting strategies and techniques  |  Solutions  |  Google Cloud
+https://cloud.google.com/solutions/rate-limiting-strategies-techniques
 
-Inside the Social Network's (Datacenter) Network | Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication
-https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2785956.2787472
+Rate limiting - Wikipedia
+https://en.wikipedia.org/wiki/Rate_limiting
 
-Navigating the maze of graph analytics frameworks using massive graph datasets | Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data
-https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2588555.2610518
+# reverse-proxy load-balancer
 
-## consistency
+What is a Reverse Proxy vs. Load Balancer? - NGINX
+https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/#:~:text=A%20reverse%20proxy%20accepts%20a,server%20to%20the%20appropriate%20client.
 
-Existential consistency | Proceedings of the 25th Symposium on Operating Systems Principles
-https://dl-acm-org.stanford.idm.oclc.org/doi/abs/10.1145/2815400.2815426
-
-## rocks db
-
-Optimizing Space Amplification in RocksDB - Facebook Research
-https://research.fb.com/publications/optimizing-space-amplification-in-rocksdb/
-
-Cubrick: Indexing Millions of Records per Second for Interactive Analytics - Facebook Research
-https://research.fb.com/publications/cubrick-indexing-millions-of-records-per-second-for-interactive-analytics/
-
-Cubrick: A Scalable Distributed MOLAP Database for Fast Analytics - Facebook Research
-https://research.fb.com/publications/cubrick-a-scalable-distributed-molap-database-for-fast-analytics/
-
-## presto
-
-1.2. Presto Concepts — Presto 0.241 Documentation
-https://prestodb.io/docs/current/overview/concepts.html
-
-# Grammarly
-
-Grammarly Engineering Blog
-https://www.grammarly.com/blog/engineering/category/front-end/
-
-Under the Hood at Grammarly: Leveraging Transformer Language Models for Grammatical Error Correction | Grammarly Engineering Blog
-https://www.grammarly.com/blog/engineering/under-the-hood-at-grammarly-leveraging-transformer-language-models-for-grammatical-error-correction/
-
-Under the Hood at Grammarly: Understanding Conversational Sequences with AI | Grammarly Engineering Blog
-https://www.grammarly.com/blog/engineering/understanding-conversational-sequences-with-ai/
-
-Building a Versatile Analytics Pipeline on Top of Apache Spark | Grammarly Engineering Blog
-https://www.grammarly.com/blog/engineering/building-a-versatile-analytics-pipeline-on-top-of-apache-spark/
-
-Building ETL Pipelines with Clojure and Transducers | Grammarly Engineering Blog
-https://www.grammarly.com/blog/engineering/building-etl-pipelines-with-clojure-and-transducers/
-
-# Graph databases
-
-What is the internal architecture of graph databases such as Titan or Neo4j? - Quora
-https://www.quora.com/What-is-the-internal-architecture-of-graph-databases-such-as-Titan-or-Neo4j
-
-Quora
-https://www.quora.com/?pa_story=MTI5MDI3ODU4MDc4MTE3NDY5N3wyMTExMDYyMzU0NTU4NjZ8MA**
-
-Graph Databases, published by O'Reilly Media
-https://graphdatabases.com/
-
-Graph Databases for Dummies Thanks - Neo4j Graph Database Platform
-https://neo4j.com/graph-databases-for-dummies-thanks/?aliId=eyJpIjoiaGkyb1FjZzlTS0ZGaVBZZyIsInQiOiJIcWJuTm44ODc4VG9FQ0ZkTlR4RE5BPT0ifQ%253D%253D
-
-# Scala
+# scala
 
 Speakers | Scale By the Bay
 https://www.scale.bythebay.io/speakers
 
-# Cache
+# snowflake
 
-Summary Cache: A Scalable Wide-Area Web Cache Sharing Protocol
-http://pages.cs.wisc.edu/~cao/papers/summary-cache/share.html
+snowflake sigmod - Google Search
+https://www.google.com/search?sxsrf=ALeKk012zZPHvrn2kVdHPNaZrVl-upLBgw%3A1599414421874&ei=lSBVX8brNIPM-gTZ07_4DQ&q=snowflake+sigmod&oq=snowflake+sigmod&gs_lcp=CgZwc3ktYWIQAzIHCAAQFBCHAjoECAAQRzoLCC4QxwEQrwEQkwI6BQgAELEDOgIIADoICAAQsQMQgwE6CAgAEBYQChAeOgYIABAWEB46BQghEKABOggILhDHARCvAVChZ1iCdmDSd2gCcAJ4AIABWogBsQWSAQE5mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiGituDi9XrAhUDpp4KHdnpD98Q4dUDCA0&uact=5
+
+Key Concepts & Architecture — Snowflake Documentation
+https://docs.snowflake.com/en/user-guide/intro-key-concepts.html
+# spanner
+
+Corbett: Spanner: Google’s globally distributed database - Google Scholar
+https://scholar.google.com/scholar?cites=3523173873845838643&as_sdt=2005&sciodt=0,5&hl=en&inst=5746887945952177237
+
+# sql
+Issues � cockroachdb/cockroach
+https://github.com/cockroachdb/cockroach/labels/good%20first%20issue
+
+# thread
+
+Multiprocessor Synchronization Class Homepage
+http://www.cs.tau.ac.il/~shanir/multiprocessor-synch-2003/
+
+# time series db
+Writing a Time Series Database from Scratch | Fabian Reinartz
+https://fabxc.org/tsdb/
+
+# vector clocks
+vector clocks with synchronization - Google Search
+https://www.google.com/search?q=vector+clocks+with+synchronization&rlz=1C1CHBF_enUS811US811&oq=vector+clocks+with+synchronization&aqs=chrome..69i57.16077j0j7&sourceid=chrome&ie=UTF-8
+
+Synchronization in a Distributed System | 8th Light
+https://8thlight.com/blog/rylan-dirksen/2013/10/04/synchronization-in-a-distributed-system.html#:~:text=Vector%20Clocks,-Independently%20developed%20by&text=Instead%20of%20each%20entity%20storing,nodes%20when%20it%20last%20synchronized.
+
+Synchronization between nodes in a distributed system forming a blockchain | by Cosmos Gaming Hub | Cosmos Gaming Hub | Medium
+https://medium.com/cosmosgaminghub/synchronization-609369558ce7
+
+Distributed Systems: Physical, Logical, and Vector Clocks | by Joe Honour | Level Up Coding
+https://levelup.gitconnected.com/distributed-systems-physical-logical-and-vector-clocks-7ca989f5f780
+

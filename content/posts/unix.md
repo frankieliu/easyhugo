@@ -27,6 +27,11 @@ https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remot
 Using SSHFS to Mount Remote Directories | Linode
 https://www.linode.com/docs/networking/ssh/using-sshfs-on-linux/
 
+sshfs umount - Google Search
+https://www.google.com/search?q=sshfs+umount&oq=sshfs+umount&aqs=chrome..69i57.3702j0j1&sourceid=chrome&ie=UTF-8
+
+Git- How to kill ssh-agent properly on Linux - Stack Overflow
+https://stackoverflow.com/questions/43137524/git-how-to-kill-ssh-agent-properly-on-linux
 # wget robot
 
 wget -e robots=off -r -np site 
@@ -47,3 +52,10 @@ https://unix.stackexchange.com/questions/32829/change-tab-size-of-cat-command
 
 Highly Voted Unanswered Questions - Unix & Linux Stack Exchange
 https://unix.stackexchange.com/unanswered
+
+# group
+
+newgrp
+
+shell - Reload a Linux user's group assignments without logging out - Super User
+https://superuser.com/questions/272061/reload-a-linux-users-group-assignments-without-logging-out

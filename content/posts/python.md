@@ -313,6 +313,11 @@ https://careerkarma.com/blog/python-delete-file/#:~:text=In%20Python%2C%20you%20
 python - How do I list all files of a directory? - Stack Overflow
 https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
 
+## readline
+
+file - What is the perfect counterpart in Python for "while not EOF" - Stack Overflow
+https://stackoverflow.com/questions/15599639/what-is-the-perfect-counterpart-in-python-for-while-not-eof
+
 # output
 
 ## pretty print

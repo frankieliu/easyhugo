@@ -197,6 +197,8 @@ https://vim.fandom.com/wiki/Folding
 Vim tips: Folding fun - Linux.com
 https://www.linux.com/training-tutorials/vim-tips-folding-fun/
 
+Is it possible to fold all sections at start time? · Issue #68 · hashivim/vim-terraform
+https://github.com/hashivim/vim-terraform/issues/68
 ## macro
 
 vim how to record a macro - Google Search

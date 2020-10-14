@@ -51,3 +51,12 @@ https://stackoverflow.com/questions/24203189/open-google-chrome-in-another-displ
 
 Google Chrome can not start under VNC (Ubuntu 18.04) - Ask Ubuntu
 https://askubuntu.com/questions/1048723/google-chrome-can-not-start-under-vnc-ubuntu-18-04
+
+# -localhost no
+
+VNC Server only listening for connections from localhost - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/398905/vnc-server-only-listening-for-connections-from-localhost
+
+VNC Server only listening for connections from localhost - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/398905/vnc-server-only-listening-for-connections-from-localhost
+

@@ -1,40 +1,4 @@
 
-Kindle Cloud Reader
-https://read.amazon.com/?asin=B08B3FWYBX
-
-Primer
-https://primer.ai/
-
-Primer Labs
-https://labs.primer.ai/experiments/ask/collection/21
-
-COVID-19 Primer
-https://covid19primer.com/dashboard
-
-Primer
-https://primer.ai/
-
-Primer | Machine-Generated Knowledge Bases
-https://primer.ai/blog/quicksilver
-
-Primer | Welcoming Tony Thomas and Dash Jamieson to Primer
-https://primer.ai/blog/welcoming-tony-thomas-and-dash-jamieson-to-primer/
-
-Primer | Developing the first AI Platform to Detect and Assess Disinformation
-https://primer.ai/blog/developing-the-first-ai-platform-to-detect-and-assess-disinformation/
-
-Primer | Introducing Primer Labs
-https://primer.ai/blog/introducing-primer-labs/
-
-Primer | Solving Arabic Name Transliteration
-https://primer.ai/blog/solving-arabic-name-transliteration/
-
-(638) Sean Gourley: "Building machines that read and write", North Star AI powered by Proekspert - YouTube
-https://www.youtube.com/watch?v=4ZhBmpuf6A8
-
-Sean Gourley (@sgourley) / Twitter
-https://twitter.com/sgourley
-
 My Drive - Google Drive
 https://drive.google.com/drive/u/0/my-drive
 

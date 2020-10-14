@@ -799,6 +799,13 @@ https://github.com/hashicorp
 HashiCorp Named #4 on the Forbes 2020 Cloud 100 List for the Second Year in a Row
 http://www.globenewswire.com/news-release/2020/09/16/2094670/0/en/HashiCorp-Named-4-on-the-Forbes-2020-Cloud-100-List-for-the-Second-Year-in-a-Row.html
 
+# palantir
+
+Tech: Palantir Technologies Deep Dive
+https://www.fool.com/investing/2020/10/07/tech-palantir-technologies-deep-dive/
+
+peter thiel palantier technology - Google Search
+https://www.google.com/search?q=peter+thiel+palantier+technology&oq=peter+thiel+palantier+technology&aqs=chrome..69i57.8807j0j1&sourceid=chrome&ie=UTF-8
 
 # pathrise
 
@@ -833,6 +840,12 @@ https://www.crunchbase.com/person/george-hoyem
 
 George Hoyem | LinkedIn
 https://www.linkedin.com/in/georgehoyem/
+
+(638) Sean Gourley: "Building machines that read and write", North Star AI powered by Proekspert - YouTube
+https://www.youtube.com/watch?v=4ZhBmpuf6A8
+
+Sean Gourley (@sgourley) / Twitter
+https://twitter.com/sgourley
 
 Primer | How Machine Learning Impacts National Security
 https://primer.ai/blog/how-machine-learning-impacts-national-security/
@@ -884,6 +897,9 @@ https://arxiv.org/abs/2002.09836
 
 Primer | Machine Readers Judging Machine Writers
 https://primer.ai/blog/machine-readers-judging-machine-writers/
+
+Jiang Bian | Management Science and Engineering
+https://msande.stanford.edu/people/jiang-bian
 
 # ray
 
