@@ -134,6 +134,34 @@ https://unix.stackexchange.com/questions/102211/rsync-ignore-owner-group-time-an
 How to mirror image files via command line? - Ask Ubuntu
 https://askubuntu.com/questions/1052899/how-to-mirror-image-files-via-command-line
 
+linux - RSync: How do I synchronize in both directions? - Stack Overflow
+https://stackoverflow.com/questions/1602324/rsync-how-do-i-synchronize-in-both-directions
+
+sh - Is it possible to sync multiple clients over a central server using just rsync and POSIX shell scripting? - Stack Overflow
+https://stackoverflow.com/questions/64120408/is-it-possible-to-sync-multiple-clients-over-a-central-server-using-just-rsync-a/64120409#64120409
+
+rclone sync
+https://rclone.org/commands/rclone_sync/
+
+synchronization - How can I set up a 2-way sync using rclone to transfer the files? - Software Recommendations Stack Exchange
+https://softwarerecs.stackexchange.com/questions/71863/how-can-i-set-up-a-2-way-sync-using-rclone-to-transfer-the-files
+
+synchronization - Syncing directories in both directions with rsync - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/12197/syncing-directories-in-both-directions-with-rsync
+
+How to use inotify and rsync to create a live backup system using only a while loop in a bash script – Linux Hint
+https://linuxhint.com/inotofy-rsync-bash-live-backups/
+
+rsync ignore owner, group, time, and perms - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/102211/rsync-ignore-owner-group-time-and-perms
+
+## noop
+
+:
+
+What command means "do nothing" in a conditional in Bash? - Stack Overflow
+https://stackoverflow.com/questions/17583578/what-command-means-do-nothing-in-a-conditional-in-bash
+
 # view
 
 ## tab in echo

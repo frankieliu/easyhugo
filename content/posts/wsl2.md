@@ -91,6 +91,8 @@ Does WSL support openGL? � Issue #2855 � microsoft/WSL
 https://github.com/microsoft/WSL/issues/2855
 
 
+vcxsrv help.txt
+https://gist.github.com/ctaggart/68ead4d0d942b240061086f4ba587f5f
 # ubuntu
 
 Detect ubuntu on wsl

@@ -64,3 +64,7 @@ https://www.poptox.com/make-a-call
 Make international calls with Google Voice - Google Voice Help
 https://support.google.com/voice/answer/7491761?hl=en
 
+# kidney
+
+What to eat (and what to avoid) during a UTI | Edward-Elmhurst Health
+https://www.eehealth.org/blog/2019/05/what-to-eat-during-a-uti/#:~:text=DO%20eat%20probiotics%20%E2%80%94%20plain%20Greek,They%20can%20irritate%20your%20bladder.

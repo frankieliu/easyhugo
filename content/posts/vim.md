@@ -12,14 +12,6 @@ Vim Kōans | Arabesque
 https://sanctum.geek.nz/arabesque/vim-koans/
 
 # Editing
-
-## follow links
-
-Ctrl-] : follow link
-Ctrl-T : previous topic
-Ctrl-O : older location
-Ctrl-I : newer location
-
 ## add files from file
 
 ```vim
@@ -29,20 +21,6 @@ Ctrl-I : newer location
 
 vim -- How to read range of lines from a file into current buffer - Stack Overflow
 https://stackoverflow.com/questions/240244/vim-how-to-read-range-of-lines-from-a-file-into-current-buffer
-
-## cmdline
-
-If you need to do a lot of editing in the command line, it is best to use 
-
-```vim
-q:
-```
-
-bash - In VIM, how do you delete to end of line while in command mode :? - Super User
-https://superuser.com/questions/846854/in-vim-how-do-you-delete-to-end-of-line-while-in-command-mode
-
-Vim documentation: cmdline
-http://vimdoc.sourceforge.net/htmldoc/cmdline.html
 
 ## ascii
 
@@ -74,6 +52,32 @@ Linux Tips: Fun With the Figlet And Toilet Commands - Linux.com
 https://www.linux.com/training-tutorials/linux-tips-fun-figlet-and-toilet-commands/
 
 
+## clipboard
+
+```vim
+"*p
+```
+
+Pasting a huge amount of text into vim is slow? - Stack Overflow
+https://stackoverflow.com/questions/18258561/pasting-a-huge-amount-of-text-into-vim-is-slow
+
+Difference between vim-gtk and vim-gnome - Ask Ubuntu
+https://askubuntu.com/questions/33260/difference-between-vim-gtk-and-vim-gnome
+
+virtual machine - How can I get vim yank to clipboard ("*y) working? - Stack Overflow
+https://stackoverflow.com/questions/40709985/how-can-i-get-vim-yank-to-clipboard-y-working
+
+How to copy to clipboard in Vim? - Stack Overflow
+https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim
+
+Vim - ArchWiki
+https://wiki.archlinux.org/index.php/Vim#Clipboard
+
+## closing buffer
+
+How do I close a single buffer (out of many) in Vim? - Stack Overflow
+https://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim
+
 ## closing panes
 
 ```vim
@@ -83,10 +87,19 @@ Ctrl-W O
 vim close all panes besides current one - Google Search
 https://www.google.com/search?q=vim+close+all+panes+besides+current+one&oq=vim+close+all+panes+besides+current+one&aqs=chrome..69i57.11285j0j7&sourceid=chrome&ie=UTF-8
 
-## tabs and buffers
+## cmdline
 
-editor - Using Vim's tabs like buffers - Stack Overflow
-https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
+If you need to do a lot of editing in the command line, it is best to use 
+
+```vim
+q:
+```
+
+bash - In VIM, how do you delete to end of line while in command mode :? - Super User
+https://superuser.com/questions/846854/in-vim-how-do-you-delete-to-end-of-line-while-in-command-mode
+
+Vim documentation: cmdline
+http://vimdoc.sourceforge.net/htmldoc/cmdline.html
 
 ## comment
 
@@ -95,6 +108,90 @@ https://stackoverflow.com/questions/2561418/how-to-comment-out-a-block-of-python
 
 What's a quick way to comment/uncomment lines in Vim? - Stack Overflow
 https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim/23063140#23063140
+## folding
+
+Creating your own syntax files | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Creating_your_own_syntax_files
+
+Syntax folding of Vim scripts | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Syntax_folding_of_Vim_scripts
+
+Vim Markdown Folding? - Stack Overflow
+https://stackoverflow.com/questions/3828606/vim-markdown-folding
+
+Folding | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Folding
+
+Vim tips: Folding fun - Linux.com
+https://www.linux.com/training-tutorials/vim-tips-folding-fun/
+
+Is it possible to fold all sections at start time? · Issue #68 · hashivim/vim-terraform
+https://github.com/hashivim/vim-terraform/issues/68
+Folding | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Folding
+## follow links
+
+Ctrl-] : follow link
+Ctrl-T : previous topic
+Ctrl-O : older location
+Ctrl-I : newer location
+
+## insert in command line
+
+vim CTRL_R CTRL_A - Google Search
+https://www.google.com/search?q=vim+CTRL_R+CTRL_A&rlz=1C1CHBF_enUS811US811&oq=vim+CTRL_R+CTRL_A&aqs=chrome..69i57.6313j0j7&sourceid=chrome&ie=UTF-8
+
+## macro
+
+vim how to record a macro - Google Search
+https://www.google.com/search?q=vim+how+to+record+a+macro&rlz=1C1CHBF_enUS811US811&oq=vim+how+to+record+a+macro&aqs=chrome..69i57.4996j0j7&sourceid=chrome&ie=UTF-8
+
+## open link/file
+
+netrw's "gx" functionality doesn't open URLs anymore in macOS · Issue #4738 · vim/vim
+https://github.com/vim/vim/issues/4738
+
+Vim - General - cygwin vim doesn't know app bindings to file exensions?
+http://vim.1045645.n5.nabble.com/cygwin-vim-doesn-t-know-app-bindings-to-file-exensions-td5723131.html
+
+Newest 'vim' Questions - Stack Overflow
+https://stackoverflow.com/questions/tagged/vim
+
+## panes
+
+How do I change the current split's width and height? - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/514/how-do-i-change-the-current-splits-width-and-height
+
+## registers
+
+@" is the unnamed register where a yank goes to
+
+Vim registers: The basics and beyond
+https://www.brianstorti.com/vim-registers/
+
+Vim registers: The basics and beyond
+https://www.brianstorti.com/vim-registers/
+## shell
+
+It defaults to executing in directory where you started vim.
+
+If you want it to follow the current buffer, then use
+
+```vim
+set autochdir
+```
+Executing a shell command in the parent directory - Vi and Vim Stack Exchange
+https://vi.stackexchange.com/questions/13612/executing-a-shell-command-in-the-parent-directory
+
+curl - Replace vim selection with output of shell command - Stack Overflow
+https://stackoverflow.com/questions/6932382/replace-vim-selection-with-output-of-shell-command
+
+how does vi mode work for bash - Google Search
+https://www.google.com/search?q=how+does+vi+mode+work+for+bash&rlz=1C1CHBF_enUS811US811&oq=how+does+vi+mode+work+for+bash&aqs=chrome..69i57.4967j0j7&sourceid=chrome&ie=UTF-8
+
+Vi mode in Bash | Arabesque
+https://sanctum.geek.nz/arabesque/vi-mode-in-bash/
+
 ## snippets
 
 frankieliu/vim-snippets: AsciiDoc, DocBook, Mallard, and RELAX NG snippets for Vim
@@ -127,41 +224,6 @@ https://stackoverflow.com/questions/19039443/vim-ultisnips-how-do-i-move-to-the-
 how to set filetyle vim - Google Search
 https://www.google.com/search?q=how+to+set+filetyle+vim&rlz=1C1CHBF_enUS811US811&oq=how+to+set+filetyle+vim&aqs=chrome..69i57.4057j0j7&sourceid=chrome&ie=UTF-8
 
-## panes
-
-How do I change the current split's width and height? - Vi and Vim Stack Exchange
-https://vi.stackexchange.com/questions/514/how-do-i-change-the-current-splits-width-and-height
-
-## clipboard
-
-```vim
-"*p
-```
-
-Pasting a huge amount of text into vim is slow? - Stack Overflow
-https://stackoverflow.com/questions/18258561/pasting-a-huge-amount-of-text-into-vim-is-slow
-
-Difference between vim-gtk and vim-gnome - Ask Ubuntu
-https://askubuntu.com/questions/33260/difference-between-vim-gtk-and-vim-gnome
-
-virtual machine - How can I get vim yank to clipboard ("*y) working? - Stack Overflow
-https://stackoverflow.com/questions/40709985/how-can-i-get-vim-yank-to-clipboard-y-working
-
-How to copy to clipboard in Vim? - Stack Overflow
-https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim
-
-Vim - ArchWiki
-https://wiki.archlinux.org/index.php/Vim#Clipboard
-
-## registers
-
-@" is the unnamed register where a yank goes to
-
-Vim registers: The basics and beyond
-https://www.brianstorti.com/vim-registers/
-
-Vim registers: The basics and beyond
-https://www.brianstorti.com/vim-registers/
 ## stay in visual mode
 
 Vim: how to stay in visual mode after executing a command - Stack Overflow
@@ -180,73 +242,10 @@ https://vi.stackexchange.com/questions/5750/is-there-a-way-to-reselect-the-last-
 vim what does 1v do? - Google Search
 https://www.google.com/search?q=vim+what+does+1v+do%3F&rlz=1C1CHBF_enUS811US811&oq=vim+what+does+1v+do%3F&aqs=chrome..69i57.4371j0j7&sourceid=chrome&ie=UTF-8
 
-## folding
+## tabs and buffers
 
-Creating your own syntax files | Vim Tips Wiki | Fandom
-https://vim.fandom.com/wiki/Creating_your_own_syntax_files
-
-Syntax folding of Vim scripts | Vim Tips Wiki | Fandom
-https://vim.fandom.com/wiki/Syntax_folding_of_Vim_scripts
-
-Vim Markdown Folding? - Stack Overflow
-https://stackoverflow.com/questions/3828606/vim-markdown-folding
-
-Folding | Vim Tips Wiki | Fandom
-https://vim.fandom.com/wiki/Folding
-
-Vim tips: Folding fun - Linux.com
-https://www.linux.com/training-tutorials/vim-tips-folding-fun/
-
-Is it possible to fold all sections at start time? · Issue #68 · hashivim/vim-terraform
-https://github.com/hashivim/vim-terraform/issues/68
-## macro
-
-vim how to record a macro - Google Search
-https://www.google.com/search?q=vim+how+to+record+a+macro&rlz=1C1CHBF_enUS811US811&oq=vim+how+to+record+a+macro&aqs=chrome..69i57.4996j0j7&sourceid=chrome&ie=UTF-8
-
-## shell
-
-It defaults to executing in directory where you started vim.
-
-If you want it to follow the current buffer, then use
-
-```vim
-set autochdir
-```
-Executing a shell command in the parent directory - Vi and Vim Stack Exchange
-https://vi.stackexchange.com/questions/13612/executing-a-shell-command-in-the-parent-directory
-
-curl - Replace vim selection with output of shell command - Stack Overflow
-https://stackoverflow.com/questions/6932382/replace-vim-selection-with-output-of-shell-command
-
-how does vi mode work for bash - Google Search
-https://www.google.com/search?q=how+does+vi+mode+work+for+bash&rlz=1C1CHBF_enUS811US811&oq=how+does+vi+mode+work+for+bash&aqs=chrome..69i57.4967j0j7&sourceid=chrome&ie=UTF-8
-
-Vi mode in Bash | Arabesque
-https://sanctum.geek.nz/arabesque/vi-mode-in-bash/
-
-## open link/file
-
-netrw's "gx" functionality doesn't open URLs anymore in macOS · Issue #4738 · vim/vim
-https://github.com/vim/vim/issues/4738
-
-Vim - General - cygwin vim doesn't know app bindings to file exensions?
-http://vim.1045645.n5.nabble.com/cygwin-vim-doesn-t-know-app-bindings-to-file-exensions-td5723131.html
-
-Newest 'vim' Questions - Stack Overflow
-https://stackoverflow.com/questions/tagged/vim
-
-## insert in command line
-
-vim CTRL_R CTRL_A - Google Search
-https://www.google.com/search?q=vim+CTRL_R+CTRL_A&rlz=1C1CHBF_enUS811US811&oq=vim+CTRL_R+CTRL_A&aqs=chrome..69i57.6313j0j7&sourceid=chrome&ie=UTF-8
-
-## vim script
-About | Arabesque
-https://sanctum.geek.nz/arabesque/about/
-
-(1) Tom Ryder | LinkedIn
-https://www.linkedin.com/in/tom-ryder-tejrnz/
+editor - Using Vim's tabs like buffers - Stack Overflow
+https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
 
 ## uppercase
 
@@ -264,7 +263,19 @@ g~ ~  : Invert case to entire line
 g~w  : Invert case to current WORD
 guG : Change to lowercase until the end of document.
 
+
+## vim script
+About | Arabesque
+https://sanctum.geek.nz/arabesque/about/
+
+(1) Tom Ryder | LinkedIn
+https://www.linkedin.com/in/tom-ryder-tejrnz/
+
 # Modes
+## buffer
+
+Vim: Changing Buffer Numbers - Stack Overflow
+https://stackoverflow.com/questions/4545294/vim-changing-buffer-numbers
 
 ## syntax highlight
 

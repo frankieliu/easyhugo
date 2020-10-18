@@ -6,6 +6,8 @@ date = "2020-09-07T12:59:24-07:00"
 draft = false
 +++
 
+# books
+
 # kaggle
 
 Learn Intro to Deep Learning Tutorials | Kaggle

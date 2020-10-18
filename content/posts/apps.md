@@ -151,3 +151,10 @@ http://jwilk.net/software/ocrodjvu
 Ubuntu Manpage: ocrodjvu - OCR for DjVu files
 http://manpages.ubuntu.com/manpages/bionic/man1/ocrodjvu.1.html
 
+# imagemagick
+
+How to install ImageMagick 7 on Ubuntu 18.04 Linux - LinuxConfig.org
+https://linuxconfig.org/how-to-install-imagemagick-7-on-ubuntu-18-04-linux
+
+How to Install ImageMagick on Ubuntu & LinuxMint
+https://tecadmin.net/install-imagemagick-on-linux/

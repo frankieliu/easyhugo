@@ -46,6 +46,8 @@ https://gist.github.com/mistic100/895f6d17b1e193334882a4c37d0d7748
 Vimeo downloader
 https://gist.githubusercontent.com/mistic100/895f6d17b1e193334882a4c37d0d7748/raw/1957dd9a31404727bb45e68bf104739f363dfad8/vimeo-downloader.js
 
+vimeo-download/vimeo-download.py at master · eMBee/vimeo-download
+https://github.com/eMBee/vimeo-download/blob/master/vimeo-download.py
 # breaking videos at mpeg frames
 
 How to split a video using FFMPEG so that each chunk starts with a key frame? - Stack Overflow

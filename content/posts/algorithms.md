@@ -57,6 +57,15 @@ https://www.chessprogramming.org/Parallel_Prefix_Algorithms
 Chessprogramming wiki
 https://www.chessprogramming.org/Main_Page
 
+(3) GreyCode to decimal C++ Math solution - LeetCode Discuss
+https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/discuss/877809/GreyCode-to-decimal-C%2B%2B-Math-solution
+
+A006068 - OEIS
+https://oeis.org/A006068
+
+User:Peter Munn - OeisWiki
+https://oeis.org/wiki/User:Peter_Munn
+
 ## discrete
 
 rosen discrete math solutions manual - Google Search
@@ -81,16 +90,29 @@ https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html
 Graham scan - Wikipedia
 https://en.wikipedia.org/wiki/Graham_scan
 
-
 discrete mathematics - Bounds on rate $r$ for finishing $n$ jobs: $[w_1,w_2,\cdots, w_n]$ to be completed by time $H$ - Mathematics Stack Exchange
 https://math.stackexchange.com/questions/3814331/bounds-on-rate-r-for-finishing-n-jobs-w-1-w-2-cdots-w-n-to-be-complet
 
+
+Convex Hull construction using Graham's Scan - Competitive Programming Algorithms
+https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html
 
 ## primes
 ### sieve
 
 Sieve of Eratosthenes - Wikipedia
 https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#:~:text=In%20mathematics%2C%20the%20sieve%20of,up%20to%20any%20given%20limit.&text=The%20multiples%20of%20a%20given,is%20equal%20to%20that%20prime.
+
+## linear programming
+
+linear programming - Intuition behind assigning rows or columns of zeros to solve an Unbalanced Assignment Problem - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/2468030/intuition-behind-assigning-rows-or-columns-of-zeros-to-solve-an-unbalanced-assig
+
+NPTEL :: Mathematics - Linear Programming Problems
+https://nptel.ac.in/courses/111/102/111102012/
+
+linear programming - Balancing an Unbalanced Assignment problem using optimization techniques - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/2353890/balancing-an-unbalanced-assignment-problem-using-optimization-techniques
 
 # puzzles
 
@@ -403,6 +425,7 @@ https://nptel.ac.in/courses/111/102/111102012/
 linear programming - Balancing an Unbalanced Assignment problem using optimization techniques - Mathematics Stack Exchange
 https://math.stackexchange.com/questions/2353890/balancing-an-unbalanced-assignment-problem-using-optimization-techniques
 
+
 ## Hamiltonian
 
 Algorithms to find the number of Hamiltonian paths in a graph - Stack Overflow
@@ -482,6 +505,7 @@ https://stackoverflow.com/questions/5333161/algorithms-to-find-the-number-of-ham
 Dijkstra's algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
 
+
 # sorting
 
 c# - Bubble sort worst case example is O(n*n), how? - Stack Overflow
@@ -513,6 +537,7 @@ https://cp-algorithms.com/dynamic_programming/profile-dynamics.html
 
 Broken profile dynamic programming
 https://coderevilbuggy.blogspot.com/2018/05/broken-profile-dynamic-programming.html
+
 
 # hash
 

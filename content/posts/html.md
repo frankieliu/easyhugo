@@ -43,6 +43,24 @@ https://fontawesome.com/how-to-use/javascript-api/setup/importing-icons
 Brand Icons | Font Awesome
 https://fontawesome.com/icons?s=brands
 
+Font Awesome, the iconic font and CSS toolkit
+https://fontawesome.com/v4.7.0/
+
+Start Confirmation | Font Awesome
+https://fontawesome.com/start/confirm
+
+Missing fontawesome icon support · Issue #830 · mermaid-js/mermaid
+https://github.com/mermaid-js/mermaid/issues/830
+
+Font Awesome Icons
+https://fontawesome.com/v4.7.0/icons/
+
+Sizing Icons | Font Awesome
+https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons
+
+Font Awesome · Issue #256 · mermaid-js/mermaid
+https://github.com/mermaid-js/mermaid/issues/256
+
 # css
 
 CSS Golf

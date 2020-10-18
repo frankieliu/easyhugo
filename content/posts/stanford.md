@@ -261,6 +261,11 @@ https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec3494d5-
 Summer 2020 - Machine Learning : Panopto
 https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2254125344-3c0e-4218-83b4-abdb013aaa19%22
 
+# cs 224N
+
+Stanford CS 224N | Natural Language Processing with Deep Learning
+http://web.stanford.edu/class/cs224n/
+
 # explore courses
 Stanford University Explore Courses
 https://explorecourses.stanford.edu/search?q=CS&view=catalog&academicYear=&filter-term-Autumn=on&filter-departmentcode-CS=on&page=2&filter-coursestatus-Active=on&collapse=

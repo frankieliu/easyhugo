@@ -54,6 +54,11 @@ https://userleap.com/company.html
 SWE Referral Request Form
 https://docs.google.com/forms/d/e/1FAIpQLSd72eW8gFPIq7HxfCNMyJeMQfFXLV5SAwOqXU8kF_6LmWOylQ/viewform
 
+# defer offer
+
+How to Tactfully Stall a Job Offer
+https://www.ziprecruiter.com/blog/how-to-stall-a-job-offer/
+
 # blind
 
 Most embarrassing responses to technical interview questions - Blind
@@ -729,6 +734,136 @@ https://www.confluent.io/careers/#open-positions
 Confluent - Engineering Manager, Stream Processing
 https://jobs.lever.co/confluent/500bbeca-5fe2-4f11-8f46-f3d9ee61a934
 
+# databricks
+
+Qasim Mithani | LinkedIn
+https://www.linkedin.com/in/qmithani/
+
+Applying Convolutional Neural Networks with TensorFlow - Databricks
+https://pages.databricks.com/rs/094-YMS-629/images/Applying-Convolutional-Neural-Networks-with-TensorFlow.html?_ga=2.34373474.215704741.1602728998-496392109.1602602747
+
+Webinar - Run modern data engineering in the cloud with Databricks and Talend
+https://pages.databricks.com/webinar-modern-data-engineering-databricks-talend.html?utm_medium=web&utm_source=resources&_ga=2.34373474.215704741.1602728998-496392109.1602602747
+
+Using Deep Learning in Production Pipelines to Predict Consumers’ Interest - Databricks
+https://databricks.com/session/using-deep-learning-in-production-pipelines-to-predict-consumers-interest
+
+Geospatial Analytics at Scale with Deep Learning and Apache Spark SAIS EU - Databricks
+https://databricks.com/session/geospatial-analytics-at-scale-with-deep-learning-and-apache-spark
+
+A Tale of Three Deep Learning Frameworks: TensorFlow, Keras, & PyTorch - Databricks
+https://databricks.com/session/a-tale-of-three-deep-learning-frameworks-tensorflow-keras-pytorch
+
+Project Hydrogen: Unifying State-of-the-Art AI and Big Data in Apache Spark - Databricks
+https://databricks.com/session/project-hydrogen-unifying-state-of-the-art-ai-and-big-data-in-apache-spark
+
+Unifying State-of-the-Art AI and Big Data in Apache Spark - Databricks
+https://databricks.com/session/keynote-from-reynold-xin
+
+Webinar: Improving Patient Outcomes with Big Data & AI
+https://pages.databricks.com/201901-StepsToDeepLearning.html?_ga=2.264280140.215704741.1602728998-496392109.1602602747
+
+Databricks
+https://pages.databricks.com/201812-US-WB-AcceleratingML-Databricks.html?utm_source=KDNuggets&utm_medium=Email&utm_campaign=701610000008nyhAAA&_ga=2.264280140.215704741.1602728998-496392109.1602602747
+
+‪Matei Zaharia‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?hl=en&user=I1EvjZsAAAAJ&view_op=list_works&sortby=pubdate
+
+Spark: The Definitive Guide: Big Data Processing Made Simple - PDF Drive
+https://www.pdfdrive.com/spark-the-definitive-guide-big-data-processing-made-simple-d184791342.html
+
+Spark + AI Summit - Databricks
+https://databricks.com/sparkaisummit
+
+Resources – Databricks
+https://databricks.com/resources?_sft_resource_type=research-papers
+
+A Practical Guide to Analytics and AI in the Cloud with Legacy Data - Databricks
+https://databricks.com/p/ebook/a-practical-guide-to-analytics-and-ai-in-the-cloud-with-legacy-data
+
+Modern Cloud Data Architecture - Databricks
+https://databricks.com/p/webinar/migrating-big-data-systems-to-the-cloud
+
+The Big Book of Data Science Use Cases | Databricks
+https://databricks.com/p/ebook/the-big-book-of-data-science-use-cases
+
+Automate Data Ingestion Pipelines for Analytics and AI - Databricks
+https://databricks.com/p/webinar/punchh-drives-ai-powered-customer-loyalty-with-databricks-and-fivetran
+
+Using SQL to Query Your Data Lake With Delta Lake - APAC - Databricks
+https://databricks.com/p/webinar/using-sql-to-query-your-data-lake-with-delta-lake-apac
+
+Detecting Financial Fraud at Scale with Decision Trees and MLflow on Databricks
+https://databricks.com/p/ebook/detecting-financial-fraud-decision-trees-ml
+
+Data Engineer Spark Guide - Databricks
+https://databricks.com/p/ebook/data-engineer-spark-guide
+
+Succeeding with a Modern Cloud Data Architecture - Databricks
+https://databricks.com/p/webinar/succeeding-with-a-modern-cloud-data-architecture
+
+Unified Data Analytics Webinar - Simplifying Streaming Analytics with Delta Lake and Spark - Databricks
+https://databricks.com/p/webinar/uda-streaming-analytics
+
+A preview of upcoming Apache Spark™ 3.0 Launch - Databricks
+https://databricks.com/p/webinar/apache-spark-3-0
+
+The Democratization of Artificial Intelligence and Deep Learning - Databricks
+https://databricks.com/p/ebook/the-democratization-of-artificial-intelligence-and-deep-learning
+
+Upgrading Apache Spark Data Reliability with Delta Lake
+https://databricks.com/p/ebook/upgrading-apache-spark-data-reliability-with-delta-lake
+
+Manage Big Data Pipelines in the Cloud with Databricks and StreamSets
+https://pages.databricks.com/201911-WB-Manage-Big-Data-Pipelines-DB-StreamSets_03.On-demandpage.html?_ga=2.122393288.215704741.1602728998-496392109.1602602747
+
+O’Reilly Learning Spark Second Edition | Databricks
+https://databricks.com/p/ebook/learning-spark-from-oreilly
+
+The Data Engineer's Guide to Apache Spark™ and Delta Lake - Databricks
+https://databricks.com/p/ebook/the-data-engineers-guide-to-apache-spark-and-delta-lake
+
+eBook: Mining Your Data Lake for Analytics Insights
+https://pages.databricks.com/201910-EB-AWS-Mining-Data-Lake-Analytics-Insights.html?_ga=2.163681404.215704741.1602728998-496392109.1602602747
+
+Scaling Financial Time Series Analysis Beyond PCs and Pandas
+https://pages.databricks.com/201910-US-WB-FS-Time-Series-Analysis_03.On-demandpage.html
+
+Delta Architecture, a step beyond Lambda Architecture
+https://pages.databricks.com/201908-WB-Delta-Architecture-A-Step-Beyond-Lambda-Architecture_Reg.html?_ga=2.163681404.215704741.1602728998-496392109.1602602747
+
+Simplify Distributed TensorFlow Training for Fast Image Categorization at Starbucks - Databricks
+https://databricks.com/session/simplify-distributed-tensorflow-training-for-fast-image-categorization-at-starbucks
+
+Webinar: Automated Hyperparameter Tuning, Scaling and Tracking on Databricks
+https://pages.databricks.com/201906-WB-AutomatedHyperparameterTuning_Reg.html?_ga=2.196776047.215704741.1602728998-496392109.1602602747
+
+Detecting Financial Fraud at Scale with Decision Trees and MLflow on Databricks - The Databricks Blog
+https://databricks.com/blog/2019/05/02/detecting-financial-fraud-at-scale-with-decision-trees-and-mlflow-on-databricks.html
+
+Understanding Dynamic Time Warping - The Databricks Blog
+https://databricks.com/blog/2019/04/30/understanding-dynamic-time-warping.html
+
+Using Dynamic Time Warping and MLflow to Detect Sales Trends - The Databricks Blog
+https://databricks.com/blog/2019/04/30/using-dynamic-time-warping-and-mlflow-to-detect-sales-trends.html
+
+Accelerating the Machine Learning Lifecycle with MLflow 1.0 - Databricks
+https://databricks.com/session/accelerating-the-machine-learning-lifecycle-with-mlflow-1-0
+
+How to Utilize MLflow and Kubernetes to Build an Enterprise ML Platform - Databricks
+https://databricks.com/session/how-to-utilize-mlflow-and-kubernetes-to-build-an-enterprise-ml-platform
+
+Webinar: Ask the Experts MLFlow
+https://pages.databricks.com/MLflow-ask-experts.html?_ga=2.34373474.215704741.1602728998-496392109.1602602747
+
+Latent Semantic Analysis with Apache Spark (5/5) - YouTube
+https://www.youtube.com/watch?v=OXJdfpEFmF8&feature=youtu.be
+
+A Trivial Implementation of LSA using Scikit Learn (2/5) - YouTube
+https://www.youtube.com/watch?v=Fy0bF7u6W20&feature=youtu.be
+
+Introduction to Latent Semantic Analysis (1/5) - YouTube
+https://www.youtube.com/watch?v=hB51kkus-Rc&feature=youtu.be
 # dascena
 
 Dascena: Overview | LinkedIn
@@ -900,6 +1035,27 @@ https://primer.ai/blog/machine-readers-judging-machine-writers/
 
 Jiang Bian | Management Science and Engineering
 https://msande.stanford.edu/people/jiang-bian
+
+Emmanuel R. Yera | LinkedIn
+https://www.linkedin.com/in/emmanuel-r-yera-245a3934/
+
+A fight is brewing between two machine intelligence startups, and neither side looks all that smart | TechCrunch
+https://techcrunch.com/2019/04/10/a-fight-is-in-progress-between-two-machine-intelligence-companies-and-neither-side-looks-all-that-smart/
+
+Court activity on May 17: Quid Inc. vs Amy Heineike | Northern California Record
+https://norcalrecord.com/stories/512620210-court-activity-on-may-17-quid-inc-vs-amy-heineike
+
+Dismissal Without Prejudice Of 1st Amended Complaint - Google Search
+https://www.google.com/search?q=Dismissal+Without+Prejudice+Of+1st+Amended+Complaint&oq=Dismissal+Without+Prejudice+Of+1st+Amended+Complaint&aqs=chrome..69i57.1158j0j7&sourceid=chrome&ie=UTF-8
+
+Emmanuel R. Yera (@EmmanuelYera) / Twitter
+https://twitter.com/emmanuelyera?lang=en
+
+Primer Labs
+https://labs.primer.ai/
+
+Primer | Press
+https://primer.ai/press/
 
 # ray
 

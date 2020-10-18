@@ -33,6 +33,25 @@ https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/155
 distributed algorithms: free download. Ebooks library. On-line books store on Z-Library
 https://bookos-z1.org/s/distributed%20algorithms
 
+# algoexpert
+
+Design Fundamentals | SystemsExpert
+https://www.algoexpert.io/systems/fundamentals
+
+Design Fundamentals | SystemsExpert
+https://www.algoexpert.io/systems/fundamentals
+
+Scaler by InterviewBit: Where talent scales, together
+https://www.scaler.com/
+
+Low Level Design: Designing BookMyShow | Scaler
+https://www.scaler.com/event/low-level-design-designing-bookmyshow?rcy=1&rce=67c1ffdbee4d/
+
+# architecture
+
+The Architecture of Open Source Applications
+https://www.aosabook.org/en/index.html
+
 # guide to crack system interview
 
 The complete guide to crack the System Design interview | by Harshith | Towards Data Science
@@ -65,30 +84,43 @@ https://hackernoon.com/top-10-system-design-interview-questions-for-software-eng
 System Design Interview Questions
 http://blog.gainlo.co/index.php/category/system-design-interview-questions/
 
-# Tanenbaum
-
-Distributed Systems: 9781543057386: Computer Science Books @ Amazon.com
-https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/ref=sr_1_3?dchild=1&qid=1600623223&refinements=p_27%3AAndrew+S+Tanenbaum&s=books&sr=1-3&text=Andrew+S+Tanenbaum
-
-# algoexpert
-
-Design Fundamentals | SystemsExpert
-https://www.algoexpert.io/systems/fundamentals
-
-Design Fundamentals | SystemsExpert
-https://www.algoexpert.io/systems/fundamentals
-
-Scaler by InterviewBit: Where talent scales, together
-https://www.scaler.com/
-
-Low Level Design: Designing BookMyShow | Scaler
-https://www.scaler.com/event/low-level-design-designing-bookmyshow?rcy=1&rce=67c1ffdbee4d/
-
 # latencies
 
 Latency Numbers Every Programmer Should Know
 https://gist.github.com/jboner/2841832
 
+# microservice patterns
+
+Breaking down the hype: Promises and Pitfalls of Event Driven Architecture | Zocdoc
+https://www.zocdoc.com/about/blog/tech/event-driven-architecture/
+
+domain driven design - DDD, Saga & Event-sourcing: Can a Compensate Action simply be a delete on the event store? - Software Engineering Stack Exchange
+https://softwareengineering.stackexchange.com/questions/157323/ddd-saga-event-sourcing-can-a-compensate-action-simply-be-a-delete-on-the-ev
+
+Microservices Communication – Part 5 – Event Sourcing, CQRS and Sagas – One curious mind
+http://www.shantala.io/microservices-event-sourcing-cqrs-and-sagas/
+
+Domain Event pattern · Microservices Architecture
+https://badia-kharroubi.gitbooks.io/microservices-architecture/content/patterns/tactical-patterns/domain-event-pattern.html
+
+All You Need to Know About Microservices Database Management
+https://relevant.software/blog/microservices-database-management/
+
+Applying Martin Fowler’s Saga on AWS | by Enrico Balsamo | Medium
+https://medium.com/@balsick/applying-martin-fowlers-saga-on-aws-68c3db3bfb87
+
+What do you mean by “Event-Driven”?
+https://martinfowler.com/articles/201701-event-driven.html
+
+martinfowler.com
+https://martinfowler.com/
+
+# Tanenbaum
+
+Distributed Systems: 9781543057386: Computer Science Books @ Amazon.com
+https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/ref=sr_1_3?dchild=1&qid=1600623223&refinements=p_27%3AAndrew+S+Tanenbaum&s=books&sr=1-3&text=Andrew+S+Tanenbaum
+
+# -----------
 # aurora
 
 aurora db paper - Google Search
@@ -108,6 +140,13 @@ http://pages.cs.wisc.edu/~cao/papers/summary-cache/share.html
 cassandra book - Google Search
 https://www.google.com/search?q=cassandra+book&oq=cassandra+book&aqs=chrome..69i57j69i60.3607j0j7&sourceid=chrome&ie=UTF-8
 
+# chubby
+
+The Chubby lock service for loosely-coupled distributed systems – Google Research
+https://research.google/pubs/pub27897/
+
+Burrows: The Chubby lock service for loosely-coupled... - Google Scholar
+https://scholar.google.com/scholar?as_sdt=2005&cites=14281901705280588674&hl=en&inst=5746887945952177237&sciodt=0%2C5
 # cockroach
 CockroachDB in Comparison | CockroachDB Docs
 https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html
@@ -293,6 +332,11 @@ https://graphdatabases.com/
 Graph Databases for Dummies Thanks - Neo4j Graph Database Platform
 https://neo4j.com/graph-databases-for-dummies-thanks/?aliId=eyJpIjoiaGkyb1FjZzlTS0ZGaVBZZyIsInQiOiJIcWJuTm44ODc4VG9FQ0ZkTlR4RE5BPT0ifQ%253D%253D
 
+# information retrieval
+
+Introduction to Information Retrieval
+https://nlp.stanford.edu/IR-book/
+
 # kafka
 
 Last chance to register for the Confluent ksqlDB Workshop on September 17, 2020 - frankie.y.liu@gmail.com - Gmail
@@ -322,6 +366,19 @@ http://fliu.west2020.gcp.confluent-demo.io/
 Workshop: Real-time Stream Processing with KSQL
 http://fliu.west2020.gcp.confluent-demo.io/
 
+# load balancer
+
+architecture of a software load balancer - Google Search
+https://www.google.com/search?q=architecture+of+a+software+load+balancer&oq=architecture+of+a+software+load+balancer&aqs=chrome..69i57.9574j0j7&sourceid=chrome&ie=UTF-8
+
+Load Balancing
+http://tutorials.jenkov.com/software-architecture/load-balancing.html
+
+Software Load Balancers: 5 Key Capabilities -
+https://www.stratoscale.com/blog/cloud/software-load-balancers-5-key-capabilities/
+
+Pull requests · nginx/nginx
+https://github.com/nginx/nginx/pulls?q=load+balance
 # lucene
 
 lucene search - Google Scholar
@@ -482,6 +539,15 @@ http://software.schmorp.de/pkg/libev.html
 
 Nginx Internals
 https://www.slideshare.net/joshzhu/nginx-internals
+Thank You Ebook Download - NGINX
+https://www.nginx.com/thank-you-ebook-download/
+
+The Architecture of Open Source Applications (Volume 2): nginx
+https://www.aosabook.org/en/nginx.html
+
+Inside NGINX Infographic | NGINX
+https://www.nginx.com/resources/library/infographic-inside-nginx/
+
 # pinot
 
 Introducing Apache Pinot 0.3.0 | LinkedIn Engineering
@@ -494,6 +560,14 @@ https://github.com/donnemartin/system-design-primer
 
 system-design-primer/MzExP06.png at master · donnemartin/system-design-primer
 https://github.com/donnemartin/system-design-primer/blob/master/images/MzExP06.png
+
+# quad tree
+
+(8) Construct Quad Tree - LeetCode
+https://leetcode.com/problems/construct-quad-tree/
+
+kd tree - Google Search
+https://www.google.com/search?q=kd+tree&oq=kd+tree&aqs=chrome..69i57.1231j0j1&sourceid=chrome&ie=UTF-8
 
 # rate limit
 
@@ -508,10 +582,30 @@ https://en.wikipedia.org/wiki/Rate_limiting
 What is a Reverse Proxy vs. Load Balancer? - NGINX
 https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/#:~:text=A%20reverse%20proxy%20accepts%20a,server%20to%20the%20appropriate%20client.
 
+Writing a reverse proxy/loadbalancer from the ground up in C, part 0: introduction | GilesThomas.com
+http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/
+
+scratch | Search Results | GilesThomas.com
+http://www.gilesthomas.com/?s=scratch
+
 # scala
 
 Speakers | Scale By the Bay
 https://www.scale.bythebay.io/speakers
+
+# skip list
+
+Skip Lists Done Right | Hacker News
+https://news.ycombinator.com/item?id=13210687
+
+skiplist not disk friendly - Google Search
+https://www.google.com/search?q=skiplist+not+disk+friendly&sxsrf=ALeKk03V8z4tMScYp4kzYR8QAYtPcTvLUA:1602307468251&ei=jEWBX5bqDpXz-gSMx7CQAw&start=10&sa=N&ved=2ahUKEwiW4Ny7pKnsAhWVuZ4KHYwjDDIQ8NMDegQIDBBC&biw=1349&bih=705
+
+data structures - Why are skip lists not preferred over B+-trees for databases? - Stack Overflow
+https://stackoverflow.com/questions/21828834/why-are-skip-lists-not-preferred-over-b-trees-for-databases
+
+[LUCENE-866] Multi-level skipping on posting lists - ASF JIRA
+https://issues.apache.org/jira/browse/LUCENE-866
 
 # snowflake
 
@@ -537,6 +631,11 @@ http://www.cs.tau.ac.il/~shanir/multiprocessor-synch-2003/
 # time series db
 Writing a Time Series Database from Scratch | Fabian Reinartz
 https://fabxc.org/tsdb/
+
+# url shortner
+
+Designing a URL Shortening service like TinyURL - Grokking the System Design Interview
+https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
 
 # vector clocks
 vector clocks with synchronization - Google Search

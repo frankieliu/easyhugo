@@ -33,10 +33,27 @@ https://stackoverflow.com/questions/49491452/map-an-array-by-every-two-elements
 Array.prototype.find() - JavaScript | MDN
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
 
+# compiler
+
+Getting Started with the UI  |  Closure Compiler  |  Google Developers
+https://developers.google.com/closure/compiler/docs/gettingstarted_ui
+
+Getting Started with the Closure Compiler Application
+https://developers.google.com/closure/compiler/docs/gettingstarted_app
+
+Maven Repository: com.google.javascript » closure-compiler » v20200927
+https://mvnrepository.com/artifact/com.google.javascript/closure-compiler/v20200927
+
+# source map
+
+Introduction to JavaScript Source Maps - HTML5 Rocks
+https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/
+
 # visual code
 
 Build Node.js Apps with Visual Studio Code
 https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
+
 
 # node npm
 

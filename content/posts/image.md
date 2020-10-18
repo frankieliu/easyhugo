@@ -12,8 +12,12 @@ https://docs.google.com/spreadsheets/d/1enbm7h1gC9JeQpmCxvR2cnOZaz5cZtlmctXquPi_
 # imagemagick
 
 ## -flip
+
 Warping -- IM v6 Examples
 http://www.imagemagick.org/Usage/warping/#flip
+
+How to mirror image files via command line? - Ask Ubuntu
+https://askubuntu.com/questions/1052899/how-to-mirror-image-files-via-command-line
 
 ## installation
 
@@ -31,6 +35,7 @@ https://tecadmin.net/install-imagemagick-on-linux/
 
 Color Modifications -- IM v6 Examples
 https://legacy.imagemagick.org/Usage/color_mods/
+
 
 # floorplan
 

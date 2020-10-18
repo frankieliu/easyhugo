@@ -66,6 +66,11 @@ https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submod
 How do I move an existing Git submodule within a Git repository? - Stack Overflow
 https://stackoverflow.com/questions/4604486/how-do-i-move-an-existing-git-submodule-within-a-git-repository/24767348#24767348
 
+## update submodule
+
+How to update a submodule version to latest ? by manobi · Pull Request #80 · tj/git-extras
+https://github.com/tj/git-extras/pull/80
+
 
 # downloading individual files
 git - Download single files from GitHub - Stack Overflow
